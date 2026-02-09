@@ -1,0 +1,9 @@
+{
+  "name": "lenny-podcast-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lenny's Podcast episode tracker - auto-updates via GitHub Actions",
+  "scripts": {
+    "fetch": "node scripts/fetch-episodes.js"
+  }
+}

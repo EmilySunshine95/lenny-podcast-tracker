@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lenny's Podcast Tracker</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #0f0f0f;
+      color: #e8e8e8;
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 40px 24px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    header h1 {
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+
+    header .subtitle {
+      font-size: 14px;
+      color: #888;
+    }
+
+    .meta-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 32px;
+      padding: 12px 16px;
+      background: #1a1a1a;
+      border-radius: 10px;
+      font-size: 13px;
+      color: #888;
+    }
+
+    .meta-bar .auto-note {
+      font-size: 12px;
+      color: #555;
+    }
+
+    .episodes {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .episode-card {
+      background: #1a1a1a;
+      border: 1px solid #252525;
+      border-radius: 12px;
+      padding: 24px;
+      transition: all 0.2s;
+      cursor: default;
+    }
+
+    .episode-card:hover {
+      border-color: #404040;
+      background: #1e1e1e;
+    }
+
+    .episode-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 12px;
+    }
+
+    .episode-title {
+      font-size: 17px;
+      font-weight: 600;
+      color: #fff;
+      line-height: 1.4;
+      flex: 1;
+    }
+
+    .episode-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .episode-title a:hover {
+      color: #7eb8ff;
+    }
+
+    .episode-date {
+      font-size: 12px;
+      color: #666;
+      white-space: nowrap;
+      padding-top: 4px;
+    }
+
+    .episode-meta {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 12px;
+      font-size: 12px;
+      color: #666;
+    }
+
+    .episode-meta .tag {
+      background: #252525;
+      padding: 2px 8px;
+      border-radius: 4px;
+      color: #999;
+    }
+
+    .episode-guest {
+      font-size: 13px;
+      color: #7eb8ff;
+      margin-bottom: 12px;
+    }
+
+    .episode-description {
+      font-size: 14px;
+      color: #ccc;
+      line-height: 1.8;
+      white-space: pre-line;
+    }
+
+    .episode-description .guest-intro {
+      margin-bottom: 12px;
+      color: #bbb;
+    }
+
+    .episode-description .topic-list {
+      padding-left: 0;
+      list-style: none;
+    }
+
+    .episode-description .topic-list li {
+      padding: 4px 0;
+      padding-left: 20px;
+      position: relative;
+      color: #ccc;
+    }
+
+    .episode-description .topic-list li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 12px;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #555;
+    }
+
+    .desc-toggle {
+      background: none;
+      border: none;
+      color: #666;
+      cursor: pointer;
+      font-size: 12px;
+      margin-top: 8px;
+      padding: 0;
+    }
+
+    .desc-toggle:hover {
+      color: #999;
+    }
+
+    .desc-en {
+      display: none;
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px dashed #333;
+      font-size: 13px;
+      color: #777;
+      white-space: pre-line;
+      line-height: 1.7;
+    }
+
+    .desc-en.visible {
+      display: block;
+    }
+
+    .verdict-bar {
+      display: flex;
+      gap: 8px;
+      margin-top: 16px;
+      padding-top: 16px;
+      border-top: 1px solid #252525;
+    }
+
+    .verdict-btn {
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      border: 1px solid #333;
+      background: transparent;
+      color: #888;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .verdict-btn:hover {
+      border-color: #555;
+      color: #ccc;
+    }
+
+    .verdict-btn.want { }
+    .verdict-btn.want.active {
+      background: #1a3a2a;
+      border-color: #2a6a4a;
+      color: #5ecc89;
+    }
+
+    .verdict-btn.skip { }
+    .verdict-btn.skip.active {
+      background: #3a1a1a;
+      border-color: #6a2a2a;
+      color: #cc5e5e;
+    }
+
+    .verdict-btn.maybe { }
+    .verdict-btn.maybe.active {
+      background: #3a3a1a;
+      border-color: #6a6a2a;
+      color: #cccc5e;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 60px 0;
+      color: #666;
+    }
+
+    .loading .spinner {
+      width: 24px;
+      height: 24px;
+      border: 2px solid #333;
+      border-top-color: #888;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .error {
+      text-align: center;
+      padding: 40px;
+      color: #cc5e5e;
+      background: #1a1a1a;
+      border-radius: 12px;
+    }
+
+    .stats {
+      text-align: center;
+      margin-top: 40px;
+      padding: 20px;
+      font-size: 12px;
+      color: #555;
+    }
+
+    @media (max-width: 600px) {
+      .container { padding: 24px 16px; }
+      header h1 { font-size: 22px; }
+      .episode-card { padding: 16px; }
+      .episode-header { flex-direction: column; gap: 4px; }
+      .episode-title { font-size: 15px; }
+      .meta-bar { flex-direction: column; gap: 8px; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Lenny's Podcast Tracker</h1>
+      <div class="subtitle">Product | Career | Growth &mdash; by Lenny Rachitsky</div>
+    </header>
+
+    <div class="meta-bar">
+      <span id="last-updated">Loading...</span>
+      <span class="auto-note">Auto-updates every 3 days via GitHub Actions</span>
+    </div>
+
+    <div class="episodes" id="episodes">
+      <div class="loading">
+        <div class="spinner"></div>
+        <div>Loading episodes...</div>
+      </div>
+    </div>
+
+    <div class="stats" id="stats"></div>
+  </div>
+
+  <script>
+    const VERDICTS_KEY = "lenny_podcast_verdicts";
+
+    function loadVerdicts() {
+      try {
+        return JSON.parse(localStorage.getItem(VERDICTS_KEY) || "{}");
+      } catch {
+        return {};
+      }
+    }
+
+    function saveVerdict(episodeTitle, verdict) {
+      const verdicts = loadVerdicts();
+      if (verdicts[episodeTitle] === verdict) {
+        delete verdicts[episodeTitle];
+      } else {
+        verdicts[episodeTitle] = verdict;
+      }
+      localStorage.setItem(VERDICTS_KEY, JSON.stringify(verdicts));
+      return verdicts;
+    }
+
+    function formatDate(dateStr) {
+      const d = new Date(dateStr);
+      const now = new Date();
+      const diffDays = Math.floor((now - d) / (1000 * 60 * 60 * 24));
+
+      if (diffDays === 0) return "Today";
+      if (diffDays === 1) return "Yesterday";
+      if (diffDays < 7) return `${diffDays} days ago`;
+
+      return d.toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+      });
+    }
+
+    function formatDuration(minutes) {
+      if (!minutes) return "";
+      const h = Math.floor(minutes / 60);
+      const m = minutes % 60;
+      if (h > 0) return `${h}h ${m}m`;
+      return `${m}m`;
+    }
+
+    function escapeHtml(str) {
+      return str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    // Parse description into guest intro + numbered topics
+    function formatDescription(desc) {
+      if (!desc) return { intro: "", topics: [] };
+      const lines = desc.split("\n").map((l) => l.trim()).filter(Boolean);
+      const intro = [];
+      const topics = [];
+      let inTopics = false;
+
+      for (const line of lines) {
+        // Match numbered items like "1. xxx" or "1) xxx"
+        const topicMatch = line.match(/^\d+[\.\)]\s*(.+)/);
+        if (topicMatch) {
+          inTopics = true;
+          topics.push(topicMatch[1]);
+        } else if (line.toLowerCase().startsWith("we discuss")) {
+          inTopics = true;
+          // Skip the "We discuss:" line itself
+        } else if (!inTopics) {
+          intro.push(line);
+        }
+      }
+
+      return { intro: intro.join(" "), topics };
+    }
+
+    function renderEpisodes(data) {
+      const container = document.getElementById("episodes");
+      const verdicts = loadVerdicts();
+
+      if (!data || !data.episodes || data.episodes.length === 0) {
+        container.innerHTML =
+          '<div class="error">No episodes found. Click Refresh to try again.</div>';
+        return;
+      }
+
+      container.innerHTML = data.episodes
+        .map((ep, i) => {
+          const descCN = ep.descriptionCN || ep.description || "";
+          const descEN = ep.description || "";
+          const parsedCN = formatDescription(descCN);
+          const verdict = verdicts[ep.title] || "";
+          const safeTitle = ep.title.replace(/'/g, "\\'").replace(/"/g, "&quot;");
+
+          const topicsHtml = parsedCN.topics.length > 0
+            ? `<ul class="topic-list">${parsedCN.topics.map((t) => `<li>${escapeHtml(t)}</li>`).join("")}</ul>`
+            : "";
+
+          return `
+          <div class="episode-card">
+            <div class="episode-header">
+              <div class="episode-title">
+                ${ep.url ? `<a href="${ep.url}" target="_blank" rel="noopener">${escapeHtml(ep.title)}</a>` : escapeHtml(ep.title)}
+              </div>
+              <div class="episode-date">${formatDate(ep.date)}</div>
+            </div>
+            <div class="episode-meta">
+              ${ep.duration ? `<span class="tag">${formatDuration(ep.duration)}</span>` : ""}
+            </div>
+            <div class="episode-description">
+              <div class="guest-intro">${escapeHtml(parsedCN.intro)}</div>
+              ${topicsHtml}
+            </div>
+            <button class="desc-toggle" onclick="toggleOriginal(${i})">Show original / 显示原文</button>
+            <div class="desc-en" id="desc-en-${i}">${escapeHtml(descEN)}</div>
+            <div class="verdict-bar">
+              <button class="verdict-btn want ${verdict === "want" ? "active" : ""}"
+                      onclick="setVerdict('${safeTitle}', 'want', this)">
+                Want to listen
+              </button>
+              <button class="verdict-btn maybe ${verdict === "maybe" ? "active" : ""}"
+                      onclick="setVerdict('${safeTitle}', 'maybe', this)">
+                Maybe later
+              </button>
+              <button class="verdict-btn skip ${verdict === "skip" ? "active" : ""}"
+                      onclick="setVerdict('${safeTitle}', 'skip', this)">
+                Skip
+              </button>
+            </div>
+          </div>`;
+        })
+        .join("");
+
+      // Update meta
+      const lastFetched = new Date(data.lastFetched);
+      document.getElementById("last-updated").textContent =
+        `Last updated: ${lastFetched.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", hour: "2-digit", minute: "2-digit" })}`;
+
+      // Stats
+      const wantCount = Object.values(verdicts).filter((v) => v === "want").length;
+      const skipCount = Object.values(verdicts).filter((v) => v === "skip").length;
+      document.getElementById("stats").textContent =
+        `${wantCount} episodes marked to listen | ${skipCount} skipped | Auto-refreshes every 3 days`;
+    }
+
+    function toggleOriginal(index) {
+      const el = document.getElementById(`desc-en-${index}`);
+      el.classList.toggle("visible");
+    }
+
+    function setVerdict(title, verdict, btn) {
+      const verdicts = saveVerdict(title, verdict);
+      const bar = btn.parentElement;
+      bar.querySelectorAll(".verdict-btn").forEach((b) => b.classList.remove("active"));
+      if (verdicts[title]) {
+        btn.classList.add("active");
+      }
+
+      // Update stats
+      const wantCount = Object.values(verdicts).filter((v) => v === "want").length;
+      const skipCount = Object.values(verdicts).filter((v) => v === "skip").length;
+      document.getElementById("stats").textContent =
+        `${wantCount} episodes marked to listen | ${skipCount} skipped | Auto-refreshes every 3 days`;
+    }
+
+    // Initial load - fetch the static JSON data
+    async function init() {
+      try {
+        const res = await fetch("data/episodes.json");
+        if (!res.ok) throw new Error("No data yet");
+        const data = await res.json();
+        renderEpisodes(data);
+      } catch (err) {
+        document.getElementById("episodes").innerHTML =
+          '<div class="error">No episode data found. Data will be available after the first GitHub Actions run.</div>';
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>
