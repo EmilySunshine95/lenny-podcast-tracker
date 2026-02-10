@@ -1,16 +1,16 @@
 {
   "podcastName": "Lenny's Podcast: Product | Career | Growth",
   "host": "Lenny Rachitsky",
-  "lastFetched": "2026-02-09T07:10:15.837Z",
+  "lastFetched": "2026-02-10T02:06:39.074Z",
   "episodes": [
     {
-      "title": "Getting paid to vibe code: Inside the new AI-era job | Lazar Jovanovic (Professional Vibe Coder)",
+      "title": "The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)",
       "guest": "Lazar Jovanovic",
       "date": "2026-02-08T13:31:22Z",
       "description": "Lazar Jovanovic is a full-time professional vibe coder at Lovable. His job is to build both internal tools and customer-facing products purely using AI, while not having a coding background. In this conversation, he breaks down the tactics, workflows, and framework that let him ship production-quality products using only AI.\n\nWe discuss:\n1. Why having no coding background can be an advantage when building with AI\n2. Why most of your time should go to planning and chat mode, not prompting\n3. What to do when you get stuck: his 4x4 debugging workflow\n4. The PRD and Markdown file system that keeps AI agents aligned across complex builds\n5. Why kicking off four or five parallel prototypes is the best way to clarify your thinking\n6. Why design skills and taste are going to be the most important skills in the future\n7. His “genie and three wishes” mental model for making the most of AI’s limitations\n8. How product, engineering, and design roles are converging—and what that means for your career",
       "descriptionCN": "Lazar Jovanovic 是 Lovable 的全职专业氛围编码员。他的工作是纯粹使用人工智能构建内部工具和面向客户的产品，但没有编码背景。在这次对话中，他详细介绍了使他能够仅使用人工智能交付生产质量产品的策略、工作流程和框架。\n\n我们讨论：\n1. 为什么在使用人工智能进行构建时，没有编码背景可能是一个优势\n2. 为什么大部分时间应该进入计划和聊天模式，而不是提示\n3. 当你遇到困难时该怎么办：他的 4x4 调试工作流程\n4. PRD 和 Markdown 文件系统使 AI 代理在复杂的构建中保持一致\n5. 为什么启动四五个并行原型是阐明你的想法的最佳方式\n6. 为什么设计技能和品味将成为未来最重要的技能\n7. 他的“精灵和三个愿望”思维模型充分利用了人工智能的局限性\n8. 产品、工程和设计角色如何融合——以及这对你的职业生涯意味着什么",
       "duration": 103,
-      "url": "https://podcasts.apple.com/us/podcast/getting-paid-to-vibe-code-inside-the-new-ai-era-job/id1627920305?i=1000748773583&uo=4",
+      "url": "https://podcasts.apple.com/us/podcast/the-rise-of-the-professional-vibe-coder-a-new-ai/id1627920305?i=1000748773583&uo=4",
       "episodeUrl": "https://api.substack.com/feed/podcast/186928764/005fbace84ee13dabcd544f688341e0b.mp3",
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/c5/5f/fac55ff2-43da-417a-38af-9af1756b3eb6/mza_16602621849544168770.png/600x600bb.jpg"
     },
@@ -41,7 +41,7 @@
       "guest": "Jason Cohen",
       "date": "2026-01-25T13:31:25Z",
       "description": "Jason Cohen is a four-time founder (including two unicorns, one being WP Engine) and an investor in over 60 startups, and has been sharing his lessons on company building at A Smart Bear for nearly 20 years. In this episode, Jason shares his methodical five-step framework for diagnosing stalled growth—a problem that faces almost every team.\n\nWe discuss:\n1. Jason’s five-step framework: logo retention, pricing, NRR, marketing channels, target market\n2. A small tweak that’ll double response rates on your cancellation surveys\n3. Why “it’s too expensive” is almost never the real reason customers cancel\n4. The “elephant curve” of growth\n5. How repositioning the same product can increase revenue 8x\n6. When to reconsider if growth is even the right goal for your business",
-      "descriptionCN": "Jason Cohen 是四次创始人（其中包括两家独角兽公司，其中一家是 WP Engine），也是 60 多家初创公司的投资者，近 20 年来一直在 A Smart Bear 分享他在公司建设方面的经验教训。在本集中，杰森分享了他用于诊断增长停滞的系统性五步框架——这是几乎每个团队都面临的问题。\n\n我们讨论：\n1. Jason 的五步框架：标识保留、定价、NRR、营销渠道、目标市场\n2. 一个小调整，可以使取消调查的回复率翻倍\n3. 为什么“太贵”几乎从来都不是客户取消预订的真正原因\n4.增长的“大象曲线”\n5. 重新定位同一产品如何能够将收入增加 8 倍\n6. 何时重新考虑增长是否是您企业的正确目标",
+      "descriptionCN": "Jason Cohen 是四次创始人（其中包括两家独角兽公司，其中一家是 WP Engine），也是 60 多家初创公司的投资者，近 20 年来一直在 A Smart Bear 分享他在公司建设方面的经验教训。在本集中，杰森分享了他用于诊断增长停滞的系统性五步框架——这是几乎每个团队都面临的问题。\n\n我们讨论：\n1. Jason 的五步框架：标识保留、定价、NRR、营销渠道、目标市场\n2. 一个小调整，可以使取消调查的回复率翻倍\n3. 为什么“太贵”几乎从来都不是客户取消订单的真正原因\n4.增长的“大象曲线”\n5. 重新定位同一产品如何能够将收入增加 8 倍\n6. 何时重新考虑增长是否是您企业的正确目标",
       "duration": 106,
       "url": "https://podcasts.apple.com/us/podcast/5-questions-to-ask-when-your-product-stops-growing/id1627920305?i=1000746562056&uo=4",
       "episodeUrl": "https://api.substack.com/feed/podcast/184576103/43981a8ccb5b4fe4b547d21bf05bc62b.mp3",
