@@ -4,187 +4,287 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Podcast Radar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
   <style>
+    :root {
+      --bg: #fffaf0;
+      --bg-deep: #fef3c7;
+      --ink: #1f2937;
+      --muted: #6b7280;
+      --card: #ffffff;
+      --line: #e5e7eb;
+      --hot: #ea580c;
+      --shadow: 0 10px 30px rgba(31, 41, 55, 0.09);
+      --radius-lg: 20px;
+      --radius-md: 14px;
+    }
+
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-      background: #f5f5f7;
-      color: #1d1d1f;
+      font-family: "Manrope", sans-serif;
+      background:
+        radial-gradient(circle at 12% 18%, rgba(251, 146, 60, 0.28), transparent 34%),
+        radial-gradient(circle at 88% 8%, rgba(56, 189, 248, 0.18), transparent 28%),
+        linear-gradient(180deg, var(--bg) 0%, #fff 70%);
+      color: var(--ink);
       min-height: 100vh;
       line-height: 1.6;
     }
 
-    /* ── Header ── */
     .hero {
-      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-      padding: 48px 24px 32px;
+      padding: 52px 20px 28px;
       text-align: center;
-      color: #fff;
+    }
+
+    .hero .eyebrow {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1.4px;
+      color: #9a3412;
+      font-weight: 800;
+      margin-bottom: 8px;
     }
 
     .hero h1 {
-      font-size: 32px;
-      font-weight: 800;
-      letter-spacing: -0.5px;
-      margin-bottom: 6px;
+      font-family: "Space Grotesk", sans-serif;
+      font-size: clamp(30px, 6vw, 50px);
+      line-height: 1.08;
+      letter-spacing: -0.03em;
+      margin-bottom: 10px;
     }
 
     .hero .tagline {
+      color: #92400e;
       font-size: 15px;
-      color: rgba(255,255,255,0.6);
-      font-weight: 400;
-    }
-
-    .hero .meta-info {
-      margin-top: 16px;
-      font-size: 12px;
-      color: rgba(255,255,255,0.35);
-    }
-
-    /* ── Tabs ── */
-    .tab-bar {
-      display: flex;
-      justify-content: center;
-      gap: 8px;
-      padding: 0 24px;
-      margin-top: -20px;
-      position: relative;
-      z-index: 10;
-    }
-
-    .tab-btn {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 14px 28px;
-      border: none;
-      border-radius: 14px;
-      font-size: 14px;
-      font-weight: 600;
-      cursor: pointer;
-      transition: all 0.25s;
-      background: #fff;
-      color: #666;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
-    }
-
-    .tab-btn:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-    }
-
-    .tab-btn.active {
-      color: #fff;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
-      transform: translateY(-2px);
-    }
-
-    .tab-btn .dot {
-      width: 10px;
-      height: 10px;
-      border-radius: 50%;
-      flex-shrink: 0;
-    }
-
-    .tab-btn .yt-link {
-      font-size: 12px;
-      color: inherit;
-      opacity: 0.6;
-      text-decoration: none;
-      margin-left: 4px;
-    }
-
-    .tab-btn .yt-link:hover {
-      opacity: 1;
-      text-decoration: underline;
-    }
-
-    /* ── Container ── */
-    .container {
-      max-width: 780px;
+      max-width: 720px;
       margin: 0 auto;
-      padding: 32px 24px 60px;
+    }
+
+    .meta-info {
+      margin-top: 16px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .shell {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 0 20px 54px;
+      display: grid;
+      grid-template-columns: 300px 1fr;
+      gap: 20px;
+    }
+
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow);
+    }
+
+    .left-col {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      position: sticky;
+      top: 16px;
+      height: fit-content;
+    }
+
+    .block-title {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--muted);
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+
+    .category-panel,
+    .podcast-list-panel {
+      padding: 16px;
+    }
+
+    .category-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .category-chip {
+      border: 1px solid #fed7aa;
+      background: #fff7ed;
+      color: #9a3412;
+      border-radius: 999px;
+      padding: 6px 12px;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: 0.2s ease;
+    }
+
+    .category-chip.active {
+      background: #ea580c;
+      color: #fff;
+      border-color: #ea580c;
+    }
+
+    .podcast-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      max-height: 480px;
+      overflow: auto;
+      padding-right: 4px;
+    }
+
+    .podcast-item {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #fff;
+      text-align: left;
+      width: 100%;
+      padding: 10px 12px;
+      cursor: pointer;
+      transition: 0.2s ease;
+    }
+
+    .podcast-item:hover {
+      border-color: #fdba74;
+      transform: translateY(-1px);
+    }
+
+    .podcast-item.active {
+      border-color: var(--accent, #ea580c);
+      box-shadow: 0 0 0 2px color-mix(in oklab, var(--accent, #ea580c), #fff 75%);
+    }
+
+    .podcast-item .name {
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 1.35;
+      color: #111827;
+    }
+
+    .podcast-item .sub {
+      margin-top: 2px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .main-col {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
     }
 
     .podcast-header {
+      padding: 18px;
       display: flex;
       justify-content: space-between;
-      align-items: center;
-      margin-bottom: 24px;
+      gap: 16px;
+      align-items: flex-start;
+      border: 1px solid color-mix(in oklab, var(--accent, #ea580c), #fff 72%);
+      background: linear-gradient(120deg, color-mix(in oklab, var(--accent, #ea580c), #fff 90%), #fff);
     }
 
-    .podcast-header .left h2 {
-      font-size: 20px;
+    .podcast-header h2 {
+      font-family: "Space Grotesk", sans-serif;
+      font-size: clamp(24px, 4vw, 34px);
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      margin-bottom: 8px;
+    }
+
+    .podcast-meta {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+
+    .meta-pill {
+      display: inline-block;
+      font-size: 12px;
       font-weight: 700;
-      color: #1d1d1f;
+      padding: 5px 10px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.78);
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      color: #7c2d12;
     }
 
-    .podcast-header .left .host {
-      font-size: 13px;
-      color: #86868b;
-      margin-top: 2px;
+    .podcast-blurb {
+      font-size: 14px;
+      color: #374151;
+      max-width: 780px;
     }
 
-    .podcast-header .yt-btn {
+    .yt-btn {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
-      padding: 8px 16px;
-      background: #ff0000;
-      color: #fff;
-      border-radius: 8px;
+      gap: 8px;
+      border-radius: 999px;
+      padding: 9px 14px;
       text-decoration: none;
+      background: #ef4444;
+      color: #fff;
       font-size: 13px;
-      font-weight: 600;
-      transition: all 0.2s;
+      font-weight: 800;
+      white-space: nowrap;
+      transition: 0.2s ease;
+      border: 1px solid #dc2626;
     }
 
-    .podcast-header .yt-btn:hover {
-      background: #cc0000;
-      transform: translateY(-1px);
-    }
+    .yt-btn:hover { transform: translateY(-1px); background: #dc2626; }
 
-    .podcast-header .yt-btn svg {
-      width: 16px;
-      height: 16px;
-      fill: currentColor;
-    }
+    .episodes-panel { padding: 16px; }
 
-    /* ── Episode cards ── */
     .episodes {
       display: flex;
       flex-direction: column;
-      gap: 14px;
+      gap: 12px;
+      margin-top: 10px;
     }
 
     .episode-card {
+      border: 1px solid #f3f4f6;
+      border-radius: var(--radius-md);
       background: #fff;
-      border-radius: 16px;
-      padding: 24px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
-      transition: all 0.2s;
+      padding: 14px;
+      transition: 0.2s ease;
     }
 
     .episode-card:hover {
-      box-shadow: 0 2px 8px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.06);
+      border-color: color-mix(in oklab, var(--accent, #ea580c), #fff 70%);
+      box-shadow: 0 8px 24px rgba(2, 6, 23, 0.07);
       transform: translateY(-1px);
     }
 
     .ep-top {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      gap: 16px;
-      margin-bottom: 10px;
+      display: grid;
+      grid-template-columns: 96px 1fr auto;
+      gap: 12px;
+      align-items: start;
+    }
+
+    .ep-thumb {
+      width: 96px;
+      height: 96px;
+      border-radius: 12px;
+      object-fit: cover;
+      border: 1px solid #e5e7eb;
+      background: #f3f4f6;
     }
 
     .ep-title {
       font-size: 16px;
-      font-weight: 650;
-      color: #1d1d1f;
       line-height: 1.4;
-      flex: 1;
+      font-weight: 800;
+      color: #111827;
     }
 
     .ep-title a {
@@ -192,365 +292,389 @@
       text-decoration: none;
     }
 
-    .ep-title a:hover {
-      color: #0066cc;
-    }
+    .ep-title a:hover { color: var(--accent, #ea580c); }
 
     .ep-date {
       font-size: 12px;
-      color: #86868b;
+      color: #6b7280;
       white-space: nowrap;
-      padding-top: 3px;
+      margin-top: 2px;
+      font-weight: 700;
     }
 
     .ep-meta {
       display: flex;
-      gap: 8px;
-      margin-bottom: 14px;
+      gap: 7px;
+      margin: 10px 0 10px 108px;
+      flex-wrap: wrap;
     }
 
     .ep-tag {
       font-size: 11px;
-      font-weight: 500;
-      padding: 3px 10px;
-      border-radius: 100px;
-      background: #f0f0f2;
-      color: #6e6e73;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: #f3f4f6;
+      color: #4b5563;
+      border: 1px solid #e5e7eb;
     }
 
     .ep-desc {
+      margin-left: 108px;
       font-size: 14px;
-      color: #424245;
-      line-height: 1.75;
-    }
-
-    .ep-desc .intro {
-      margin-bottom: 10px;
-    }
-
-    .ep-desc .topics {
-      padding-left: 0;
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .ep-desc .topics li {
-      padding-left: 18px;
-      position: relative;
-      color: #515154;
-      font-size: 13.5px;
-    }
-
-    .ep-desc .topics li::before {
-      content: "";
-      position: absolute;
-      left: 0;
-      top: 9px;
-      width: 6px;
-      height: 6px;
-      border-radius: 50%;
+      color: #374151;
+      line-height: 1.7;
+      white-space: pre-line;
     }
 
     .toggle-en {
+      margin-left: 108px;
+      margin-top: 8px;
       background: none;
       border: none;
-      color: #86868b;
-      cursor: pointer;
+      color: #9a3412;
       font-size: 12px;
-      margin-top: 10px;
+      font-weight: 700;
+      cursor: pointer;
       padding: 0;
     }
 
-    .toggle-en:hover {
-      color: #515154;
-    }
+    .toggle-en:hover { text-decoration: underline; }
 
     .en-text {
       display: none;
-      margin-top: 10px;
-      padding: 12px 16px;
-      background: #fafafa;
+      margin-left: 108px;
+      margin-top: 8px;
+      padding: 10px 12px;
       border-radius: 10px;
+      background: #f9fafb;
+      border: 1px dashed #d1d5db;
       font-size: 13px;
-      color: #86868b;
-      white-space: pre-line;
+      color: #6b7280;
       line-height: 1.7;
+      white-space: pre-line;
     }
 
     .en-text.show { display: block; }
 
-    /* ── Verdict ── */
     .verdict-bar {
+      margin-left: 108px;
+      margin-top: 10px;
       display: flex;
       gap: 8px;
-      margin-top: 16px;
-      padding-top: 14px;
-      border-top: 1px solid #f0f0f2;
+      flex-wrap: wrap;
     }
 
     .v-btn {
       font-size: 12px;
-      font-weight: 500;
-      padding: 5px 14px;
-      border-radius: 100px;
-      border: 1.5px solid #e5e5e7;
-      background: transparent;
-      color: #86868b;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-
-    .v-btn:hover { border-color: #ccc; color: #515154; }
-
-    .v-btn.want.active {
-      background: #e8f5e9;
-      border-color: #66bb6a;
-      color: #2e7d32;
-    }
-
-    .v-btn.skip.active {
-      background: #fce4ec;
-      border-color: #ef5350;
-      color: #c62828;
-    }
-
-    .v-btn.maybe.active {
-      background: #fff8e1;
-      border-color: #ffb300;
-      color: #e65100;
-    }
-
-    /* ── Loading / Error ── */
-    .loading {
-      text-align: center;
-      padding: 60px 0;
-      color: #86868b;
-    }
-
-    .spinner {
-      width: 24px;
-      height: 24px;
-      border: 2.5px solid #e5e5e7;
-      border-top-color: #86868b;
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 16px;
-    }
-
-    @keyframes spin { to { transform: rotate(360deg); } }
-
-    .error {
-      text-align: center;
-      padding: 40px;
-      color: #c62828;
+      font-weight: 700;
+      border-radius: 999px;
+      border: 1px solid #d1d5db;
       background: #fff;
-      border-radius: 16px;
+      color: #6b7280;
+      padding: 5px 11px;
+      cursor: pointer;
+    }
+
+    .v-btn.want.active { background: #dcfce7; border-color: #22c55e; color: #166534; }
+    .v-btn.maybe.active { background: #fef3c7; border-color: #f59e0b; color: #92400e; }
+    .v-btn.skip.active { background: #fee2e2; border-color: #ef4444; color: #991b1b; }
+
+    .loading, .error {
+      text-align: center;
+      padding: 40px 18px;
+      color: #6b7280;
+      font-size: 14px;
     }
 
     .stats {
+      margin-top: 18px;
       text-align: center;
-      margin-top: 40px;
       font-size: 12px;
-      color: #aaa;
+      color: #6b7280;
     }
 
-    /* ── Mobile ── */
-    @media (max-width: 600px) {
-      .hero { padding: 36px 16px 28px; }
-      .hero h1 { font-size: 26px; }
-      .tab-bar { flex-direction: column; align-items: center; margin-top: -16px; }
-      .tab-btn { width: 100%; max-width: 320px; justify-content: center; }
-      .container { padding: 24px 16px 48px; }
-      .episode-card { padding: 18px; }
-      .ep-top { flex-direction: column; gap: 4px; }
-      .podcast-header { flex-direction: column; gap: 12px; align-items: flex-start; }
+    @media (max-width: 980px) {
+      .shell {
+        grid-template-columns: 1fr;
+      }
+
+      .left-col {
+        position: static;
+      }
+
+      .podcast-list {
+        max-height: 240px;
+      }
+
+      .ep-top {
+        grid-template-columns: 78px 1fr;
+      }
+
+      .ep-date {
+        grid-column: 2;
+      }
+
+      .ep-thumb {
+        width: 78px;
+        height: 78px;
+      }
+
+      .ep-meta,
+      .ep-desc,
+      .toggle-en,
+      .en-text,
+      .verdict-bar {
+        margin-left: 0;
+      }
     }
   </style>
 </head>
 <body>
-
-  <div class="hero">
+  <header class="hero">
+    <div class="eyebrow">Commute Podcast Tracker</div>
     <h1>Podcast Radar</h1>
-    <div class="tagline">Curated episodes at a glance</div>
+    <div class="tagline">按主题筛选你关心的播客，快速看清每期内容，再决定今天通勤听什么。</div>
     <div class="meta-info" id="meta-info">Loading...</div>
-  </div>
+  </header>
 
-  <div class="tab-bar" id="tab-bar"></div>
+  <main class="shell">
+    <aside class="left-col">
+      <section class="panel category-panel">
+        <div class="block-title">Categories</div>
+        <div class="category-list" id="category-list"></div>
+      </section>
 
-  <div class="container">
-    <div class="podcast-header" id="podcast-header"></div>
-    <div class="episodes" id="episodes">
-      <div class="loading">
-        <div class="spinner"></div>
-        <div>Loading episodes...</div>
-      </div>
-    </div>
-    <div class="stats" id="stats"></div>
-  </div>
+      <section class="panel podcast-list-panel">
+        <div class="block-title">Podcasts</div>
+        <div class="podcast-list" id="podcast-list"></div>
+      </section>
+    </aside>
+
+    <section class="main-col">
+      <section class="panel podcast-header" id="podcast-header"></section>
+      <section class="panel episodes-panel">
+        <div class="block-title">Latest Episodes</div>
+        <div class="episodes" id="episodes">
+          <div class="loading">Loading episodes...</div>
+        </div>
+        <div class="stats" id="stats"></div>
+      </section>
+    </section>
+  </main>
 
   <script>
     const VERDICTS_KEY = "podcast_radar_verdicts";
     let DATA = null;
-    let ACTIVE_TAB = 0;
+    let ACTIVE_CATEGORY = "All";
+    let ACTIVE_PODCAST_ID = null;
 
     function loadVerdicts() {
-      try { return JSON.parse(localStorage.getItem(VERDICTS_KEY) || "{}"); }
-      catch { return {}; }
+      try {
+        return JSON.parse(localStorage.getItem(VERDICTS_KEY) || "{}");
+      } catch {
+        return {};
+      }
     }
 
     function saveVerdict(key, verdict) {
-      const v = loadVerdicts();
-      if (v[key] === verdict) delete v[key];
-      else v[key] = verdict;
-      localStorage.setItem(VERDICTS_KEY, JSON.stringify(v));
-      return v;
+      const current = loadVerdicts();
+      if (current[key] === verdict) delete current[key];
+      else current[key] = verdict;
+      localStorage.setItem(VERDICTS_KEY, JSON.stringify(current));
+      return current;
+    }
+
+    function esc(value) {
+      const d = document.createElement("div");
+      d.textContent = value || "";
+      return d.innerHTML;
     }
 
     function formatDate(dateStr) {
       const d = new Date(dateStr);
+      if (Number.isNaN(d.getTime())) return "recent";
       const now = new Date();
       const diff = Math.floor((now - d) / 86400000);
-      if (diff === 0) return "Today";
-      if (diff === 1) return "Yesterday";
+      if (diff === 0) return "today";
+      if (diff === 1) return "yesterday";
       if (diff < 7) return `${diff}d ago`;
       return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
     }
 
-    function formatDuration(m) {
-      if (!m) return "";
-      const h = Math.floor(m / 60);
-      return h > 0 ? `${h}h ${m % 60}m` : `${m}m`;
+    function formatDuration(mins) {
+      if (!mins) return "";
+      const h = Math.floor(mins / 60);
+      return h > 0 ? `${h}h ${mins % 60}m` : `${mins}m`;
     }
 
-    function esc(s) {
-      const d = document.createElement("div");
-      d.textContent = s;
-      return d.innerHTML;
+    function allCategories() {
+      const set = new Set(["All"]);
+      for (const p of DATA.podcasts || []) set.add(p.category || "Other");
+      return Array.from(set);
     }
 
-    function parseDesc(desc) {
-      if (!desc) return { intro: "", topics: [] };
-      const lines = desc.split("\n").map(l => l.trim()).filter(Boolean);
-      const intro = [], topics = [];
-      let inTopics = false;
-      for (const line of lines) {
-        const m = line.match(/^\d+[\.\)]\s*(.+)/);
-        if (m) { inTopics = true; topics.push(m[1]); }
-        else if (line.toLowerCase().startsWith("we discuss")) inTopics = true;
-        else if (!inTopics) intro.push(line);
+    function filteredPodcasts() {
+      const all = DATA.podcasts || [];
+      if (ACTIVE_CATEGORY === "All") return all;
+      return all.filter((p) => (p.category || "Other") === ACTIVE_CATEGORY);
+    }
+
+    function ensureActivePodcast() {
+      const list = filteredPodcasts();
+      if (list.length === 0) {
+        ACTIVE_PODCAST_ID = null;
+        return;
       }
-      return { intro: intro.join(" "), topics };
+      if (!ACTIVE_PODCAST_ID || !list.some((p) => p.id === ACTIVE_PODCAST_ID)) {
+        ACTIVE_PODCAST_ID = list[0].id;
+      }
     }
 
-    function renderTabs() {
-      const bar = document.getElementById("tab-bar");
-      bar.innerHTML = DATA.podcasts.map((p, i) => `
-        <button class="tab-btn ${i === ACTIVE_TAB ? "active" : ""}"
-                style="${i === ACTIVE_TAB ? `background:${p.color};` : ""}"
-                onclick="switchTab(${i})">
-          <span class="dot" style="background:${p.color}"></span>
-          ${esc(p.name)}
+    function currentPodcast() {
+      return (DATA.podcasts || []).find((p) => p.id === ACTIVE_PODCAST_ID) || null;
+    }
+
+    function renderCategories() {
+      const el = document.getElementById("category-list");
+      el.innerHTML = allCategories().map((cat) => `
+        <button class="category-chip ${cat === ACTIVE_CATEGORY ? "active" : ""}"
+          onclick="switchCategory('${esc(cat)}')">${esc(cat)}</button>
+      `).join("");
+    }
+
+    function renderPodcastList() {
+      const el = document.getElementById("podcast-list");
+      const list = filteredPodcasts();
+      if (list.length === 0) {
+        el.innerHTML = '<div class="error">No podcasts in this category.</div>';
+        return;
+      }
+
+      el.innerHTML = list.map((p) => `
+        <button class="podcast-item ${p.id === ACTIVE_PODCAST_ID ? "active" : ""}"
+          style="--accent:${p.color || "#ea580c"}"
+          onclick="switchPodcast('${esc(p.id)}')">
+          <div class="name">${esc(p.name)}</div>
+          <div class="sub">${esc(p.subtitle || "")}</div>
         </button>
       `).join("");
     }
 
-    function renderPodcast(podcast) {
-      const header = document.getElementById("podcast-header");
-      header.innerHTML = `
-        <div class="left">
-          <h2>${esc(podcast.name)}</h2>
-          <div class="host">${esc(podcast.host)} · ${esc(podcast.subtitle)}</div>
-        </div>
-        <a class="yt-btn" href="${podcast.youtube}" target="_blank" rel="noopener">
-          <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 00-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 00.5 6.2 31.5 31.5 0 000 12a31.5 31.5 0 00.5 5.8 3 3 0 002.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 002.1-2.1A31.5 31.5 0 0024 12a31.5 31.5 0 00-.5-5.8zM9.5 15.6V8.4L16 12l-6.5 3.6z"/></svg>
-          YouTube
-        </a>
-      `;
+    function renderPodcastHeader() {
+      const p = currentPodcast();
+      const el = document.getElementById("podcast-header");
 
-      const container = document.getElementById("episodes");
-      const verdicts = loadVerdicts();
-      const color = podcast.color;
-
-      if (!podcast.episodes || podcast.episodes.length === 0) {
-        container.innerHTML = '<div class="error">No episodes found.</div>';
+      if (!p) {
+        el.innerHTML = '<div class="error">No podcast selected.</div>';
         return;
       }
 
-      container.innerHTML = podcast.episodes.map((ep, i) => {
-        const cn = parseDesc(ep.descriptionCN || ep.description || "");
-        const en = ep.description || "";
-        const vKey = `${podcast.id}::${ep.title}`;
-        const v = verdicts[vKey] || "";
-        const safeKey = vKey.replace(/'/g, "\\'").replace(/"/g, "&quot;");
+      el.style.setProperty("--accent", p.color || "#ea580c");
+      el.innerHTML = `
+        <div>
+          <h2>${esc(p.name)}</h2>
+          <div class="podcast-meta">
+            <span class="meta-pill">${esc(p.category || "Other")}</span>
+            <span class="meta-pill">${esc(p.host || "")}</span>
+            <span class="meta-pill">${esc(p.subtitle || "")}</span>
+          </div>
+          <div class="podcast-blurb">${esc(p.blurb || "")}</div>
+        </div>
+        <a class="yt-btn" href="${p.youtube || "#"}" target="_blank" rel="noopener">Watch Channel</a>
+      `;
+    }
 
-        const topicsHtml = cn.topics.length > 0
-          ? `<ul class="topics">${cn.topics.map(t =>
-              `<li style="--dot-color:${color}"><span>${esc(t)}</span></li>`
-            ).join("")}</ul>`
-          : "";
+    function renderEpisodes() {
+      const p = currentPodcast();
+      const el = document.getElementById("episodes");
 
+      if (!p) {
+        el.innerHTML = '<div class="error">No podcast selected.</div>';
+        return;
+      }
+
+      if (!p.episodes || p.episodes.length === 0) {
+        el.innerHTML = '<div class="error">No episodes found for this podcast yet.</div>';
+        updateStats();
+        return;
+      }
+
+      const verdicts = loadVerdicts();
+      el.innerHTML = p.episodes.map((ep, i) => {
+        const key = `${p.id}::${ep.title}`.replace(/'/g, "\\'").replace(/"/g, "&quot;");
+        const verdict = verdicts[`${p.id}::${ep.title}`] || "";
         return `
-        <div class="episode-card">
-          <div class="ep-top">
-            <div class="ep-title">
-              ${ep.url ? `<a href="${ep.url}" target="_blank" rel="noopener">${esc(ep.title)}</a>` : esc(ep.title)}
+          <article class="episode-card">
+            <div class="ep-top">
+              <img class="ep-thumb" src="${ep.artworkUrl || ""}" alt="cover" loading="lazy" onerror="this.style.display='none'">
+              <div>
+                <div class="ep-title">
+                  ${ep.url ? `<a href="${ep.url}" target="_blank" rel="noopener">${esc(ep.title)}</a>` : esc(ep.title)}
+                </div>
+              </div>
+              <div class="ep-date">${formatDate(ep.date)}</div>
             </div>
-            <div class="ep-date">${formatDate(ep.date)}</div>
-          </div>
-          <div class="ep-meta">
-            ${ep.duration ? `<span class="ep-tag">${formatDuration(ep.duration)}</span>` : ""}
-          </div>
-          <div class="ep-desc">
-            <div class="intro">${esc(cn.intro)}</div>
-            ${topicsHtml}
-          </div>
-          <button class="toggle-en" onclick="toggleEn(${i})">Show original / 显示原文</button>
-          <div class="en-text" id="en-${i}">${esc(en)}</div>
-          <div class="verdict-bar">
-            <button class="v-btn want ${v === "want" ? "active" : ""}"
-                    onclick="setVerdict('${safeKey}','want',this)">Want to listen</button>
-            <button class="v-btn maybe ${v === "maybe" ? "active" : ""}"
-                    onclick="setVerdict('${safeKey}','maybe',this)">Maybe later</button>
-            <button class="v-btn skip ${v === "skip" ? "active" : ""}"
-                    onclick="setVerdict('${safeKey}','skip',this)">Skip</button>
-          </div>
-        </div>`;
-      }).join("");
 
-      // Inject dot color via CSS variable
-      container.querySelectorAll(".topics li").forEach(li => {
-        li.querySelector("::before") // no-op, use CSS below
-      });
+            <div class="ep-meta">
+              ${ep.duration ? `<span class="ep-tag">${formatDuration(ep.duration)}</span>` : ""}
+            </div>
+
+            <div class="ep-desc">${esc(ep.descriptionCN || ep.description || "")}</div>
+
+            <button class="toggle-en" onclick="toggleEn(${i})">Show original / 显示原文</button>
+            <div class="en-text" id="en-${i}">${esc(ep.description || "")}</div>
+
+            <div class="verdict-bar">
+              <button class="v-btn want ${verdict === "want" ? "active" : ""}" onclick="setVerdict('${key}','want',this)">Want</button>
+              <button class="v-btn maybe ${verdict === "maybe" ? "active" : ""}" onclick="setVerdict('${key}','maybe',this)">Maybe</button>
+              <button class="v-btn skip ${verdict === "skip" ? "active" : ""}" onclick="setVerdict('${key}','skip',this)">Skip</button>
+            </div>
+          </article>
+        `;
+      }).join("");
 
       updateStats();
     }
 
-    function switchTab(idx) {
-      ACTIVE_TAB = idx;
-      renderTabs();
-      renderPodcast(DATA.podcasts[idx]);
+    function switchCategory(category) {
+      ACTIVE_CATEGORY = category;
+      ensureActivePodcast();
+      renderAll();
+    }
+
+    function switchPodcast(id) {
+      ACTIVE_PODCAST_ID = id;
+      renderAll();
     }
 
     function toggleEn(i) {
-      document.getElementById(`en-${i}`).classList.toggle("show");
+      const box = document.getElementById(`en-${i}`);
+      if (box) box.classList.toggle("show");
     }
 
     function setVerdict(key, verdict, btn) {
-      const v = saveVerdict(key, verdict);
+      const verdicts = saveVerdict(key, verdict);
       const bar = btn.parentElement;
-      bar.querySelectorAll(".v-btn").forEach(b => b.classList.remove("active"));
-      if (v[key]) btn.classList.add("active");
+      bar.querySelectorAll(".v-btn").forEach((b) => b.classList.remove("active"));
+      if (verdicts[key]) btn.classList.add("active");
       updateStats();
     }
 
     function updateStats() {
-      const v = loadVerdicts();
-      const want = Object.values(v).filter(x => x === "want").length;
-      const skip = Object.values(v).filter(x => x === "skip").length;
+      const verdicts = loadVerdicts();
+      const want = Object.values(verdicts).filter((x) => x === "want").length;
+      const maybe = Object.values(verdicts).filter((x) => x === "maybe").length;
+      const skip = Object.values(verdicts).filter((x) => x === "skip").length;
       document.getElementById("stats").textContent =
-        `${want} episodes to listen · ${skip} skipped · Auto-updates every 3 days`;
+        `${want} want · ${maybe} maybe · ${skip} skip · Auto-updates daily at 07:00 Beijing time`;
+    }
+
+    function renderAll() {
+      renderCategories();
+      renderPodcastList();
+      renderPodcastHeader();
+      renderEpisodes();
     }
 
     async function init() {
@@ -561,21 +685,19 @@
 
         const d = new Date(DATA.lastFetched);
         document.getElementById("meta-info").textContent =
-          `Last updated: ${d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", hour: "2-digit", minute: "2-digit" })}`;
+          `Last updated: ${d.toLocaleString("zh-CN", { hour12: false })}`;
 
-        renderTabs();
-        renderPodcast(DATA.podcasts[0]);
+        ACTIVE_CATEGORY = "All";
+        ensureActivePodcast();
+        renderAll();
       } catch {
+        document.getElementById("meta-info").textContent = "Data unavailable";
         document.getElementById("episodes").innerHTML =
-          '<div class="error">No episode data yet. Data will appear after the first GitHub Actions run.</div>';
+          '<div class="error">No episode data yet. Please run the fetch workflow first.</div>';
       }
     }
 
     init();
   </script>
-
-  <style>
-    .ep-desc .topics li::before { background: var(--dot-color, #6366f1); }
-  </style>
 </body>
 </html>

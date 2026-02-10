@@ -2,9 +2,9 @@ name: Update Podcast Episodes
 
 on:
   schedule:
-    # Every 3 days at 00:00 UTC (Beijing time 08:00)
-    - cron: "0 0 */3 * *"
-  workflow_dispatch: # Allow manual trigger
+    # Daily at 23:00 UTC (Beijing time 07:00, next day)
+    - cron: "0 23 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
