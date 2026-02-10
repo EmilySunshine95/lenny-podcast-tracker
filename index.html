@@ -3,491 +3,579 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lenny's Podcast Tracker</title>
+  <title>Podcast Radar</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #0f0f0f;
-      color: #e8e8e8;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      background: #f5f5f7;
+      color: #1d1d1f;
       min-height: 100vh;
       line-height: 1.6;
     }
 
-    .container {
-      max-width: 860px;
-      margin: 0 auto;
-      padding: 40px 24px;
-    }
-
-    header {
+    /* ── Header ── */
+    .hero {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      padding: 48px 24px 32px;
       text-align: center;
-      margin-bottom: 48px;
-    }
-
-    header h1 {
-      font-size: 28px;
-      font-weight: 700;
       color: #fff;
-      margin-bottom: 8px;
     }
 
-    header .subtitle {
+    .hero h1 {
+      font-size: 32px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin-bottom: 6px;
+    }
+
+    .hero .tagline {
+      font-size: 15px;
+      color: rgba(255,255,255,0.6);
+      font-weight: 400;
+    }
+
+    .hero .meta-info {
+      margin-top: 16px;
+      font-size: 12px;
+      color: rgba(255,255,255,0.35);
+    }
+
+    /* ── Tabs ── */
+    .tab-bar {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      padding: 0 24px;
+      margin-top: -20px;
+      position: relative;
+      z-index: 10;
+    }
+
+    .tab-btn {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 28px;
+      border: none;
+      border-radius: 14px;
       font-size: 14px;
-      color: #888;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.25s;
+      background: #fff;
+      color: #666;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
     }
 
-    .meta-bar {
+    .tab-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    }
+
+    .tab-btn.active {
+      color: #fff;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      transform: translateY(-2px);
+    }
+
+    .tab-btn .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .tab-btn .yt-link {
+      font-size: 12px;
+      color: inherit;
+      opacity: 0.6;
+      text-decoration: none;
+      margin-left: 4px;
+    }
+
+    .tab-btn .yt-link:hover {
+      opacity: 1;
+      text-decoration: underline;
+    }
+
+    /* ── Container ── */
+    .container {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 32px 24px 60px;
+    }
+
+    .podcast-header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 32px;
-      padding: 12px 16px;
-      background: #1a1a1a;
-      border-radius: 10px;
+      margin-bottom: 24px;
+    }
+
+    .podcast-header .left h2 {
+      font-size: 20px;
+      font-weight: 700;
+      color: #1d1d1f;
+    }
+
+    .podcast-header .left .host {
       font-size: 13px;
-      color: #888;
+      color: #86868b;
+      margin-top: 2px;
     }
 
-    .meta-bar .auto-note {
-      font-size: 12px;
-      color: #555;
+    .podcast-header .yt-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      background: #ff0000;
+      color: #fff;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 600;
+      transition: all 0.2s;
     }
 
+    .podcast-header .yt-btn:hover {
+      background: #cc0000;
+      transform: translateY(-1px);
+    }
+
+    .podcast-header .yt-btn svg {
+      width: 16px;
+      height: 16px;
+      fill: currentColor;
+    }
+
+    /* ── Episode cards ── */
     .episodes {
       display: flex;
       flex-direction: column;
-      gap: 16px;
+      gap: 14px;
     }
 
     .episode-card {
-      background: #1a1a1a;
-      border: 1px solid #252525;
-      border-radius: 12px;
+      background: #fff;
+      border-radius: 16px;
       padding: 24px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
       transition: all 0.2s;
-      cursor: default;
     }
 
     .episode-card:hover {
-      border-color: #404040;
-      background: #1e1e1e;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.06);
+      transform: translateY(-1px);
     }
 
-    .episode-header {
+    .ep-top {
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
       gap: 16px;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
     }
 
-    .episode-title {
-      font-size: 17px;
-      font-weight: 600;
-      color: #fff;
+    .ep-title {
+      font-size: 16px;
+      font-weight: 650;
+      color: #1d1d1f;
       line-height: 1.4;
       flex: 1;
     }
 
-    .episode-title a {
+    .ep-title a {
       color: inherit;
       text-decoration: none;
     }
 
-    .episode-title a:hover {
-      color: #7eb8ff;
+    .ep-title a:hover {
+      color: #0066cc;
     }
 
-    .episode-date {
+    .ep-date {
       font-size: 12px;
-      color: #666;
+      color: #86868b;
       white-space: nowrap;
-      padding-top: 4px;
+      padding-top: 3px;
     }
 
-    .episode-meta {
+    .ep-meta {
       display: flex;
-      gap: 12px;
-      align-items: center;
-      margin-bottom: 12px;
-      font-size: 12px;
-      color: #666;
+      gap: 8px;
+      margin-bottom: 14px;
     }
 
-    .episode-meta .tag {
-      background: #252525;
-      padding: 2px 8px;
-      border-radius: 4px;
-      color: #999;
+    .ep-tag {
+      font-size: 11px;
+      font-weight: 500;
+      padding: 3px 10px;
+      border-radius: 100px;
+      background: #f0f0f2;
+      color: #6e6e73;
     }
 
-    .episode-guest {
-      font-size: 13px;
-      color: #7eb8ff;
-      margin-bottom: 12px;
-    }
-
-    .episode-description {
+    .ep-desc {
       font-size: 14px;
-      color: #ccc;
-      line-height: 1.8;
-      white-space: pre-line;
+      color: #424245;
+      line-height: 1.75;
     }
 
-    .episode-description .guest-intro {
-      margin-bottom: 12px;
-      color: #bbb;
+    .ep-desc .intro {
+      margin-bottom: 10px;
     }
 
-    .episode-description .topic-list {
+    .ep-desc .topics {
       padding-left: 0;
       list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
     }
 
-    .episode-description .topic-list li {
-      padding: 4px 0;
-      padding-left: 20px;
+    .ep-desc .topics li {
+      padding-left: 18px;
       position: relative;
-      color: #ccc;
+      color: #515154;
+      font-size: 13.5px;
     }
 
-    .episode-description .topic-list li::before {
+    .ep-desc .topics li::before {
       content: "";
       position: absolute;
       left: 0;
-      top: 12px;
+      top: 9px;
       width: 6px;
       height: 6px;
       border-radius: 50%;
-      background: #555;
     }
 
-    .desc-toggle {
+    .toggle-en {
       background: none;
       border: none;
-      color: #666;
+      color: #86868b;
       cursor: pointer;
       font-size: 12px;
-      margin-top: 8px;
+      margin-top: 10px;
       padding: 0;
     }
 
-    .desc-toggle:hover {
-      color: #999;
+    .toggle-en:hover {
+      color: #515154;
     }
 
-    .desc-en {
+    .en-text {
       display: none;
-      margin-top: 12px;
-      padding-top: 12px;
-      border-top: 1px dashed #333;
+      margin-top: 10px;
+      padding: 12px 16px;
+      background: #fafafa;
+      border-radius: 10px;
       font-size: 13px;
-      color: #777;
+      color: #86868b;
       white-space: pre-line;
       line-height: 1.7;
     }
 
-    .desc-en.visible {
-      display: block;
-    }
+    .en-text.show { display: block; }
 
+    /* ── Verdict ── */
     .verdict-bar {
       display: flex;
       gap: 8px;
       margin-top: 16px;
-      padding-top: 16px;
-      border-top: 1px solid #252525;
+      padding-top: 14px;
+      border-top: 1px solid #f0f0f2;
     }
 
-    .verdict-btn {
+    .v-btn {
       font-size: 12px;
-      padding: 4px 12px;
-      border-radius: 20px;
-      border: 1px solid #333;
+      font-weight: 500;
+      padding: 5px 14px;
+      border-radius: 100px;
+      border: 1.5px solid #e5e5e7;
       background: transparent;
-      color: #888;
+      color: #86868b;
       cursor: pointer;
       transition: all 0.2s;
     }
 
-    .verdict-btn:hover {
-      border-color: #555;
-      color: #ccc;
+    .v-btn:hover { border-color: #ccc; color: #515154; }
+
+    .v-btn.want.active {
+      background: #e8f5e9;
+      border-color: #66bb6a;
+      color: #2e7d32;
     }
 
-    .verdict-btn.want { }
-    .verdict-btn.want.active {
-      background: #1a3a2a;
-      border-color: #2a6a4a;
-      color: #5ecc89;
+    .v-btn.skip.active {
+      background: #fce4ec;
+      border-color: #ef5350;
+      color: #c62828;
     }
 
-    .verdict-btn.skip { }
-    .verdict-btn.skip.active {
-      background: #3a1a1a;
-      border-color: #6a2a2a;
-      color: #cc5e5e;
+    .v-btn.maybe.active {
+      background: #fff8e1;
+      border-color: #ffb300;
+      color: #e65100;
     }
 
-    .verdict-btn.maybe { }
-    .verdict-btn.maybe.active {
-      background: #3a3a1a;
-      border-color: #6a6a2a;
-      color: #cccc5e;
-    }
-
+    /* ── Loading / Error ── */
     .loading {
       text-align: center;
       padding: 60px 0;
-      color: #666;
+      color: #86868b;
     }
 
-    .loading .spinner {
+    .spinner {
       width: 24px;
       height: 24px;
-      border: 2px solid #333;
-      border-top-color: #888;
+      border: 2.5px solid #e5e5e7;
+      border-top-color: #86868b;
       border-radius: 50%;
       animation: spin 0.8s linear infinite;
       margin: 0 auto 16px;
     }
 
-    @keyframes spin {
-      to { transform: rotate(360deg); }
-    }
+    @keyframes spin { to { transform: rotate(360deg); } }
 
     .error {
       text-align: center;
       padding: 40px;
-      color: #cc5e5e;
-      background: #1a1a1a;
-      border-radius: 12px;
+      color: #c62828;
+      background: #fff;
+      border-radius: 16px;
     }
 
     .stats {
       text-align: center;
       margin-top: 40px;
-      padding: 20px;
       font-size: 12px;
-      color: #555;
+      color: #aaa;
     }
 
+    /* ── Mobile ── */
     @media (max-width: 600px) {
-      .container { padding: 24px 16px; }
-      header h1 { font-size: 22px; }
-      .episode-card { padding: 16px; }
-      .episode-header { flex-direction: column; gap: 4px; }
-      .episode-title { font-size: 15px; }
-      .meta-bar { flex-direction: column; gap: 8px; text-align: center; }
+      .hero { padding: 36px 16px 28px; }
+      .hero h1 { font-size: 26px; }
+      .tab-bar { flex-direction: column; align-items: center; margin-top: -16px; }
+      .tab-btn { width: 100%; max-width: 320px; justify-content: center; }
+      .container { padding: 24px 16px 48px; }
+      .episode-card { padding: 18px; }
+      .ep-top { flex-direction: column; gap: 4px; }
+      .podcast-header { flex-direction: column; gap: 12px; align-items: flex-start; }
     }
   </style>
 </head>
 <body>
+
+  <div class="hero">
+    <h1>Podcast Radar</h1>
+    <div class="tagline">Curated episodes at a glance</div>
+    <div class="meta-info" id="meta-info">Loading...</div>
+  </div>
+
+  <div class="tab-bar" id="tab-bar"></div>
+
   <div class="container">
-    <header>
-      <h1>Lenny's Podcast Tracker</h1>
-      <div class="subtitle">Product | Career | Growth &mdash; by Lenny Rachitsky</div>
-    </header>
-
-    <div class="meta-bar">
-      <span id="last-updated">Loading...</span>
-      <span class="auto-note">Auto-updates every 3 days via GitHub Actions</span>
-    </div>
-
+    <div class="podcast-header" id="podcast-header"></div>
     <div class="episodes" id="episodes">
       <div class="loading">
         <div class="spinner"></div>
         <div>Loading episodes...</div>
       </div>
     </div>
-
     <div class="stats" id="stats"></div>
   </div>
 
   <script>
-    const VERDICTS_KEY = "lenny_podcast_verdicts";
+    const VERDICTS_KEY = "podcast_radar_verdicts";
+    let DATA = null;
+    let ACTIVE_TAB = 0;
 
     function loadVerdicts() {
-      try {
-        return JSON.parse(localStorage.getItem(VERDICTS_KEY) || "{}");
-      } catch {
-        return {};
-      }
+      try { return JSON.parse(localStorage.getItem(VERDICTS_KEY) || "{}"); }
+      catch { return {}; }
     }
 
-    function saveVerdict(episodeTitle, verdict) {
-      const verdicts = loadVerdicts();
-      if (verdicts[episodeTitle] === verdict) {
-        delete verdicts[episodeTitle];
-      } else {
-        verdicts[episodeTitle] = verdict;
-      }
-      localStorage.setItem(VERDICTS_KEY, JSON.stringify(verdicts));
-      return verdicts;
+    function saveVerdict(key, verdict) {
+      const v = loadVerdicts();
+      if (v[key] === verdict) delete v[key];
+      else v[key] = verdict;
+      localStorage.setItem(VERDICTS_KEY, JSON.stringify(v));
+      return v;
     }
 
     function formatDate(dateStr) {
       const d = new Date(dateStr);
       const now = new Date();
-      const diffDays = Math.floor((now - d) / (1000 * 60 * 60 * 24));
-
-      if (diffDays === 0) return "Today";
-      if (diffDays === 1) return "Yesterday";
-      if (diffDays < 7) return `${diffDays} days ago`;
-
-      return d.toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-      });
+      const diff = Math.floor((now - d) / 86400000);
+      if (diff === 0) return "Today";
+      if (diff === 1) return "Yesterday";
+      if (diff < 7) return `${diff}d ago`;
+      return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
     }
 
-    function formatDuration(minutes) {
-      if (!minutes) return "";
-      const h = Math.floor(minutes / 60);
-      const m = minutes % 60;
-      if (h > 0) return `${h}h ${m}m`;
-      return `${m}m`;
+    function formatDuration(m) {
+      if (!m) return "";
+      const h = Math.floor(m / 60);
+      return h > 0 ? `${h}h ${m % 60}m` : `${m}m`;
     }
 
-    function escapeHtml(str) {
-      return str
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;");
+    function esc(s) {
+      const d = document.createElement("div");
+      d.textContent = s;
+      return d.innerHTML;
     }
 
-    // Parse description into guest intro + numbered topics
-    function formatDescription(desc) {
+    function parseDesc(desc) {
       if (!desc) return { intro: "", topics: [] };
-      const lines = desc.split("\n").map((l) => l.trim()).filter(Boolean);
-      const intro = [];
-      const topics = [];
+      const lines = desc.split("\n").map(l => l.trim()).filter(Boolean);
+      const intro = [], topics = [];
       let inTopics = false;
-
       for (const line of lines) {
-        // Match numbered items like "1. xxx" or "1) xxx"
-        const topicMatch = line.match(/^\d+[\.\)]\s*(.+)/);
-        if (topicMatch) {
-          inTopics = true;
-          topics.push(topicMatch[1]);
-        } else if (line.toLowerCase().startsWith("we discuss")) {
-          inTopics = true;
-          // Skip the "We discuss:" line itself
-        } else if (!inTopics) {
-          intro.push(line);
-        }
+        const m = line.match(/^\d+[\.\)]\s*(.+)/);
+        if (m) { inTopics = true; topics.push(m[1]); }
+        else if (line.toLowerCase().startsWith("we discuss")) inTopics = true;
+        else if (!inTopics) intro.push(line);
       }
-
       return { intro: intro.join(" "), topics };
     }
 
-    function renderEpisodes(data) {
+    function renderTabs() {
+      const bar = document.getElementById("tab-bar");
+      bar.innerHTML = DATA.podcasts.map((p, i) => `
+        <button class="tab-btn ${i === ACTIVE_TAB ? "active" : ""}"
+                style="${i === ACTIVE_TAB ? `background:${p.color};` : ""}"
+                onclick="switchTab(${i})">
+          <span class="dot" style="background:${p.color}"></span>
+          ${esc(p.name)}
+        </button>
+      `).join("");
+    }
+
+    function renderPodcast(podcast) {
+      const header = document.getElementById("podcast-header");
+      header.innerHTML = `
+        <div class="left">
+          <h2>${esc(podcast.name)}</h2>
+          <div class="host">${esc(podcast.host)} · ${esc(podcast.subtitle)}</div>
+        </div>
+        <a class="yt-btn" href="${podcast.youtube}" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 00-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 00.5 6.2 31.5 31.5 0 000 12a31.5 31.5 0 00.5 5.8 3 3 0 002.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 002.1-2.1A31.5 31.5 0 0024 12a31.5 31.5 0 00-.5-5.8zM9.5 15.6V8.4L16 12l-6.5 3.6z"/></svg>
+          YouTube
+        </a>
+      `;
+
       const container = document.getElementById("episodes");
       const verdicts = loadVerdicts();
+      const color = podcast.color;
 
-      if (!data || !data.episodes || data.episodes.length === 0) {
-        container.innerHTML =
-          '<div class="error">No episodes found. Click Refresh to try again.</div>';
+      if (!podcast.episodes || podcast.episodes.length === 0) {
+        container.innerHTML = '<div class="error">No episodes found.</div>';
         return;
       }
 
-      container.innerHTML = data.episodes
-        .map((ep, i) => {
-          const descCN = ep.descriptionCN || ep.description || "";
-          const descEN = ep.description || "";
-          const parsedCN = formatDescription(descCN);
-          const verdict = verdicts[ep.title] || "";
-          const safeTitle = ep.title.replace(/'/g, "\\'").replace(/"/g, "&quot;");
+      container.innerHTML = podcast.episodes.map((ep, i) => {
+        const cn = parseDesc(ep.descriptionCN || ep.description || "");
+        const en = ep.description || "";
+        const vKey = `${podcast.id}::${ep.title}`;
+        const v = verdicts[vKey] || "";
+        const safeKey = vKey.replace(/'/g, "\\'").replace(/"/g, "&quot;");
 
-          const topicsHtml = parsedCN.topics.length > 0
-            ? `<ul class="topic-list">${parsedCN.topics.map((t) => `<li>${escapeHtml(t)}</li>`).join("")}</ul>`
-            : "";
+        const topicsHtml = cn.topics.length > 0
+          ? `<ul class="topics">${cn.topics.map(t =>
+              `<li style="--dot-color:${color}"><span>${esc(t)}</span></li>`
+            ).join("")}</ul>`
+          : "";
 
-          return `
-          <div class="episode-card">
-            <div class="episode-header">
-              <div class="episode-title">
-                ${ep.url ? `<a href="${ep.url}" target="_blank" rel="noopener">${escapeHtml(ep.title)}</a>` : escapeHtml(ep.title)}
-              </div>
-              <div class="episode-date">${formatDate(ep.date)}</div>
+        return `
+        <div class="episode-card">
+          <div class="ep-top">
+            <div class="ep-title">
+              ${ep.url ? `<a href="${ep.url}" target="_blank" rel="noopener">${esc(ep.title)}</a>` : esc(ep.title)}
             </div>
-            <div class="episode-meta">
-              ${ep.duration ? `<span class="tag">${formatDuration(ep.duration)}</span>` : ""}
-            </div>
-            <div class="episode-description">
-              <div class="guest-intro">${escapeHtml(parsedCN.intro)}</div>
-              ${topicsHtml}
-            </div>
-            <button class="desc-toggle" onclick="toggleOriginal(${i})">Show original / 显示原文</button>
-            <div class="desc-en" id="desc-en-${i}">${escapeHtml(descEN)}</div>
-            <div class="verdict-bar">
-              <button class="verdict-btn want ${verdict === "want" ? "active" : ""}"
-                      onclick="setVerdict('${safeTitle}', 'want', this)">
-                Want to listen
-              </button>
-              <button class="verdict-btn maybe ${verdict === "maybe" ? "active" : ""}"
-                      onclick="setVerdict('${safeTitle}', 'maybe', this)">
-                Maybe later
-              </button>
-              <button class="verdict-btn skip ${verdict === "skip" ? "active" : ""}"
-                      onclick="setVerdict('${safeTitle}', 'skip', this)">
-                Skip
-              </button>
-            </div>
-          </div>`;
-        })
-        .join("");
+            <div class="ep-date">${formatDate(ep.date)}</div>
+          </div>
+          <div class="ep-meta">
+            ${ep.duration ? `<span class="ep-tag">${formatDuration(ep.duration)}</span>` : ""}
+          </div>
+          <div class="ep-desc">
+            <div class="intro">${esc(cn.intro)}</div>
+            ${topicsHtml}
+          </div>
+          <button class="toggle-en" onclick="toggleEn(${i})">Show original / 显示原文</button>
+          <div class="en-text" id="en-${i}">${esc(en)}</div>
+          <div class="verdict-bar">
+            <button class="v-btn want ${v === "want" ? "active" : ""}"
+                    onclick="setVerdict('${safeKey}','want',this)">Want to listen</button>
+            <button class="v-btn maybe ${v === "maybe" ? "active" : ""}"
+                    onclick="setVerdict('${safeKey}','maybe',this)">Maybe later</button>
+            <button class="v-btn skip ${v === "skip" ? "active" : ""}"
+                    onclick="setVerdict('${safeKey}','skip',this)">Skip</button>
+          </div>
+        </div>`;
+      }).join("");
 
-      // Update meta
-      const lastFetched = new Date(data.lastFetched);
-      document.getElementById("last-updated").textContent =
-        `Last updated: ${lastFetched.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", hour: "2-digit", minute: "2-digit" })}`;
+      // Inject dot color via CSS variable
+      container.querySelectorAll(".topics li").forEach(li => {
+        li.querySelector("::before") // no-op, use CSS below
+      });
 
-      // Stats
-      const wantCount = Object.values(verdicts).filter((v) => v === "want").length;
-      const skipCount = Object.values(verdicts).filter((v) => v === "skip").length;
-      document.getElementById("stats").textContent =
-        `${wantCount} episodes marked to listen | ${skipCount} skipped | Auto-refreshes every 3 days`;
+      updateStats();
     }
 
-    function toggleOriginal(index) {
-      const el = document.getElementById(`desc-en-${index}`);
-      el.classList.toggle("visible");
+    function switchTab(idx) {
+      ACTIVE_TAB = idx;
+      renderTabs();
+      renderPodcast(DATA.podcasts[idx]);
     }
 
-    function setVerdict(title, verdict, btn) {
-      const verdicts = saveVerdict(title, verdict);
+    function toggleEn(i) {
+      document.getElementById(`en-${i}`).classList.toggle("show");
+    }
+
+    function setVerdict(key, verdict, btn) {
+      const v = saveVerdict(key, verdict);
       const bar = btn.parentElement;
-      bar.querySelectorAll(".verdict-btn").forEach((b) => b.classList.remove("active"));
-      if (verdicts[title]) {
-        btn.classList.add("active");
-      }
-
-      // Update stats
-      const wantCount = Object.values(verdicts).filter((v) => v === "want").length;
-      const skipCount = Object.values(verdicts).filter((v) => v === "skip").length;
-      document.getElementById("stats").textContent =
-        `${wantCount} episodes marked to listen | ${skipCount} skipped | Auto-refreshes every 3 days`;
+      bar.querySelectorAll(".v-btn").forEach(b => b.classList.remove("active"));
+      if (v[key]) btn.classList.add("active");
+      updateStats();
     }
 
-    // Initial load - fetch the static JSON data
+    function updateStats() {
+      const v = loadVerdicts();
+      const want = Object.values(v).filter(x => x === "want").length;
+      const skip = Object.values(v).filter(x => x === "skip").length;
+      document.getElementById("stats").textContent =
+        `${want} episodes to listen · ${skip} skipped · Auto-updates every 3 days`;
+    }
+
     async function init() {
       try {
         const res = await fetch("data/episodes.json");
-        if (!res.ok) throw new Error("No data yet");
-        const data = await res.json();
-        renderEpisodes(data);
-      } catch (err) {
+        if (!res.ok) throw new Error("No data");
+        DATA = await res.json();
+
+        const d = new Date(DATA.lastFetched);
+        document.getElementById("meta-info").textContent =
+          `Last updated: ${d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", hour: "2-digit", minute: "2-digit" })}`;
+
+        renderTabs();
+        renderPodcast(DATA.podcasts[0]);
+      } catch {
         document.getElementById("episodes").innerHTML =
-          '<div class="error">No episode data found. Data will be available after the first GitHub Actions run.</div>';
+          '<div class="error">No episode data yet. Data will appear after the first GitHub Actions run.</div>';
       }
     }
 
     init();
   </script>
+
+  <style>
+    .ep-desc .topics li::before { background: var(--dot-color, #6366f1); }
+  </style>
 </body>
 </html>
