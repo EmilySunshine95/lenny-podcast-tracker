@@ -5,6 +5,7 @@ const path = require("path");
 
 const OUTPUT_FILE = path.join(__dirname, "..", "data", "episodes.json");
 const MAX_EPISODES = 6;
+const MIN_YOUTUBE_MINUTES = 8;
 
 const PODCASTS = [
   {
@@ -386,6 +387,25 @@ function textFromRuns(block) {
   return block.runs.map((r) => r.text || "").join("").trim();
 }
 
+function parseDurationToMinutes(lengthText) {
+  if (!lengthText) return null;
+  const parts = lengthText.trim().split(":").map((x) => Number(x));
+  if (parts.some((n) => Number.isNaN(n))) return null;
+
+  let seconds = 0;
+  if (parts.length === 3) {
+    seconds = parts[0] * 3600 + parts[1] * 60 + parts[2];
+  } else if (parts.length === 2) {
+    seconds = parts[0] * 60 + parts[1];
+  } else if (parts.length === 1) {
+    seconds = parts[0];
+  } else {
+    return null;
+  }
+
+  return Math.max(1, Math.round(seconds / 60));
+}
+
 function extractDescriptionFromRenderer(vr) {
   const desc1 = textFromRuns(vr.descriptionSnippet);
   if (desc1) return desc1;
@@ -430,15 +450,20 @@ async function fetchYouTubeFromPage(podcast) {
   for (const vr of renderers) {
     const videoId = vr.videoId;
     const title = textFromRuns(vr.title);
+    const lengthText = textFromRuns(vr.lengthText);
+    const durationMins = parseDurationToMinutes(lengthText);
     if (!videoId || !title || seen.has(videoId)) continue;
     seen.add(videoId);
+
+    // Skip shorts / very short clips and keep long-form podcast content.
+    if (!durationMins || durationMins < MIN_YOUTUBE_MINUTES) continue;
 
     rawEpisodes.push({
       title,
       guest: null,
       date: parseRelativeTimeToIso(textFromRuns(vr.publishedTimeText)),
       description: extractDescriptionFromRenderer(vr),
-      duration: null,
+      duration: durationMins,
       url: `https://www.youtube.com/watch?v=${videoId}`,
       artworkUrl: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
     });
@@ -450,31 +475,35 @@ async function fetchYouTubeFromPage(podcast) {
 }
 
 async function fetchFromYouTube(podcast) {
-  const channelId = await resolveChannelId(podcast);
-
   try {
+    // Prefer channel page parsing because it includes duration, which lets us filter out Shorts.
+    const episodes = await fetchYouTubeFromPage(podcast);
+    if (episodes.length > 0) return episodes;
+    throw new Error("Page parser returned no long-form episodes");
+  } catch (pageErr) {
+    const channelId = await resolveChannelId(podcast);
     const rssUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
-    const xml = await httpGet(rssUrl);
-    const parsed = parseYouTubeRSS(xml)
-      .slice(0, MAX_EPISODES)
-      .map((vid) => ({
-        title: vid.title,
-        guest: null,
-        date: vid.published,
-        description: vid.rawDesc,
-        duration: null,
-        url: `https://www.youtube.com/watch?v=${vid.videoId}`,
-        artworkUrl: `https://i.ytimg.com/vi/${vid.videoId}/hqdefault.jpg`,
-      }));
+    try {
+      const xml = await httpGet(rssUrl);
+      const parsed = parseYouTubeRSS(xml)
+        .slice(0, MAX_EPISODES)
+        .map((vid) => ({
+          title: vid.title,
+          guest: null,
+          date: vid.published,
+          description: vid.rawDesc,
+          duration: null,
+          url: `https://www.youtube.com/watch?v=${vid.videoId}`,
+          artworkUrl: `https://i.ytimg.com/vi/${vid.videoId}/hqdefault.jpg`,
+        }));
 
-    if (parsed.length > 0) {
-      return enrichEpisodes(parsed);
+      if (parsed.length > 0) {
+        return enrichEpisodes(parsed);
+      }
+      throw new Error("RSS returned no entries");
+    } catch (rssErr) {
+      throw new Error(`Page parser failed (${pageErr.message}); RSS failed (${rssErr.message})`);
     }
-
-    throw new Error("RSS returned no entries");
-  } catch (err) {
-    console.warn(`    RSS unavailable for ${podcast.name}, fallback to page parser: ${err.message}`);
-    return fetchYouTubeFromPage(podcast);
   }
 }
 
