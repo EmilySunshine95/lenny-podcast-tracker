@@ -1,11 +1,12 @@
 {
-  "lastFetched": "2026-02-10T06:09:27.863Z",
+  "lastFetched": "2026-02-10T06:28:56.577Z",
   "podcasts": [
     {
       "id": "lenny",
       "name": "Lenny's Podcast",
       "subtitle": "Product | Career | Growth",
       "host": "Lenny Rachitsky",
+      "source": "itunes",
       "itunesId": "1627920305",
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#6366f1",
@@ -18,7 +19,6 @@
           "descriptionCN": "Lazar Jovanovic 是 Lovable 的全职专业氛围编码员。他的工作是纯粹使用人工智能构建内部工具和面向客户的产品，但没有编码背景。在这次对话中，他详细介绍了使他能够仅使用人工智能交付生产质量产品的策略、工作流程和框架。\n我们讨论：\n1. 为什么在使用人工智能进行构建时，没有编码背景可能是一个优势\n2. 为什么大部分时间应该进入计划和聊天模式，而不是提示\n3. 当你遇到困难时该怎么办：他的 4x4 调试工作流程\n4. PRD 和 Markdown 文件系统使 AI 代理在复杂的构建中保持一致\n5. 为什么启动四五个并行原型是阐明你的想法的最佳方式\n6. 为什么设计技能和品味将成为未来最重要的技能\n7. 他的“精灵和三个愿望”思维模型充分利用了人工智能的局限性\n8. 产品、工程和设计角色如何融合——以及这对你的职业生涯意味着什么",
           "duration": 103,
           "url": "https://podcasts.apple.com/us/podcast/the-rise-of-the-professional-vibe-coder-a-new-ai/id1627920305?i=1000748773583&uo=4",
-          "episodeUrl": "https://api.substack.com/feed/podcast/186928764/005fbace84ee13dabcd544f688341e0b.mp3",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/c5/5f/fac55ff2-43da-417a-38af-9af1756b3eb6/mza_16602621849544168770.png/600x600bb.jpg"
         },
         {
@@ -29,7 +29,6 @@
           "descriptionCN": "贝基·肯尼迪博士是一位临床心理学家、畅销书《Good Inside》的作者，也是数百万人使用的育儿平台的创始人。贝基博士以其实用的、基于心理学的育儿方法而闻名，她分享了帮助父母培养有适应能力的孩子的相同原则如何使您成为更有效的领导者。在这次对话中，她详细阐述了为什么所有人类系统（无论是家庭还是公司）都按照相同的基本原则运作，以及理解这些动态如何使您在每种关系中更加有效。\n我们讨论：\n1. 为什么强大的领导力是修复而非完美\n2. 为什么在纠正之前需要联系以建立合作和信任\n3.处理困难行为的“最慷慨的解释”框架\n4. 如何正确设定界限（相对于提出请求）\n5.“我相信你，我相信你”的力量\n6. 一个“坚强”的领导者是什么样子的",
           "duration": 92,
           "url": "https://podcasts.apple.com/us/podcast/a-child-psychologists-guide-to-working-with/id1627920305?i=1000747564881&uo=4",
-          "episodeUrl": "https://api.substack.com/feed/podcast/184714824/d77a2f699de3168dc5311338236689a0.mp3",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/49/ee/5a49ee80-5a89-1a95-ca06-7c9df3fe21c8/mza_532204469681152827.jpg/600x600bb.jpg"
         },
         {
@@ -40,7 +39,6 @@
           "descriptionCN": "马克·安德森 (Marc Andreessen) 是 Netscape 的创始人、投资者和联合创始人，也是风险投资公司 Andreessen Horowitz (a16z) 的联合创始人。在这次对话中，我们深入探讨了为什么我们正在经历历史上一个独特且最令人难以置信的时代，以及接下来会发生什么。\n我们讨论：\n1. 为什么人工智能正处于应对人口崩溃和生产力下降的最佳时机\n2. Marc 如何抚养他 10 岁的孩子在人工智能驱动的世界中茁壮成长\n3. 人工智能和就业实际上会发生什么（剧透：他认为这种恐慌“完全没有根据”）\n4. 产品经理、设计师和工程师之间发生的“墨西哥对峙”\n5. 为什么你仍然应该学习编码（即使有了人工智能）\n6、如何以人工智能为力量倍增器，打造多种技能相结合的“E型”职业\n7. 他不断提及的职业建议（“不要被替代”）\n8. 人工智能如何实现一对一辅导的民主化，从而潜在地改变教育\n9. 他的媒体饮食：X和旧书，没有介于两者之间的",
           "duration": 105,
           "url": "https://podcasts.apple.com/us/podcast/marc-andreessen-the-real-ai-boom-hasnt-even-started-yet/id1627920305?i=1000747181251&uo=4",
-          "episodeUrl": "https://api.substack.com/feed/podcast/185338497/058ce8a25ea8ab878be00185596fdba7.mp3",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9f/94/b4/9f94b409-23f5-3f9b-e33a-2421a60ef63c/mza_5003835142277818845.png/600x600bb.jpg"
         },
         {
@@ -51,7 +49,6 @@
           "descriptionCN": "Jason Cohen 是四次创始人（其中包括两家独角兽公司，其中一家是 WP Engine），也是 60 多家初创公司的投资者，近 20 年来一直在 A Smart Bear 分享他在公司建设方面的经验教训。在本集中，杰森分享了他用于诊断增长停滞的系统性五步框架——这是几乎每个团队都面临的问题。\n我们讨论：\n1. Jason 的五步框架：标识保留、定价、NRR、营销渠道、目标市场\n2. 一个小调整，可以使取消调查的回复率翻倍\n3. 为什么“太贵”几乎从来都不是客户取消预订的真正原因\n4.增长的“大象曲线”\n5. 重新定位同一产品如何能够将收入增加 8 倍\n6. 何时重新考虑增长是否是您企业的正确目标",
           "duration": 106,
           "url": "https://podcasts.apple.com/us/podcast/5-questions-to-ask-when-your-product-stops-growing/id1627920305?i=1000746562056&uo=4",
-          "episodeUrl": "https://api.substack.com/feed/podcast/184576103/43981a8ccb5b4fe4b547d21bf05bc62b.mp3",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/f5/9b/9ff59b35-f569-6da5-d93d-fb6a14bd98e3/mza_12604434440654264829.png/600x600bb.jpg"
         },
         {
@@ -59,10 +56,9 @@
           "guest": "Zevi Arnovitz",
           "date": "2026-01-18T13:31:19Z",
           "description": "Zevi Arnovitz is a product manager at Meta with no technical background who has figured out how to build and ship real products using AI. His engineering team at Meta asks him to teach them how he does what he does. In this episode, Zevi breaks down his complete AI workflow that allows non-technical people to build sophisticated products with Cursor.\nWe discuss:\n1. The complete AI workflow that lets non-technical people build real products in Cursor\n2. How to use multiple AI models for different tasks (Claude for planning, Gemini for UI)\n3. Using slash commands to automate prompts\n4. Zevi’s “peer review” technique, which uses different AI models to review each other’s code\n5. Why this might be the best time to be a junior in tech, despite the challenging job market\n6. How Zevi used AI to prepare for his Meta PM interviews",
-          "descriptionCN": "Zevi Arnovitz 是 Meta 的产品经理，没有任何技术背景，但他已经弄清楚如何使用人工智能构建和交付真实产品。他在 Meta 的工程团队要求他教他们如何做他所做的事情。在本集中，Zevi 分解了他完整的 AI 工作流程，该工作流程允许非技术人员使用 Cursor 构建复杂的产品。\n我们讨论：\n1. 完整的人工智能工作流程，让非技术人员在 Cursor 中构建真实的产品\n2. 如何使用多个AI模型来完成不同的任务（Claude用于规划，Gemini用于UI）\n3. 使用斜杠命令自动提示\n4. Zevi的“同行评审”技术，使用不同的AI模型来评审彼此的代码\n5. 尽管就业市场充满挑战，为什么现在可能是成为科技初级人才的最佳时机\n6. Zevi 如何使用 AI 准备 Meta PM 采访",
+          "descriptionCN": "Zevi Arnovitz 是 Meta 的产品经理，没有任何技术背景，但他已经弄清楚如何使用人工智能构建和交付真实产品。他在 Meta 的工程团队要求他教他们如何做他所做的事情。在本集中，Zevi 分解了他完整的 AI 工作流程，该工作流程允许非技术人员使用 Cursor 构建复杂的产品。\n我们讨论：\n1. 完整的人工智能工作流程，让非技术人员在 Cursor 中构建真实的产品\n2. 如何使用多个AI模型来完成不同的任务（Claude用于规划，Gemini用于UI���\n3. 使用斜杠命令自动提示\n4. Zevi的“同行评审”技术，使用不同的AI模型来评审彼此的代码\n5. 尽管就业市场充满挑战，为什么现在可能是成为科技初级人才的最佳时机\n6. Zevi 如何使用 AI 准备 Meta PM 采访",
           "duration": 75,
           "url": "https://podcasts.apple.com/us/podcast/the-non-technical-pms-guide-to-building-with-cursor/id1627920305?i=1000745618983&uo=4",
-          "episodeUrl": "https://api.substack.com/feed/podcast/184167026/d503111be560b59dfd3023389a2ff6ec.mp3",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/bb/b7/80bbb7c5-0e28-6e3a-757d-286bf833f715/mza_2147565571988942655.png/600x600bb.jpg"
         },
         {
@@ -73,85 +69,79 @@
           "descriptionCN": "Sam Lessin 是 Slow Ventures 的合伙人、Facebook 前产品副总裁、两届创始人，现在正在向硅谷创始人教授礼仪。在这一非传统的节目中，Sam 解释了为什么适当的礼仪已成为 2026 年创始人的一项重要技能，尤其是当技术变得更加成为社会的核心并且信任变得越来越难以建立时。他的礼仪书籍和课程出奇地受欢迎，教创始人如何“出现在低心率的房间里”并快速建立信任。\n我们讨论：\n1. 为什么礼仪很重要\n2. Sam 在任何房间里以低心率自信地出现的框架\n3. 如何像专业人士一样应对介绍、闲聊、会议和用餐\n4. 记住名字和处理尴尬社交场合的简单技巧\n5. 30+具体礼仪技巧",
           "duration": 87,
           "url": "https://podcasts.apple.com/us/podcast/how-to-show-up-in-any-room-with-a-low-heart-rate/id1627920305?i=1000745291059&uo=4",
-          "episodeUrl": "https://api.substack.com/feed/podcast/183005286/1540474e73176119fd631880f7a84d09.mp3",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/19/1d/1d/191d1ddf-e63a-3a9a-f3b8-d355d97c098c/mza_444047226743951538.png/600x600bb.jpg"
         }
       ]
     },
     {
       "id": "dankoe",
-      "name": "The Koe Cast",
+      "name": "Dan Koe",
       "subtitle": "Self-Improvement | Business | Philosophy",
       "host": "Dan Koe",
-      "itunesId": "1566479559",
+      "source": "youtube",
+      "youtubeChannelId": "UCWXYDYv5STLk-zoxMP2I1Lw",
       "youtube": "https://www.youtube.com/@DanKoeTalks",
       "color": "#f59e0b",
       "episodes": [
         {
           "title": "If you have multiple interests, do not waste the next 2-3 years",
           "guest": null,
-          "date": "2026-01-20T16:37:23Z",
+          "date": "2026-01-20T16:26:17+00:00",
           "description": "How to actually manage multiple interests and turn them into a one-person business.",
           "descriptionCN": "如何真正管理多种利益并将其转变为一个人的事业。",
-          "duration": 52,
-          "url": "https://podcasts.apple.com/us/podcast/if-you-have-multiple-interests-do-not-waste-the-next-2-3-years/id1566479559?i=1000745918570&uo=4",
-          "episodeUrl": "https://traffic.megaphone.fm/APO8006513835.mp3",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/57/e5/7157e504-cf5d-366f-4b59-d2f75e9a55f2/mza_4539399987799982527.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "If I Built An Audience From Zero In 2026, I'd Do This",
-          "guest": null,
-          "date": "2026-01-07T20:59:47Z",
-          "description": "How content is changing and how to actually grow from zero followers.",
-          "descriptionCN": "内容如何变化以及如何从零粉丝开始真正成长。",
-          "duration": 34,
-          "url": "https://podcasts.apple.com/us/podcast/if-i-built-an-audience-from-zero-in-2026-id-do-this/id1566479559?i=1000744187655&uo=4",
-          "episodeUrl": "https://traffic.megaphone.fm/APO1406985376.mp3",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/57/e5/7157e504-cf5d-366f-4b59-d2f75e9a55f2/mza_4539399987799982527.jpg/600x600bb.jpg"
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=ExNWGF-q64M",
+          "artworkUrl": "https://i.ytimg.com/vi/ExNWGF-q64M/hqdefault.jpg"
         },
         {
           "title": "How I'd build a one-person business (if I started over in 2026)",
           "guest": null,
-          "date": "2026-01-03T20:18:06Z",
+          "date": "2026-01-03T20:16:08+00:00",
           "description": "The one-person business is changing.",
           "descriptionCN": "一个人的生意正在发生变化。",
-          "duration": 31,
-          "url": "https://podcasts.apple.com/us/podcast/how-id-build-a-one-person-business-if-i-started-over-in-2026/id1566479559?i=1000743639333&uo=4",
-          "episodeUrl": "https://traffic.megaphone.fm/APO5198742083.mp3",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/57/e5/7157e504-cf5d-366f-4b59-d2f75e9a55f2/mza_4539399987799982527.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "You have about 24 months to learn these skills",
-          "guest": null,
-          "date": "2025-12-31T16:52:39Z",
-          "description": "Everyone is trying to learn the wrong skills.",
-          "descriptionCN": "每个人都在试图学习错误的技能。",
-          "duration": 26,
-          "url": "https://podcasts.apple.com/us/podcast/you-have-about-24-months-to-learn-these-skills/id1566479559?i=1000743335372&uo=4",
-          "episodeUrl": "https://traffic.megaphone.fm/APO6585555586.mp3",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/57/e5/7157e504-cf5d-366f-4b59-d2f75e9a55f2/mza_4539399987799982527.jpg/600x600bb.jpg"
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=VyR8nqD3sQ8",
+          "artworkUrl": "https://i.ytimg.com/vi/VyR8nqD3sQ8/hqdefault.jpg"
         },
         {
           "title": "How to fix your entire life in 1 day",
           "guest": null,
-          "date": "2025-12-28T19:15:06Z",
+          "date": "2025-12-28T19:04:46+00:00",
           "description": "Yes, one day.",
           "descriptionCN": "是的，有一天。",
-          "duration": 40,
-          "url": "https://podcasts.apple.com/us/podcast/how-to-fix-your-entire-life-in-1-day/id1566479559?i=1000742971321&uo=4",
-          "episodeUrl": "https://traffic.megaphone.fm/APO9460419839.mp3",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/57/e5/7157e504-cf5d-366f-4b59-d2f75e9a55f2/mza_4539399987799982527.jpg/600x600bb.jpg"
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=K8K09g9XR4s",
+          "artworkUrl": "https://i.ytimg.com/vi/K8K09g9XR4s/hqdefault.jpg"
         },
         {
-          "title": "The Most Important Skill To Learn In The Next 10 Years",
+          "title": "You need to become high-agency... here's how",
           "guest": null,
-          "date": "2025-12-21T18:47:40Z",
+          "date": "2025-12-21T18:26:02+00:00",
           "description": "Why generalists win in the AI age.",
           "descriptionCN": "为什么通才会在人工智能时代获胜。",
-          "duration": 29,
-          "url": "https://podcasts.apple.com/us/podcast/the-most-important-skill-to-learn-in-the-next-10-years/id1566479559?i=1000742221469&uo=4",
-          "episodeUrl": "https://traffic.megaphone.fm/APO5520291821.mp3",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/57/e5/7157e504-cf5d-366f-4b59-d2f75e9a55f2/mza_4539399987799982527.jpg/600x600bb.jpg"
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=0XI_Xt0ci2Y",
+          "artworkUrl": "https://i.ytimg.com/vi/0XI_Xt0ci2Y/hqdefault.jpg"
+        },
+        {
+          "title": "How To Articulate Your Thoughts Intelligently (Talk Like This)",
+          "guest": null,
+          "date": "2025-12-07T21:07:28+00:00",
+          "description": "If you can write or speak well, you are one step closer to getting what you want in life.",
+          "descriptionCN": "如果你能写或说得好，你就离你想要的生活更近了一步。",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=DKT6m_8vCkA",
+          "artworkUrl": "https://i.ytimg.com/vi/DKT6m_8vCkA/hqdefault.jpg"
+        },
+        {
+          "title": "How To Use AI Better Than 99% Of People (This Changed My Life)",
+          "guest": null,
+          "date": "2025-11-27T17:51:25+00:00",
+          "description": "Most people don't know how to use AI. This video will change that.",
+          "descriptionCN": "大多数人不知道如何使用人工智能。这个视频将改变这一点。",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=xgpLjLHB5sA",
+          "artworkUrl": "https://i.ytimg.com/vi/xgpLjLHB5sA/hqdefault.jpg"
         }
       ]
     }
