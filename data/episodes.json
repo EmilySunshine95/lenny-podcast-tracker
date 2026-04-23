@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-04-22T23:44:03.402Z",
+  "lastFetched": "2026-04-23T23:42:45.727Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -13,6 +13,16 @@
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#4f46e5",
       "episodes": [
+        {
+          "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+          "guest": "Cat Wu",
+          "date": "2026-04-23T15:01:50Z",
+          "description": "Cat Wu is Head of Product for Claude Code and Cowork at Anthropic, building one of the most important AI products of this generation. Before joining Anthropic, Cat spent years as an engineer and briefly worked in VC. Today, she’s interviewing hundreds of product managers who are trying to break into AI—and seeing firsthand what separates those who thrive from those who fall behind.\nWe discuss:\n1. How Anthropic’s shipping cadence went from months to weeks to days\n2. The emerging skills PMs need to develop right now\n3. Why you need to build products that don’t yet fully work, so you’re ready when the next model closes the gap\n4. Cat’s most underrated AI skill: asking the model to introspect on its own mistakes\n5. Why Claude’s personality is core to its success\n6. Why Anthropic’s mission alignment eliminates the friction that slows most large organizations\n7. Why “just do things” is the most important principle for working at AI-native companies",
+          "descriptionCN": "Cat Wu 是 Anthropic 的 Claude Code 和 Cowork 的产品主管，构建了这一代最重要的人工智能产品之一。在加入 Anthropic 之前，Cat 担任了多年工程师，并曾短暂从事过风险投资工作。今天，她正在采访数百名试图进军人工智能领域的产品经理，并亲眼目睹是什么将成功者与落后者区分开来。\n我们讨论：\n1. Anthropic 的发货节奏如何从几个月缩短到几周甚至几天\n2. PM 现在需要发展的新兴技能\n3. 为什么您需要构建尚未完全发挥作用的产品，以便在下一个模型缩小差距时做好准备\n4. Cat最被低估的AI技能：要求模型反思自己的错误\n5. 为什么克劳德的个性是其成功的核心\n6. 为什么 Anthropic 的使命一致性消除了阻碍大多数大型组织发展的摩擦\n7. 为什么“只做事”是人工智能原生公司最重要的工作原则",
+          "duration": 86,
+          "url": "https://podcasts.apple.com/us/podcast/how-anthropics-product-team-moves-faster-than-anyone/id1627920305?i=1000763270413&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/91/ff/b791ff4c-4f4e-74e6-8113-99e0f99aee06/mza_17525823734121319325.png/600x600bb.jpg"
+        },
         {
           "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
           "guest": "Nikhyl Singhal",
@@ -48,7 +58,7 @@
           "guest": "Simon Willison",
           "date": "2026-04-02T12:32:28Z",
           "description": "Simon Willison is a prolific independent software developer, a blogger, and one of the most visible and trusted voices on the impact AI is having on builders. He co-created Django, the web framework that powers Instagram, Pinterest, and tens of thousands of other websites. He coined the term “prompt injection,” popularized the terms “AI slop” and “agentic engineering,” and has built over 100 open source projects, including Datasette, a data analysis tool used by investigative journalists worldwide. What makes Simon unique is that he’s made the leap from traditional software engineering to AI-native development more fully and visibly than almost anyone—and he’s been documenting everything he learns in real time on his blog, SimonWillison.net.\nIn our in-depth conversation, Simon shares:\n1. Why November 2025 was the inflection point when AI coding agents crossed from “mostly works” to “actually works”\n2. How Simon writes 95% of his code from his phone now and why he’s mentally exhausted by 11 a.m.\n3. Why mid-career engineers (not juniors) are most at risk right now\n4. The three agentic engineering patterns Simon uses daily (red/green TDD, templates, hoarding)\n5. The next leap: the “dark factory” pattern where nobody writes or reviews code and AI does its own QA\n6. Why prompt injection is an unsolved security problem and the “lethal trifecta” that will likely lead to an AI Challenger disaster\n7. Why the pelican riding a bicycle became the unofficial benchmark for AI model quality",
-          "descriptionCN": "Simon Willison 是一位多产的独立软件开发人员、博主，也是人工智能对建筑商影响方面最引人注目、最值得信赖的声音之一。他共同创建了 Django，这是一个为 Instagram、Pinterest 和数以万计的其他网站提供支持的 Web 框架。他创造了“即时注入”一词，推广了“AI slop”和“代理工程”等术语，并构建了 100 多个开源项目，其中包括 Datasette，这是一种全球调查记者使用的数据分析工具。 Simon 的独特之处在于，他比几乎任何人都更全面、更明显地实现了从传统软件工程到 AI 原生开发的飞跃，而且他一直在他的博客 SimonWillison.net 上实时记录他学到的一切。\n在我们的深入对话中，西蒙分享了：\n1. 为什么 2025 年 11 月是 AI 编码代理从“大部分有效”跨越到“实际有效”的拐点\n2. Simon 现在 95% 的代码是如何通过手机编写的，以及为什么他到了上午 11 点就精神疲惫。\n3. 为什么处于职业生涯中期的工程师（而不是初级工程师）现在面临的风险最大\n4. Simon 日常使用的三种代理工程模式（红/绿 TDD、模板、囤积）\n5. 下一个飞跃：“黑暗工厂”模式，没有人编写或审查代码，人工智能自己进行质量检查\n6. 为什么即时注入是一个未解决的安全问题，也是可能导致 AI Challenger 灾难的“致命三连击”\n7. 为什么骑自行车的鹈鹕成为AI模型质量的非官方标杆",
+          "descriptionCN": "Simon Willison 是一位多产的独立软件开发人员、博主，也是人工智能对建筑商影响方面最引人注目、最值得信赖的声音之一。他共同创建了 Django，这是一个为 Instagram、Pinterest 和数以万计的其他网站提供支持的 Web 框架。他创造了“即时注入”一词，推广了“AI slop”和“代理工程”等术语，并构建了 100 多个开源项目，其中包括 Datasette，这是一种全球调查记者使用的数据分析工具。 Simon 的独特之处在于，他比几乎任何人都更全面、更明显地实现了从传统软件工程到 AI 原生开发的飞跃，而且他一直在他的博客 SimonWillison.net 上��时记录他学到的一切。\n在我们的深入对话中，西蒙分享了：\n1. 为什么 2025 年 11 月是 AI 编码代理从“大部分有效”跨越到“实际有效”的拐点\n2. Simon 现在 95% 的代码是如何通过手机编写的，以及为什么他到了上午 11 点就精神疲惫。\n3. 为什么处于职业生涯中期的工程师（而不是初级工程师）现在面临的风险最大\n4. Simon 日常使用的三种代理工程模式（红/绿 TDD、模板、囤积）\n5. 下一个飞跃：“黑暗工厂”模式，没有人编写或审查代码，人工智能自己进行质量检查\n6. 为什么即时注入是一个未解决的安全问题以及可能导致 AI Challenger 灾难的“致命三连击”\n7. 为什么骑自行车的鹈鹕成为AI模型质量的非官方标杆",
           "duration": 100,
           "url": "https://podcasts.apple.com/us/podcast/an-ai-state-of-the-union-weve-passed-the/id1627920305?i=1000758850377&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/41/c3/b4/41c3b415-e97b-e450-736e-282d96989d56/mza_12292385951609979119.jpg/600x600bb.jpg"
@@ -58,20 +68,10 @@
           "guest": "Claire Vo",
           "date": "2026-03-29T12:31:50Z",
           "description": "Claire Vo is the host of our sister podcast, “How I AI,” a former product executive and engineer, and founder of an AI startup called ChatPRD. Claire now runs her business, podcast, and family life with the help of nine OpenClaw agents running on multiple Mac Minis and old laptops. In this episode, Claire shares her journey from OpenClaw skeptic (it deleted her family calendar the first time she tried it) to true believer, and gives a masterclass in using AI agents in real life.\nWe discuss:\n1. The exact step-by-step process to install and set up OpenClaw (it’s easier than you think)\n2. How to avoid the biggest OpenClaw mistakes (don’t install it on your main computer)\n3. Actual use cases that have changed Claire’s life (e.g. family scheduling, inbound sales, podcast prep, and course management)\n4. Why multiple specialized agents beat one general-purpose agent\n5. The security risks everyone worries about—and how to handle them\n6. Browser limitations, memory issues, and practical workarounds",
-          "descriptionCN": "Claire Vo 是我们的姊妹播客“How I AI”的主持人，她曾担任产品主管和工程师，也是一家名为 ChatPRD 的人工智能初创公司的创始人。 Claire 现在在多台 Mac Mini 和旧笔记本电脑上运行的 9 个 OpenClaw 代理的帮助下经营她的生意、播客和家庭生活。在这一集中，克莱尔分享了她从 OpenClaw 怀疑论者（她第一次尝试时就删除了她的家庭日历）到真正的信徒的旅程，并提供了在现实生活中使用人工智能代理的大师班。\n我们讨论：\n1. 安装和设置 OpenClaw 的确切分步过程（比���想象的更容易）\n2. 如何避免最大的 OpenClaw 错误（不要将其安装在您的主计算机上）\n3. 改变克莱尔生活的实际用例（例如家庭安排、入站销售、播客准备和课程管理）\n4. 为什么多个专业代理胜过一个通用代理\n5. 每个人都担心的安全风险以及如何应对\n6. 浏览器限制、内存问题和实际解决方法",
+          "descriptionCN": "Claire Vo 是我们的姐妹播客“How I AI”的主持人，她曾担任产品主管和工程师，也是一家名为 ChatPRD 的人工智能初创公司的创始人。 Claire 现在在多台 Mac Mini 和旧笔记本电脑上运行的 9 个 OpenClaw 代理的帮助下经营她的生意、播客和家庭生活。在本集中，克莱尔分享了她从 OpenClaw 怀疑论者（她第一次尝试时就删除了她的家庭日历）到真正的信徒的旅程，并提供了在现实生活中使用人工智能代理的大师班。\n我们讨论：\n1. 安装和设置 OpenClaw 的确切分步过程（比您���象的更容易）\n2. 如何避免最大的 OpenClaw 错误（不要将其安装在您的主计算机上）\n3. 改变克莱尔生活的实际用例（例如家庭安排、入站销售、播客准备和课程管理）\n4. 为什么多个专业代理胜过一个通用代理\n5. 每个人都担心的安全风险以及如何应对\n6. 浏览器限制、内存问题和实际解决方法",
           "duration": 107,
           "url": "https://podcasts.apple.com/us/podcast/from-skeptic-to-true-believer-how-openclaw-changed/id1627920305?i=1000758037099&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/ec/b7/97ecb7a8-f4c2-0495-508d-221656ca36a4/mza_857370160111483832.png/600x600bb.jpg"
-        },
-        {
-          "title": "The art of influence: The single most important skill that AI can’t replace | Jessica Fain (Webflow, ex-Slack)",
-          "guest": "Jessica Fain",
-          "date": "2026-03-22T12:31:51Z",
-          "description": "Jessica Fain is a product leader at Webflow and former Chief of Staff to the CPO at Slack, where she worked alongside April Underwood and many past podcast guests including Stewart Butterfield, Annie Pearl, Tamar Yehoshua, and Noah Weiss. She’s spent her career learning how executives actually make decisions—and why most people completely misunderstand the process.\nWe discuss:\n1. Why great ideas often don’t get buy-in\n2. Why executive calendars are “like strobe lights” and why the first 30 seconds of a meeting matter so much\n3. Why executives are usually optimizing for a global maximum while you are often optimizing locally\n4. The best question Jessica uses when a leader says something that seems wrong: “That’s so interesting. What led you to believe that?”\n5. Why you should go in to learn, not to convince\n6. Why showing only one option is a mistake\n7. Why AI will make influence more important, not less",
-          "descriptionCN": "Jessica Fain 是 Webflow 的产品负责人，也是 Slack 的前首席产品官，她与 April Underwood 以及包括 Stewart Butterfield、Annie Pearl、Tamar Yehoshua 和 Noah Weiss 在内的许多过去的播客嘉宾一起工作。她的职业生涯一直在研究高管们实际上是如何做出决策的，以及为什么大多数人完全误解了这个过程。\n我们讨论：\n1. 为什么伟大的想法常常得不到认可\n2. 为什么高管日历“就像闪光灯”以及为什么会议的前 30 秒如此重要\n3. 为什么高管通常会针对全局最大化进行优化，而你则经常进行局部优化\n4. 当领导者说出看似错误的事情时，杰西卡使用的最佳问题是：“这太有趣了。是什么让你相信这一点？”\n5. 为什么你应该去学习，而不是去说服\n6. 为什么只显示一个选项是错误的\n7. 为什么人工智能会让影响力变得更加重要，而不是更少",
-          "duration": 94,
-          "url": "https://podcasts.apple.com/us/podcast/the-art-of-influence-the-single-most-important-skill/id1627920305?i=1000756580514&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2d/f5/ac/2df5ac79-34c6-219f-c3cd-af192a511ee1/mza_6273214912472796708.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -90,7 +90,7 @@
         {
           "title": "I'm begging you to start writing essays (even if you hate writing)",
           "guest": null,
-          "date": "2026-04-08T23:42:53.727Z",
+          "date": "2026-04-09T23:42:09.433Z",
           "description": "If you want to learn how i write on the internet:",
           "descriptionCN": "如果您想了解我如何在互联网上写作：",
           "duration": 26,
@@ -100,7 +100,7 @@
         {
           "title": "If you've lost your creative genius, watch this",
           "guest": null,
-          "date": "2026-04-01T23:42:53.727Z",
+          "date": "2026-04-02T23:42:09.434Z",
           "description": "Build 2 hour content system in 14 days (writing challenge starts April 7th, join before then):",
           "descriptionCN": "14天内构建2小时内容系统（写作挑战于4月7日开始，在此之前加入）：",
           "duration": 35,
@@ -110,7 +110,7 @@
         {
           "title": "How To Build A $1M One-Person Business Faster With AI",
           "guest": null,
-          "date": "2026-03-22T23:42:53.727Z",
+          "date": "2026-03-23T23:42:09.434Z",
           "description": "A beginner video on how to start a one-person business + the fundamentals of AI\nThe canvas template + prompts (duplicate on desktop):",
           "descriptionCN": "一个关于如何开始一个人创业的初学者视频 + 人工智能的基础知识\n画布模板+提示（在桌面上重复）：",
           "duration": 37,
@@ -120,7 +120,7 @@
         {
           "title": "How To Think Like A Strategic Genius (5-Dimensional Thinking)",
           "guest": null,
-          "date": "2026-02-22T23:42:53.727Z",
+          "date": "2026-02-23T23:42:09.434Z",
           "description": "How to think better: notice when you think stupidly and stop it.",
           "descriptionCN": "如何更好地思考：注意何时你愚蠢地思考并停止它。",
           "duration": 35,
@@ -130,7 +130,7 @@
         {
           "title": "The Future Of Work (& The New High-Income Skill Stack)",
           "guest": null,
-          "date": "2026-02-22T23:42:53.727Z",
+          "date": "2026-02-23T23:42:09.434Z",
           "description": "The future of work looks bright for creators.",
           "descriptionCN": "对于创作者来说，工作的未来看起来一片光明。",
           "duration": 33,
@@ -140,7 +140,7 @@
         {
           "title": "If you have multiple interests, do not waste the next 2-3 years",
           "guest": null,
-          "date": "2026-01-22T23:42:53.727Z",
+          "date": "2026-01-23T23:42:09.434Z",
           "description": "How to actually manage multiple interests and turn them into a one-person business.",
           "descriptionCN": "如何真正管理多种利益并将其转变为一个人的事业。",
           "duration": 52,
@@ -162,9 +162,19 @@
       "color": "#0ea5e9",
       "episodes": [
         {
+          "title": "The Biggest Unlocks of GPT Images 2",
+          "guest": null,
+          "date": "2026-04-23T01:42:12.660Z",
+          "description": "OpenAI's GPT Image 2 topped the LM Arena leaderboard by a record 242 points, but the real story is how it fits the agentic stack. This episode digs into the image-to-code workflows driving...",
+          "descriptionCN": "OpenAI 的 GPT Image 2 以创纪录的 242 分高居 LM Arena 排行榜榜首，但真正的故事是它如何适应代理堆栈。本集深入探讨了图像到代码的工作流程......",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=aiiSDXgCVPI",
+          "artworkUrl": "https://i.ytimg.com/vi/aiiSDXgCVPI/hqdefault.jpg"
+        },
+        {
           "title": "How Apple's AI Strategy Changes with a New CEO",
           "guest": null,
-          "date": "2026-04-22T19:43:01.153Z",
+          "date": "2026-04-22T23:42:12.660Z",
           "description": "Apple's CEO transition makes AI strategy the defining test for a hardware-first Apple. OpenClaw's agentic shift and Mac-first tooling sparked a Mac mini renaissance and tied many cutting-edge...",
           "descriptionCN": "苹果首席执行官的换届使得人工智能战略成为对硬件优先的苹果的决定性考验。 OpenClaw 的代理转变和 Mac 优先的工具引发了 Mac mini 的复兴，并将许多尖端技术联系在一起......",
           "duration": 12,
@@ -174,7 +184,7 @@
         {
           "title": "Automating Your AI Context",
           "guest": null,
-          "date": "2026-04-22T03:43:01.153Z",
+          "date": "2026-04-22T23:42:12.660Z",
           "description": "OpenAI introduced Chronic, a Codex background screenshot memory. The feature improves code context and workflow recall while raising privacy and usage-limit concerns. Anthropic's live-data...",
           "descriptionCN": "OpenAI 推出了 Chronic，一个 Codex 后台截图内存。该功能改进了代码上下​​文和工作流程召回，同时引发了隐私和使用限制问题。 Anthropic 的实时数据...",
           "duration": 8,
@@ -184,9 +194,9 @@
         {
           "title": "Agent Building Trends",
           "guest": null,
-          "date": "2026-04-21T23:43:01.153Z",
+          "date": "2026-04-21T23:42:12.660Z",
           "description": "In this Operator's Bonus episode, NLW zooms out from the Agent Madness bracket to share the patterns emerging across nearly 100 agent submissions — from the shift toward AI org charts and...",
-          "descriptionCN": "在本集《操作员奖金》中，NLW 从“特工疯狂”类别中缩小范围，分享了近 100 个特工提交内容中出现的模式——从向 AI 组织结构图的转变……",
+          "descriptionCN": "在本期《操作员奖金》节目中，NLW 从“特工疯狂”类别中缩小范围，分享了近 100 个特工提交内容中出现的模式——从向 AI 组织结构图的转变……",
           "duration": 10,
           "url": "https://www.youtube.com/watch?v=qYLysI6AkQ8",
           "artworkUrl": "https://i.ytimg.com/vi/qYLysI6AkQ8/hqdefault.jpg"
@@ -194,9 +204,9 @@
         {
           "title": "The Best Claude Design Use Cases",
           "guest": null,
-          "date": "2026-04-21T23:43:01.153Z",
+          "date": "2026-04-21T23:42:12.660Z",
           "description": "Claude Design and Opus 4.7 deliver an agentic design interface for rapid concept exploration and design-system extraction. Key features include Socratic refinement questions, natural-language...",
-          "descriptionCN": "Claude Design 和 Opus 4.7 提供了一个代理设计界面，用于快速概念探索和设计系统提取。主要特点包括苏格拉底式细化问题、自然语言……",
+          "descriptionCN": "Claude Design 和 Opus 4.7 提供了一个代理设计界面，用于快速概念探索和设计系统提取。主要功能包括苏格拉底式细化问题、自然语言……",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=bJg5T2qq5dQ",
           "artworkUrl": "https://i.ytimg.com/vi/bJg5T2qq5dQ/hqdefault.jpg"
@@ -204,22 +214,12 @@
         {
           "title": "How the Best Companies Use AI",
           "guest": null,
-          "date": "2026-04-20T23:43:01.153Z",
+          "date": "2026-04-20T23:42:12.660Z",
           "description": "A deep dive into what separates the AI leaders from the laggers, drawing on the recent PwC study, McKinsey's AI Transformation Manifesto, George Sivulka's a16z essay on institutional vs. individual...",
           "descriptionCN": "借鉴普华永道最近的研究、麦肯锡的人工智能转型宣言、乔治·西武卡 (George Sivulka) 关于机构与个人的 a16z 文章，深入探讨人工智能领先者与落后者的区别……",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=t8vitqIj7u4",
           "artworkUrl": "https://i.ytimg.com/vi/t8vitqIj7u4/hqdefault.jpg"
-        },
-        {
-          "title": "How to Use Opus 4.7 and the New Codex",
-          "guest": null,
-          "date": "2026-04-18T23:43:01.153Z",
-          "description": "OpenAI Codex adds Mac computer control, an in‑app browser with comment mode, native image generation, rich file previews, and persistent background threads. Anthropic Opus 4.7 improves reasoning...",
-          "descriptionCN": "OpenAI Codex 添加了 Mac 计算机控制、具有注释模式的应用内浏览器、本机图像生成、丰富的文件预览和持久后台线程。 Anthropic Opus 4.7 改进推理...",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=5LdCJHnGwNo",
-          "artworkUrl": "https://i.ytimg.com/vi/5LdCJHnGwNo/hqdefault.jpg"
         }
       ]
     },
@@ -238,9 +238,9 @@
         {
           "title": "The Unlimited Token Bet: 100% adoption, Opus-4.6 floor, Tangle, Tangent — Mikhail Parakhin, Shopify",
           "guest": null,
-          "date": "2026-04-22T19:43:07.147Z",
+          "date": "2026-04-22T23:42:15.846Z",
           "description": "From running one of the most aggressive internal AI rollouts in tech to building systems that simulate customers, optimize ML pipelines, and rethink search latency from first principles, Mikhail...",
-          "descriptionCN": "从运行技术领域最积极的内部人工智能部署之一，到构建模拟客户、优化机器学习管道的系统，以及从第一原理重新思考搜索延迟，Mikhail...",
+          "descriptionCN": "从运行技术领域最积极的内部 AI 部署之一，到构建模拟客户、优化 ML 管道的系统，以及从第一原理重新思考搜索延迟，Mikhail...",
           "duration": 75,
           "url": "https://www.youtube.com/watch?v=RrkGoX3Cw7o",
           "artworkUrl": "https://i.ytimg.com/vi/RrkGoX3Cw7o/hqdefault.jpg"
@@ -248,7 +248,7 @@
         {
           "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
           "guest": null,
-          "date": "2026-04-20T23:43:07.147Z",
+          "date": "2026-04-20T23:42:15.846Z",
           "description": "TL;DR: 95% of cancer treatments fail to pass clinical trials, but it may be a matching problem — if we better understood what patients have which tumors which will respond to which treatments,...",
           "descriptionCN": "TL;DR：95% 的癌症治疗未能通过临床试验，但这可能是一个匹配问题——如果我们更好地了解哪些患者患有哪些肿瘤将对哪些治疗产生反应，...",
           "duration": 85,
@@ -258,7 +258,7 @@
         {
           "title": "⚡️ How to turn Documents into Knowledge: Graphs in Modern AI — Emil Eifrem, CEO Neo4J",
           "guest": null,
-          "date": "2026-04-18T23:43:07.147Z",
+          "date": "2026-04-18T23:42:15.847Z",
           "description": "The core argument: AI systems need more than top-K chunks. They need structured context about entities, relationships, permissions, authorship, provenance, and history. GraphRAG combines vector...",
           "descriptionCN": "核心论点：人工智能系统需要的不仅仅是前 K 个块。他们需要有关实体、关系、权限、作者身份、出处和历史的结构化上下文。 GraphRAG 结合矢量...",
           "duration": 49,
@@ -266,11 +266,11 @@
           "artworkUrl": "https://i.ytimg.com/vi/yyuVR-ML9X8/hqdefault.jpg"
         },
         {
-          "title": "Notion’s AI Strategy: Agent Harnesses, Retrieval, & MCP/CLI — Simon Last & Sarah Sachs, Notion",
+          "title": "Inside Notion AI: The 5 Rebuilds Behind Custom Agents — Simon Last & Sarah Sachs, Notion",
           "guest": null,
-          "date": "2026-04-15T23:43:07.147Z",
+          "date": "2026-04-15T23:42:15.847Z",
           "description": "Sarah Sachs and Simon Last of Notion join us for a deep dive into how Notion built Custom Agents, why it took years and multiple rebuilds to get right, and what it means to turn a productivity...",
-          "descriptionCN": "Sarah Sachs 和 Simon Last of Notion 与我们一起深入探讨 Notion 如何构建自定义代理、为什么需要数年时间和多次重建才能正确，以及转变生产力意味着什么……",
+          "descriptionCN": "Sarah Sachs 和 Simon Last of Notion 与我们一起深入探讨 Notion 如何构建自定义代理、为什么需要数年时间和多次重建才能正确，以及将生产力转变意味着什么......",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
           "artworkUrl": "https://i.ytimg.com/vi/ATt7QJgt-2k/hqdefault.jpg"
@@ -278,7 +278,7 @@
         {
           "title": "⚡️ The best engineers don't write the most code. They delete the most code. — Stay Sassy",
           "guest": null,
-          "date": "2026-04-13T23:43:07.147Z",
+          "date": "2026-04-13T23:42:15.847Z",
           "description": "Anonymous tech writers Stay Sassy join swyx to talk about AI budgets, per-person token spend, build vs buy, and why code review matters more, not less, in the age of AI coding tools.",
           "descriptionCN": "匿名技术作家 Stay Sassy 与 swyx 一起讨论人工智能预算、人均代币支出、构建与购买，以及为什么代码审查在人工智能编码工具时代更重要而不是更重要。",
           "duration": 58,
@@ -288,7 +288,7 @@
         {
           "title": "Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI",
           "guest": null,
-          "date": "2026-04-08T23:43:07.147Z",
+          "date": "2026-04-09T23:42:15.847Z",
           "description": "We’re proud to release this ahead of Ryan’s keynote at AIE Europe. Hit the bell, get notified when it is live! Attendees: come prepped for Ryan’s AMA with Vibhu after.\nMove over, context...",
           "descriptionCN": "我们很荣幸在 Ryan 在 AIE Europe 上发表主题演讲之前发布此内容。直播时请按小铃，收到通知！与会者：为之后与 Vibhu 一起参加 Ryan 的 AMA 做好准备。\n移过去，上下文...",
           "duration": 78,
@@ -312,62 +312,62 @@
         {
           "title": "He got 190K Instagram followers…and regrets it?",
           "guest": null,
-          "date": "2026-04-20T23:43:14.397Z",
-          "description": "Yoni Smolyar posted a video on Instagram every single day for 508 days. Zero followers to start. He didn't tell a soul. What started as a cringe-avoidance experiment turned into a 500+ video...",
-          "descriptionCN": "Yoni Smolyar 连续 508 天每天在 Instagram 上发布一段视频。零追随者开始。他没有告诉任何一个人。一开始只是一个避免尴尬的实验，后来变成了 500 多个视频……",
-          "duration": 36,
+          "date": "2026-04-20T20:29:37+00:00",
+          "description": "Yoni Smolyar posted a video on Instagram every single day for 508 days. Zero followers to start. He didn't tell a soul. What started as a cringe-avoidance experiment turned into a 500+ video archive, a 190K-follower audience, and a software business that made $10K in its first weekend and hit #1 on Product Hunt. This episode is part origin story, part post-mortem, and part philosophy of short-form content in a world with shrinking attention sapns.\nWe cover: the psychology of the daily streak (day one is the hardest), why he stopped even though it was working, what he believes about short-form video being a net negative for consumers, the app he built to solve his own screen time problem, and the uncomfortable advice he gave me about ditching my studio setup and FaceTime-ing the internet like nobody's watching.\n🧠 CreatorHQ Operating System:\n🧰 My Gear:\n📬 Newsletter:\n🧪 Join The Lab:\nTIMESTAMPS\n01:30 - Day one was the hardest\n05:18 - Week one: Getting reps\n05:40 - Week three: First viral moment\n08:03 - Time spent vs. performance\n11:26 - The downside of posting daily\n15:03 - Building Brain Rot\n18:22 - Launch results: $10K in a weekend\n20:43 - Why he stopped\n24:04 - Platform differences: Instagram vs. YT vs. TikTok\n26:02 - Advice for Jay\n30:37 - The curse of success\n32:50 - Yoni's hot take\n34:40 - Yoni's final words\n***\nCONNECT WITH GUEST\n🌐 Website:\n🐦 Twitter:\n📸 Instagram:\n🎵 TikTok:\n📹 YouTube:\n***\nCONNECT WITH ME\n🐦 X:\n📸 Instagram:\n🎵 TikTok:\n💼 LinkedIn:",
+          "descriptionCN": "Yoni Smolyar 连续 508 天每天在 Instagram 上发布一段视频。零追随者开始。他没有告诉任何一个人。一开始只是为了避免尴尬的实验，后来变成了拥有 500 多个视频存档、拥有 19 万粉丝的用户，以及一家在第一个周末就赚了 1 万美元并在 Product Hunt 上排名第一的软件公司。这一集部分是起源故事，部分是事后剖析，部分是在注意力逐渐萎缩的世界中简短内容的哲学。\n我们涵盖了：日常连续工作的心理（第一天是最难的），为什么他在有效的情况下停止了，他认为短视频对消费者来说是一种净负面影响，他为解决自己的屏幕时间问题而开发的应用程序，以及他给我的关于放弃我的工作室设置和在没有人在看的情况下通过 FaceTime 上网的令人不安的建议。\n🧠 CreatorHQ 操作系统：\n🧰 我的装备：\n📬 时事通讯：\n🧪 加入实验室：\n时间戳\n01:30 - 第一天是最难的\n05:18 - 第一周：获得代表\n05:40 - 第三周：第一个病毒时刻\n08:03 - 花费的时间与性能\n11:26 - 每天发帖的缺点\n15:03 - 建立大脑腐烂\n18:22 - 发布结果：周末 1 万美元\n20:43 - 为什么他停下来\n24:04 - 平台差异：Instagram、YT、TikTok\n26:02 - 给杰伊的建议\n30:37 - 成功的诅咒\n32:50 - Yoni 的热门动作\n34:40 - Yoni 的最后一句话\n***\n与来宾联系\n🌐 网站：\n🐦推特：\n📸 Instagram：\n🎵 抖音：\n📹 YouTube：\n***\n与我联系\n🐦X：\n📸 Instagram：\n🎵 抖音：\n💼 领英：",
+          "duration": null,
           "url": "https://www.youtube.com/watch?v=hDuxtukTSXo",
           "artworkUrl": "https://i.ytimg.com/vi/hDuxtukTSXo/hqdefault.jpg"
         },
         {
           "title": "Meet The Man Who Solved YouTube (With Data)",
           "guest": null,
-          "date": "2026-03-22T23:43:14.397Z",
-          "description": "Save 20% on 1of10 using code JAY20:\nSchedule a 1of10 Strategy Call:\nVideo Notes and Checklists:",
-          "descriptionCN": "使用代码 JAY20 在 1of10 上节省 20%：\n安排 1of10 策略通话：\n视频注释和清单：",
-          "duration": 49,
+          "date": "2026-03-07T13:59:06+00:00",
+          "description": "Save 20% on 1of10 using code JAY20:\nSchedule a 1of10 Strategy Call:\nVideo Notes and Checklists:\nRichard is the co-founder of 1of10, a research platform built by YouTube strategists, and his team has quietly been behind the scenes for some of the biggest channels on the platform—helping creators accumulate over 2 billion views through a repeatable, data-backed system.\nIn this episode, Richard walks through his complete four-phase ideation system—audience identification, outlier research (using five distinct methods), idea remixing, and validation—and backs every step with real examples. We talk about what happens when the wrong audience floods your channel, why creators should double and triple down on formats that work, and how a single title change took one creator's video from 10,000 views to 150,000. He also shares data from 300,000+ YouTube outliers on the ideal title length (hint: shorter than you think) and where the sweet spots are for video duration across different niches.\n🧠 CreatorHQ Operating System:\n🧰 My Gear:\n📬 Newsletter:\n🧪 Join The Lab:\nTIMESTAMPS\n01:12 - Where 80-85% of YouTube success comes from\n01:50 - Phase 1: Audience\n03:19 - When should you start a fresh channel instead of pivoting?\n04:09 - The danger of going viral with the wrong audience\n05:40 - Phase 2: Research\n07:37 - Format vs. Interest Topic\n08:00 - Method 1: Inside your own channel\n10:52 - Tripling and quadrupling down\n12:33 - Method 2: Inside your niche\n13:45 - Method 3: Adjacent niches\n16:00 - Method 4: Outside your niche\n17:37 - The \"Japanese Rule\" format\n20:56 - Method 5: External inspiration\n22:07 - Phase 3: Remixing\n23:00 - Escalation, inversion, and interest topic replacement\n24:10 - Viral vectors: concepts that work across all niches\n25:28 - Phase 4: Validation\n27:00 - Optimal video duration by niche\n30:45 - Why long videos are making a comeback\n31:39 - Total Addressable Viewership\n34:36 -  Titles: Fear, Curiosity, and Desire as the three core drivers\n37:17 - Data: Title Length\n37:51 - Three methods for generating title angles\n42:11 - Thumbnails: Composition and Elements\n45:11 - It's never too late: title/thumbnail changes\n46:10 - Live demo: 1of10 thumbnail generator\n48:10 - The full 1of10 workflow\n***\nCONNECT WITH GUEST\n🌐 Website:\n🐦 Twitter:\n📹 YouTube: @1of10pod\n***\nCONNECT WITH ME\n🐦 X:\n📸 Instagram:\n🎵 TikTok:\n💼 LinkedIn:",
+          "descriptionCN": "使用代码 JAY20 在 1of10 上节省 20%：\n安排 1of10 策略通话：\n视频注释和清单：\nRichard 是 1of10 的联合创始人，这是一个由 YouTube 战略家建立的研究平台，他的团队一直在该平台上一些最大频道的幕后默默工作，帮助创作者通过可重复的、有数据支持的系统积累超过 20 亿次观看次数。\n在这一集中，理查德介绍了他完整的四阶段构思系统——受众识别、异常研究（使用五种不同的方法）、想法重新混合和验证——并用真实的例子支持每一步。我们讨论了当错误的观众涌入您的频道时会发生什么，为什么创作者应该在有效的格式上加倍或三倍的努力，以及一次标题更改如何使一个创作者的视频观看次数从 10,000 次增加到 150,000 次。他还分享了来自 300,000 多个 YouTube 异常值的数据，涉及理想的标题长度（提示：比您想象的短）以及不同细分市场的视频时长最佳点。\n🧠 CreatorHQ 操作系统：\n🧰 我的装备：\n���� 时事通讯：\n🧪 加入实验室：\n时间戳\n01:12 - YouTube 80-85% 的成功来自何处\n01:50 - 第一阶段：观众\n03:19 - 什么时候应该开始一个新的渠道而不是转向？\n04:09 - 病毒式传播给错误受众的危险\n05:40 - 第二阶段：研究\n07:37 - 格式与兴趣主题\n08:00 - 方法 1：在您自己的频道内\n10:52 - 三倍和四倍下降\n12:33 - 方法 2：在你的利基市场中\n13:45 - 方法 3：相邻壁龛\n16:00 - 方法 4：在你的利基之外\n17:37 - “日本规则”格式\n20:56 - 方法 5：外部灵感\n22:07 - 第三阶段：混音\n23:00——升级、反转、兴趣话题更换\n24:10 - 病毒载体：适用于所有领域的概念\n25:28 - 第四阶段：验证\n27:00 - 按细分市场划分的最佳视频时长\n30:45 - 为什么长视频卷土重来\n31:39 - 总可寻址收视率\n34:36 - 标题：恐惧、好奇心和欲望作为三个核心驱动因素\n37:17 - 数据：标题长度\n37:51 - 生成标题角度的三种方法\n42:11 - 缩略图：构图和元素\n45:11 - 永远不会太晚：标题/缩略图更改\n46:10 - 现场演示：1of10 缩略图生成器\n48:10 - 完整的 1of10 工作流程\n***\n与来宾联系\n🌐 网站：\n🐦推特：\n📹 YouTube：@1of10pod\n***\n与我联系\n🐦X：\n📸 Instagram：\n🎵 抖音：\n💼 领英：",
+          "duration": null,
           "url": "https://www.youtube.com/watch?v=h6ipOOl4upI",
           "artworkUrl": "https://i.ytimg.com/vi/h6ipOOl4upI/hqdefault.jpg"
         },
         {
+          "title": "Don’t become a human AI wrapper.",
+          "guest": null,
+          "date": "2026-01-16T18:51:38+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=oVeiNxq8i_Q",
+          "artworkUrl": "https://i.ytimg.com/vi/oVeiNxq8i_Q/hqdefault.jpg"
+        },
+        {
           "title": "Why Paul Millerd REFUSED a $200K Book Deal (And Self-Published Instead)",
           "guest": null,
-          "date": "2026-01-22T23:43:14.397Z",
-          "description": "Get Paul's New Hardcover:\nJoin The Lab:\nPaul Millerd is the author of The Pathless Path, which has earned Paul...",
-          "descriptionCN": "获取保罗的新精装本：\n加入实验室：\n保罗·米勒德是《无路可走的道路》一书的作者，这本书为保罗赢得了……",
-          "duration": 57,
+          "date": "2026-01-13T17:42:55+00:00",
+          "description": "Get Paul's New Hardcover:\nJoin The Lab:\nPaul Millerd is the author of The Pathless Path, which has earned Paul $325,000 in royalties to date. In the process, Paul turned down a publishing offer from Penguin, one of the major publishers in the industry. Then, in December, Paul decided to double down and produce a new version of The Pathless Path, an ultra-premium hardcover book that is just beautiful.\nIn this episode, we talk about that decision, the dark side of traditional publishing, the book deal Paul WOULD have taken, and when traditional publishing actually makes sense.\nTIMESTAMPS\n00:00 - Intro\n05:53 - Why He Self-Published\n08:01 - Designing Books Beyond the Obvious\n13:13 - Money Isn't A Reason to Write\n16:54 - Book's Success and New Opportunities\n20:30 - Rejecting Penguin\n22:00 - Redefining Self-Publishing Potential\n25:00 - Author Rights and Publishing Deals\n30:29 - Reviving Unpublished Books\n31:33 - Publishing Challenges and Opportunities\n37:11 - Write a Book You Love\n39:38 - Inside The Pathless Path Hardcover\n43:02 - Overcoming Doubts, Achieving Success\n46:23 - Inspired by Steel Brothers\n48:43 - Direct Sales for Higher Margins\n53:04 - Amazon Book Bundling Limitations\n***\nCONNECT WITH GUEST\n🌐 Website:\n🐦 Twitter:\n📸 Instagram:\n💼 LinkedIn:\n📹 YouTube: @PaulMillerd\n***\nCONNECT WITH ME\n🐦 X:\n📸 Instagram:\n🎵 TikTok:\n💼 LinkedIn:",
+          "descriptionCN": "获取保罗的新精装本：\n加入实验室：\n保罗·米勒德是《无路可走的道路》一书的作者，迄今为止，保罗已为保罗赚取了 325,000 美元的版税。在此过程中，保罗拒绝了业内主要出版商之一企鹅出版社的出版邀请。然后，在十二月，保罗决定加倍努力，制作新版本的《无路可走》，这是一本非常精美的超优质精装书。\n在这一集中，我们将讨论这个决定、传统出版的阴暗面、保罗会采取的图书交易，以及传统出版何时真正有意义。\n时间戳\n00:00 - 简介\n05:53 - 为什么他自己出版\n08:01 - 设计超越显而易见的书籍\n13:13 - 金钱不是写作的理由\n16:54 - 本书的成功和新机遇\n20:30 - 拒绝企鹅\n22:00 - 重新定义自我出版潜力\n25:00 - 作者权利和出版交易\n30:29 - 复兴未出版的书籍\n31:33 - 出版的挑战和机遇\n37:11 - 写一本你喜欢的书\n39:38 - 《无路之径》精装版内幕\n43:02 - 克服疑虑，取得成功\n46:23 - 受到钢铁兄弟的启发\n48:43 - 直接销售以获得更高的利润\n53:04 - 亚马逊图书捆绑限制\n***\n与来宾联系\n🌐 网站：\n🐦推特：\n📸 Instagram：\n💼 领英：\n📹 YouTube：@PaulMillerd\n***\n与我联系\n🐦X：\n📸 Instagram：\n🎵 抖音：\n💼 领英：",
+          "duration": null,
           "url": "https://www.youtube.com/watch?v=4biSIdVrlqo",
           "artworkUrl": "https://i.ytimg.com/vi/4biSIdVrlqo/hqdefault.jpg"
         },
         {
           "title": "How To LEGALLY Pay Less Taxes (Money Expert Explains)",
           "guest": null,
-          "date": "2025-12-22T23:43:14.397Z",
-          "description": "Get Ankur's Free Tax Guide:\nSign up for Carry:\nIn 2020, Ankur Nagpal sold his course platform, Teachable, for around $250...",
-          "descriptionCN": "获取安库尔的免税指南：\n报名携带：\n2020 年，Ankur Nagpal 以约 250 美元的价格出售了他的课程平台 Teachable...",
-          "duration": 48,
+          "date": "2025-12-19T16:44:28+00:00",
+          "description": "Get Ankur's Free Tax Guide:\nSign up for Carry:\nIn 2020, Ankur Nagpal sold his course platform, Teachable, for around $250 million. But he knew that the sale would come with a giant tax bill. So Ankur became obsessed with the tax code, and he wanted to make it easier for everyone to legally operate within it. That led him to discover Solo 401(k)s, which he calls the most powerful tax account in America. So he built a new company called Carry that helps you legally keep more of what you earn and invest it the way you want.\nThis podcast is for informational purposes and not intended to be financial advice. Please consult a financial advisor about your specific situation.\n🧠 CreatorHQ Operating System:\n🧰 My Gear:\n📬 Newsletter:\n🧪 Join The Lab:\nTIMESTAMPS\n00:00 - Introduction\n01:32 - Ankur's Crash Course in Tax Law\n08:18 - Tax Loopholes and Bias\n11:02 - Solo 401(k) Benefits Explained\n14:32 - Solo 401(k) Contribution Guidelines\n17:46 - S-Corp Tax Benefits Explained\n20:11 - Maximizing QBI Deduction Strategies\n23:22 - Tax Planning CPA vs Planners\n26:29 - Solo 401(k) Advantages Explained\n31:49 - Direct Indexing\n32:34 - Tax Loss Harvesting Strategy\n36:34 - Maximizing Retirement Contributions\n41:07 - Solo 401(k) Tax Planning Deadlines\n44:06 - Solo 401(k) Setup Guide\n46:12 - Tax-Saving Strategy Money Markets\n***\nCONNECT WITH GUEST\n🌐 Website:\n🐦 X:\n***\nCONNECT WITH ME\n🐦 X:\n📸 Instagram:\n🎵 TikTok:\n💼 LinkedIn:",
+          "descriptionCN": "获取安库尔的免税指南：\n报名携带：\n2020 年，Ankur Nagpal 以约 2.5 亿美元的价格出售了他的课程平台 Teachable。但他知道此次出售将带来巨额税单。因此，安库尔开始痴迷于税法，他希望让每个人都能更轻松地在税法范围内合法经营。这促使他发现了 Solo 401(k)s，他称之为美国最强大的税务账户。因此，他成立了一家名为 Carry 的新公司，帮助您合法保留更多收入并按照您想要的方式进行投��。\n本播客仅供参考，无意提供财务建议。请咨询财务顾问了解您的具体情况。\n🧠 CreatorHQ 操作系统：\n🧰 我的装备：\n📬 时事通讯：\n🧪 加入实验室：\n时间戳\n00:00 - 简介\n01:32 - 安库尔的税法速成班\n08:18 - 税收漏洞和偏见\n11:02 - Solo 401(k) 好处解释\n14:32 - Solo 401(k) 贡献指南\n17:46 - S 企业税收优惠解释\n20:11 - 最大化 QBI 扣除策略\n23:22 - 税务规划注册会计师与规划师\n26:29 - Solo 401(k) 优点解释\n31:49 - 直接索引\n32:34 - 税收损失收获策略\n36:34 - 最大化退休金\n41:07 - Solo 401(k) 税务规划截止日期\n44:06 - Solo 401(k) 设置指南\n46:12 - 货币市场节税策略\n***\n与来宾联系\n🌐 网站：\n🐦X：\n***\n与我联系\n🐦X：\n📸 Instagram：\n🎵 抖音：\n💼 领英：",
+          "duration": null,
           "url": "https://www.youtube.com/watch?v=OjM2X7pffqA",
           "artworkUrl": "https://i.ytimg.com/vi/OjM2X7pffqA/hqdefault.jpg"
         },
         {
           "title": "I helped this YouTuber build a membership",
           "guest": null,
-          "date": "2025-12-22T23:43:14.397Z",
-          "description": "Join us in The Lab:\nMeet Tommy. Tommy has a YouTube channel dedicated to helping Americans retire in France.\nTommy’s done an incredible job attracting...",
-          "descriptionCN": "加入我们的实验室：\n认识汤米。汤米有一个 YouTube 频道，致力于帮助美国人在法国退休。\n汤米做了一件令人难以置信的工作，吸引了......",
-          "duration": 41,
+          "date": "2025-11-28T14:32:54+00:00",
+          "description": "Join us in The Lab:\nMeet Tommy. Tommy has a YouTube channel dedicated to helping Americans retire in France.\nTommy’s done an incredible job attracting nearly 30,000 subscribers and 2 million views on his channel, but he needed help dialing in his product offer.\nTommy is a member of The Lab, my invitation-only membership community for 6-and-7-figure creators. He scheduled a coaching call with me to work out how he can take his growing audience and design his product offers to both serve that audience and bring in serious revenue.\nThis is that coaching call, where we discuss how his membership, cohort-based courses, and retreats to France all work together.\n🧠 CreatorHQ Operating System:\n🧰 My Gear:\n📬 Newsletter:\n🧪 Join The Lab:\nTIMESTAMPS\n00:00 - Intro to American to France\n06:11 - Membership Focus: Retreats or Access?\n08:03 - Retreats and Membership Marketing Strategy\n11:32 - Membership Value and Retention\n17:18 - Time-Bound Experiences & Memberships\n20:38 - Strategic Event Video Planning\n23:04 - Ticket Sales Strategies\n27:24 - How Bootcamps Tie In\n28:36 - Community Engagement and Membership Disconnect\n34:24 - Selling Evergreen Memberships\n36:22 - The Power of Community\n40:25 - Building Community in New Locations\n***\nCONNECT WITH GUEST\n🌐 Website:\n📹 YouTube: @AmericanToFrance\n***\nCONNECT WITH ME\n🐦 X:\n📸 Instagram:\n🎵 TikTok:\n💼 LinkedIn:",
+          "descriptionCN": "加入我们的实验室：\n认识汤米。汤米有一个 YouTube 频道，致力于帮助美国人在法国退休。\nTommy 的工作非常出色，他的频道吸引了近 30,000 名订阅者和 200 万次观看次数，但他需要帮助来选择他的产品。\nTommy 是 The Lab 的成员，这是我为 6 到 7 位数创作者提供的仅限邀请的会员社区。他安排了一次与我的辅导电话会议，以研究如何吸引不断增长的受众并设计他的产品，以服务这些受众并带来可观的收入。\n这就是教练电话会议，我们讨论了他的会员资格、基于队列的课程以及法国静修如何协同工作。\n🧠 CreatorHQ 操作系统：\n🧰 我的装备：\n📬 时事通讯：\n🧪 加入实验室：\n时间戳\n00:00 - 介绍美国到法国\n06:11 - 会员焦点：静修还是进入？\n08:03 - 静修和会员营销策略\n11:32 - 会员价值和保留率\n17:18 - 限时体验和会员资格\n20:38 - 战略活动视频策划\n23:04 - 门票销售策略\n27:24 - 训练营如何配合\n28:36 - 社区参与和会员资格脱节\n34:24 - 出售常青会员资格\n36:22 - 社区的��量\n40:25 - 在新地点建立社区\n***\n与来宾联系\n🌐 网站：\n📹 YouTube：@AmericanToFrance\n***\n与我联系\n🐦X：\n📸 Instagram：\n🎵 抖音：\n💼 领英：",
+          "duration": null,
           "url": "https://www.youtube.com/watch?v=r4ZvBfCn58Q",
           "artworkUrl": "https://i.ytimg.com/vi/r4ZvBfCn58Q/hqdefault.jpg"
-        },
-        {
-          "title": "How to design GREAT thumbnails (even if you’re not a designer)",
-          "guest": null,
-          "date": "2025-11-22T23:43:14.397Z",
-          "description": "Save 20% on 1of10 using code JAY20:\nJoin my community for creators:\nDavid Altizer is the co-creator of...",
-          "descriptionCN": "使用代码 JAY20 在 1of10 上节省 20%：\n加入我的创作者社区：\n大卫·阿尔蒂泽 (David Altizer) 是...的联合创始人",
-          "duration": 49,
-          "url": "https://www.youtube.com/watch?v=7Cn0wncfkNA",
-          "artworkUrl": "https://i.ytimg.com/vi/7Cn0wncfkNA/hqdefault.jpg"
         }
       ]
     },
@@ -386,9 +386,9 @@
         {
           "title": "25% Of My Portfolio Is Tesla Stock, Here's Why",
           "guest": null,
-          "date": "2026-04-22T14:43:22.336Z",
+          "date": "2026-04-23T23:42:24.746Z",
           "description": "*Get our investing playbook (with 35+ insights from top investors):*\nEpisode 816: Sam Parr (  ) and Shaan Puri (",
-          "descriptionCN": "*获取我们的投资手册（来自顶级投资者的超过 35 条见解）：*\n第 816 集：山姆·帕尔 (Sam Parr) 和沙恩·普里 (Shaan Puri)",
+          "descriptionCN": "*获取我们的投资手册（来自顶级投资者的超过 35 条见解）：*\n第 816 集：萨姆·帕尔 (Sam Parr) 和沙恩·普里 (Shaan Puri)",
           "duration": 55,
           "url": "https://www.youtube.com/watch?v=t5qtlDh3C8c",
           "artworkUrl": "https://i.ytimg.com/vi/t5qtlDh3C8c/hqdefault.jpg"
@@ -396,7 +396,7 @@
         {
           "title": "#1 Habit Expert: Why Your To Do List Is Making You Less Productive",
           "guest": null,
-          "date": "2026-04-16T23:43:22.336Z",
+          "date": "2026-04-23T23:42:24.746Z",
           "description": "*Run your life like a $100M business. Get the system here:*\nEpisode 815: Sam Parr (  ) talks to Charles Duhigg (",
           "descriptionCN": "*像经营价值一亿美元的企业一样经营你的生活。在这里获取系统：*\n第 815 集：萨姆·帕尔 (Sam Parr) 与查尔斯·杜希格 (Charles Duhigg) 交谈",
           "duration": 58,
@@ -406,9 +406,9 @@
         {
           "title": "9 Killer Business Ideas The Internet Hasn't Caught Up To in 2026",
           "guest": null,
-          "date": "2026-04-14T23:43:22.336Z",
+          "date": "2026-04-23T23:42:24.746Z",
           "description": "*Get Steph's database with 100+ stats that will shape the next decade:*\nEpisode 814: In this special episode, we’re pulling our best moments with the trends...",
-          "descriptionCN": "*获取 Steph 的数据库，其中包含 100 多项统计数据，这些统计数据将塑造未来十年：*\n第814集：在这一特别集中，我们将与潮流一起拉动我们的最佳时刻......",
+          "descriptionCN": "*获取 Steph 的数据库，其中包含 100 多项统计数据，这些统计数据将塑造未来十年：*\n第814集：在这一特别集中，我们将与潮流一起拉动我们最好的时刻......",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=aozthyS67EM",
           "artworkUrl": "https://i.ytimg.com/vi/aozthyS67EM/hqdefault.jpg"
@@ -416,7 +416,7 @@
         {
           "title": "Ex-Tesla President reveals EVERYTHING Elon does to win",
           "guest": null,
-          "date": "2026-04-09T23:43:22.336Z",
+          "date": "2026-04-23T23:42:24.746Z",
           "description": "*Get our CEO lessons in one guide:*\nEpisode 813: Shaan Puri (  ) talks to Jon McNeill about his time running Tesla and working side-by-side...",
           "descriptionCN": "*在一本指南中获取我们的首席执行官课程：*\n第 813 集：Shaan Puri ( ) 与 Jon McNeill 谈论他运营 Tesla 并肩工作的时光……",
           "duration": 63,
@@ -426,7 +426,7 @@
         {
           "title": "We asked a $18.9B Investor how to survive the AI bubble",
           "guest": null,
-          "date": "2026-04-08T23:43:22.336Z",
+          "date": "2026-04-23T23:42:24.746Z",
           "description": "*Run your life like a $100M business. Get Sam's personal system here:*\nEpisode 812: Sam Parr (  ) and Shaan Puri (",
           "descriptionCN": "*像经营价值一亿美元的企业一样经营你的生活。在这里获取 Sam 的个人系统：*\n第 812 集：萨姆·帕尔 (Sam Parr) 和沙恩·普里 (Shaan Puri)",
           "duration": 64,
@@ -436,7 +436,7 @@
         {
           "title": "5 Simple business Ideas Even Your Mother Can Start (and make $120/hr)",
           "guest": null,
-          "date": "2026-04-01T23:43:22.336Z",
+          "date": "2026-04-23T23:42:24.746Z",
           "description": "*Free: 200 business ideas with execution plans, tools, and frameworks*\nEpisode 811: Shaan Puri (  ) and Chris Koerner talk about the most...",
           "descriptionCN": "*免费：200 个商业创意以及执行计划、工具和框架*\n第 811 集：Shaan Puri ( ) 和 Chris Koerner 谈论最...",
           "duration": 54,
@@ -460,7 +460,7 @@
         {
           "title": "Jensen Huang – Will Nvidia’s moat persist?",
           "guest": null,
-          "date": "2026-04-15T23:43:29.654Z",
+          "date": "2026-04-15T23:42:28.333Z",
           "description": "I asked Jensen about TPU competition, Nvidia’s lock on the ever more bottlenecked supply chain needed to make advanced chips, whether we should be selling AI chips to China, why Nvidia doesn’t...",
           "descriptionCN": "我向詹森询问了 TPU 竞争、英伟达对制造先进芯片所需的日益瓶颈的供应链的锁定、我们是否应该向中国出售人工智能芯片、为什么英伟达不……",
           "duration": 103,
@@ -470,7 +470,7 @@
         {
           "title": "Michael Nielsen – Why aliens will have a different tech stack than us",
           "guest": null,
-          "date": "2026-04-08T23:43:29.654Z",
+          "date": "2026-04-09T23:42:28.333Z",
           "description": "Really enjoyed chatting with Michael Nielsen about how we recognize scientific progress. It’s especially relevant for closing the RL verification loop for scientific discovery. But it’s...",
           "descriptionCN": "非常喜欢与迈克尔·尼尔森谈论我们如何认识科学进步。它对于关闭科学发现的强化学习验证循环尤其重要。但这是...",
           "duration": 123,
@@ -480,7 +480,7 @@
         {
           "title": "Terence Tao – How the world’s top mathematician uses AI",
           "guest": null,
-          "date": "2026-03-22T23:43:29.655Z",
+          "date": "2026-03-23T23:42:28.333Z",
           "description": "We begin the episode with the absolutely ingenious and surprising way in which Kepler discovered the laws of planetary motion.\nPeople sometimes say that AI will make especially fast progress...",
           "descriptionCN": "我们以开普勒发现行星运动定律的绝对巧妙且令人惊讶的方式开始这一集。\n人们有时会说人工智能会取得特别快的进步......",
           "duration": 84,
@@ -490,7 +490,7 @@
         {
           "title": "Dylan Patel — The single biggest bottleneck to scaling AI compute",
           "guest": null,
-          "date": "2026-03-22T23:43:29.655Z",
+          "date": "2026-03-23T23:42:28.333Z",
           "description": "Dylan Patel, founder of SemiAnalysis, provides a deep dive into the 3 big bottlenecks to scaling AI compute: logic, memory, and power.\nAnd walks through the economics of labs, hyperscalers,...",
           "descriptionCN": "SemiAnalysis 创始人 Dylan Patel 深入探讨了扩展 AI 计算的 3 大瓶颈：逻辑、内存和功耗。\n并介绍了实验室、超大规模企业的经济学……",
           "duration": 151,
@@ -500,7 +500,7 @@
         {
           "title": "The most important question nobody's asking about AI.",
           "guest": null,
-          "date": "2026-03-22T23:43:29.655Z",
+          "date": "2026-03-23T23:42:28.333Z",
           "description": "My thoughts on the Anthropic and Department of War conflict.\nRead the transcript here:\nTIMESTAMPS\n00:00:00 Anthropic vs The Pentagon\n00:04:16 The...",
           "descriptionCN": "我对人择与战争部冲突的看法。\n请阅读此处的文字记录：\n时间戳\n00:00:00 人类 vs 五角大楼\n00:04:16 那个...",
           "duration": 25,
@@ -510,7 +510,7 @@
         {
           "title": "Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer",
           "guest": null,
-          "date": "2026-03-22T23:43:29.655Z",
+          "date": "2026-03-23T23:42:28.333Z",
           "description": "Renaissance history is so much wilder and weirder than you would have expected. Very fun chatting with Ada Palmer (historian, novelist, and composer based at the University of Chicago).\nSome...",
           "descriptionCN": "文艺复兴时期的历史比你想象的更加狂野和怪异。与艾达·帕尔默（Ada Palmer，芝加哥大学历史学家、小说家和作曲家）聊天非常有趣。\n一些...",
           "duration": 122,
@@ -534,9 +534,9 @@
         {
           "title": "Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
           "guest": null,
-          "date": "2026-04-14T23:43:36.392Z",
+          "date": "2026-04-14T23:42:32.091Z",
           "description": "Ferrari is the pinnacle of luxury scarcity — across its entire 79-year history, the company has sold just 330,000 cars at an average price today of $500,000. For context, Hermes sells that...",
-          "descriptionCN": "法拉利是奢侈品稀缺性的顶峰——在其整个 79 年的历史中，该公司仅售出了 33 万辆汽车，而如今的平均价格为 50 万美元。作为上下文，爱马仕卖的是......",
+          "descriptionCN": "法拉利是奢侈品稀缺性的顶峰——在其整个 79 年的历史中，该公司仅售出了 33 万辆汽车，而如今的平均价格为 50 万美元。作为上下文，爱马仕卖的是……",
           "duration": 239,
           "url": "https://www.youtube.com/watch?v=JVO8roYiNXM",
           "artworkUrl": "https://i.ytimg.com/vi/JVO8roYiNXM/hqdefault.jpg"
@@ -544,7 +544,7 @@
         {
           "title": "The physics of F1 cars are awesome.",
           "guest": null,
-          "date": "2026-04-08T23:43:36.392Z",
+          "date": "2026-04-09T23:42:32.091Z",
           "description": "Here's why Formula 1 cars evolved to look the way they do today.\nFrom _The History and Business of Formula 1:_\n*More Acquired:*\n- Get email updates",
           "descriptionCN": "这就是一级方程式赛车发展成今天的样子的原因。\n来自_一级方程式赛车的历史和业务：_\n*获得更多：*\n- 获取电子邮件更新",
           "duration": 8,
@@ -554,9 +554,9 @@
         {
           "title": "Formula 1 (Audio)",
           "guest": null,
-          "date": "2026-03-22T23:43:36.392Z",
+          "date": "2026-03-23T23:42:32.091Z",
           "description": "Formula 1 is three competitions in one: a 200mph battle of the world's best race car drivers, the world cup of engineering where thousand-person teams spend hundreds of millions designing cars...",
-          "descriptionCN": "一级方程式赛车是三项合而为一的比赛：世界上最好的赛车手以 200 英里/小时的速度对决，千人团队花费数亿美元设计汽车的工程世界杯……",
+          "descriptionCN": "一级方程式赛车是三项合而为一的比赛：世界上最好的赛车手以 200 英里/小时的速度进行的较量，千人团队花费数亿美元设计汽车的工程世界杯……",
           "duration": 269,
           "url": "https://www.youtube.com/watch?v=MyFzfgrZUYg",
           "artworkUrl": "https://i.ytimg.com/vi/MyFzfgrZUYg/hqdefault.jpg"
@@ -564,7 +564,7 @@
         {
           "title": "The NFL",
           "guest": null,
-          "date": "2026-02-22T23:43:36.392Z",
+          "date": "2026-02-23T23:42:32.091Z",
           "description": "The NFL is nearly synonymous with America today. Practically nothing is more quintessentially and universally American than tuning in every Sunday (and Monday, and Thursday… and sometimes...",
           "descriptionCN": "NFL 几乎是当今美国的代名词。实际上，没有什么比每周日（以及周一、周四……有时……）收看节目更典型、更普遍的美国风格了。",
           "duration": 257,
@@ -574,7 +574,7 @@
         {
           "title": "10 Years of Acquired (with Michael Lewis)",
           "guest": null,
-          "date": "2025-12-22T23:43:36.392Z",
+          "date": "2025-12-23T23:42:32.091Z",
           "description": "Why has Acquired — seemingly against all odds — “worked”? It's a puzzling question: episodes are four hours long, they come out infrequently, and they usually don’t have guests or...",
           "descriptionCN": "为什么收购——看似排除万难——“奏效”了？这是一个令人费解的问题：每集时长四个小时，很少出现，而且通常没有嘉宾或......",
           "duration": 168,
@@ -584,7 +584,7 @@
         {
           "title": "ACQ2: The Insane Productivity of Andrew Ross Sorkin",
           "guest": null,
-          "date": "2025-12-22T23:43:36.392Z",
+          "date": "2025-12-23T23:42:32.091Z",
           "description": "Andrew Ross Sorkin does the work of about five people. He founded and writes the DealBook newsletter for the New York Times. He hosts Squawk Box on CNBC every morning at 6am. He runs the DealBook...",
           "descriptionCN": "安德鲁·罗斯·索金 (Andrew Ross Sorkin) 负责大约五个人的工作。他为《纽约时报》创办并撰写 DealBook 时事通讯。他每天早上 6 点在 CNBC 节目中主持 Squawk Box。他经营DealBook...",
           "duration": 77,
@@ -608,7 +608,7 @@
         {
           "title": "On Artificial Intelligence",
           "guest": null,
-          "date": "2026-02-22T23:43:43.277Z",
+          "date": "2026-02-23T23:42:35.735Z",
           "description": "If you want to learn, do 0:00\nVibe coding is the new product management 2:13\nTraining models is the new coding 6:49\nIs traditional software engineering dead? 10:13\nThere is no demand for...",
           "descriptionCN": "如果你想学习，就在 0:00 进行\nVibe 编码是新的产品管理 2:13\n训练模型是新的编码 6:49\n传统软件工程已经消亡了吗？ 10:13\n没有要求...",
           "duration": 52,
@@ -618,7 +618,7 @@
         {
           "title": "On Recruiting",
           "guest": null,
-          "date": "2025-11-22T23:43:43.277Z",
+          "date": "2025-11-23T23:42:35.735Z",
           "description": "The Best Only Want to Work With the Best 0:00\nYou'll Never Be Able to Hire Anybody Better Than You 3:49\nBreak Every Rule to Get the Best People 6:45\nIt Just Takes a Small Group of People...",
           "descriptionCN": "最优秀的人只想与最优秀的人一起工作 0:00\n你永远无法雇用比你更好的人 3:49\n打破一切规则，招募最优秀的人才 6:45\n只需要一小群人...",
           "duration": 52,
@@ -628,7 +628,7 @@
         {
           "title": "In the Arena",
           "guest": null,
-          "date": "2025-10-22T23:43:43.277Z",
+          "date": "2025-10-23T23:42:35.735Z",
           "description": "Inspiration All the Way Down 0:00\nLife is Lived in the Arena 2:40\nIf You Want to Learn, Do 4:51\nIn Most Difficult Things in Life, The Solution is Indirect 6:15\nWhen You Truly Work for Yourself...",
           "descriptionCN": "灵感一路下降 0:00\n生活就在竞技场 2:40\n如果你想学习，就去做 4:51\n在生活中最困难的事情中，解决方案是间接的 6:15\n当你真正为自己工作时...",
           "duration": 42,
@@ -638,7 +638,7 @@
         {
           "title": "The Deutsch Files IV",
           "guest": null,
-          "date": "2025-04-22T23:43:43.277Z",
+          "date": "2025-04-23T23:42:35.735Z",
           "description": "Intro 0:00\nConnecting the Four Theories into a Unified Whole 0:34\nEmergence Is Fundamental 3:18\nConstructor Theory Could Transform Multiple Fields 8:30\nInnovation Often Emerges Unexpected...",
           "descriptionCN": "介绍 0:00\n将四种理论连接成一个统一的整体 0:34\n涌现是根本 3:18\n构造函数理论可以改变多个领域 8:30\n创新往往会在意想不到的情况下出现...",
           "duration": 85,
@@ -648,7 +648,7 @@
         {
           "title": "The Deutsch Files III",
           "guest": null,
-          "date": "2024-04-22T23:43:43.277Z",
+          "date": "2024-04-23T23:42:35.735Z",
           "description": "Proving something about AGI is inherently impossible 0:00\nCreativity is not just mixing things together 3:05\nThe superiority of explanatory knowledge 7:48\nKnowledge laden information...",
           "descriptionCN": "证明 AGI 本质上是不可能的 0:00\n创造力不仅仅是将东西混合在一起 3:05\n解释性知识的优越性 7:48\n知识丰富的信息...",
           "duration": 59,
@@ -658,7 +658,7 @@
         {
           "title": "The Deutsch Files II",
           "guest": null,
-          "date": "2024-04-22T23:43:43.277Z",
+          "date": "2024-04-23T23:42:35.735Z",
           "description": "The universality of computation and explanation 0:00\nThe growth of knowledge begins with problems 4:56\nProblems are clashes between ideas 9:57\nEvolution is not the survival of the...",
           "descriptionCN": "计算和解释的普遍性 0:00\n知识的增长从问题开始 4:56\n问题是想法之间的冲突 9:57\n进化不是为了生存...",
           "duration": 74,
@@ -680,11 +680,21 @@
       "color": "#16a34a",
       "episodes": [
         {
-          "title": "The AI Skill Gap Is About To Get Real",
+          "title": "The Only Investing Video You’ll Ever Need (Start With $0)",
           "guest": null,
-          "date": "2026-04-18T23:43:50.200Z",
+          "date": "2026-04-23T13:42:39.139Z",
+          "description": "Sponsored Link. To get free fractional shares worth up to £100, you can open an account with Trading 212 through this link -\nThis video does not represent...",
+          "descriptionCN": "赞助链接。要获得价值高达 100 英镑的免费零碎股票，您可以通过此链接在 Trading 212 开设账户 -\n本视频不代表...",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=bfENsVP77VQ",
+          "artworkUrl": "https://i.ytimg.com/vi/bfENsVP77VQ/hqdefault.jpg"
+        },
+        {
+          "title": "The Ultimate Beginner's Guide to Claude Code",
+          "guest": null,
+          "date": "2026-04-18T23:42:39.139Z",
           "description": "Grab 10% off Hostinger Horizons with code ALIABDAAL at checkout:\nGet the free AI learning guide here:\nApply for the...",
-          "descriptionCN": "结帐时使用代码 ALIABDAAL 可享受 Hostinger Horizons 10% 折扣：\n在这里获取免费的人工智能学习指南：\n申请...",
+          "descriptionCN": "结账时使用代码 ALIABDAAL 可享受 Hostinger Horizons 10% 折扣：\n在这里获取免费的人工智能学习指南：\n申请...",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=qLMYOhaKcZs",
           "artworkUrl": "https://i.ytimg.com/vi/qLMYOhaKcZs/hqdefault.jpg"
@@ -692,7 +702,7 @@
         {
           "title": "If I Wanted to Make My First $100K in 2026, I’d Do This",
           "guest": null,
-          "date": "2026-04-09T23:43:50.200Z",
+          "date": "2026-04-09T23:42:39.139Z",
           "description": "Apply to join the Lifestyle Business Academy:",
           "descriptionCN": "申请加入生活方式商业学院：",
           "duration": 35,
@@ -702,7 +712,7 @@
         {
           "title": "How to Read More Books",
           "guest": null,
-          "date": "2026-04-08T23:43:50.200Z",
+          "date": "2026-04-02T23:42:39.139Z",
           "description": "Try Shortform free and get $50 off the annual plan:\nI'm hosting a completely free workshop to reflect on the first 90 days of 2026. If you'd like to join, register...",
           "descriptionCN": "免费试用 Shortform 并享受年度套餐优惠 50 美元：\n我将举办一个完全免费的研讨会，回顾 2026 年的前 90 天。如果您想参加，请注册...",
           "duration": 14,
@@ -712,7 +722,7 @@
         {
           "title": "How I'd Create Content in 2026 (If I Had To Start Over)",
           "guest": null,
-          "date": "2026-04-01T23:43:50.200Z",
+          "date": "2026-03-26T23:42:39.139Z",
           "description": "Check out Manychat for free or use the code ALIABDAAL for a free 30-day trial of Manychat Pro:",
           "descriptionCN": "免费查看 Manychat 或使用代码 ALIABDAAL 获得 Manychat Pro 的 30 天免费试用：",
           "duration": 16,
@@ -722,22 +732,12 @@
         {
           "title": "The psychology of making money",
           "guest": null,
-          "date": "2026-03-22T23:43:50.200Z",
+          "date": "2026-03-23T23:42:39.139Z",
           "description": "Sponsored Link. To get free fractional shares worth up to £100, you can open an account with Trading 212 through this link -\nThis video does not represent...",
           "descriptionCN": "赞助链接。要获得价值高达 100 英镑的免费零碎股票，您可以通过此链接在 Trading 212 开设账户 -\n本视频不代表...",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=U-frK0b7msY",
           "artworkUrl": "https://i.ytimg.com/vi/U-frK0b7msY/hqdefault.jpg"
-        },
-        {
-          "title": "If I Started YouTube from Scratch in 2026, I’d do THIS",
-          "guest": null,
-          "date": "2026-03-22T23:43:50.200Z",
-          "description": "Sign up to Skillshare with a free 1‑month trial for the first 500 people to register here:\nJoin the Part-Time YouTuber Academy:",
-          "descriptionCN": "在此注册 Skillshare，前 500 人可免费试用 1 个月：\n加入兼职 YouTuber 学院：",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=rdT3XBZlnHA",
-          "artworkUrl": "https://i.ytimg.com/vi/rdT3XBZlnHA/hqdefault.jpg"
         }
       ]
     },
@@ -756,7 +756,7 @@
         {
           "title": "Hermes Agent: The New OpenClaw?",
           "guest": null,
-          "date": "2026-04-22T23:43:57.380Z",
+          "date": "2026-04-20T23:42:42.189Z",
           "description": "I sit down with Imran Muthuvappa to get a hands-on walkthrough of Hermes Agent, a personal AI agent that ships with built-in memory, 40+ tools, and pre-installed skills out of the box. Imran...",
           "descriptionCN": "我与 Imran Muthuvappa 坐下来，亲身体验了 Hermes Agent，这是一款个人 AI 代理，配备内置内存、40 多种工具以及开箱即用的预装技能。伊姆兰...",
           "duration": 37,
@@ -766,7 +766,7 @@
         {
           "title": "Claude Design: Full Walkthrough. I'm blown away.",
           "guest": null,
-          "date": "2026-04-22T23:43:57.380Z",
+          "date": "2026-04-18T23:42:42.189Z",
           "description": "I go live and get my hands dirty with Claude Design, Anthropic's new design tool in research preview. Across roughly an hour, I run a real workflow end-to-end: pulling a product idea from Idea...",
           "descriptionCN": "我开始使用 Claude Design，Anthropic 在研究预览中的新设计工具。在大约一个小时的时间里，我端到端地运行了一个真正的工作流程：从 Idea 中提取产品创意......",
           "duration": 60,
@@ -776,7 +776,7 @@
         {
           "title": "My Claude Code workflow no one knows about",
           "guest": null,
-          "date": "2026-04-22T23:43:57.380Z",
+          "date": "2026-04-13T23:42:42.189Z",
           "description": "I sit down with Amir, who's back on the pod, and we walk through the full stack of taking a business idea from zero to a validated, A/B-tested landing page in a single session. I use Idea Browser's...",
           "descriptionCN": "我和 Amir 坐在一起，他又回到了 Pod 上，我们在一次会话中完成了从零到经过验证、A/B 测试的着陆页的商业创意的整个过程。我使用 Idea 浏览器...",
           "duration": 35,
@@ -786,7 +786,7 @@
         {
           "title": "How AI agents & Claude skills work (Clearly Explained)",
           "guest": null,
-          "date": "2026-04-22T23:43:57.380Z",
+          "date": "2026-04-09T23:42:42.189Z",
           "description": "I sit down with Ras Mic to break down how AI agents actually work and why most people are using them wrong. Ras Mic explains the mechanics of context windows, makes the case that agent md files...",
           "descriptionCN": "我和 Ras Mic 一起坐下来分析人工智能代理的实际工作原理以及为什么大多数人都错误地使用它们。 Ras Mic 解释了上下文窗口的机制，并举例说明了代理 md 文件...",
           "duration": 35,
@@ -796,7 +796,7 @@
         {
           "title": "How I use iMessage and AI to run my life",
           "guest": null,
-          "date": "2026-04-22T23:43:57.380Z",
+          "date": "2026-04-09T23:42:42.189Z",
           "description": "I sit down with Flo, founder of Lindy, to get a live demo of their new product, Lindy Assistant, an AI executive assistant that lives in iMessage and works proactively across email, calendar,...",
           "descriptionCN": "我与 Lindy 的创始人 Flo 坐下来，现场演示了他们的新产品 Lindy Assistant，这是一个人工智能行政助理，位于 iMessage 中，可以在电子邮件、日历等方面主动工作。",
           "duration": 31,
@@ -806,7 +806,7 @@
         {
           "title": "23 AI Trends keeping me up at night",
           "guest": null,
-          "date": "2026-04-22T23:43:57.380Z",
+          "date": "2026-04-02T23:42:42.189Z",
           "description": "I go solo on this episode to walk through the full list of AI trends and opportunities keeping me up at night — literally. From the one-hour company stack to ambient businesses, vertical...",
           "descriptionCN": "在这一集里，我将独自回顾人工智能趋势和机会的完整列表，让我彻夜难眠——字面上的意思。从一小时公司堆栈到环境业务，垂直...",
           "duration": 32,
