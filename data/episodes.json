@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-04-27T23:52:15.344Z",
+  "lastFetched": "2026-04-28T23:54:35.790Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -18,7 +18,7 @@
           "guest": "Evan Spiegel",
           "date": "2026-04-26T12:31:49Z",
           "description": "Evan Spiegel, the co-founder and CEO of Snap, is one of the very few people in the world who has successfully built and scaled a lasting consumer social product. Snapchat has nearly 1 billion MAUs, and Evan and his team invented some of the most important consumer products and features, including Stories, AR glasses, swipe-based navigation, the camera as the primary UX, and a lot more.\nIn our in-depth conversation, we discuss:\n1. Why distribution is now the biggest challenge for creating a consumer technology business\n2. How Snap innovates at scale with a 9-to-12-person design team: no titles, no hierarchy, hundreds of ideas reviewed weekly with the CEO\n3. Why a pure software business is no longer a moat, and what actually creates durable competitive advantages today\n4. How AI is changing the way designers work and why they’re now shipping code\n5. Why every major Snap feature was copied and how that forced the company to work differently\n6. Evan’s prediction that humanity’s comfort with AI will be a bigger bottleneck than the technology itself\n7. This year’s crucible moment for Snap",
-          "descriptionCN": "Snap 联合创始人兼首席执行官埃文·斯皮格尔 (Evan Spiegel) 是世界上极少数成功打造并扩展持久消费社交产品的人之一。 Snapchat 拥有近 10 亿月活跃用户，Evan 和他的团队发明了一些最重要的消费产品和功能，包括故事、AR 眼镜、基于滑动的导航、作为主要用户体验的相机等等。\n在我们的深入对话中，我们讨论：\n1. 为什么分销现在是创建消费技术业务的最大挑战\n2. Snap 如何通过 9 到 12 人的设计团队进行大规模创新：没有头衔，没有等级��度，每周与首席执行官一起审查数百个想法\n3. 为什么纯软件业务不再是护城河，以及当今真正创造持久竞争优势的因素\n4. 人工智能如何改变设计师的工作方式以及他们现在交付代码的原因\n5. 为什么 Snap 的每一个主要功能都被复制，这如何迫使公司以不同的方式运作\n6. 埃文预测人类对人工智能的舒适度将是比技术本身更大的瓶颈\n7. 今年 Snap 的严��时刻",
+          "descriptionCN": "Snap 联合创始人兼首席执行官埃文·斯皮格尔 (Evan Spiegel) 是世界上极少数成功打造并扩展持久消费社交产品的人之一。 Snapchat 拥有近 10 亿月活跃用户，Evan 和他的团队发明了一些最重要的消费产品和功能，包括故事、AR 眼镜、基于滑动的导航、作为主要用户体验的相机等等。\n在我们的深入对话中，我们讨论：\n1. 为什么分销现在是创建消费技术业务的最大挑战\n2. Snap 如何通过 9 到 12 人的设计团队进行大规模创新：没有头衔，没有等级��度，每周与首席执行官一起审查数百个想法\n3. 为什么纯软件业务不再是护城河，以及当今真正创造持久竞争优势的因素\n4. 人工智能如何改变设计师的工作方式以及他们现在交付代码的原因\n5. 为什么 Snap 的每一个主要功能都被复制，以及这如何迫使公司以不同的方式运作\n6. 埃文预测人类对人工智能的舒适度将是比技术本身更大的瓶颈\n7. 今年 Snap ��严峻时刻",
           "duration": 70,
           "url": "https://podcasts.apple.com/us/podcast/snapchat-ceo-why-distribution-has-become-the-most/id1627920305?i=1000763662439&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/20/e8/e7/20e8e749-00af-c316-5045-3b54bdd538ec/mza_6615084579167587669.jpg/600x600bb.jpg"
@@ -162,9 +162,19 @@
       "color": "#0ea5e9",
       "episodes": [
         {
+          "title": "How Deepseek v4 Connects to the US Grid",
+          "guest": null,
+          "date": "2026-04-28T13:54:06.506Z",
+          "description": "Google's reported $40 billion investment into Anthropic and hyperscaler deals with Broadcom, Amazon, and Microsoft lock down gigawatts of compute for AI training. White House invocation of...",
+          "descriptionCN": "据报道，谷歌已与博通、亚马逊和微软达成协议，向 Anthropic 和超大规模公司投资 400 亿美元，锁定用于人工智能训练的千兆瓦计算能力。白宫援引...",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=qkKEV9rkFqI",
+          "artworkUrl": "https://i.ytimg.com/vi/qkKEV9rkFqI/hqdefault.jpg"
+        },
+        {
           "title": "Where the Economy Thrives After AI",
           "guest": null,
-          "date": "2026-04-26T23:51:29.190Z",
+          "date": "2026-04-26T23:54:06.506Z",
           "description": "A new economic argument suggests AI won’t simply wipe out work, but will shift value toward the parts of the economy where human presence, provenance, care, taste, and relationship matter...",
           "descriptionCN": "一项新的经济论点表明，人工智能不会简单地消灭工作，而是会将价值转移到经济中人类存在、出身、关怀、品味和关系至关重要的部分……",
           "duration": 26,
@@ -174,7 +184,7 @@
         {
           "title": "How To Build a Personal Agentic Operating System",
           "guest": null,
-          "date": "2026-04-25T23:51:29.190Z",
+          "date": "2026-04-25T23:54:06.506Z",
           "description": "On our latest Operators Bonus Episode, Nufar Gaspar returns to introduce Agent OS, the latest free AIDB training program for building a personal agentic operating system that travels with you...",
           "descriptionCN": "在我们最新的操作员奖励剧集中，Nufar Gaspar 再次介绍 Agent OS，这是最新的免费 AIDB 培训计划，用于构建随身携带的个人代理操作系统...",
           "duration": 29,
@@ -184,7 +194,7 @@
         {
           "title": "What I Learned Testing GPT 5 5",
           "guest": null,
-          "date": "2026-04-24T23:51:29.190Z",
+          "date": "2026-04-24T23:54:06.506Z",
           "description": "GPT 5.5 is here, and the first reactions are split between benchmark dominance, coding debates, Anthropic comparisons, and questions about whether the upgrade will feel dramatic to everyday...",
           "descriptionCN": "GPT 5.5 已经到来，人们的第一反应分为基准测试主导地位、编码辩论、人为比较，以及关于升级是否会给日​​常生活带来戏剧性的问题……",
           "duration": 33,
@@ -194,7 +204,7 @@
         {
           "title": "The Biggest Unlocks of GPT Images 2",
           "guest": null,
-          "date": "2026-04-23T23:51:29.190Z",
+          "date": "2026-04-23T23:54:06.506Z",
           "description": "OpenAI's GPT Image 2 topped the LM Arena leaderboard by a record 242 points, but the real story is how it fits the agentic stack. This episode digs into the image-to-code workflows driving...",
           "descriptionCN": "OpenAI 的 GPT Image 2 以创纪录的 242 分高居 LM Arena 排行榜榜首，但真正的故事是它如何适应代理堆栈。本集深入探讨了图像到代码的工作流程......",
           "duration": 21,
@@ -204,22 +214,12 @@
         {
           "title": "How Apple's AI Strategy Changes with a New CEO",
           "guest": null,
-          "date": "2026-04-22T23:51:29.190Z",
+          "date": "2026-04-22T23:54:06.506Z",
           "description": "Apple's CEO transition makes AI strategy the defining test for a hardware-first Apple. OpenClaw's agentic shift and Mac-first tooling sparked a Mac mini renaissance and tied many cutting-edge...",
           "descriptionCN": "苹果首席执行官的换届使得人工智能战略成为对硬件优先的苹果的决定性考验。 OpenClaw 的代理转变和 Mac 优先的工具引发了 Mac mini 的复兴，并将许多尖端技术联系在一起......",
           "duration": 12,
           "url": "https://www.youtube.com/watch?v=XwdLT7qF14E",
           "artworkUrl": "https://i.ytimg.com/vi/XwdLT7qF14E/hqdefault.jpg"
-        },
-        {
-          "title": "Automating Your AI Context",
-          "guest": null,
-          "date": "2026-04-22T23:51:29.190Z",
-          "description": "OpenAI introduced Chronic, a Codex background screenshot memory. The feature improves code context and workflow recall while raising privacy and usage-limit concerns. Anthropic's live-data...",
-          "descriptionCN": "OpenAI 推出了 Chronic，一个 Codex 后台截图内存。该功能改进了代码上下​​文和工作流程召回，同时引发了隐私和使用限制问题。 Anthropic 的实时数据...",
-          "duration": 8,
-          "url": "https://www.youtube.com/watch?v=jSPFi-mW0ns",
-          "artworkUrl": "https://i.ytimg.com/vi/jSPFi-mW0ns/hqdefault.jpg"
         }
       ]
     },
@@ -384,9 +384,9 @@
       "color": "#dc2626",
       "episodes": [
         {
-          "title": "How to find your thing",
+          "title": "\"I don't know where to apply myself\" -  Here's what to do.",
           "guest": null,
-          "date": "2026-04-27T12:51:43.992Z",
+          "date": "2026-04-27T23:54:18.035Z",
           "description": "*Run your life like a $100M business. Get the system here:*\nEpisode 818: Sam Parr (  ) and Shaan Puri (  ) talk about...",
           "descriptionCN": "*像经营价值一亿美元的企业一样经营你的生活。在这里获取系统：*\n第 818 集：Sam Parr ( ) 和 Shaan Puri ( ) 谈论……",
           "duration": 41,
@@ -396,7 +396,7 @@
         {
           "title": "This guy sold his company to Unilever for $1.2B after just 3 years",
           "guest": null,
-          "date": "2026-04-24T23:51:43.992Z",
+          "date": "2026-04-24T23:54:18.035Z",
           "description": "*Get Shaan's guide to go from $0 to $1M:*\nEpisode 817: Sam Parr (  ) and Shaan Puri (  ) talk to Chad Janis (",
           "descriptionCN": "*获取 Shaan 的从 0 美元到 100 万美元的指南：*\n第 817 集：Sam Parr ( ) 和 Shaan Puri ( ) 与 Chad Janis ( ) 交谈",
           "duration": 63,
@@ -406,7 +406,7 @@
         {
           "title": "25% Of My Portfolio Is Tesla Stock, Here's Why",
           "guest": null,
-          "date": "2026-04-22T23:51:43.992Z",
+          "date": "2026-04-22T23:54:18.035Z",
           "description": "*Get our investing playbook (with 35+ insights from top investors):*\nEpisode 816: Sam Parr (  ) and Shaan Puri (",
           "descriptionCN": "*获取我们的投资手册（来自顶级投资者的超过 35 条见解）：*\n第 816 集：山姆·帕尔 (Sam Parr) 和沙恩·普里 (Shaan Puri)",
           "duration": 55,
@@ -416,7 +416,7 @@
         {
           "title": "#1 Habit Expert: Why Your To Do List Is Making You Less Productive",
           "guest": null,
-          "date": "2026-04-16T23:51:43.992Z",
+          "date": "2026-04-16T23:54:18.035Z",
           "description": "*Run your life like a $100M business. Get the system here:*\nEpisode 815: Sam Parr (  ) talks to Charles Duhigg (",
           "descriptionCN": "*像经营价值一亿美元的企业一样经营你的生活。在这里获取系统：*\n第 815 集：萨姆·帕尔 (Sam Parr) 与查尔斯·杜希格 (Charles Duhigg) 交谈",
           "duration": 58,
@@ -426,9 +426,9 @@
         {
           "title": "9 Killer Business Ideas The Internet Hasn't Caught Up To in 2026",
           "guest": null,
-          "date": "2026-04-14T23:51:43.992Z",
+          "date": "2026-04-14T23:54:18.035Z",
           "description": "*Get Steph's database with 100+ stats that will shape the next decade:*\nEpisode 814: In this special episode, we’re pulling our best moments with the trends...",
-          "descriptionCN": "*获取 Steph 的数据库，其中包含 100 多项统计数据，这些统计数据将塑造未来十年：*\n第814集：在这一特别集中，我们将与潮流一起拉动我们最好的时刻......",
+          "descriptionCN": "*获取 Steph 的数据库，其中包含 100 多项统计数据，这些统计数据将塑造未来十年：*\n第814集：在这一特别集中，我们将与潮流一起拉动我们的最佳时刻......",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=aozthyS67EM",
           "artworkUrl": "https://i.ytimg.com/vi/aozthyS67EM/hqdefault.jpg"
@@ -436,7 +436,7 @@
         {
           "title": "Ex-Tesla President reveals EVERYTHING Elon does to win",
           "guest": null,
-          "date": "2026-04-13T23:51:43.992Z",
+          "date": "2026-04-14T23:54:18.035Z",
           "description": "*Get our CEO lessons in one guide:*\nEpisode 813: Shaan Puri (  ) talks to Jon McNeill about his time running Tesla and working side-by-side...",
           "descriptionCN": "*在一本指南中获取我们的首席执行官课程：*\n第 813 集：Shaan Puri ( ) 与 Jon McNeill 谈论他运营 Tesla 并肩工作的时光……",
           "duration": 63,
@@ -606,6 +606,16 @@
       "color": "#2563eb",
       "episodes": [
         {
+          "title": "A Return to Code",
+          "guest": null,
+          "date": "2026-04-28T23:21:43+00:00",
+          "description": "00:00 A Return to Coding\n03:08 The Personal App Store\n06:12 Vibe Coding Is a Video Game with Real-World Rewards\n10:23 Pure Software Is Uninvestable\n14:09 A Place for Each Model\n17:44 AI Is Eager to Please\n21:58 Why Math and Coding?\n24:04 The Beginning of the End of Apple’s Dominance\n27:43 Coding Agents As Customer Service Reps",
+          "descriptionCN": "00:00 返回编码\n03:08 个人应用商店\n06:12 Vibe Coding 是一款具有现实世界奖励的视频游戏\n10:23 纯软件是不可投资的\n14:09 每个模型都有一个位置\n17:44 人工智能渴望取悦他人\n21:58 为什么要数学和编码？\n24:04 苹果统治地位终结的开始\n27:43 编码代理作为客户服务代表",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=hTdSU7q5WCo",
+          "artworkUrl": "https://i.ytimg.com/vi/hTdSU7q5WCo/hqdefault.jpg"
+        },
+        {
           "title": "All true learning is on the job",
           "guest": null,
           "date": "2026-03-08T18:31:09+00:00",
@@ -650,20 +660,10 @@
           "guest": null,
           "date": "2026-02-24T16:58:46+00:00",
           "description": "\"Malcolm Gladwell popularized 10,000 hours. 10,000 hours is directionally correct, but it’s not exactly correct. It implies that if you spend 10,000 hours doing something, you get mastery. Let’s put aside whether 10,000 is the right number or not.\nIt’s not just hours put in—it’s iterations.\nHow many learning loops do you have that drive the learning curve?\nWhat is an iteration? An iteration is when you do something and then you look at the result; you test the result somehow—ideally against a free market, nature, or physics. Then you ask, “Did this work or not? What part of this experiment worked or not?”\nAnd then based on that, you make a new creative guess on how to improve that thing, and you do it again.\nThe number of times you can do that rotation, that iteration, the faster you’re going to learn. That’s the curve you want to be on.\nGreat people will distill insights from every iteration.\nSo it’s not as simple as finding one secret. Yes, every company makes a secret bet. They have a theory as to how the world is going to work out that other people don’t necessarily have en masse, or it’s not conventional wisdom yet.\nBut along the way, they’re going to discover thousands of insights, and each one will build upon the last, and that’s all going to be driven by the number of iterations they can do.\"",
-          "descriptionCN": "“马尔科姆·格拉德威尔（Malcolm Gladwell）普及了10,000小时。10,000小时在方向上是正确的，但并不完全正确。这意味着如果你花10,000小时做某件事，你就会精通。让我们先把10,000小时是否正确放在一边。\n这不仅仅是投入的时间，而是迭代。\n您有多少个学习循环可以推动学习曲线？\n什么是迭代？迭代是指你做某事然后查看结果；你以某种方式测试结果——最好是针对自由市场、自然或物理学。然后你问：“这有效吗？这个实验的哪一部分有效或无效？”\n然后在此基础上，你对如何改进这件事做出新的创造性猜测，然后再做一次。\n你可以进行这种旋转、迭代的次数越多，你学习的速度就越快。这就是您想要的曲线。\n伟大的人会从每次迭代中提炼出见解。\n所以这并不是发现一���秘密那么简单。是的，每家公司都会进行秘密赌注。他们有一个关于世界将如何发展的理论，而其他人不一定有这种理论，或者这还不是传统智慧。\n但一路走来，他们将发现数以千计的见解，每一个见解都将建立在上一个见解的基础上，而这一切都将由他们可以进行的迭代次数驱动。”",
+          "descriptionCN": "“马尔科姆·格拉德威尔（Malcolm Gladwell）普及了10,000小时。10,000小时在方向上是正确的，但并不完全正确。这意味着如果你花10,000小时做某件事，你就会精通。让我们先把10,000小时是否正确放在一边。\n这不仅仅是投入的时间，而是迭代。\n您有多少个学习循环可以推动学习曲线？\n什么是迭代？迭代是指你做某事然后查看结果；你以某种方式测试结果——最好是针对自由市场、自然或物理学。然后你问：“这有效吗？这个实验的哪一部分有效或无效？”\n然后在此基础上，你对如何改进这件事做出新的创造性猜测，然后再做一次。\n你可以进行这种旋转、迭代的次数越多，你学习的速度就越快。这就是您想要的曲线。\n伟大的人会从每次迭代中提炼出见解。\n所以这并不是发现一个秘密那么简单。是的，每家公司都会进行秘密赌注。他们有一个关于世界将如何发展的理论，而其他人不一定有这种理论，或者这还不是传统智慧。\n但一路走来，他们将发现数以千计的见解，每一个见解都将建立在上一个见解的基础上，而这一切都将由他们可以进行的迭代次数驱动。”",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=4UwVhOoRSO4",
           "artworkUrl": "https://i.ytimg.com/vi/4UwVhOoRSO4/hqdefault.jpg"
-        },
-        {
-          "title": "You can't fix motivation",
-          "guest": null,
-          "date": "2026-02-22T10:35:06+00:00",
-          "description": "\"The thing you can’t fix is motivation. If someone’s just unmotivated, if they don’t want to apply themselves fully, if they have other things going on in their life, then you just have to cut them off at this point.\nOne of the things that’s less talked about is often you’ll meet the right person at the wrong time. They just have internal problems—life problems, home problems, health problems, things that are going on—that make them not capable of functioning at the level that you need.\nAnd that’s a sad situation, but it happens all the time.\nOn a related note: People say, “Oh, I’m burned out. I need to take a break for a month or two and recharge.”\nIn my experience, that’s largely not true. Usually burnout is a sign you’re working on something that either isn’t working or you don’t enjoy the work fundamentally. Just taking time off won’t fix it.\nIf you’re really enjoying what you do, generally that’ll give you more energy and more motivation.\nThere are rare cases—like I know Elon is famous for flogging his teams until four in the morning and calling staff meetings at odd hours of the night and doing crazy death marches. That’s the culture that he sets and builds—that’s fine. In those situations, I could see certain people burning out.\nBut even there, what they’re saying is, “I cannot sustain this workload in the future.” So even there, taking time off doesn’t work because when you come back, he’s going to put you to task the same way as earlier.\nSo generally when someone says, “I’m burned out,” I just read that as, “I want to quit.”\nEven if they don’t necessarily realize that themselves.\"",
-          "descriptionCN": "“你无法解决的是动力。如果一个人只是没有动力，如果他们不想充分投入自己，如果他们的生活中发生了其他事情，那么你就必须在这一点上切断他们。\n很少有人谈论的一件事是，你常常会在错误的时间遇到对的人。他们只是有内部问题——生活问题、家庭问题、健康问题、正在发生的事情——这些问题使他们无法按照你需要的水平运作。\n这是一个令人悲伤的情况，但它一直在发生。\n相关说明：人���说：“哦，我累坏了。我需要休息一两个月，充电。”\n根据我的经验，这在很大程度上是不正确的。通常，倦怠表明你正在做的事情要么不起作用，要么你从根本上不喜欢这项工作。仅仅休息并不能解决问题。\n如果你真的很喜欢你所做的事情，通常这会给你更多的能量和动力。\n也有极少数的情况——比如我知道埃隆因鞭打他的团队直到凌晨四点、在深夜的奇怪时间召开员工会议以及进行疯狂的死亡行军而闻名。这就是他设定和建立的文化——很好。在那种情况下，我可以看到某些人精疲力竭。\n但即使在那里，他们所说的是，“我将来也无法承受这样的工作量。”所以即使在那里，请假也行不通，因为当你回来时，他会像以前一样给你安排任务。\n所以一般来说，当有人说“我精疲力竭”时，我只是将其解读为“我想退出”。\n即使他们自己不一定意识到这一点。”",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=dg7r5yk_89g",
-          "artworkUrl": "https://i.ytimg.com/vi/dg7r5yk_89g/hqdefault.jpg"
         }
       ]
     },
@@ -679,6 +679,16 @@
       "youtube": "https://www.youtube.com/@aliabdaal",
       "color": "#16a34a",
       "episodes": [
+        {
+          "title": "I learned to earn unlimited money",
+          "guest": null,
+          "date": "2026-04-28T10:01:11+00:00",
+          "description": "Join the Six-Figure Lifestyle Business Masterclass on 4th May:",
+          "descriptionCN": "参加 5 月 4 日举办的六位数生活方式商业大师班：",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=kXenRXelpKs",
+          "artworkUrl": "https://i.ytimg.com/vi/kXenRXelpKs/hqdefault.jpg"
+        },
         {
           "title": "How to Chose Your Next Business Idea",
           "guest": null,
@@ -723,21 +733,11 @@
           "title": "The Only Investing Video You’ll Ever Need (Start With $0)",
           "guest": null,
           "date": "2026-04-23T13:01:06+00:00",
-          "description": "Sponsored Link. To get free fractional shares worth up to £100, you can open an account with Trading 212 through this link -\nThis video does not represent financial advice, and I am not a financial advisor. When investing, your capital is at risk and you may get back less than invested. Past performance doesn’t guarantee future results. Free shares can be fractional.\n*Terms and fees apply -\nJoin the Six-Figure Lifestyle Business Masterclass on 4th May:\nLearn how to build a $100,000 a year lifestyle business (free workshop):",
-          "descriptionCN": "赞助链接。要获得价值高达 100 英镑的免费零碎股票，您可以通过此链接在 Trading 212 开设账户 -\n本视频不代表财务建议，我也不是财务顾问。投资时，您的资本面临风险，您的回报可能低于投资额。过去的表现并不能保证未来的结果。免费份额可以是小数。\n*适用条款和费用 -\n参加 5 月 4 日举办的六位数生活方式商业大���班：\n了解如何建立年收入 100,000 美元的生活方式业务（免费研讨会）：",
+          "description": "Sponsored Link. To get free fractional shares worth up to £100, you can open an account with Trading 212 through this link -\nJoin the Six-Figure Lifestyle Business Masterclass on 4th May:\nThis video does not represent financial advice, and I am not a financial advisor. When investing, your capital is at risk and you may get back less than invested. Past performance doesn’t guarantee future results. Free shares can be fractional.\n*Terms and fees apply -\nJoin the Six-Figure Lifestyle Business Masterclass on 4th May:\nLearn how to build a $100,000 a year lifestyle business (free workshop):",
+          "descriptionCN": "赞助链接。要获得价值高达 100 英镑的免费零碎股票，您可以通过此链接在 Trading 212 开设账户 -\n参加 5 月 4 日举办的六位数生活方式商业大师班：\n本视频不代表财务建议，我也不是财务顾问。投资时，您的资本面临风险，您的回报可能低于投资额。过去的表现并不能保证未来的结果。免费份额可以是小数。\n*适用条款和费用 -\n参加 5 月 4 日举办的六位数生活方式商业大师班：\n了解如何建立年收入 100,000 美元的生活方式业务（免费研讨会）：",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=bfENsVP77VQ",
           "artworkUrl": "https://i.ytimg.com/vi/bfENsVP77VQ/hqdefault.jpg"
-        },
-        {
-          "title": "The biggest myth in business",
-          "guest": null,
-          "date": "2026-04-22T10:01:19+00:00",
-          "description": "Learn how to be financially free (free workshop):",
-          "descriptionCN": "了解如何实现财务自由（免费研讨会）：",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=f1rK6WfCjCQ",
-          "artworkUrl": "https://i.ytimg.com/vi/f1rK6WfCjCQ/hqdefault.jpg"
         }
       ]
     },
