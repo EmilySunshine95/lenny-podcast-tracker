@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-05-27T00:02:03.571Z",
+  "lastFetched": "2026-05-27T23:59:13.162Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -18,7 +18,7 @@
           "guest": "Dan Shipper",
           "date": "2026-05-24T12:31:49Z",
           "description": "Dan Shipper is the co-founder and CEO of Every, a media and software company that’s become a living laboratory for the future of work. Everyone at his company of about 30 people is an AI early adopter; from editors to ops people, they use AI to do much of their work, giving Every a unique lens into where the world is heading. A year ago on this show, Dan predicted that people were sleeping on Claude Code for nontechnical work, which proved to be remarkably prescient. Today he’s back with another set of calls: the SaaS apocalypse is dumb, CLIs are over, the forward deployed engineer is the most valuable new hire, and the only thing you need to do to stay employed is ride the models.\nDan’s predictions:\n1. The future of work will happen inside Codex or Claude Code.\n2. Every company will have one “super-agent” inside their Slack that every employee talks to regularly.\n3. SaaS is not dead—in fact, Dan is bullish on SaaS stocks. His contrarian take: “I would buy SaaS stocks right now.”\n4. SaaS economics will shift: users will bring their own AI tokens into apps, which actually improves SaaS margins.\n5. PMs will thrive in the AI era.\n6. Full-stack designers will become superheroes.\n7. The AI job apocalypse is not happening.\n8. Forward deployed engineer is the new most essential role.\n9. CLIs are over.\n10. Automation is a lie.\n11. We will read way more AI-generated writing and we will like it.\n12. We’ll be building software for humans and agents to use together.",
-          "descriptionCN": "Dan Shipper 是 Every 的联合创始人兼首席执行官，这是一家媒体和软件公司，现已成为未来工作的活实验室。 Everyone at his company of about 30 people is an AI early adopter; from editors to ops people, they use AI to do much of their work, giving Every a unique lens into where the world is heading. A year ago on this show, Dan predicted that people were sleeping on Claude Code for nontechnical work, which proved to be remarkably prescient.今天，他带着另一组电话回来了：SaaS 末日是愚蠢的，CLI 已经结束，前沿部署的工程师是最有价值的新员工，要保住工作，你唯一需要做的就是驾驭模型。\n丹的预测：\n1. 未来的工作将发生在 Codex 或 Claude Code 内部。\n2. 每家公司的 Slack 中都会有一名“超级代理”，每位员工都会定期与他交谈。\n3. SaaS is not dead—in fact, Dan is bullish on SaaS stocks. His contrarian take: “I would buy SaaS stocks right now.”\n4. SaaS economics will shift: users will bring their own AI tokens into apps, which actually improves SaaS margins.\n5. 产品经理将在人工智能时代蓬勃发展。\n6.全栈设计师将成为超级英雄。\n7. 人工智能工作的末日并没有发生。\n8. Forward deployed engineer is the new most essential role.\n9. CLI 结束。\n10.自动化是一个谎言。\n11.我们会阅读更多人工智能生成的作品，我们会喜欢它。\n12. We’ll be building software for humans and agents to use together.",
+          "descriptionCN": "Dan Shipper 是 Every 的联合创始人兼首席执行官，这是一家媒体和软件公司，现已成为未来工作的活实验室。他的公司约有 30 名员工，每个人都是人工智能的早期采用者；从编辑到运营人员，他们使用人工智能来完成大部分工作，为每个人提供了了解世界发展方向的独特视角。一年前，在这个节目中，丹预测人们在非技术性工作中会依赖克劳德代码，事实证明这是非常有先见之明的。今天，他带着另一组电话回来了：SaaS 末日是愚蠢的，CLI 已经结束，前沿部署的工程师是最有价值的新员工���要保住工作，你唯一需要做的就是驾驭模型。\n丹的预测：\n1. 未来的工作将发生在 Codex 或 Claude Code 内部。\n2. 每家公司的 Slack 中都会有一名“超级代理”，每位员工都会定期与他交谈。\n3. SaaS 并未消亡——事实上，Dan 看好 SaaS 股票。他的逆向观点是：“我现在就会购买 SaaS 股票。”\n4. SaaS 经济将发生转变：用户将把自己的 AI 代币带入应用程序中，这实际上提高了 SaaS 的利润。\n5. 产品经理将在人工智能时代蓬勃发展。\n6.全栈设计师将成为超级英雄。\n7. 人工智能工作的末日并没有发生。\n8. 前沿部署工程师是新的最重要的角色。\n9. CLI 结束。\n10.自动化是一个谎言。\n11.我们会阅读更多人工智能生成的作品，我们会喜欢它。\n12. 我们将构建供人类和智能体一起使用的软件。",
           "duration": 94,
           "url": "https://podcasts.apple.com/us/podcast/the-ai-paradox-more-automation-more-humans-more-work/id1627920305?i=1000769334366&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/38/16/0b38163b-9f96-6fc0-e83c-0dda7a78c526/mza_18297040119493470452.png/600x600bb.jpg"
@@ -236,11 +236,21 @@
       "color": "#0891b2",
       "episodes": [
         {
+          "title": "🔬 The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+          "guest": null,
+          "date": "2026-05-27T17:32:38+00:00",
+          "description": "Editor’s note: In our first BioHub pod with Priscilla and Mark they discussed their acquisition of EvoScale, led by Alex Rives, who is now Head of Science at BioHub. With ESM-1 they trained language models on millions of protein sequences drawn from across life, with a simple “next token” objective: predict the amino acids that have been randomly masked out, based on the context of the rest of the sequence. But they soon found that these models also learned biological structure and function, including properties the model had never been explicitly shown AND that this ability scales predictably with compute, leading to ESM2 and ESM3.\nToday, Alex announced ESMFold 2, an open scientific engine to power prediction, design, and discovery across protein biology.",
+          "descriptionCN": "编者注：在我们与 Priscilla 和 Mark 的第一个 BioHub pod 中，他们讨论了对由现任 BioHub 科学主管 Alex Rives 领导的 EvoScale 的收购。通过 ESM-1，他们对来自生活中的数百万个蛋白质序列训练语言模型，其目标是简单的“下一个标记”：根据序列其余部分的上下文预测已被随机屏蔽的氨基酸。但他们很快发现这些模型还学习了生物结构和功能，包括模型从未明确展示过的属性，并且这种能力可预测地随着计算而扩展，从而产生了 ESM2 和 ESM3。\n今天，Alex 宣布推出 ESMFold 2，这是一款开放式科学引擎，可为蛋白质生物学领域的预测、设计和发现提供动力。",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=XdevS0GSuiQ",
+          "artworkUrl": "https://i.ytimg.com/vi/XdevS0GSuiQ/hqdefault.jpg"
+        },
+        {
           "title": "⚡️ Why you should build Science Fiction — Sunil Pai, Cloudflare",
           "guest": null,
           "date": "2026-05-24T17:31:16+00:00",
           "description": "We sit back down with our old friend Sunil Pai, keynote speaker at AIE Europe, to discuss how Cloudflare is leveraging Durable Objects (stateful serverless programming) and Dynamic Workers to build more efficient AI agent architectures, aiming to offer a competitive alternative to platforms like Anthropic’s cloud-managed agents (0:40 - 3:36).\nThe Future of Software: The duo touches on the search for a new, standardized \"React-like\" architecture for building AI agents, noting that current approaches like \"skills\" or specific harnesses haven't yet reached a unified, cross-platform standard (4:36 - 6:01).\nThe \"Vercel Drama\" & Open Source Culture: Sunil shares a personal anecdote regarding a misunderstanding involving a Vercel project and a social media interaction, emphasizing the importance of candor in an industry described as a \"forest of revolving doors\" (6:36 - 9:42).\nThe Role of Forking: They discuss the culture of \"slop forks\" and forking code as a sign of respect and prestige, arguing that it is fundamental to open-source growth and allows developers to own their dependencies rather than constantly rebuilding (10:06 - 12:02).\nAdversarial Open Source: The conversation highlights the current challenges in open-source maintenance, with repos becoming adversarial environments prone to fake security reports and external attacks (12:04 - 13:02).\nClosing Encouragement:\nSunil concludes by encouraging developers to be original, build \"sci-fi\" style projects rather than just chasing enterprise deals, and have the courage to experiment with new ideas (13:32 - 14:25).\nTimestamps\n0:03 Introduction and Sunil Pai's background\n0:30 Discussing the new cloud-managed agents\n1:10 Cloudflare's core infrastructure: Durable Objects and Dynamic Workers\n2:34 How Cloudflare approaches AI agent architecture\n3:40 The future of agentic software and standardizing the \"harness\"\n6:11 The \"slop forks\" phenomenon and open-source culture\n6:36 The Vercel / Cloudflare social media misunderstanding\n9:45 The importance of forking in software development\n12:04 The adversarial nature of modern open-source repositories\n13:04 Closing thoughts and encouragement to be original",
-          "descriptionCN": "我们与 AIE Europe 的主讲人、老朋友 Sunil Pai 坐下来，讨论 Cloudflare 如何利用 Durable Objects（有状态无服务器编程）和 Dynamic Workers 来构建更高效的 AI 代理架构，旨在为 Anthropic 的云管理代理等平台提供有竞争力的替代方案 (0:40 - 3:36)。\n软件的未来：二人谈到了寻找一种新的、标准化的“类 React”架构来构建 AI 代理，并指出“技能”或特定工具等当前方法尚未达到统一的跨平台标准 (4:36 - 6:01)。\n“Vercel 戏剧”和开源文化：Sunil 分享了一段关于涉及 Vercel 项目和社交媒体互动的误解的个人轶事，强调坦诚在被称为“���转门森林”的行业中的重要性 (6:36 - 9:42)。\n分叉的作用：他们讨论“slop forks”文化和分叉代码作为尊重和声望的标志，认为这是开源增长的基础，并允许开发人员拥有自己的依赖项而不是不断重建（10:06 - 12:02）。\n对抗性开源：对话强调了当前开源维护面临的挑战，存储库成为容易出现虚假安全报告和外部攻击的对抗性环境（12:04 - 13:02）。\n结束语鼓励：\nSunil 最后鼓励开发人员保持原创性，打造“科幻”风格的项目而不仅仅是追逐企业交易，并勇于尝试新想法 (13:32 - 14:25)。\n时间戳\n0:03 介绍和Sunil Pai的背景\n0:30 讨论新的云托管代理\n1:10 Cloudflare 的核心基础设施：持久对象和动态工作人员\n2:34 Cloudflare 如何实现 AI 代理架构\n3:40 代理软件的未来和标准化“线束”\n6:11 “斜叉”现象与开源文化\n6:36 Vercel / Cloudflare 社交媒体误解\n9:45 分叉在软件开发中的重要性\n12:04 现代开源存储库的对抗性\n13:04 结束语和鼓励原创",
+          "descriptionCN": "我们与 AIE Europe 的主讲人、老朋友 Sunil Pai 坐下来，讨论 Cloudflare 如何利用 Durable Objects（有状态无服务器编程）和 Dynamic Workers 来构建更高效的 AI 代理架构，旨在为 Anthropic 的云管理代理等平台提供有竞争力的替代方案 (0:40 - 3:36)。\n软件的未来：二人谈到了寻找一种新的、标准化的“类 React”架构来构建 AI 代理，并指出“技能”或特定工具等当前方法尚未达到统一的跨平台标准 (4:36 - 6:01)。\n“Vercel 戏剧”和开源文化：Sunil 分享了一段关于涉及 Vercel 项目和社交媒体互动的误解的个人轶事，强调坦诚在被称为“旋转门森林”的行业中的重要性 (6:36 - 9:42)。\n分叉的作用：他们讨论“slop forks”文化和分叉代码作为尊重和声望的标志，认为这是开源增长的基础，并允许开发人员拥有自己的依赖项而不是不断重建（10:06 - 12:02）。\n对抗性开源：对话强调了当前开源维护面临的挑战，存储库成为容易出现虚假安全报告和外部攻击的对抗性环境（12:04 - 13:02）。\n结束语鼓励：\nSunil 最后鼓励开发人员保持原创性，打造“科幻”风格的项目而不仅仅是追逐企业交易，并勇于尝试新想法 (13:32 - 14:25)。\n时间戳\n0:03 介绍和Sunil Pai的背景\n0:30 讨论新的云托管代理\n1:10 Cloudflare 的核心基础设施：持久对象和动态工作人员\n2:34 Cloudflare 如何实现 AI 代理架构\n3:40 代理软件的未来和标准化“线束”\n6:11 “斜叉”现象与开源文化\n6:36 Vercel / Cloudflare 社交媒体误解\n9:45 分叉在软件开发中的重要性\n12:04 现代开源存储库的对抗性\n13:04 结束语和鼓励原创",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=287Q-bs_pEU",
           "artworkUrl": "https://i.ytimg.com/vi/287Q-bs_pEU/hqdefault.jpg"
@@ -250,7 +260,7 @@
           "guest": null,
           "date": "2026-05-21T20:50:44+00:00",
           "description": "From building one of the first browser-based IDEs to trying to kill localhost for the agent era, Ivan Burazin has spent more than a decade chasing the idea that development should not depend on your local machine. In this episode, Daytona’s CEO joins swyx to explain why AI agents need more than code execution boxes: they need composable computers, stateful sandboxes, instant startup, dynamic resources, and infrastructure that can survive workloads going from zero to 100,000 CPUs.\nWe go deep on the new agent compute market: Daytona’s hard pivot from human dev environments to AI sandboxes, the New Year’s Eve MVP that customers begged for, why Daytona runs on bare metal with its own scheduler, how one customer runs almost 850,000 sandboxes a day, and why RL/eval workloads went from 0% to roughly 50% of usage in just months. Ivan also explains why agents need Windows and macOS machines, why CLI may matter more than MCP, why Kubernetes is painful for this workload, and why the future AI cloud may look more like Stripe than AWS.\nWe discuss:\n• How Daytona grew out of CodeAnywhere, Shift, and the “end of localhost” thesis\n• Why Daytona pivoted from human dev environments to AI sandboxes\n• Why agents need composable computers instead of disposable code execution boxes\n• The New Year’s Eve MVP that customers chased API keys for\n• Why Daytona chose bare metal, stateful snapshots, and its own scheduler\n• How Daytona spins up one sandbox in ~60ms and 50,000 sandboxes in ~75 seconds\n• Why Daytona’s biggest customer runs ~850,000 sandboxes a day\n• How RL/eval workloads create zero-to-100,000 CPU spikes\n• Why RL workloads went from 0% to roughly 50% of Daytona usage\n• Why customers compare Daytona against EKS/GKS and say they’re “never going back”\n• Docker, Sysbox, nested workloads, dynamic resizing, and avoiding OOMs\n• Why every AI agent may need a computer, including Windows and macOS environments\n• The Apple licensing constraints that make macOS sandboxes hard\n• Why CLI gives agents more power than MCP\n• How open source helps agents integrate Daytona\n• Why agent-generated PRs may break today’s CI/CD assumptions\n• Why AI SaaS companies reselling tokens may face a cold shower\n• Why the AI cloud may look more like Stripe than AWS\nIvan Burazin\n• LinkedIn:\n• X:\nDaytona\n• Website:\n• X:\nTimestamps\n00:00:00 Hook\n00:01:12 Introduction\n00:03:15 CodeAnywhere, Shift, and the end of localhost\n00:05:58 What Daytona is: composable computers for AI agents\n00:08:07 The pivot from dev environments to AI sandboxes\n00:10:17 The New Year’s Eve MVP and customers begging for API keys\n00:12:56 Bare metal, stateful sandboxes, and Daytona’s scheduler\n00:17:28 60ms startup, 50,000 sandboxes, and 850K daily runs\n00:21:53 Spiky RL/eval workloads and the new agent infra problem\n00:28:12 RL workloads, Kubernetes pain, and dynamic resizing\n00:33:31 Why every AI agent needs a computer\n00:38:48 macOS sandboxes and Apple’s licensing problem\n00:44:28 Why CLI may matter more than MCP\n00:48:11 Open source, GitHub stars, and agent integration\n00:53:11 Git, CI/CD, and agent collaboration bottlenecks\n00:58:15 Founder life and building a 25-person infra company\n01:02:44 AI SaaS, token resale, and API-first business models\n01:06:10 GPU sandboxes, data centers, and compute growth\n01:09:48 Why the AI cloud may look more like Stripe than AWS\n01:11:26 Closing thoughts",
-          "descriptionCN": "从构建第一个基于浏览器的 IDE 到尝试在代理时代消灭 localhost，Ivan Burazin 花费了十多年的时间来追求开发不应该依赖于本地计算机的想法。在本集中，Daytona 的首席执行官与 swyx 一起解释了为什么人工智能代理需要的不仅仅是代码执行盒：它们需要可组合的计算机、有状态的沙箱、即时启动、动态资源以及能够承受从 0 到 100,000 个 CPU 的工作负载的基础设施。\n我们深入探讨了新的代理计算市场：Daytona 从人类开发环境到 AI 沙箱的硬性转型、客户祈求的除夕 MVP、为什么 Daytona 在带有自己的调度程序的裸机上运行、一个客户如何每天运行近 850,000 个沙箱，以及为什么 RL/eval 工作负载在短短几个月内从使用率的 0% 上升到大约 50%。 Ivan 还解释了为什么代理需要 Windows 和 macOS 机器、为什么 CLI 可能比 MCP 更重要、为什么 Kubernetes 对于这种工作负载来说很痛苦，以及为什么未来的 AI 云可能看起来更像 Stripe 而不是 AWS。\n我们讨论：\n• Daytona 如何从 CodeAnywhere、Shift 和“本地主机的终结”论中发展起来\n• 为什么 Daytona 从人类开发环境转向 AI 沙箱\n• 为什么代理需要可组合计算机而不是一次性代码执行盒\n• 客户追逐 API 密钥的除夕 MVP\n• 为什么 Daytona 选择裸机、有状态快照和自己的调度程序\n• Daytona 如何在约 60 毫秒内启动一个沙箱并在约 75 秒内启动 50,000 个沙箱\n• 为什么 Daytona 的最大客户每天运行约 850,000 个沙箱\n• RL/eval 工作负载如何产生 0 到 100,000 个 CPU 峰值\n• 为什么 RL 工作负载占 Daytona 使用量的比例从 0% 上升到大约 50%\n• 为什么客户将 Daytona 与 EKS/GKS 进行比较并说他们“永远不会回头”\n• Docker、Sysbox、嵌套工作负载、动态调整大小和避免 OOM\n• 为什么每个 AI 代理都可能需要一台计算机，包括 Windows 和 macOS 环境\n• Apple 许可限制使 macOS 沙箱变得困难\n• 为什么 CLI 为代理提供了比 MCP 更多的功能\n• 开源如何帮助代理集成 Daytona\n• 为什么代理生成的 PR 可能会打破当今的 CI/CD 假设\n为什么AI SaaS公司倒卖代币可能会面临冷水澡\n• 为什么人工智能云看起来更像 Stripe 而不是 AWS\n伊万·布拉津\n• 领英：\n• X：\n代托纳\n• 网站：\n• X：\n时间戳\n00:00:00 钩子\n00:01:12 简介\n00:03:15 CodeAnywhere、Shift 和 localhost 结束\n00:05:58 Daytona 是什么：用于 AI 代理的可组合计算机\n00:08:07 从开发环境到人工智能沙箱的支点\n00:10:17 除夕 MVP 和客户乞求 API 密钥\n00:12:56 裸机、状态沙箱和 Daytona 的调度程序\n00:17:28 60ms 启动、50,000 个沙箱和 850K 每日运行\n00:21:53 Spiky RL/eval 工作负载和新代理基础设施问题\n00:28:12 RL 工作负载、Kubernetes 难题和动态调整大小\n00:33:31 为什么每个人工智能代理都需要一台计算机\n00:38:48 macOS 沙箱和 Apple 的许可问题\n00:44:28 为什么 CLI 可能比 MCP 更重要\n00:48:11 开源、GitHub ��星和代理集成\n00:53:11 Git、CI/CD 和代理协作瓶颈\n00:58:15 创始人生活并建立一家 25 人的基础设施公司\n01:02:44 AI SaaS、代币转售和 API 优先的商业模式\n01:06:10 GPU 沙箱、数据中心和计算增长\n01:09:48 为什么人工智能云可能看起来更像 Stripe 而不是 AWS\n01:11:26 结束语",
+          "descriptionCN": "从构建第一个基于浏览器的 IDE 到尝试在代理时代消灭 localhost，Ivan Burazin 花费了十多年的时间来追求开发不应该依赖于本地计算机的想法。在本集中，Daytona 的首席执行官与 swyx 一起解释了为什么人工智能代理需要的不仅仅是代码执行盒：它们需要可组合的计算机、有状态的沙箱、即时启动、动态资源以及能够承受从 0 到 100,000 个 CPU 的工作负载的基础设施。\n我们深入探讨了新的代理计算市场：Daytona 从人类开发环境到 AI 沙箱的硬性转型、客户祈求的除夕 MVP、为什么 Daytona 在带有自己的调度程序的裸机上运行、一个客户如何每天运行近 850,000 个沙箱，以及为什么 RL/eval 工作负载在短短几个月内从使用率的 0% 上���到大约 50%。 Ivan 还解释了为什么代理需要 Windows 和 macOS 机器、为什么 CLI 可能比 MCP 更重要、为什么 Kubernetes 对于这种工作负载来说很痛苦，以及为什么未来的 AI 云可能看起来更像 Stripe 而不是 AWS。\n我们讨论：\n• Daytona 如何从 CodeAnywhere、Shift 和“本地主机的终结”论中发展起来\n• 为什么 Daytona 从人类开发环境转向 AI 沙箱\n• 为什么代理需要可组合计算机而不是一次性代码执行盒\n• 客户追逐 API 密钥的除夕 MVP\n• 为什么 Daytona 选择裸机、有状态快照和自己的调度程序\n• Daytona 如何在约 60 毫秒内启动一个沙箱并在约 75 秒内启动 50,000 个沙箱\n• 为什么 Daytona 的最大客户每天运行约 850,000 个沙箱\n• RL/eval 工作负载如何产生 0 到 100,000 个 CPU 峰值\n• 为什么 RL 工作负载占 Daytona 使用量的比例从 0% 上升到大约 50%\n• 为什么客户将 Daytona 与 EKS/GKS 进行比较并说他们“永远不会回头”\n• Docker、Sysbox、嵌套工作负载、动态调整大小和避免 OOM\n• 为什么每个 AI 代理都可能需要一台计算机，包括 Windows 和 macOS 环境\n• Apple 许可限制使 macOS 沙箱变得困难\n• 为什么 CLI 为代理提供了比 MCP 更多的功能\n• 开源如何帮助代理集成 Daytona\n• 为什么代理生成的 PR 可能会打破当今的 CI/CD 假设\n为什么AI SaaS公司倒卖代币可能会面临冷水澡\n• 为什么人工智能云看起来更像 Stripe 而不是 AWS\n伊万·布拉津\n• 领英：\n• X：\n代托纳\n• 网站：\n• X：\n时间戳\n00:00:00 钩子\n00:01:12 简介\n00:03:15 CodeAnywhere、Shift 和 localhost 结束\n00:05:58 Daytona 是什么：用于 AI 代理的可组合计算机\n00:08:07 从开发环境到人工智能沙箱的支点\n00:10:17 除夕 MVP 和客户乞求 API 密钥\n00:12:56 裸机、状态沙箱和 Daytona ���调度程序\n00:17:28 60ms 启动、50,000 个沙箱和 850K 每日运行\n00:21:53 Spiky RL/eval 工作负载和新代理基础设施问题\n00:28:12 RL 工作负载、Kubernetes 难题和动态调整大小\n00:33:31 为什么每个人工智能代理都需要一台计算机\n00:38:48 macOS 沙箱和 Apple 的许可问题\n00:44:28 为什么 CLI 可能比 MCP 更重要\n00:48:11 开源、GitHub 星星和代理集成\n00:53:11 Git、CI/CD 和代理协作瓶颈\n00:58:15 创始人生活并建立一家 25 人的基础设施公司\n01:02:44 AI SaaS、代币转售和 API 优先的商业模式\n01:06:10 GPU 沙箱、数据中心和计算增长\n01:09:48 为什么人工智能云可能看起来更像 Stripe 而不是 AWS\n01:11:26 结束语",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=kaX43RRRUKY",
           "artworkUrl": "https://i.ytimg.com/vi/kaX43RRRUKY/hqdefault.jpg"
@@ -269,8 +279,8 @@
           "title": "The Next War Is Already Here — Yaroslav Azhnyuk, The Fourth Law & Noah Smith, Noahpinion",
           "guest": null,
           "date": "2026-05-18T13:00:48+00:00",
-          "description": "The future of war has been evolving before our eyes in Ukraine, yet the west still plans to fight the last war. In this special episode, guest host  (@noahpinion) and  sit down with Yaroslav Azhnyuk (@YaroslavAzhnyuk), a serial tech founder who went from building PetCube to founding The Fourth Law, one of the world’s most advanced AI-guided drone companies. Over two hours we cover the technology, tactics, and geopolitics of drone warfare, and why the modern battlefield has already left the West behind:\n• Yaroslav’s personal history and the Ukraine war [00:01:04 – 00:14:01]\n• The modern drone tech stack: why FPV drones are the new god of war, the future of the rifleman, fiber optic vs. AI, five levels of autonomy, and the eight dimensions of the autonomous battlefield [00:14:01 – 01:05:13]\n�� The geopolitics and economics of drones: China’s manufacturing advantage, the drone race, Western defense readiness, countermeasures, and why the gap is widening [01:05:13 – 01:58:57]\n• For those looking for ’s commentary, it really gets going around the 00:51:31 mark.\nYaroslav Azhnyuk / The Fourth Law:\n• X:\n• LinkedIn:\n• The Fourth Law:\nNoah Smith:\n• Substack:\n• X:\nTimestamps\n00:00:00 Cold Open: China’s 4 Billion Drones and the Cameras-to-Explosives Pipeline\n00:01:04 Introduction: Brandon, Noah Smith, and Yaroslav Azhnyuk\n00:05:41 From Tech Entrepreneur to Defense: PetCube, Brave One, and the D3 Fund\n00:10:42 The Ethics of Building Weapons: Dual-Use Technology and the Wolf at the Door\n00:14:01 The Tech Stack: Cameras, Autonomy Modules, Interceptors, and a Semiconductor Fab\n00:18:47 Fiber Optic vs. AI: The Radio Horizon Problem and $32/km Cable\n00:25:32 FPV Drones: The New God of War — 70–80% of Frontline Casualties\n00:28:28 The Five Levels of Drone Autonomy: From Terminal Guidance to Full Autonomy\n00:41:37 The Eight Dimensions of the Autonomous Battlefield\n00:45:32 AI Safety and the Morality of Autonomous Weapons\n00:51:31 The End of the Rifleman? Noah’s 2013 Prediction vs. Battlefield Reality\n01:05:13 China’s Manufacturing Advantage and Western Vulnerabilities\n01:24:21 Policy Advice for Western Defense: Defense Valley and the Widening Gap\n01:32:54 The Drone Race: Who’s Ahead, Category by Category\n01:41:57 Countermeasures: Shotguns, Jammers, Lasers, and Fishnets\n01:58:19 The Wedding and Final Takeaway: Be Prepared for War",
-          "descriptionCN": "乌克兰的战争未来已经在我们眼前演变，但西方仍然计划打上一场战争。在本期特别节目中，客座主持人 (@noahpinion) 并与 Yaroslav Azhnyuk (@YaroslavAzhnyuk) 坐在一起，他是一位连续技术创始人，从创建 PetCube 到创立第四定律，这是世界上最先进的人工智能制导无人机公司之一。我们在两个多小时内介绍了无人机战争的技术、战术和地缘政治，以及为什么现代战场已经将西方抛在了后面：\n• 雅罗斯拉夫的个人历史和乌克兰战争[00:01:04 – 00:14:01]\n• 现代无人机技术堆栈：为什么 FPV 无人机是新战神、步枪手的未来、光纤与人工智能、五个级别的自主性以及自主战场的八个维度 [00:14:01 – 01:05:13]\n �� 无人机的地缘政治和经济：中国的制造优势、无人机竞赛、西方的国防准备、对策以及差距为何扩大 [01:05:13 – 01:58:57]\n• 对于那些寻找评论的人来说，它确实在 00:51:31 左右开始。\n雅罗斯拉夫·阿兹纽克/第四定律：\n• X：\n• 领英：\n• 第四定律：\n诺亚·史密斯：\n• 子堆栈：\n• X：\n时间戳\n00:00:00 冷开：中国40亿架无人机和从相机到爆炸物的管道\n00:01:04 简介：布兰登、诺亚·史密斯和雅罗斯拉夫·阿兹纽克\n00:05:41 从科技企业家到国防：PetCube、Brave One 和 D3 基金\n00:10:42 制造武器的伦理：双重用途技术和门口的狼\n00:14:01 技术堆栈：摄像头、自主模块、拦截器和半导体工厂\n00:18:47 光纤与人工智能：无线电地平线问题和 32 美元/公里的电缆\n00:25:32 FPV 无人机：新战神 — 70-80% 的前线伤亡\n00:28:28 无人机自主的五个层次：从终端引导到完全自主\n00:41:37 自主战场的八个维度\n00:45:32 人工智能安全和自主武器的道德\n00:51:31 步枪手的终结？诺亚方舟 2013 年预测与战场现实\n01:05:13 中国制造优势与西方弱点\n01:24:21 西方国防政策建议：国防谷和不断扩大的差距\n01:32:54 无人机竞赛：谁领先，按类别分类\n01:41:57 对策：霰弹枪、干扰器、激光和渔网\n01:58:19 婚礼和最后的收获：做好战争准备",
+          "description": "The future of war has been evolving before our eyes in Ukraine, yet the west still plans to fight the last war. In this special episode, guest host  (@noahpinion) and  sit down with Yaroslav Azhnyuk (@YaroslavAzhnyuk), a serial tech founder who went from building PetCube to founding The Fourth Law, one of the world’s most advanced AI-guided drone companies. Over two hours we cover the technology, tactics, and geopolitics of drone warfare, and why the modern battlefield has already left the West behind:\n• Yaroslav’s personal history and the Ukraine war [00:01:04 – 00:14:01]\n• The modern drone tech stack: why FPV drones are the new god of war, the future of the rifleman, fiber optic vs. AI, five levels of autonomy, and the eight dimensions of the autonomous battlefield [00:14:01 – 01:05:13]\n• The geopolitics and economics of drones: China’s manufacturing advantage, the drone race, Western defense readiness, countermeasures, and why the gap is widening [01:05:13 – 01:58:57]\n• For those looking for ’s commentary, it really gets going around the 00:51:31 mark.\nYaroslav Azhnyuk / The Fourth Law:\n• X:\n• LinkedIn:\n• The Fourth Law:\nNoah Smith:\n• Substack:\n• X:\nTimestamps\n00:00:00 Cold Open: China’s 4 Billion Drones and the Cameras-to-Explosives Pipeline\n00:01:04 Introduction: Brandon, Noah Smith, and Yaroslav Azhnyuk\n00:05:41 From Tech Entrepreneur to Defense: PetCube, Brave One, and the D3 Fund\n00:10:42 The Ethics of Building Weapons: Dual-Use Technology and the Wolf at the Door\n00:14:01 The Tech Stack: Cameras, Autonomy Modules, Interceptors, and a Semiconductor Fab\n00:18:47 Fiber Optic vs. AI: The Radio Horizon Problem and $32/km Cable\n00:25:32 FPV Drones: The New God of War — 70–80% of Frontline Casualties\n00:28:28 The Five Levels of Drone Autonomy: From Terminal Guidance to Full Autonomy\n00:41:37 The Eight Dimensions of the Autonomous Battlefield\n00:45:32 AI Safety and the Morality of Autonomous Weapons\n00:51:31 The End of the Rifleman? Noah’s 2013 Prediction vs. Battlefield Reality\n01:05:13 China’s Manufacturing Advantage and Western Vulnerabilities\n01:24:21 Policy Advice for Western Defense: Defense Valley and the Widening Gap\n01:32:54 The Drone Race: Who’s Ahead, Category by Category\n01:41:57 Countermeasures: Shotguns, Jammers, Lasers, and Fishnets\n01:58:19 The Wedding and Final Takeaway: Be Prepared for War",
+          "descriptionCN": "乌克兰的战争未来已经在我们眼前演变，但西方仍然计划打上一场战争。在本期特别节目中，客座主持人 (@noahpinion) 并与 Yaroslav Azhnyuk (@YaroslavAzhnyuk) 坐在一起，他是一位连续技术创始人，从创建 PetCube 到创立第四定律，这是世界上最先进的人工智能制导无人机公司之一。我们在两个多小时内介绍了无人机战争的技术、战术和地缘政治，以及为什么现代战场已经将西方抛在了后面：\n• 雅罗斯拉夫的个人历史和乌克兰战争[00:01:04 – 00:14:01]\n• 现代无人机技术堆栈：为什么 FPV 无人机是新战神、步枪手的未来、光纤与人工智能、五个级别的自主性以及自主战场的八个维度 [00:14:01 – 01:05:13]\n• 无人机的地缘政治和经济：中国的制造优势、无人机竞赛、西方的国防准备、对策以及差距为何扩大[01:05:13 – 01:58:57]\n• 对于那些寻找评论的人来说，它确实在 00:51:31 左右开始。\n雅罗斯拉夫·阿兹纽克/第四定律：\n• X：\n• 领英：\n• 第四定律：\n诺亚·史密斯：\n• 子堆栈：\n• X：\n时间戳\n00:00:00 冷开：中国40亿架无人机和从相机到爆炸物的管道\n00:01:04 简介：布兰登、诺亚·史密斯和雅罗斯拉夫·阿兹纽克\n00:05:41 从科技企业家到国防：PetCube、Brave One 和 D3 基金\n00:10:42 制造武器的伦理：双重用途技术和门口的狼\n00:14:01 技术堆栈：摄像头、自主模块、拦截器和半导体工厂\n00:18:47 光纤与人工智能：无线电地平线问题和 32 美元/公里的电缆\n00:25:32 FPV 无人机：新战神 — 70-80% 的前线伤亡\n00:28:28 无人机自主的五个层次：从终端引导到完全自主\n00:41:37 自主战场的八个维度\n00:45:32 人工智能安全和自主武器的道德\n00:51:31 步枪手的终结？诺亚方舟 2013 年预测与战场现实\n01:05:13 中国制造优势与西方弱点\n01:24:21 西方国防政策建议：国防谷和不断扩大的差距\n01:32:54 无人机竞赛：谁领先，按类别分类\n01:41:57 对策：霰弹枪、干扰器、激光和渔网\n01:58:19 婚礼和最后的收获：做好战争准备",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=UmCZBwsibgs",
           "artworkUrl": "https://i.ytimg.com/vi/UmCZBwsibgs/hqdefault.jpg"
@@ -284,16 +294,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=vUARtyOvh5U",
           "artworkUrl": "https://i.ytimg.com/vi/vUARtyOvh5U/hqdefault.jpg"
-        },
-        {
-          "title": "Senior Dev: This \"Grill Me\" Prompt Is Going Viral Among Top Engineers",
-          "guest": null,
-          "date": "2026-05-07T20:06:38+00:00",
-          "description": "Matt Pocock ( @mattpocockuk ) is a teacher of TypeScript and now AI Engineering. His talk + workshop at AIE Europe (@aiDotEngineer )  just crossed 1m views in 13 days - the fastest to 1m in AIE history. swyx catches up with him",
-          "descriptionCN": "Matt Pocock (@mattpocockuk) 是一名 TypeScript 老师，现在是人工智能工程老师。他在 AIE Europe (@aiDotEngineer ) 上的演讲 + 研讨会在 13 天内浏览量就突破了 100 万次，这是 AIE 历史上最快达到 100 万次的纪录。 swyx 追上了他",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=rlM_fAKxB3Q",
-          "artworkUrl": "https://i.ytimg.com/vi/rlM_fAKxB3Q/hqdefault.jpg"
         }
       ]
     },
@@ -384,6 +384,26 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "Bill Gates studied his hiring strategy",
+          "guest": null,
+          "date": "2026-05-27T22:19:23+00:00",
+          "description": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "descriptionCN": "不再需要小男孩电子表格，在免费的 HubSpot CRM 上建立您的业务：\n更多优质视频请点击这里订阅 →\n🔔 打开通知以随时了解新上传的内容",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=MbMSFrpnGr4",
+          "artworkUrl": "https://i.ytimg.com/vi/MbMSFrpnGr4/hqdefault.jpg"
+        },
+        {
+          "title": "The 50 richest families in America are betting on this trend",
+          "guest": null,
+          "date": "2026-05-27T10:00:24+00:00",
+          "description": "*Get our Wealth Guide (35+ insights from top investors):*\nEpisode 828: Shaan Puri (  ) and Sam Parr (  ) talk to billionaire Joe Liemandt (  ) about the experiment he’s put $1,000,000,000 of his own money into.\nShow Notes:\n(0:00) Joe, the total man?\n(08:09) fighting bill gates for talent\n(13:14) intensity\n(16:18) choosing hard over easy\n(19:00) how to be a magnet\n(21:34) high standards\n(23:29) being persuasive\n(29:23) simplicity: 3 ines, 3 words\n(34:41) is 2x faster really better?\n(36:23) making kids run a 5k\n(38:45) why be public now\n(41:01) why put $1b into the lowest roi thing?\n(50:03) buying SaaS companies\n(51:06) cloning Warren Buffett's brain\n(53:00) changing your brain lift\n(57:19) is AI going to make everyone dumb?",
+          "descriptionCN": "*获取我们的财富指南（来自顶级投资者的超过 35 条见解）：*\n第 828 集：Shaan Puri ( ) 和 Sam Parr ( ) 与亿万富翁 Joe Liemandt ( ) 谈论他自己投入 1,000,000,000 美元的实验。\n显示注意事项：\n(0:00) 乔，全面的男人？\n(08:09) 与比尔·盖茨争夺人才\n(13:14) 强度\n(16:18) 选择困难而不是简单\n(19:00) 如何成为磁铁\n(21:34) 高标准\n(23:29) 有说服力\n(29:23) 简单性：3 个字符，3 个单词\n(34:41) 速度提高 2 倍真的更好吗？\n(36:23) 让孩子们跑 5 公里\n(38:45) 为什么现在公开\n(41:01) 为什么要把 10 美元投入到投资回报率最低的事情上？\n(50:03) 收购 SaaS 公司\n(51:06) 克隆沃伦·巴菲特的大脑\n(53:00) 改变你的大脑提升\n(57:19) 人工智能会让每个人都变得愚蠢吗？",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=GaXsABG1_GM",
+          "artworkUrl": "https://i.ytimg.com/vi/GaXsABG1_GM/hqdefault.jpg"
+        },
+        {
           "title": "Investing in the S&P 500 is a mistake",
           "guest": null,
           "date": "2026-05-25T20:05:14+00:00",
@@ -418,30 +438,10 @@
           "guest": null,
           "date": "2026-05-22T13:47:35+00:00",
           "description": "*Get Mohnish's 9 investment principles:*\nEpisode 827: Shaan Puri (  ) sits down with Mohnish Pabrai to break down the mental models that made him a billionaire value investor.\nShow Notes:\n(0:00) Intro\n(1:25) Mental models of the top 1%\n(3:38) The mistress is always hotter than the wife\n(6:37) Introduce Randomness in your life\n(10:47)  Humans are poor at copying\n(20:13) Take a simple idea seriously\n(23:02)  Be and inch wide and a mile deep\n(30:29)  Never use Excel\n(35:03) Wait for fat pitches\n(39:38) the stock market is like a church with a casino\n(44:01) Paying $650,000 to have lunch with Warren Buffett\n(45:43) The cautionary tale of Rick Guerin\n(47:22) The inner score card\n(49:25) The future of Berkshire Hathaway\n(51:29) Mohnish’s best investment\n(1:02:39) The hardest question\n(1:06:16) How to beat the index\n(1:11:25) Mohnish's stock picks for 2026\n(1:22:26)  S&P 500\n(1:24:57) life advice disguised as investing advice\n(1:29:32)  Studying the greatest investors\n(1:37:51) if you remember nothing else, remember this",
-          "descriptionCN": "*了解莫尼什的 9 项投资原则：*\n第 827 集：Shaan Puri ( ) 与 Mohnish Pabrai 坐下来，打破了使他成为亿万富翁价值投资者的思维模式。\n显示注意事项：\n(0:00) 简介\n(1:25) 顶层 1% 的心智模型\n(3:38) 情妇总是比妻子更性感\n(6:37) 在你的生活中引入随机性\n(10:47)  人类不善于复制\n(20:13) 认真对待一个简单的想法\n(23:02)  宽一英寸，深一英里\n(30:29)  切勿使用 Excel\n(35:03) 等待精彩的投球\n(39:38) 股市就像一座带有赌场的教堂\n(44:01) 支付 65 万美元与沃伦·巴菲特共进午餐\n(45:43) Rick Guerin 的警示故事\n(47:22) 内部记分卡\n(49:25) 伯克希尔哈撒韦公司的未���\n(51:29) 莫尼什的最佳投资\n(1:02:39) 最难的问题\n(1:06:16) 如何击败指数\n(1:11:25) Mohnish 的 2026 年股票精选\n(1:22:26)  标准普尔 500 指数\n(1:24:57) 伪装成投资建议的生活建议\n(1:29:32)  研究最伟大的投资者\n(1:37:51) 如果你什么都不记得了，请记住这个",
+          "descriptionCN": "*了解莫尼什的 9 项投资原则：*\n第 827 集：Shaan Puri ( ) 与 Mohnish Pabrai 坐下来，打破了使他成为亿万富翁价值投资者的思维模式。\n显示注意事项：\n(0:00) 简介\n(1:25) 顶层 1% 的心智模型\n(3:38) 情妇总是比妻子更性感\n(6:37) 在你的生活中引入随机性\n(10:47)  人类不善于复制\n(20:13) 认真对待一个简单的想法\n(23:02)  宽一英寸，深一英里\n(30:29)  切勿使用 Excel\n(35:03) 等待精彩的投球\n(39:38) 股市就像一座带有赌场的教堂\n(44:01) 支付 65 万美元与沃伦·巴菲特共进午餐\n(45:43) Rick Guerin 的警示故事\n(47:22) 内部记分卡\n(49:25) 伯克希尔哈撒韦公司的��来\n(51:29) 莫尼什的最佳投资\n(1:02:39) 最难的问题\n(1:06:16) 如何击败指数\n(1:11:25) Mohnish 的 2026 年股票精选\n(1:22:26)  标准普尔 500 指数\n(1:24:57) 伪装成投资建议的生活建议\n(1:29:32)  研究最伟大的投资者\n(1:37:51) 如果你什么都不记得了，请记住这个",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=FjWY1-gZ0Cs",
           "artworkUrl": "https://i.ytimg.com/vi/FjWY1-gZ0Cs/hqdefault.jpg"
-        },
-        {
-          "title": "Gary Vee's most valuable investment (It's free)",
-          "guest": null,
-          "date": "2026-05-20T19:13:06+00:00",
-          "description": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
-          "descriptionCN": "不再需要小男孩电子表格，在免费的 HubSpot CRM 上建立您的业务：\n更多优质视频请点击这里订阅 →\n🔔 打开通知以随时了解新上传的内容",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=WbzVrju6v5o",
-          "artworkUrl": "https://i.ytimg.com/vi/WbzVrju6v5o/hqdefault.jpg"
-        },
-        {
-          "title": "Gary Vee: \"i was an all-time atrocious firer\"",
-          "guest": null,
-          "date": "2026-05-19T16:22:21+00:00",
-          "description": "Gary Vee managed people from age 18. spent decades thinking his superpower was making his team fearless.\nturns out he was making them scared, because they never knew where they stood with him.\nhe'd be warm with someone on friday. fire them monday after sitting on the problem for 18 months. then blame them for being blindsided.\nthis clip is him explaining the moment he realized it, what it cost him, and the framework he built to fix it: kind candor.\nfull episode on youtube.\nNo more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
-          "descriptionCN": "加里·维 (Gary Vee) 从 18 岁起就开始管理员工。几十年来，他一直认为自己的超能力让他的团队无所畏惧。\n事实证明，他让他们感到害怕，因为他们永远不知道自己与他站在一起。\n周五他会对某个人很热情。在解决这个问题 18 个月后，周一解雇他们。然后责怪他们措手不及。\n这段视频是他在意识到这一点的那一刻解释的，这让他付出了什么样的代价，以及他为解决这个问题而建立的框架：友善的坦诚。\nYouTube 上的完整剧集。\n不再需要小男孩电子表格，在免费的 HubSpot CRM 上建立您的业务：\n更多优质视频请点击这里订阅 →\n🔔 打开通知以随时了解新上传的内容",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=fhbtNWEp6XU",
-          "artworkUrl": "https://i.ytimg.com/vi/fhbtNWEp6XU/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,26 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "A Pit in Spain Holds the Key to a Neanderthal DNA Mystery - David Reich",
+          "guest": null,
+          "date": "2026-05-27T23:20:22+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=PhB3QgFnjGQ",
+          "artworkUrl": "https://i.ytimg.com/vi/PhB3QgFnjGQ/hqdefault.jpg"
+        },
+        {
+          "title": "The cultural transformations in Africa and Eurasia were linked - David Reich",
+          "guest": null,
+          "date": "2026-05-26T19:46:53+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=UN_zKhmFHjs",
+          "artworkUrl": "https://i.ytimg.com/vi/UN_zKhmFHjs/hqdefault.jpg"
+        },
         {
           "title": "Following the Yamnaya Trail into India - David Reich",
           "guest": null,
@@ -496,26 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=oIk3R-sMX5o",
           "artworkUrl": "https://i.ytimg.com/vi/oIk3R-sMX5o/hqdefault.jpg"
-        },
-        {
-          "title": "Why Wasn't Intelligence 'Maxed Out' Before the Bronze Age? - David Reich",
-          "guest": null,
-          "date": "2026-05-21T20:33:54+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=jcFEW1ckpU4",
-          "artworkUrl": "https://i.ytimg.com/vi/jcFEW1ckpU4/hqdefault.jpg"
-        },
-        {
-          "title": "The Stone Age Breakthrough Hiding in Plain Sight - David Reich",
-          "guest": null,
-          "date": "2026-05-20T20:37:35+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=zqISzCijgJI",
-          "artworkUrl": "https://i.ytimg.com/vi/zqISzCijgJI/hqdefault.jpg"
         }
       ]
     },
@@ -531,6 +531,16 @@
       "youtube": "https://www.youtube.com/@AcquiredFM",
       "color": "#7c3aed",
       "episodes": [
+        {
+          "title": "A WWI pilot's good luck charm became the Ferrari logo",
+          "guest": null,
+          "date": "2026-05-27T15:20:17+00:00",
+          "description": "#business #podcast\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+          "descriptionCN": "#商业#播客\n🎙 来自法拉利：当你将奢侈品牌与一支运动队结合在一起时会发生什么？ （声音的）",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=gWPOpLc5Wus",
+          "artworkUrl": "https://i.ytimg.com/vi/gWPOpLc5Wus/hqdefault.jpg"
+        },
         {
           "title": "Our episode on Vanguard is now live!",
           "guest": null,
@@ -580,16 +590,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=BjsIZcfp_08",
           "artworkUrl": "https://i.ytimg.com/vi/BjsIZcfp_08/hqdefault.jpg"
-        },
-        {
-          "title": "Ferrari will always deliver one car less than the market demand",
-          "guest": null,
-          "date": "2026-05-09T14:30:18+00:00",
-          "description": "#business #podcast\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-          "descriptionCN": "#商业#播客\n🎙 来自法拉利：当你将奢侈品牌与一支运动队结合在一起时会发生什么？ （声音的）",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=NbN2zpQewak",
-          "artworkUrl": "https://i.ytimg.com/vi/NbN2zpQewak/hqdefault.jpg"
         }
       ]
     },
@@ -680,6 +680,16 @@
       "color": "#16a34a",
       "episodes": [
         {
+          "title": "The Intention Paradox",
+          "guest": null,
+          "date": "2026-05-27T10:00:27+00:00",
+          "description": "Master deep focus in 7 days - my free crash course to transform your productivity:",
+          "descriptionCN": "7 天内掌握深度专注 - 我的免费速成课程可提高您的工作效率：",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=QMAYW0jSYjY",
+          "artworkUrl": "https://i.ytimg.com/vi/QMAYW0jSYjY/hqdefault.jpg"
+        },
+        {
           "title": "Ranking AI tools",
           "guest": null,
           "date": "2026-05-26T10:00:08+00:00",
@@ -728,16 +738,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=vvlWVEcz050",
           "artworkUrl": "https://i.ytimg.com/vi/vvlWVEcz050/hqdefault.jpg"
-        },
-        {
-          "title": "If You Want to Make Money From YouTube, Do This (Case Study)",
-          "guest": null,
-          "date": "2026-05-21T17:20:28+00:00",
-          "description": "Sign up and get 1-month free of Superhuman Mail with my link\nGet @JeffSu's Command Center in Notion:\nWant to get started with YouTube? Join my free 7-day crash course:",
-          "descriptionCN": "使用我的链接注册并免费获得 1 个月的 Super human Mail\n在 Notion 中获取 @JeffSu 的指挥中心：\n想要开始使用 YouTube？加入我的免费 7 天速成课程：",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=LLjpnubsOWc",
-          "artworkUrl": "https://i.ytimg.com/vi/LLjpnubsOWc/hqdefault.jpg"
         }
       ]
     },
