@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-08-22T23:17:38.599Z",
+  "lastFetched": "2026-08-23T23:18:12.699Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -13,6 +13,16 @@
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#4f46e5",
       "episodes": [
+        {
+          "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+          "guest": "Jen Abel",
+          "date": "2026-08-23T12:31:43Z",
+          "description": "Jen Abel is the co-founder of JJellyfish and GM of enterprise sales at State Affairs. She is widely regarded as one of the sharpest practitioners in enterprise sales, and for that reason, this is her third visit to the podcast. In our first conversation we went deep on founder-led sales; in our second we mapped the $1M–$10M playbook. This time we do something I’ve never seen on another podcast: walk step by step through the full enterprise sales cycle. Most people think it’s five steps. Jen shows it’s closer to 15.\nIn our in-depth conversation, we discuss:\n1. Why the standard five-stage CRM pipeline is a forecasting tool, not a sales process, and what the real 15-step cycle looks like\n2. The “pincer model” for landing the first meeting at the executive and N-minus-one level simultaneously\n3. How to craft a two-to-three-sentence message around giving them “alpha”\n4. How to run an intro call that extracts maximum intelligence before you ever show a demo\n5. The two-to-three-day pilot structure, how to define success jointly, and when to charge for a longer pilot versus giving it away\n6. Navigating pricing, procurement, redline negotiations, and the final signature without losing momentum",
+          "descriptionCN": "Jen Abel is the co-founder of JJellyfish and GM of enterprise sales at State Affairs. She is widely regarded as one of the sharpest practitioners in enterprise sales, and for that reason, this is her third visit to the podcast. In our first conversation we went deep on founder-led sales; in our second we mapped the $1M–$10M playbook. This time we do something I’ve never seen on another podcast: walk step by step through the full enterprise sales cycle. Most people think it’s five steps. Jen shows it’s closer to 15.\nIn our in-depth conversation, we discuss:\n1. Why the standard five-stage CRM pipeline is a forecasting tool, not a sales process, and what the real 15-step cycle looks like\n2. The “pincer model” for landing the first meeting at the executive and N-minus-one level simultaneously\n3. How to craft a two-to-three-sentence message around giving them “alpha”\n4. How to run an intro call that extracts maximum intelligence before you ever show a demo\n5. The two-to-three-day pilot structure, how to define success jointly, and when to charge for a longer pilot versus giving it away\n6. Navigating pricing, procurement, redline negotiations, and the final signature without losing momentum",
+          "duration": 85,
+          "url": "https://podcasts.apple.com/us/podcast/how-to-close-%24100k-enterprise-deals-step-by-step-jen-abel/id1627920305?i=1000785297925&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3d/93/2f/3d932f5d-bec8-23d6-fe6d-78fb11d328e1/mza_1309977165869327307.jpg/600x600bb.jpg"
+        },
         {
           "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
           "guest": "Ian Silber",
@@ -62,16 +72,6 @@
           "duration": 72,
           "url": "https://podcasts.apple.com/us/podcast/why-netflix-is-betting-on-systems-thinkers-not-specialists/id1627920305?i=1000777423324&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/12/e4/0512e452-5f4d-848e-dcb3-c0968036aefd/mza_11726830713581359304.png/600x600bb.jpg"
-        },
-        {
-          "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
-          "guest": "Annual AI sentiment survey",
-          "date": "2026-07-12T12:32:14Z",
-          "description": "Noam Segal is a longtime research leader across Airbnb, Meta, Twitter, Zapier, Intercom, and Figma, a certified coach, AI builder, and my community research lead. Together, we run the annual Tech Worker Sentiment Survey, now in its second year and one of the largest of its kind: a quantitative study of how people in tech actually feel about their jobs, AI, burnout, and the future of their careers. This year’s survey captured responses from thousands of workers across product, engineering, design, research, marketing, data, and sales, and the results are striking.\nIn our in-depth conversation, we discuss:\n1. Why AI has split the tech workforce almost exactly in half—one half that’s thriving, another that’s shaken\n2. The four emotional archetypes defining tech workers right now (the Energized, the Conflicted, the Disoriented, and the Resentful)\n3. Why burnout has jumped an alarming 11 points in a single year\n4. Why nobody in tech would recommend their job to someone entering the industry today\n5. The #1 fear in tech right now (it’s not job loss to AI)\n6. Why managers are the single biggest lever for employee well-being\n7. Concrete advice for what employees and leaders can do right now",
-          "descriptionCN": "Noam Segal is a longtime research leader across Airbnb, Meta, Twitter, Zapier, Intercom, and Figma, a certified coach, AI builder, and my community research lead. Together, we run the annual Tech Worker Sentiment Survey, now in its second year and one of the largest of its kind: a quantitative study of how people in tech actually feel about their jobs, AI, burnout, and the future of their careers. This year’s survey captured responses from thousands of workers across product, engineering, design, research, marketing, data, and sales, and the results are striking.\nIn our in-depth conversation, we discuss:\n1. Why AI has split the tech workforce almost exactly in half—one half that’s thriving, another that’s shaken\n2. The four emotional archetypes defining tech workers right now (the Energized, the Conflicted, the Disoriented, and the Resentful)\n3. Why burnout has jumped an alarming 11 points in a single year\n4. Why nobody in tech would recommend their job to someone entering the industry today\n5. The #1 fear in tech right now (it’s not job loss to AI)\n6. Why managers are the single biggest lever for employee well-being\n7. Concrete advice for what employees and leaders can do right now",
-          "duration": 96,
-          "url": "https://podcasts.apple.com/us/podcast/how-tech-workers-actually-feel-about-ai-in-2026-annual/id1627920305?i=1000776463951&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/25/2a/87252a9a-6b3f-eb9b-54d8-8f529bd50ce3/mza_11277522750265094674.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -384,6 +384,26 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "The $70M business behind Ballerina Farm",
+          "guest": null,
+          "date": "2026-08-23T21:38:24+00:00",
+          "description": "The $70M business behind Ballerina Farm",
+          "descriptionCN": "The $70M business behind Ballerina Farm",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=FGn70wIub20",
+          "artworkUrl": "https://i.ytimg.com/vi/FGn70wIub20/hqdefault.jpg"
+        },
+        {
+          "title": "He made $1.8 million by selling a trash franchise",
+          "guest": null,
+          "date": "2026-08-22T23:31:17+00:00",
+          "description": "He made $1.8 million by selling a trash franchise",
+          "descriptionCN": "He made $1.8 million by selling a trash franchise",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=ZvQ2catczno",
+          "artworkUrl": "https://i.ytimg.com/vi/ZvQ2catczno/hqdefault.jpg"
+        },
+        {
           "title": "How Elon Musk solves problems",
           "guest": null,
           "date": "2026-08-22T01:00:37+00:00",
@@ -422,26 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=sm78FYpS0pA",
           "artworkUrl": "https://i.ytimg.com/vi/sm78FYpS0pA/hqdefault.jpg"
-        },
-        {
-          "title": "She became the first self-made female billionaire (then lost it all)",
-          "guest": null,
-          "date": "2026-08-20T13:17:19+00:00",
-          "description": "She became the first self-made female billionaire (then lost it all)",
-          "descriptionCN": "She became the first self-made female billionaire (then lost it all)",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=luRYnSCiAq4",
-          "artworkUrl": "https://i.ytimg.com/vi/luRYnSCiAq4/hqdefault.jpg"
-        },
-        {
-          "title": "3 low competition businesses minting MILLIONS right now",
-          "guest": null,
-          "date": "2026-08-19T13:00:14+00:00",
-          "description": "*30+ blue-collar business ideas:*\nEpisode 853: Sam Parr (  ) and Shaan Puri (  ) ask 3 founders to tell them the juiciest number behind their businesses and get advice live.\nShow Notes:\n(0:00) Nick Haschka, OnPoint Generators\n(17:39) Kevin Moyer, Smash My Trash\n(36:54) Noam Aizenberg, TMJaw",
-          "descriptionCN": "*30+ blue-collar business ideas:*\nEpisode 853: Sam Parr (  ) and Shaan Puri (  ) ask 3 founders to tell them the juiciest number behind their businesses and get advice live.\nShow Notes:\n(0:00) Nick Haschka, OnPoint Generators\n(17:39) Kevin Moyer, Smash My Trash\n(36:54) Noam Aizenberg, TMJaw",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=7uK2BgqWYpA",
-          "artworkUrl": "https://i.ytimg.com/vi/7uK2BgqWYpA/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,16 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "Machine Learning Is Shallow Compared to Math - Ryan Greenblatt",
+          "guest": null,
+          "date": "2026-08-23T21:26:53+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=gfi0bOuHiDU",
+          "artworkUrl": "https://i.ytimg.com/vi/gfi0bOuHiDU/hqdefault.jpg"
+        },
         {
           "title": "Claude Saying “No” Could Become a Serious AI Safety Problem  - Ryan Greenblatt",
           "guest": null,
@@ -506,16 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=BL75EMfz_N8",
           "artworkUrl": "https://i.ytimg.com/vi/BL75EMfz_N8/hqdefault.jpg"
-        },
-        {
-          "title": "Why AI would rather lie than say 'I don't know' - Ryan Greenblatt",
-          "guest": null,
-          "date": "2026-08-13T20:40:54+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=BcsP0RFqu-o",
-          "artworkUrl": "https://i.ytimg.com/vi/BcsP0RFqu-o/hqdefault.jpg"
         }
       ]
     },
