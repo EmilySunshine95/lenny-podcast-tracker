@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-08-23T23:18:12.699Z",
+  "lastFetched": "2026-08-24T23:20:01.782Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -162,6 +162,26 @@
       "color": "#0ea5e9",
       "episodes": [
         {
+          "title": "No AI Won't Take All Our Jobs. Here's What WILL Happen.",
+          "guest": null,
+          "date": "2026-08-24T20:12:19+00:00",
+          "description": "The AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "The AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=UMDxpXGGdMs",
+          "artworkUrl": "https://i.ytimg.com/vi/UMDxpXGGdMs/hqdefault.jpg"
+        },
+        {
+          "title": "The Future of AI and Work",
+          "guest": null,
+          "date": "2026-08-24T01:24:01+00:00",
+          "description": "Opposition to AI data centers has become one of America’s fastest-moving bipartisan political issues, driven by concerns about electricity, water, noise, property values, jobs, and a deeper mistrust of Big Tech. NLW provides an end-to-end primer on what data centers actually do, why public sentiment has turned so sharply, where the loudest claims fall apart, and how transparency, community control, and direct local benefits could offer a path forward.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "Opposition to AI data centers has become one of America’s fastest-moving bipartisan political issues, driven by concerns about electricity, water, noise, property values, jobs, and a deeper mistrust of Big Tech. NLW provides an end-to-end primer on what data centers actually do, why public sentiment has turned so sharply, where the loudest claims fall apart, and how transparency, community control, and direct local benefits could offer a path forward.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=m8x-gYMYFCg",
+          "artworkUrl": "https://i.ytimg.com/vi/m8x-gYMYFCg/hqdefault.jpg"
+        },
+        {
           "title": "The AI Data Center Debate is Getting More Fierce",
           "guest": null,
           "date": "2026-08-22T17:00:11+00:00",
@@ -200,26 +220,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=o5PzgHXXjjQ",
           "artworkUrl": "https://i.ytimg.com/vi/o5PzgHXXjjQ/hqdefault.jpg"
-        },
-        {
-          "title": "The AI Backlash Is Getting Stupider But Also Smarter",
-          "guest": null,
-          "date": "2026-08-21T01:16:46+00:00",
-          "description": "Data center backlash swings between viral meme campaigns and Governor Shapiro's surprisingly substantive executive order, revealing two very different tracks for AI's political fight. NLW breaks down why targeted regulation beats blanket moratoriums, and how OpenAI's voluntary training pause signals a shift toward real safety accountability. In the headlines: fresh scrutiny over OpenAI and Anthropic's revenue claims, Anthropic's push for founder-controlled voting shares ahead of the IPO, and Google's winning bid for Spirit Airlines' corporate data.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Data center backlash swings between viral meme campaigns and Governor Shapiro's surprisingly substantive executive order, revealing two very different tracks for AI's political fight. NLW breaks down why targeted regulation beats blanket moratoriums, and how OpenAI's voluntary training pause signals a shift toward real safety accountability. In the headlines: fresh scrutiny over OpenAI and Anthropic's revenue claims, Anthropic's push for founder-controlled voting shares ahead of the IPO, and Google's winning bid for Spirit Airlines' corporate data.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=efyXCQSu-bU",
-          "artworkUrl": "https://i.ytimg.com/vi/efyXCQSu-bU/hqdefault.jpg"
-        },
-        {
-          "title": "The AI Engineering Skills Map for Knowledge Workers",
-          "guest": null,
-          "date": "2026-08-19T11:24:16+00:00",
-          "description": "Knowledge work is shifting from doing tasks directly to managing agents now performing those tasks, demanding a new set of core skills. NLW maps five essential AI engineering skills for knowledge workers: capability mapping, context and harness management, problem and product prototyping, opportunity identification, and rapid skill acquisition. In the headlines: Cursor's GitHub rival Origin, Anthropic's leaked $65 billion revenue run rate, and Stripe's $7 billion acquisition of OpenRouter.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Knowledge work is shifting from doing tasks directly to managing agents now performing those tasks, demanding a new set of core skills. NLW maps five essential AI engineering skills for knowledge workers: capability mapping, context and harness management, problem and product prototyping, opportunity identification, and rapid skill acquisition. In the headlines: Cursor's GitHub rival Origin, Anthropic's leaked $65 billion revenue run rate, and Stripe's $7 billion acquisition of OpenRouter.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=f40AKMHebrY",
-          "artworkUrl": "https://i.ytimg.com/vi/f40AKMHebrY/hqdefault.jpg"
         }
       ]
     },
@@ -239,8 +239,8 @@
           "title": "Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
           "guest": null,
           "date": "2026-08-21T19:50:24+00:00",
-          "description": "From creating Smallville, the landmark Generative Agents experiment that showed AI characters could remember, plan, socialize, and develop emergent behaviors, to now building foundation models of human behavior, Joon Sung Park is trying to answer a much bigger question: what if we could simulate the world before making decisions in it? In this episode, the Simile co-founder and CEO joins us to unpack the path from generative agents to digital twins, why today’s frontier models still fail to capture how humans actually behave, and what it would take to eventually simulate all 8 billion people on Earth.\nWe go deep on Simile’s approach to modeling human behavior: long-form interviews, observational and transaction data, randomized controlled trials, population-level and individual-level models, and post-training on the causal mechanisms behind why people make decisions. Joon explains how his research created digital twins that reproduced human behavior and attitudes 85% as accurately as people reproduced their own responses, why models optimized to be rational can be bad simulations of irrational humans, and why understanding “social physics” may require changing model weights rather than simply prompting frontier LLMs.\nWe also explore the much larger ambition behind simulation: testing products and policies before deploying them, finding counterintuitive paths toward desired outcomes, modeling emergent behavior across entire societies, and potentially tackling problems like climate change, democratic instability, and UBI. Joon reflects on scaling laws for simulation, the economics of data-center-scale simulated worlds, the connection to Thomas Schelling and psychohistory, why simulation is surprisingly similar to painting, and whether we might already be living in one.\nWe discuss:\n• How Smallville and the Generative Agents paper led to Simile\n• Why Joon’s team asked: “What if we can just recreate the world that we live in?”\n• Why useful personal agents require deep models of the people they serve\n• Memory architectures, Markdown files, and the limits of prompting\n• “Social physics” and behavioral foundation models\n• Why web data captures what people say more than what they actually do\n• Interviews, transactions, observational data, and randomized controlled trials\n• Why predicting the future matters less than understanding how to shape it\n• How Simile creates representative simulated populations\n• Simulation versus prediction and the connection to Foundation’s psychohistory\n• How to evaluate simulations instead of simply stacking LLM hallucinations\n• Creating digital twins of 1,000 real people and reaching 85% behavioral accuracy\n• Why frontier models can struggle to reproduce real human behavior\n• Why good simulations need to reproduce human biases and mistakes\n• Post-training models on randomized controlled trials\n• Population-level versus individual-level simulation\n• Scaling laws for human simulation\n• The long-term ambition to simulate all 8 billion people on Earth\n• Whether simulations could help solve climate change or detect collapsing democracy\n• Thomas Schelling and the history of agent-based modeling\n• Why future simulations could require an entire data center\n• Multi-agent simulations and what happens when simulated people interact\n• Replacing expensive human panels with synthetic populations\n• Why market research is only the starting point for simulation\n• Why Joon sees simulation as surprisingly similar to painting\n• Using simulation to study questions like UBI\n• Whether we are already living in a simulation\n• Why AGI and simulation may be the twin technologies of advanced civilizations\nJoon Sung Park\n• LinkedIn:\n• X:\n• Simile: simile.ai\nTimestamps\n00:00:00 Hook\n00:01:22 Introduction and Joon’s Path from Art to AI\n00:03:08 Smallville, Generative Agents, and the Origins of Simulation\n00:06:25 “Let’s Just Create a World” and the Future of Personal Agents\n00:11:15 Social Physics and Behavioral Foundation Models\n00:15:30 Prediction vs. Simulation: How Do You Shape the Future?\n00:18:21 How Simile Models Real People and Populations\n00:26:57 Evaluating Simulations, Digital Twins, and 85% Accuracy\n00:31:45 Post-Training Models to Reproduce Human Behavior\n00:41:26 Scaling Laws and Simulating 8 Billion People\n00:44:32 From Schelling to Society-Scale Agent Simulations\n00:47:35 The Cost and Economics of Simulating the World\n00:53:27 Real-World Use Cases, Synthetic Populations, and the Market\n00:58:49 The Future of Simulation, Painting, and UBI\n01:05:45 Are We Already Living in a Simulation?\n01:07:30 Building Simile and Hiring",
-          "descriptionCN": "From creating Smallville, the landmark Generative Agents experiment that showed AI characters could remember, plan, socialize, and develop emergent behaviors, to now building foundation models of human behavior, Joon Sung Park is trying to answer a much bigger question: what if we could simulate the world before making decisions in it? In this episode, the Simile co-founder and CEO joins us to unpack the path from generative agents to digital twins, why today’s frontier models still fail to capture how humans actually behave, and what it would take to eventually simulate all 8 billion people on Earth.\nWe go deep on Simile’s approach to modeling human behavior: long-form interviews, observational and transaction data, randomized controlled trials, population-level and individual-level models, and post-training on the causal mechanisms behind why people make decisions. Joon explains how his research created digital twins that reproduced human behavior and attitudes 85% as accurately as people reproduced their own responses, why models optimized to be rational can be bad simulations of irrational humans, and why understanding “social physics” may require changing model weights rather than simply prompting frontier LLMs.\nWe also explore the much larger ambition behind simulation: testing products and policies before deploying them, finding counterintuitive paths toward desired outcomes, modeling emergent behavior across entire societies, and potentially tackling problems like climate change, democratic instability, and UBI. Joon reflects on scaling laws for simulation, the economics of data-center-scale simulated worlds, the connection to Thomas Schelling and psychohistory, why simulation is surprisingly similar to painting, and whether we might already be living in one.\nWe discuss:\n• How Smallville and the Generative Agents paper led to Simile\n• Why Joon’s team asked: “What if we can just recreate the world that we live in?”\n• Why useful personal agents require deep models of the people they serve\n• Memory architectures, Markdown files, and the limits of prompting\n• “Social physics” and behavioral foundation models\n• Why web data captures what people say more than what they actually do\n• Interviews, transactions, observational data, and randomized controlled trials\n• Why predicting the future matters less than understanding how to shape it\n• How Simile creates representative simulated populations\n• Simulation versus prediction and the connection to Foundation’s psychohistory\n• How to evaluate simulations instead of simply stacking LLM hallucinations\n• Creating digital twins of 1,000 real people and reaching 85% behavioral accuracy\n• Why frontier models can struggle to reproduce real human behavior\n• Why good simulations need to reproduce human biases and mistakes\n• Post-training models on randomized controlled trials\n• Population-level versus individual-level simulation\n• Scaling laws for human simulation\n• The long-term ambition to simulate all 8 billion people on Earth\n• Whether simulations could help solve climate change or detect collapsing democracy\n• Thomas Schelling and the history of agent-based modeling\n• Why future simulations could require an entire data center\n• Multi-agent simulations and what happens when simulated people interact\n• Replacing expensive human panels with synthetic populations\n• Why market research is only the starting point for simulation\n• Why Joon sees simulation as surprisingly similar to painting\n• Using simulation to study questions like UBI\n• Whether we are already living in a simulation\n• Why AGI and simulation may be the twin technologies of advanced civilizations\nJoon Sung Park\n• LinkedIn:\n• X:\n• Simile: simile.ai\nTimestamps\n00:00:00 Hook\n00:01:22 Introduction and Joon’s Path from Art to AI\n00:03:08 Smallville, Generative Agents, and the Origins of Simulation\n00:06:25 “Let’s Just Create a World” and the Future of Personal Agents\n00:11:15 Social Physics and Behavioral Foundation Models\n00:15:30 Prediction vs. Simulation: How Do You Shape the Future?\n00:18:21 How Simile Models Real People and Populations\n00:26:57 Evaluating Simulations, Digital Twins, and 85% Accuracy\n00:31:45 Post-Training Models to Reproduce Human Behavior\n00:41:26 Scaling Laws and Simulating 8 Billion People\n00:44:32 From Schelling to Society-Scale Agent Simulations\n00:47:35 The Cost and Economics of Simulating the World\n00:53:27 Real-World Use Cases, Synthetic Populations, and the Market\n00:58:49 The Future of Simulation, Painting, and UBI\n01:05:45 Are We Already Living in a Simulation?\n01:07:30 Building Simile and Hiring",
+          "description": "Next episode → Language Agents: From Reasoning to Acting, with Shunyu Yao and Harrison Chase:\nFrom creating Smallville, the landmark Generative Agents experiment that showed AI characters could remember, plan, socialize, and develop emergent behaviors, to now building foundation models of human behavior, Joon Sung Park is trying to answer a much bigger question: what if we could simulate the world before making decisions in it? In this episode, the Simile co-founder and CEO joins us to unpack the path from generative agents to digital twins, why today’s frontier models still fail to capture how humans actually behave, and what it would take to eventually simulate all 8 billion people on Earth.\nWe go deep on Simile’s approach to modeling human behavior: long-form interviews, observational and transaction data, randomized controlled trials, population-level and individual-level models, and post-training on the causal mechanisms behind why people make decisions. Joon explains how his research created digital twins that reproduced human behavior and attitudes 85% as accurately as people reproduced their own responses, why models optimized to be rational can be bad simulations of irrational humans, and why understanding “social physics” may require changing model weights rather than simply prompting frontier LLMs.\nWe also explore the much larger ambition behind simulation: testing products and policies before deploying them, finding counterintuitive paths toward desired outcomes, modeling emergent behavior across entire societies, and potentially tackling problems like climate change, democratic instability, and UBI. Joon reflects on scaling laws for simulation, the economics of data-center-scale simulated worlds, the connection to Thomas Schelling and psychohistory, why simulation is surprisingly similar to painting, and whether we might already be living in one.\nWe discuss:\n• How Smallville and the Generative Agents paper led to Simile\n• Why Joon’s team asked: “What if we can just recreate the world that we live in?”\n• Why useful personal agents require deep models of the people they serve\n• Memory architectures, Markdown files, and the limits of prompting\n• “Social physics” and behavioral foundation models\n• Why web data captures what people say more than what they actually do\n• Interviews, transactions, observational data, and randomized controlled trials\n• Why predicting the future matters less than understanding how to shape it\n• How Simile creates representative simulated populations\n• Simulation versus prediction and the connection to Foundation’s psychohistory\n• How to evaluate simulations instead of simply stacking LLM hallucinations\n• Creating digital twins of 1,000 real people and reaching 85% behavioral accuracy\n• Why frontier models can struggle to reproduce real human behavior\n• Why good simulations need to reproduce human biases and mistakes\n• Post-training models on randomized controlled trials\n• Population-level versus individual-level simulation\n• Scaling laws for human simulation\n• The long-term ambition to simulate all 8 billion people on Earth\n• Whether simulations could help solve climate change or detect collapsing democracy\n• Thomas Schelling and the history of agent-based modeling\n• Why future simulations could require an entire data center\n• Multi-agent simulations and what happens when simulated people interact\n• Replacing expensive human panels with synthetic populations\n• Why market research is only the starting point for simulation\n• Why Joon sees simulation as surprisingly similar to painting\n• Using simulation to study questions like UBI\n• Whether we are already living in a simulation\n• Why AGI and simulation may be the twin technologies of advanced civilizations\nJoon Sung Park\n• LinkedIn:\n• X:\n• Simile: simile.ai\nTimestamps\n00:00:00 Hook\n00:01:22 Introduction and Joon’s Path from Art to AI\n00:03:08 Smallville, Generative Agents, and the Origins of Simulation\n00:06:25 “Let’s Just Create a World” and the Future of Personal Agents\n00:11:15 Social Physics and Behavioral Foundation Models\n00:15:30 Prediction vs. Simulation: How Do You Shape the Future?\n00:18:21 How Simile Models Real People and Populations\n00:26:57 Evaluating Simulations, Digital Twins, and 85% Accuracy\n00:31:45 Post-Training Models to Reproduce Human Behavior\n00:41:26 Scaling Laws and Simulating 8 Billion People\n00:44:32 From Schelling to Society-Scale Agent Simulations\n00:47:35 The Cost and Economics of Simulating the World\n00:53:27 Real-World Use Cases, Synthetic Populations, and the Market\n00:58:49 The Future of Simulation, Painting, and UBI\n01:05:45 Are We Already Living in a Simulation?\n01:07:30 Building Simile and Hiring",
+          "descriptionCN": "Next episode → Language Agents: From Reasoning to Acting, with Shunyu Yao and Harrison Chase:\nFrom creating Smallville, the landmark Generative Agents experiment that showed AI characters could remember, plan, socialize, and develop emergent behaviors, to now building foundation models of human behavior, Joon Sung Park is trying to answer a much bigger question: what if we could simulate the world before making decisions in it? In this episode, the Simile co-founder and CEO joins us to unpack the path from generative agents to digital twins, why today’s frontier models still fail to capture how humans actually behave, and what it would take to eventually simulate all 8 billion people on Earth.\nWe go deep on Simile’s approach to modeling human behavior: long-form interviews, observational and transaction data, randomized controlled trials, population-level and individual-level models, and post-training on the causal mechanisms behind why people make decisions. Joon explains how his research created digital twins that reproduced human behavior and attitudes 85% as accurately as people reproduced their own responses, why models optimized to be rational can be bad simulations of irrational humans, and why understanding “social physics” may require changing model weights rather than simply prompting frontier LLMs.\nWe also explore the much larger ambition behind simulation: testing products and policies before deploying them, finding counterintuitive paths toward desired outcomes, modeling emergent behavior across entire societies, and potentially tackling problems like climate change, democratic instability, and UBI. Joon reflects on scaling laws for simulation, the economics of data-center-scale simulated worlds, the connection to Thomas Schelling and psychohistory, why simulation is surprisingly similar to painting, and whether we might already be living in one.\nWe discuss:\n• How Smallville and the Generative Agents paper led to Simile\n• Why Joon’s team asked: “What if we can just recreate the world that we live in?”\n• Why useful personal agents require deep models of the people they serve\n• Memory architectures, Markdown files, and the limits of prompting\n• “Social physics” and behavioral foundation models\n• Why web data captures what people say more than what they actually do\n• Interviews, transactions, observational data, and randomized controlled trials\n• Why predicting the future matters less than understanding how to shape it\n• How Simile creates representative simulated populations\n• Simulation versus prediction and the connection to Foundation’s psychohistory\n• How to evaluate simulations instead of simply stacking LLM hallucinations\n• Creating digital twins of 1,000 real people and reaching 85% behavioral accuracy\n• Why frontier models can struggle to reproduce real human behavior\n• Why good simulations need to reproduce human biases and mistakes\n• Post-training models on randomized controlled trials\n• Population-level versus individual-level simulation\n• Scaling laws for human simulation\n• The long-term ambition to simulate all 8 billion people on Earth\n• Whether simulations could help solve climate change or detect collapsing democracy\n• Thomas Schelling and the history of agent-based modeling\n• Why future simulations could require an entire data center\n• Multi-agent simulations and what happens when simulated people interact\n• Replacing expensive human panels with synthetic populations\n• Why market research is only the starting point for simulation\n• Why Joon sees simulation as surprisingly similar to painting\n• Using simulation to study questions like UBI\n• Whether we are already living in a simulation\n• Why AGI and simulation may be the twin technologies of advanced civilizations\nJoon Sung Park\n• LinkedIn:\n• X:\n• Simile: simile.ai\nTimestamps\n00:00:00 Hook\n00:01:22 Introduction and Joon’s Path from Art to AI\n00:03:08 Smallville, Generative Agents, and the Origins of Simulation\n00:06:25 “Let’s Just Create a World” and the Future of Personal Agents\n00:11:15 Social Physics and Behavioral Foundation Models\n00:15:30 Prediction vs. Simulation: How Do You Shape the Future?\n00:18:21 How Simile Models Real People and Populations\n00:26:57 Evaluating Simulations, Digital Twins, and 85% Accuracy\n00:31:45 Post-Training Models to Reproduce Human Behavior\n00:41:26 Scaling Laws and Simulating 8 Billion People\n00:44:32 From Schelling to Society-Scale Agent Simulations\n00:47:35 The Cost and Economics of Simulating the World\n00:53:27 Real-World Use Cases, Synthetic Populations, and the Market\n00:58:49 The Future of Simulation, Painting, and UBI\n01:05:45 Are We Already Living in a Simulation?\n01:07:30 Building Simile and Hiring",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=KpOW9Pk4BUs",
           "artworkUrl": "https://i.ytimg.com/vi/KpOW9Pk4BUs/hqdefault.jpg"
@@ -384,6 +384,26 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "this NYC spot paid people to stand outside for 2 months, now they've had a line for two years.",
+          "guest": null,
+          "date": "2026-08-24T19:24:55+00:00",
+          "description": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "descriptionCN": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=F4TiEKU0c94",
+          "artworkUrl": "https://i.ytimg.com/vi/F4TiEKU0c94/hqdefault.jpg"
+        },
+        {
+          "title": "Brutal startup advice from a $2,000,000,000 founder",
+          "guest": null,
+          "date": "2026-08-24T13:20:19+00:00",
+          "description": "*Sam's database on how long it takes to become a millionaire:*\nEpisode 855: Sam Parr (  ) and Shaan Puri (  ) talk to Allison Ellsworth, the founder of Poppi.\nShow Notes:\n(0:00) Poppi, brand glow up of the century\n(2:25) failing into confidence\n(8:00) behind the scenes of Shark Tank\n(10:22) Investing $70M in branding\n(12:05) the genius of Rohan Oza\n(14:24) the economics of super bowl commercials\n(18:26) Brand Positioning Masterclass\n(25:09) hiring gen z\n(26:38) IDEA: Protein anything\n(31:19) IDEA: lymphatic massage\n(38:09) IDEA: Sleep health powder\n(43:20) What’s it like to be rich?\n(49:19) Inside selling to Pepsi\n(57:34) dealing with post-exit depression\n(1:08:37) $1M vacation",
+          "descriptionCN": "*Sam's database on how long it takes to become a millionaire:*\nEpisode 855: Sam Parr (  ) and Shaan Puri (  ) talk to Allison Ellsworth, the founder of Poppi.\nShow Notes:\n(0:00) Poppi, brand glow up of the century\n(2:25) failing into confidence\n(8:00) behind the scenes of Shark Tank\n(10:22) Investing $70M in branding\n(12:05) the genius of Rohan Oza\n(14:24) the economics of super bowl commercials\n(18:26) Brand Positioning Masterclass\n(25:09) hiring gen z\n(26:38) IDEA: Protein anything\n(31:19) IDEA: lymphatic massage\n(38:09) IDEA: Sleep health powder\n(43:20) What’s it like to be rich?\n(49:19) Inside selling to Pepsi\n(57:34) dealing with post-exit depression\n(1:08:37) $1M vacation",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=alBiq54zprI",
+          "artworkUrl": "https://i.ytimg.com/vi/alBiq54zprI/hqdefault.jpg"
+        },
+        {
           "title": "The $70M business behind Ballerina Farm",
           "guest": null,
           "date": "2026-08-23T21:38:24+00:00",
@@ -422,26 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=OY3H8oDfEHc",
           "artworkUrl": "https://i.ytimg.com/vi/OY3H8oDfEHc/hqdefault.jpg"
-        },
-        {
-          "title": "3 low competition businesses with massive demand in America",
-          "guest": null,
-          "date": "2026-08-21T13:45:17+00:00",
-          "description": "*30+ unsexy business ideas:*\nEpisode 854: Sam Parr (  ) and Shaan Puri (  ) ask 3 founders to tell them the juiciest number behind their businesses and get advice live.\nShow Notes:\n(0:00) Rishi Talati, Hot Plate\n(20:00) Ajay Mehta, Tolan\n(39:43) Jonathan Baer, Overlap",
-          "descriptionCN": "*30+ unsexy business ideas:*\nEpisode 854: Sam Parr (  ) and Shaan Puri (  ) ask 3 founders to tell them the juiciest number behind their businesses and get advice live.\nShow Notes:\n(0:00) Rishi Talati, Hot Plate\n(20:00) Ajay Mehta, Tolan\n(39:43) Jonathan Baer, Overlap",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=6beIgBr9QL0",
-          "artworkUrl": "https://i.ytimg.com/vi/6beIgBr9QL0/hqdefault.jpg"
-        },
-        {
-          "title": "Why a Sr. Engineer took $36M over $200M",
-          "guest": null,
-          "date": "2026-08-20T20:52:11+00:00",
-          "description": "Why a Sr. Engineer took $36M over $200M",
-          "descriptionCN": "Why a Sr. Engineer took $36M over $200M",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=sm78FYpS0pA",
-          "artworkUrl": "https://i.ytimg.com/vi/sm78FYpS0pA/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,16 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "Why Humans Can Still Beat AI at Coding - Ryan Greenblatt",
+          "guest": null,
+          "date": "2026-08-24T21:47:52+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=tbPuJ1AP_vs",
+          "artworkUrl": "https://i.ytimg.com/vi/tbPuJ1AP_vs/hqdefault.jpg"
+        },
         {
           "title": "Machine Learning Is Shallow Compared to Math - Ryan Greenblatt",
           "guest": null,
@@ -506,16 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=pP4scNfgL5U",
           "artworkUrl": "https://i.ytimg.com/vi/pP4scNfgL5U/hqdefault.jpg"
-        },
-        {
-          "title": "AI has no duty of loyalty to you - Ryan Greenblatt",
-          "guest": null,
-          "date": "2026-08-14T21:48:10+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=BL75EMfz_N8",
-          "artworkUrl": "https://i.ytimg.com/vi/BL75EMfz_N8/hqdefault.jpg"
         }
       ]
     },
