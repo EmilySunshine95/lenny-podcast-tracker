@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-08-24T23:20:01.782Z",
+  "lastFetched": "2026-08-25T23:22:52.030Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -236,6 +236,16 @@
       "color": "#0891b2",
       "episodes": [
         {
+          "title": "⏭️ Forward Deployed: Voice AI on what works in 2026",
+          "guest": null,
+          "date": "2026-08-25T18:45:32+00:00",
+          "description": "Voice agents are one of the hottest use cases in enterprise right now, but also one of the hardest to actually take live. Getting latency low enough to feel human without dumbing down the responses, making reliable tool calls to a CRM without dropping the customer mid-call, building fallback models for when your main provider goes down. None of it is as simple as the demos make it look.\nBasil Chatha hosted a fireside chat with five eng leaders who deal with this stuff every day: Basia Sudol (Head of Enterprise Solutions, Decagon), Varun Singh (CPTO, Daily), Steven Diaz (FDE Manager, Vapi), Tyler D'Silva (Founding FDE, Retell AI), and Sudarshan Kamath (Founder, Smallest AI).\nWe get into why nobody serious is shipping real-time voice-to-voice yet, why LLMs forget the middle of your prompt (and what that does to your architecture), why a giant prompt quietly destroys your unit economics, and why voice agent costs are now being compared directly against human labor.\nPlus the stuff nobody warns you about: turn-taking, HIPAA constraints, why outbound is easier than inbound, why getting an exec to actually like the voice can be harder than any model problem, and more!",
+          "descriptionCN": "Voice agents are one of the hottest use cases in enterprise right now, but also one of the hardest to actually take live. Getting latency low enough to feel human without dumbing down the responses, making reliable tool calls to a CRM without dropping the customer mid-call, building fallback models for when your main provider goes down. None of it is as simple as the demos make it look.\nBasil Chatha hosted a fireside chat with five eng leaders who deal with this stuff every day: Basia Sudol (Head of Enterprise Solutions, Decagon), Varun Singh (CPTO, Daily), Steven Diaz (FDE Manager, Vapi), Tyler D'Silva (Founding FDE, Retell AI), and Sudarshan Kamath (Founder, Smallest AI).\nWe get into why nobody serious is shipping real-time voice-to-voice yet, why LLMs forget the middle of your prompt (and what that does to your architecture), why a giant prompt quietly destroys your unit economics, and why voice agent costs are now being compared directly against human labor.\nPlus the stuff nobody warns you about: turn-taking, HIPAA constraints, why outbound is easier than inbound, why getting an exec to actually like the voice can be harder than any model problem, and more!",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=MwNvowwcZOo",
+          "artworkUrl": "https://i.ytimg.com/vi/MwNvowwcZOo/hqdefault.jpg"
+        },
+        {
           "title": "Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
           "guest": null,
           "date": "2026-08-21T19:50:24+00:00",
@@ -284,16 +294,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=gKhW6vL4V9A",
           "artworkUrl": "https://i.ytimg.com/vi/gKhW6vL4V9A/hqdefault.jpg"
-        },
-        {
-          "title": "The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI",
-          "guest": null,
-          "date": "2026-07-22T20:46:43+00:00",
-          "description": "From spending $12 million building language models for code before the world cared to creating a Model Factory that can take a model from pre-training to release in eight weeks, Eiso Kant has spent more than a decade betting that code is the path to AGI. In this episode, the Poolside co-founder joins swyx and Vibhu to explain why ChatGPT felt like vindication, why Poolside embraced open weights and open research, and why he would rather live in a world with 100 foundation model companies than five even if Poolside were one of the five.\nWe go deep on Poolside’s Model Factory: the engineering systems behind 10,000-20,000 experiments per month, streaming data directly into training, reproducible experimentation, low-precision compute, and agents that increasingly write code, launch jobs, evaluate results, and modify the pipelines used to train future models. Eiso also unpacks Laguna S, why persistence, verification, and backtracking may matter more than raw intelligence, how much capability remains inside smaller models, why reinforcement learning will move earlier into pre-training, and why next-token prediction is still extracting too little from the web.\nWe discuss:\n• How Andrej Karpathy’s RNN work inspired Eiso to start building language models for code in 2015\n• Why Eiso spent four years and $12 million pursuing an idea before the market cared\n• The difference between releasing open weights and publishing genuinely open research\n• Why Poolside deliberately built a global research organization outside the Bay Area talent war\n• Why model building is ultimately 90% engineering\n• The Model Factory: Poolside’s end-to-end system for rapidly training and improving models\n• How Poolside moved from six-month model cycles to five- and eight-week launches\n• Why streaming data directly into training unlocked faster experimentation\n• How immutable data, versioned code, and reproducibility enable rigorous model research\n• Why Eiso wants capable researchers to leave their labs and become Poolside’s competitors\n• Why 95% of model building can be reduced to better data or better compute efficiency\n• Laguna S and why persistence, verification, and backtracking can outperform raw intelligence\n• Why distillation and environments have become the AI industry’s favorite “drugs”\n• Why mid-training is really an early form of curriculum design\n• Low-precision training, networking bottlenecks, and the next gains in compute efficiency\n• Laguna S: 118 billion total parameters, 8 billion active, and eight weeks from training to launch\n• Model versus harness: where agent capabilities actually come from\n• Why Poolside sees coding and long-horizon software tasks as a path to AGI\n• Why Poolside is prioritizing vision but does not expect to work on audio soon\n• Why language may be the most compute-efficient modality for encoding knowledge and reasoning\n• The story behind the Poolside name and why it represents refusing to lower the company’s ambitions\n• How Poolside raised $500M while investors still questioned whether AGI was real\n• When open models may become too capable to release without restrictions\n• How regulation could accidentally lock in an oligopoly of two or three AI companies\n• NVIDIA, TSMC, and the hardware systems underpinning progress in foundation models\n• Why reinforcement-learning wall-clock time is one of Poolside’s biggest bottlenecks\n• Why Poolside trains models from scratch instead of simply distilling larger models\n• How leaders align high-agency people through shared goals and clear constraints\n• Hiring across research, post-training, pre-training, architecture, evals, and engineering at Poolside\nEiso Kant\n• LinkedIn:\n• X:\n• Poolside:\nTimestamps\n00:00:00 Introduction\n00:00:54 Karpathy, RNNs, and Building Code Models Before Transformers\n00:02:26 The $12M Failure and ChatGPT Vindication\n00:03:39 Open Source and the Case for 100 Foundation Model Companies\n00:09:22 Open Weights, Open Research, and Poolside’s Global Team\n00:16:04 The Model Factory: Why Model Building Is 90% Engineering\n00:20:19 Agents, Automated Experiments, and Early Signs of RSI\n00:24:04 Streaming Data, Reproducibility, and Scientific Rigor\n00:30:35 Creating More Foundation Model Companies\n00:36:07 Laguna S: Persistence vs. Raw Intelligence\n00:43:01 Reinventing Pre-Training, RL, and Curriculum Design\n00:52:33 Low-Precision Training and Squeezing More From Smaller Models\n00:58:37 Model Harnesses, Coding Agents, and the Path to AGI\n01:09:26 Why MCP and Traditional Tool Calls Are “Stupid”\n01:13:04 Vision, Multimodality, and Why Language Still Matters\n01:18:15 Scaling Models and the Real Economics of Training\n01:20:40 Why Poolside Is Called Poolside and Raising $500M\n01:27:37 Open Models, AI Safety, and the Risk of an Oligopoly\n01:33:53 NVIDIA, TSMC, and the Reinforcement-Learning Bottleneck\n01:41:52 Smaller Models, Distillation, Engineering Productivity, and Hiring",
-          "descriptionCN": "From spending $12 million building language models for code before the world cared to creating a Model Factory that can take a model from pre-training to release in eight weeks, Eiso Kant has spent more than a decade betting that code is the path to AGI. In this episode, the Poolside co-founder joins swyx and Vibhu to explain why ChatGPT felt like vindication, why Poolside embraced open weights and open research, and why he would rather live in a world with 100 foundation model companies than five even if Poolside were one of the five.\nWe go deep on Poolside’s Model Factory: the engineering systems behind 10,000-20,000 experiments per month, streaming data directly into training, reproducible experimentation, low-precision compute, and agents that increasingly write code, launch jobs, evaluate results, and modify the pipelines used to train future models. Eiso also unpacks Laguna S, why persistence, verification, and backtracking may matter more than raw intelligence, how much capability remains inside smaller models, why reinforcement learning will move earlier into pre-training, and why next-token prediction is still extracting too little from the web.\nWe discuss:\n• How Andrej Karpathy’s RNN work inspired Eiso to start building language models for code in 2015\n• Why Eiso spent four years and $12 million pursuing an idea before the market cared\n• The difference between releasing open weights and publishing genuinely open research\n• Why Poolside deliberately built a global research organization outside the Bay Area talent war\n• Why model building is ultimately 90% engineering\n• The Model Factory: Poolside’s end-to-end system for rapidly training and improving models\n• How Poolside moved from six-month model cycles to five- and eight-week launches\n• Why streaming data directly into training unlocked faster experimentation\n• How immutable data, versioned code, and reproducibility enable rigorous model research\n• Why Eiso wants capable researchers to leave their labs and become Poolside’s competitors\n• Why 95% of model building can be reduced to better data or better compute efficiency\n• Laguna S and why persistence, verification, and backtracking can outperform raw intelligence\n• Why distillation and environments have become the AI industry’s favorite “drugs”\n• Why mid-training is really an early form of curriculum design\n• Low-precision training, networking bottlenecks, and the next gains in compute efficiency\n• Laguna S: 118 billion total parameters, 8 billion active, and eight weeks from training to launch\n• Model versus harness: where agent capabilities actually come from\n• Why Poolside sees coding and long-horizon software tasks as a path to AGI\n• Why Poolside is prioritizing vision but does not expect to work on audio soon\n• Why language may be the most compute-efficient modality for encoding knowledge and reasoning\n• The story behind the Poolside name and why it represents refusing to lower the company’s ambitions\n• How Poolside raised $500M while investors still questioned whether AGI was real\n• When open models may become too capable to release without restrictions\n• How regulation could accidentally lock in an oligopoly of two or three AI companies\n• NVIDIA, TSMC, and the hardware systems underpinning progress in foundation models\n• Why reinforcement-learning wall-clock time is one of Poolside’s biggest bottlenecks\n• Why Poolside trains models from scratch instead of simply distilling larger models\n• How leaders align high-agency people through shared goals and clear constraints\n• Hiring across research, post-training, pre-training, architecture, evals, and engineering at Poolside\nEiso Kant\n• LinkedIn:\n• X:\n• Poolside:\nTimestamps\n00:00:00 Introduction\n00:00:54 Karpathy, RNNs, and Building Code Models Before Transformers\n00:02:26 The $12M Failure and ChatGPT Vindication\n00:03:39 Open Source and the Case for 100 Foundation Model Companies\n00:09:22 Open Weights, Open Research, and Poolside’s Global Team\n00:16:04 The Model Factory: Why Model Building Is 90% Engineering\n00:20:19 Agents, Automated Experiments, and Early Signs of RSI\n00:24:04 Streaming Data, Reproducibility, and Scientific Rigor\n00:30:35 Creating More Foundation Model Companies\n00:36:07 Laguna S: Persistence vs. Raw Intelligence\n00:43:01 Reinventing Pre-Training, RL, and Curriculum Design\n00:52:33 Low-Precision Training and Squeezing More From Smaller Models\n00:58:37 Model Harnesses, Coding Agents, and the Path to AGI\n01:09:26 Why MCP and Traditional Tool Calls Are “Stupid”\n01:13:04 Vision, Multimodality, and Why Language Still Matters\n01:18:15 Scaling Models and the Real Economics of Training\n01:20:40 Why Poolside Is Called Poolside and Raising $500M\n01:27:37 Open Models, AI Safety, and the Risk of an Oligopoly\n01:33:53 NVIDIA, TSMC, and the Reinforcement-Learning Bottleneck\n01:41:52 Smaller Models, Distillation, Engineering Productivity, and Hiring",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=9_0hs2sxHHo",
-          "artworkUrl": "https://i.ytimg.com/vi/9_0hs2sxHHo/hqdefault.jpg"
         }
       ]
     },
@@ -384,6 +384,26 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "Gym equipment to $100M+ DTC",
+          "guest": null,
+          "date": "2026-08-25T20:45:28+00:00",
+          "description": "saunas, cold tubs, red light, and now hyperbaric chambers.\neach one was a \"medical device\" that went mainstream DTC.\nthe Cold Plunge Guys did $100M without a single retailer, chambers could be next.\nNo more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "descriptionCN": "saunas, cold tubs, red light, and now hyperbaric chambers.\neach one was a \"medical device\" that went mainstream DTC.\nthe Cold Plunge Guys did $100M without a single retailer, chambers could be next.\nNo more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=d_by0ua9R70",
+          "artworkUrl": "https://i.ytimg.com/vi/d_by0ua9R70/hqdefault.jpg"
+        },
+        {
+          "title": "The $2B brand built on nostalgia",
+          "guest": null,
+          "date": "2026-08-25T01:30:25+00:00",
+          "description": "The $2B brand built on nostalgia",
+          "descriptionCN": "The $2B brand built on nostalgia",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=UaeDD2zrVH0",
+          "artworkUrl": "https://i.ytimg.com/vi/UaeDD2zrVH0/hqdefault.jpg"
+        },
+        {
           "title": "this NYC spot paid people to stand outside for 2 months, now they've had a line for two years.",
           "guest": null,
           "date": "2026-08-24T19:24:55+00:00",
@@ -394,7 +414,7 @@
           "artworkUrl": "https://i.ytimg.com/vi/F4TiEKU0c94/hqdefault.jpg"
         },
         {
-          "title": "Brutal startup advice from a $2,000,000,000 founder",
+          "title": "$2B founder reveals the niches that can make you $$$ (ft. Allison Ellsworth, Poppi)",
           "guest": null,
           "date": "2026-08-24T13:20:19+00:00",
           "description": "*Sam's database on how long it takes to become a millionaire:*\nEpisode 855: Sam Parr (  ) and Shaan Puri (  ) talk to Allison Ellsworth, the founder of Poppi.\nShow Notes:\n(0:00) Poppi, brand glow up of the century\n(2:25) failing into confidence\n(8:00) behind the scenes of Shark Tank\n(10:22) Investing $70M in branding\n(12:05) the genius of Rohan Oza\n(14:24) the economics of super bowl commercials\n(18:26) Brand Positioning Masterclass\n(25:09) hiring gen z\n(26:38) IDEA: Protein anything\n(31:19) IDEA: lymphatic massage\n(38:09) IDEA: Sleep health powder\n(43:20) What’s it like to be rich?\n(49:19) Inside selling to Pepsi\n(57:34) dealing with post-exit depression\n(1:08:37) $1M vacation",
@@ -422,26 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=ZvQ2catczno",
           "artworkUrl": "https://i.ytimg.com/vi/ZvQ2catczno/hqdefault.jpg"
-        },
-        {
-          "title": "How Elon Musk solves problems",
-          "guest": null,
-          "date": "2026-08-22T01:00:37+00:00",
-          "description": "How Elon Musk solves problems",
-          "descriptionCN": "How Elon Musk solves problems",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=dAQ5JlVCsTs",
-          "artworkUrl": "https://i.ytimg.com/vi/dAQ5JlVCsTs/hqdefault.jpg"
-        },
-        {
-          "title": "a nerdy card game from the 90s is printing $500M a quarter. 17% compounding for 17 straight years.",
-          "guest": null,
-          "date": "2026-08-21T19:15:08+00:00",
-          "description": "Magic the Gathering has quietly become a $2 billion powerhouse, growing 17% a year for 17 straight years.\nNo more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
-          "descriptionCN": "Magic the Gathering has quietly become a $2 billion powerhouse, growing 17% a year for 17 straight years.\nNo more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=OY3H8oDfEHc",
-          "artworkUrl": "https://i.ytimg.com/vi/OY3H8oDfEHc/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,26 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "Why AI labs are shelving their best models - Dylan Patel",
+          "guest": null,
+          "date": "2026-08-25T21:24:15+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=LooFKIOAVqY",
+          "artworkUrl": "https://i.ytimg.com/vi/LooFKIOAVqY/hqdefault.jpg"
+        },
+        {
+          "title": "Dylan Patel – Two labs will soon control most of the world's workforce",
+          "guest": null,
+          "date": "2026-08-25T15:57:53+00:00",
+          "description": "Had a lot of fun chatting again with my twin brother Dylan Patel.\nWe went through lab economics over the next few years - the shift from inference to training as RSI draws near; and how Anthropic and OpenAI are on track to control most of the world’s usable FLOPs within the next few years (because they can monetize compute better and thus outbid everyone).\nAnd then we discuss whether the $10T+ of total AI capex we’ll see by the end of the decade will cause a sovereign debt crisis, where hyperscaler debt raises interest rates, drives non-AI exposed countries into bankruptcy, and crashes non-AI equities.\nOne question we weren’t able to resolve is whether there’s anything that can counter all the forces barrelling towards centralization in this industry - the economies of scale in training, the scarcity of compute, and eventually continual learning and RSI.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Grok Bot has been quite helpful with my search for a new editor. I created a recruiter bot and described the type of editor I was looking for. That bot then spun up a handful of subagents that combed through my emails and X DMs, read the end credits of various documentaries I like, and figured out who edits for some of my favorite YouTubers. It took all of those results, and then delivered me a shortlist of candidates that matched my criteria. Try Grok Bot for yourself at\n* Antithesis lets you add time travel to your software testing toolkit. Since the Antithesis platform is fully deterministic, everything that happens inside of it is perfectly reproducible. So if your software crashes, you can rewind to the exact right moment, freeze time, and investigate. Or you can test different hypotheses by perturbing the system: kill a node or disable a feature, see what happens, then reset the trajectory and try something else. Learn more at\n* Jane Street is hiring for two separate ML internships right now, one focused primarily on research and one focused on engineering. In both cases, interns are expected to contribute to real work, not contrived exercises: one common project is adapting a frontier LLM paper to financial markets, which tend to come with a ton of different gnarly challenges. Importantly, you don’t need any finance background to apply. 2027 applications are open now at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Two labs will soon control most of the world’s compute\n00:07:01 – $6 billion in fab capex enables $1t+ of end revenue\n00:13:08 – Compute prices will rise if the labs outbid everyone\n00:18:22 – Which layer will capture most of the surplus?\n00:25:40 – Will datacenter regulation slow down AI?\n00:29:43 – Labs are shifting compute from inference to R&D\n00:33:27 – China gets less than 10% of new compute, but its labs need less\n00:48:48 – Will AI cause a sovereign debt crisis?\n01:07:52 – Will the world's future workforce belong to a few companies?",
+          "descriptionCN": "Had a lot of fun chatting again with my twin brother Dylan Patel.\nWe went through lab economics over the next few years - the shift from inference to training as RSI draws near; and how Anthropic and OpenAI are on track to control most of the world’s usable FLOPs within the next few years (because they can monetize compute better and thus outbid everyone).\nAnd then we discuss whether the $10T+ of total AI capex we’ll see by the end of the decade will cause a sovereign debt crisis, where hyperscaler debt raises interest rates, drives non-AI exposed countries into bankruptcy, and crashes non-AI equities.\nOne question we weren’t able to resolve is whether there’s anything that can counter all the forces barrelling towards centralization in this industry - the economies of scale in training, the scarcity of compute, and eventually continual learning and RSI.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Grok Bot has been quite helpful with my search for a new editor. I created a recruiter bot and described the type of editor I was looking for. That bot then spun up a handful of subagents that combed through my emails and X DMs, read the end credits of various documentaries I like, and figured out who edits for some of my favorite YouTubers. It took all of those results, and then delivered me a shortlist of candidates that matched my criteria. Try Grok Bot for yourself at\n* Antithesis lets you add time travel to your software testing toolkit. Since the Antithesis platform is fully deterministic, everything that happens inside of it is perfectly reproducible. So if your software crashes, you can rewind to the exact right moment, freeze time, and investigate. Or you can test different hypotheses by perturbing the system: kill a node or disable a feature, see what happens, then reset the trajectory and try something else. Learn more at\n* Jane Street is hiring for two separate ML internships right now, one focused primarily on research and one focused on engineering. In both cases, interns are expected to contribute to real work, not contrived exercises: one common project is adapting a frontier LLM paper to financial markets, which tend to come with a ton of different gnarly challenges. Importantly, you don’t need any finance background to apply. 2027 applications are open now at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Two labs will soon control most of the world’s compute\n00:07:01 – $6 billion in fab capex enables $1t+ of end revenue\n00:13:08 – Compute prices will rise if the labs outbid everyone\n00:18:22 – Which layer will capture most of the surplus?\n00:25:40 – Will datacenter regulation slow down AI?\n00:29:43 – Labs are shifting compute from inference to R&D\n00:33:27 – China gets less than 10% of new compute, but its labs need less\n00:48:48 – Will AI cause a sovereign debt crisis?\n01:07:52 – Will the world's future workforce belong to a few companies?",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=aV26V1UvkJw",
+          "artworkUrl": "https://i.ytimg.com/vi/aV26V1UvkJw/hqdefault.jpg"
+        },
         {
           "title": "Why Humans Can Still Beat AI at Coding - Ryan Greenblatt",
           "guest": null,
@@ -496,26 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=9oqFUheU104",
           "artworkUrl": "https://i.ytimg.com/vi/9oqFUheU104/hqdefault.jpg"
-        },
-        {
-          "title": "Why Raising AI Isn't Like Raising Kids - Ryan Greenblatt",
-          "guest": null,
-          "date": "2026-08-17T21:58:24+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=2EfINfM0wLs",
-          "artworkUrl": "https://i.ytimg.com/vi/2EfINfM0wLs/hqdefault.jpg"
-        },
-        {
-          "title": "OpenAI's models hacked a package manager to cheat evals - Ryan Greenblatt",
-          "guest": null,
-          "date": "2026-08-15T21:21:18+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=pP4scNfgL5U",
-          "artworkUrl": "https://i.ytimg.com/vi/pP4scNfgL5U/hqdefault.jpg"
         }
       ]
     },
@@ -531,6 +531,16 @@
       "youtube": "https://www.youtube.com/@AcquiredFM",
       "color": "#7c3aed",
       "episodes": [
+        {
+          "title": "Why Steve Jobs Bought Pixar",
+          "guest": null,
+          "date": "2026-08-25T13:26:05+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=mROkxmZ4fvw",
+          "artworkUrl": "https://i.ytimg.com/vi/mROkxmZ4fvw/hqdefault.jpg"
+        },
         {
           "title": "Disney Paid $4 Billion for Marvel. What Did It Get?",
           "guest": null,
@@ -580,16 +590,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=01QR2tmxSD4",
           "artworkUrl": "https://i.ytimg.com/vi/01QR2tmxSD4/hqdefault.jpg"
-        },
-        {
-          "title": "Walt Disney's Unfinished Sci-Fi City: The REAL EPCOT",
-          "guest": null,
-          "date": "2026-07-24T20:56:10+00:00",
-          "description": "EPCOT wasn't supposed to be just another theme park. Walt Disney's original, wild vision was for a 50-acre, climate-controlled sci-fi city where people actually lived. He spent his entire life escalating his bets, from synchronized sound with Mickey Mouse to Disneyland itself, and this domed utopia was meant to be his ultimate project before he passed away.\n🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)\n#Acquired #WaltDisney #EPCOT #DisneyHistory #Shorts",
-          "descriptionCN": "EPCOT wasn't supposed to be just another theme park. Walt Disney's original, wild vision was for a 50-acre, climate-controlled sci-fi city where people actually lived. He spent his entire life escalating his bets, from synchronized sound with Mickey Mouse to Disneyland itself, and this domed utopia was meant to be his ultimate project before he passed away.\n🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)\n#Acquired #WaltDisney #EPCOT #DisneyHistory #Shorts",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=JjDdCToFpUM",
-          "artworkUrl": "https://i.ytimg.com/vi/JjDdCToFpUM/hqdefault.jpg"
         }
       ]
     },
@@ -680,6 +680,16 @@
       "color": "#16a34a",
       "episodes": [
         {
+          "title": "I speak faster than I type - Free Month of Wispr Flow Pro in the description :)",
+          "guest": null,
+          "date": "2026-08-25T13:00:41+00:00",
+          "description": "For a free month of Wispr Flow Pro: ref.wisprflow.ai/ali_shorts\nI run an online business school, and a big chunk of my week is replying to students on Slack.\nThat used to be an hour of context switching and typing, but now, I just talk into my computer.\nOne of our students was struggling to drive sales from her Instagram content, so instead of typing I hit the Wispr Flow shortcut and replied her within a few seconds, instead of a few minutes.\nIt’s voice to text for pretty much any app. It strips out the ums and errs, handles capitalisation, and it even matches tone, so if you type in all lowercase in WhatsApp, that's how your dictated message comes out. No accidental business emails in the group chat.\nI barely type anything on my computer anymore.\nPaid partnership with Wispr Flow",
+          "descriptionCN": "For a free month of Wispr Flow Pro: ref.wisprflow.ai/ali_shorts\nI run an online business school, and a big chunk of my week is replying to students on Slack.\nThat used to be an hour of context switching and typing, but now, I just talk into my computer.\nOne of our students was struggling to drive sales from her Instagram content, so instead of typing I hit the Wispr Flow shortcut and replied her within a few seconds, instead of a few minutes.\nIt’s voice to text for pretty much any app. It strips out the ums and errs, handles capitalisation, and it even matches tone, so if you type in all lowercase in WhatsApp, that's how your dictated message comes out. No accidental business emails in the group chat.\nI barely type anything on my computer anymore.\nPaid partnership with Wispr Flow",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=TsU00pg6dmY",
+          "artworkUrl": "https://i.ytimg.com/vi/TsU00pg6dmY/hqdefault.jpg"
+        },
+        {
           "title": "30 days free of Manychat Pro in the description :)",
           "guest": null,
           "date": "2026-08-20T11:45:08+00:00",
@@ -728,16 +738,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=tddojhU-atQ",
           "artworkUrl": "https://i.ytimg.com/vi/tddojhU-atQ/hqdefault.jpg"
-        },
-        {
-          "title": "How to Make Your Job Optional - The Freedom Profile Matrix",
-          "guest": null,
-          "date": "2026-08-04T13:00:06+00:00",
-          "description": "Sponsored Link. To get free fractional shares worth up to £100, you can open an account with Trading 212 through this link -\nThis video does not represent financial advice, and I am not a financial advisor. When investing, your capital is at risk and you may get back less than invested. Past performance doesn't guarantee future results. Free shares can be fractional.\n*Terms and fees apply -",
-          "descriptionCN": "Sponsored Link. To get free fractional shares worth up to £100, you can open an account with Trading 212 through this link -\nThis video does not represent financial advice, and I am not a financial advisor. When investing, your capital is at risk and you may get back less than invested. Past performance doesn't guarantee future results. Free shares can be fractional.\n*Terms and fees apply -",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=oCVq-wAPqSs",
-          "artworkUrl": "https://i.ytimg.com/vi/oCVq-wAPqSs/hqdefault.jpg"
         }
       ]
     },
