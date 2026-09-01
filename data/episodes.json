@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-08-31T01:04:50.890Z",
+  "lastFetched": "2026-09-01T01:37:34.986Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -14,7 +14,7 @@
       "color": "#4f46e5",
       "episodes": [
         {
-          "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+          "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)",
           "guest": "Tara Seshan",
           "date": "2026-08-30T12:31:30Z",
           "description": "Tara Seshan leads product for Codex and ChatGPT Work at OpenAI (alongside previous podcast guest Andrew Ambrosino, who’s her engineering manager). Before OpenAI, Tara spent over six years at Stripe, where she joined as one of the first five product managers. She went on to lead product for Watershed, which Time magazine named one of the best inventions of 2022, and she is also a founder and Thiel Fellow. Most personally meaningful to me: Tara is one of the three inaugural Lenny’s Newsletter Fellows, a program I ran a couple of years ago to spotlight the most exciting up-and-coming product leaders.\nIn our in-depth conversation, we discuss:\n1. The shift from “rowing” to “steering,” and why human judgment and ambition will become differentiators as AI takes on execution\n2. How OpenAI thinks about building for model capabilities two to three months out\n3. OpenAI’s best internal memes, such as “Is this maximally accelerated?” and “Are you mainlining it yet?”\n4. Why ambition is the new bottleneck for companies, and why elevating others’ ambitions is now the key part of the PM job\n5. Writing as thinking vs. writing as reporting",
@@ -88,6 +88,16 @@
       "color": "#f59e0b",
       "episodes": [
         {
+          "title": "If you don't know what skill to learn...",
+          "guest": null,
+          "date": "2026-08-31T14:13:35+00:00",
+          "description": "Read my weekly letters:\nThe content brain for creators and agents:",
+          "descriptionCN": "Read my weekly letters:\nThe content brain for creators and agents:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=cS9g8Z7Z5oY",
+          "artworkUrl": "https://i.ytimg.com/vi/cS9g8Z7Z5oY/hqdefault.jpg"
+        },
+        {
           "title": "The Art of Strategic Thinking (How to Become Wildly Successful at Anything You Do)",
           "guest": null,
           "date": "2026-08-19T18:46:30+00:00",
@@ -136,16 +146,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=v3ltjIJb-F0",
           "artworkUrl": "https://i.ytimg.com/vi/v3ltjIJb-F0/hqdefault.jpg"
-        },
-        {
-          "title": "How To Become So Valuable AI Can Never Replace You",
-          "guest": null,
-          "date": "2026-06-28T22:37:06+00:00",
-          "description": "Find validated ideas & create unique content:\nOr join the bootcamp before July 8th:\nPersonal brand strategy prompt:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
-          "descriptionCN": "Find validated ideas & create unique content:\nOr join the bootcamp before July 8th:\nPersonal brand strategy prompt:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w",
-          "artworkUrl": "https://i.ytimg.com/vi/K2QvCV1PB1w/hqdefault.jpg"
         }
       ]
     },
@@ -161,6 +161,16 @@
       "youtube": "https://www.youtube.com/@AIDailyBrief",
       "color": "#0ea5e9",
       "episodes": [
+        {
+          "title": "Where to Start AI Coding if You're Not Yet",
+          "guest": null,
+          "date": "2026-08-31T14:11:41+00:00",
+          "description": "AI coding is quickly becoming a foundational skill for knowledge workers, not just software engineers. NLW breaks down how to identify software-shaped problems in your work, choose between automating, upgrading, and inventing, and find a practical first project worth building.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "AI coding is quickly becoming a foundational skill for knowledge workers, not just software engineers. NLW breaks down how to identify software-shaped problems in your work, choose between automating, upgrading, and inventing, and find a practical first project worth building.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=oOypWmORZRk",
+          "artworkUrl": "https://i.ytimg.com/vi/oOypWmORZRk/hqdefault.jpg"
+        },
         {
           "title": "How We Deal with Rogue AI",
           "guest": null,
@@ -210,16 +220,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=UMDxpXGGdMs",
           "artworkUrl": "https://i.ytimg.com/vi/UMDxpXGGdMs/hqdefault.jpg"
-        },
-        {
-          "title": "The Future of AI and Work",
-          "guest": null,
-          "date": "2026-08-24T01:24:01+00:00",
-          "description": "Opposition to AI data centers has become one of America’s fastest-moving bipartisan political issues, driven by concerns about electricity, water, noise, property values, jobs, and a deeper mistrust of Big Tech. NLW provides an end-to-end primer on what data centers actually do, why public sentiment has turned so sharply, where the loudest claims fall apart, and how transparency, community control, and direct local benefits could offer a path forward.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Opposition to AI data centers has become one of America’s fastest-moving bipartisan political issues, driven by concerns about electricity, water, noise, property values, jobs, and a deeper mistrust of Big Tech. NLW provides an end-to-end primer on what data centers actually do, why public sentiment has turned so sharply, where the loudest claims fall apart, and how transparency, community control, and direct local benefits could offer a path forward.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=m8x-gYMYFCg",
-          "artworkUrl": "https://i.ytimg.com/vi/m8x-gYMYFCg/hqdefault.jpg"
         }
       ]
     },
@@ -384,6 +384,16 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "Mohnish Pabrai's $10K to $1M investing strategy.",
+          "guest": null,
+          "date": "2026-08-31T17:38:02+00:00",
+          "description": "Mohnish Pabrai's $10K to $1M investing strategy.",
+          "descriptionCN": "Mohnish Pabrai's $10K to $1M investing strategy.",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=20SOZv_03gc",
+          "artworkUrl": "https://i.ytimg.com/vi/20SOZv_03gc/hqdefault.jpg"
+        },
+        {
           "title": "He built a $2B+ business at 77",
           "guest": null,
           "date": "2026-08-30T21:43:32+00:00",
@@ -432,16 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=wHwu1rsXH8I",
           "artworkUrl": "https://i.ytimg.com/vi/wHwu1rsXH8I/hqdefault.jpg"
-        },
-        {
-          "title": "How a $5B founder is using AI (3 tutorials)",
-          "guest": null,
-          "date": "2026-08-26T13:44:37+00:00",
-          "description": "*How Wade uses AI (steal his prompts):*\nEpisode 856: Sam Parr (  ) and Shaan Puri (  ) talk to Wade Foster (  ) about how he uses AI to save himself hours of work every day.\nShow Notes:\n(0:00) intro\n(2:27) The sales pitch\n(7:04) My Robot Executive Staff, Waking Up Like The President\n(14:13) Evening brief\n(17:39) AI that argues with you\n(19:32) War Council skill\n(31:53) How to use AI to hire better\n(48:15) being a billionaire before 40\n(51:17) a case for not having a chip on your shoulder\n(54:36) 1-dimensional winners\n(1:00:55) recommended reading",
-          "descriptionCN": "*How Wade uses AI (steal his prompts):*\nEpisode 856: Sam Parr (  ) and Shaan Puri (  ) talk to Wade Foster (  ) about how he uses AI to save himself hours of work every day.\nShow Notes:\n(0:00) intro\n(2:27) The sales pitch\n(7:04) My Robot Executive Staff, Waking Up Like The President\n(14:13) Evening brief\n(17:39) AI that argues with you\n(19:32) War Council skill\n(31:53) How to use AI to hire better\n(48:15) being a billionaire before 40\n(51:17) a case for not having a chip on your shoulder\n(54:36) 1-dimensional winners\n(1:00:55) recommended reading",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=TVpLs0F1zpA",
-          "artworkUrl": "https://i.ytimg.com/vi/TVpLs0F1zpA/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,26 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "The Export Controls Are Working - Dylan Patel",
+          "guest": null,
+          "date": "2026-08-31T21:08:02+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=t7_qbA9P6HM",
+          "artworkUrl": "https://i.ytimg.com/vi/t7_qbA9P6HM/hqdefault.jpg"
+        },
+        {
+          "title": "The OpenAI/Hugging Face attack, clearly explained",
+          "guest": null,
+          "date": "2026-08-31T20:49:34+00:00",
+          "description": "This is a video version of a post I wrote. If you want to read the original you can check it out here:",
+          "descriptionCN": "This is a video version of a post I wrote. If you want to read the original you can check it out here:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=u15N3l4RT80",
+          "artworkUrl": "https://i.ytimg.com/vi/u15N3l4RT80/hqdefault.jpg"
+        },
         {
           "title": "We're Worried About the Wrong Kind of Centralization - Dylan Patel",
           "guest": null,
@@ -496,26 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=JdLf3xO1hB0",
           "artworkUrl": "https://i.ytimg.com/vi/JdLf3xO1hB0/hqdefault.jpg"
-        },
-        {
-          "title": "AI Doesn't Need to Be Good at Politics to Change Everything - Ryan Greenblatt",
-          "guest": null,
-          "date": "2026-08-26T21:40:20+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=4HEfWnMmLNk",
-          "artworkUrl": "https://i.ytimg.com/vi/4HEfWnMmLNk/hqdefault.jpg"
-        },
-        {
-          "title": "Why AI labs are shelving their best models - Dylan Patel",
-          "guest": null,
-          "date": "2026-08-25T21:24:15+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=LooFKIOAVqY",
-          "artworkUrl": "https://i.ytimg.com/vi/LooFKIOAVqY/hqdefault.jpg"
         }
       ]
     },
@@ -754,6 +754,16 @@
       "color": "#ea580c",
       "episodes": [
         {
+          "title": "Marketing Engineer: The $1M Job with AI Agents",
+          "guest": null,
+          "date": "2026-08-31T18:45:11+00:00",
+          "description": "In this solo episode I explain a role that I call the marketing engineer. I believe this person becomes one of the most valuable hires in tech in the next 18 to 24 months. I define the job, I show the four eras of marketing that lead to it, and I give the tool stack that makes it work. I use a commercial HVAC software company as a worked example, and I list six systems that a marketing engineer builds. I close with four ways to earn money from this skill and a 30-day plan to learn it.\nTimestamps:\n00:00 – Intro\n01:46 – The Evolution of Marketing\n04:29 – What is a marketing engineer\n07:19 – Build the Growth OS\n10:18 – Marketing Engineer Tool stack\n13:23 – Live Data Workflow\n14:32 – Agent Job Description\n16:56 – Example: vertical SaaS for HVAC contractors\n18:27 – System 1: Customer Truth\n20:20 – System 2 - 4: Founder content, Outbound signal and Creative Testing\n23:31 – System 5: AI search visibility and the growth cockpit\n24:19 – System 6: Eval Loop\n25:06 – Ways to Monetize\n29:41 – The 30-day plan\n32:24 – Closing Thoughts\nKey Points\n• I expect the marketing engineer to command salaries from 250K to more than 1 million dollars.\n• I build the growth repo first, because it holds the marketing memory of the whole company.\n• I write a job spec for each agent, in the same way that I write a job description for a person.\n• I measure qualified replies and pipeline, because business results show the true signal.\n• I treat taste and judgment as the moat, because agents become a commodity.\n• I recommend one working system over five half-built ones.\nNumbered Section Summaries\n1. The Four Eras of Marketing I started and sold three venture-backed companies across the web, social, and mobile eras. Each technology shift creates a new type of valuable marketer: the traditional storyteller, the digital acquisition marketer, then the growth hacker. The agentic shift now creates the marketing engineer.\n2. My Definition of the Role A marketing engineer turns market signal into pipeline with AI agents, data, code, and taste. The person keeps the old skills of positioning, customer understanding, and distribution. The new part is that the person also builds the system behind the marketing.\n3. The Growth Repo Most teams use AI in random chats, and the work disappears each week. I fix this with a GitHub repo or a structured folder that I call Growth OS. It holds folders for customer truth, the content engine, the outbound engine, creative testing, and agent jobs.\n4. The Tool Stack I use Grokbot as the layer that stays close to the live internet, because it connects to the X ecosystem. I use Claude and Codex to build the repo, the landing pages, and the internal tools. Hermes-style workflows run scheduled jobs with memory and approval, creative models handle ads and thumbnails, and local AI covers sensitive data.\n5. Agent Job Specs Every agent needs a written spec: the data source, the run schedule, the filters, the expected output, the approval step, and the metric. I train agents in the same way that I train a new hire, with small tasks and corrections. Each correction goes back into the repo, so the system compounds.\n6. Six Systems, With an HVAC Example I use a vertical SaaS company that sells to commercial HVAC contractors. The six systems are the customer truth file, the founder content engine, the outbound signal engine, the creative testing engine, AI search visibility, and the growth cockpit. Each one turns a sharp customer pain, such as missed follow-up quotes after a service call, into content, outbound, and tests.\n7. Four Ways to Earn Money The first path is the role inside a company, which sits directly beside revenue. The second is consulting on a 30, 60, or 90 day embed, at five to thirty thousand dollars per month. The third is a productized service with one tight wedge, and the fourth is software that comes from the pain that repeats across clients.\n8. The 30-Day Plan Week one is an audit of one real company and a market map. Week two is the growth repo and the first \"what the market is telling us\" file. Week three is one working machine, and week four is results and a written case study.\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:",
+          "descriptionCN": "In this solo episode I explain a role that I call the marketing engineer. I believe this person becomes one of the most valuable hires in tech in the next 18 to 24 months. I define the job, I show the four eras of marketing that lead to it, and I give the tool stack that makes it work. I use a commercial HVAC software company as a worked example, and I list six systems that a marketing engineer builds. I close with four ways to earn money from this skill and a 30-day plan to learn it.\nTimestamps:\n00:00 – Intro\n01:46 – The Evolution of Marketing\n04:29 – What is a marketing engineer\n07:19 – Build the Growth OS\n10:18 – Marketing Engineer Tool stack\n13:23 – Live Data Workflow\n14:32 – Agent Job Description\n16:56 – Example: vertical SaaS for HVAC contractors\n18:27 – System 1: Customer Truth\n20:20 – System 2 - 4: Founder content, Outbound signal and Creative Testing\n23:31 – System 5: AI search visibility and the growth cockpit\n24:19 – System 6: Eval Loop\n25:06 – Ways to Monetize\n29:41 – The 30-day plan\n32:24 – Closing Thoughts\nKey Points\n• I expect the marketing engineer to command salaries from 250K to more than 1 million dollars.\n• I build the growth repo first, because it holds the marketing memory of the whole company.\n• I write a job spec for each agent, in the same way that I write a job description for a person.\n• I measure qualified replies and pipeline, because business results show the true signal.\n• I treat taste and judgment as the moat, because agents become a commodity.\n• I recommend one working system over five half-built ones.\nNumbered Section Summaries\n1. The Four Eras of Marketing I started and sold three venture-backed companies across the web, social, and mobile eras. Each technology shift creates a new type of valuable marketer: the traditional storyteller, the digital acquisition marketer, then the growth hacker. The agentic shift now creates the marketing engineer.\n2. My Definition of the Role A marketing engineer turns market signal into pipeline with AI agents, data, code, and taste. The person keeps the old skills of positioning, customer understanding, and distribution. The new part is that the person also builds the system behind the marketing.\n3. The Growth Repo Most teams use AI in random chats, and the work disappears each week. I fix this with a GitHub repo or a structured folder that I call Growth OS. It holds folders for customer truth, the content engine, the outbound engine, creative testing, and agent jobs.\n4. The Tool Stack I use Grokbot as the layer that stays close to the live internet, because it connects to the X ecosystem. I use Claude and Codex to build the repo, the landing pages, and the internal tools. Hermes-style workflows run scheduled jobs with memory and approval, creative models handle ads and thumbnails, and local AI covers sensitive data.\n5. Agent Job Specs Every agent needs a written spec: the data source, the run schedule, the filters, the expected output, the approval step, and the metric. I train agents in the same way that I train a new hire, with small tasks and corrections. Each correction goes back into the repo, so the system compounds.\n6. Six Systems, With an HVAC Example I use a vertical SaaS company that sells to commercial HVAC contractors. The six systems are the customer truth file, the founder content engine, the outbound signal engine, the creative testing engine, AI search visibility, and the growth cockpit. Each one turns a sharp customer pain, such as missed follow-up quotes after a service call, into content, outbound, and tests.\n7. Four Ways to Earn Money The first path is the role inside a company, which sits directly beside revenue. The second is consulting on a 30, 60, or 90 day embed, at five to thirty thousand dollars per month. The third is a productized service with one tight wedge, and the fourth is software that comes from the pain that repeats across clients.\n8. The 30-Day Plan Week one is an audit of one real company and a market map. Week two is the growth repo and the first \"what the market is telling us\" file. Week three is one working machine, and week four is results and a written case study.\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=8ZC1G1ezN5o",
+          "artworkUrl": "https://i.ytimg.com/vi/8ZC1G1ezN5o/hqdefault.jpg"
+        },
+        {
           "title": "WebMCP: Let AI Agents pay you money",
           "guest": null,
           "date": "2026-08-26T18:40:21+00:00",
@@ -802,16 +812,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=EzQAgnjTq2k",
           "artworkUrl": "https://i.ytimg.com/vi/EzQAgnjTq2k/hqdefault.jpg"
-        },
-        {
-          "title": "Cloudflare will make 1000+ AI millionaires",
-          "guest": null,
-          "date": "2026-08-10T18:00:30+00:00",
-          "description": "In this solo episode I break down Cloudflare's AI agent announcement in plain English and explain why I see it as the new business model for the internet. I walk through AI crawl control, pay per crawl, the monetization gateway, and the x402 payment rail, and I show how a single request turns into a transaction. From there I give three startup ideas built directly on top of this shift: a niche data refinery, agent readiness for businesses, and expert archives turned into agent tools. For each idea I lay out the wedge, the first customer, the first version, and how I would sell it. My core claim: the internet is moving from pages humans visit to resources agents use, and the builders who move now own the doors.\nTimestamps\n00:00 – Intro\n01:01 – The Old Paradigm of the Internet\n02:57 – The New Paradigm of the Internet\n03:41 – What Cloudflare is actually doing\n06:33 – An AI Index for all our customers\n07:34 – The Agent Internet Stack\n09:09 – Why Now Is the Best Time to Build\n10:29 – Startup Idea 1: The Niche Data Refinery\n17:10 – Startup Idea 2: Agent Readiness for Businesses\n23:43 – Startup Idea 3: Expert Archives as Agent Tools\n30:36 – The Filter for Finding Ideas\n32:33 – Closing Thoughts\nKey Points\n• The human web monetized attention; the agent web monetizes useful resources, priced per request.\n• Cloudflare's pay per crawl, monetization gateway, and x402 turn the HTTP 402 status code into a live checkout at the edge.\n• Idea 1: refine one niche's messy data into clean fuel for agents, starting with 100 businesses in one city.\n• Idea 2: sell agent readiness by showing a founder exactly what AI says about their company today.\n• Idea 3: package an expert's archive into one job-specific agent tool the audience already wants.\n• Every one of these works as a manual services business today and productizes as agent payments mature.\nNumbered Section Summaries\n1. The Old Bargain of the Internet: I describe the trade that funded the web: crawlers took the content, sites got the visitor, and owners monetized that attention through ads, email capture, subscriptions, and affiliate links. Agents change the flow, because the answer reaches the user while the visit stays home. That shift explains why publishers are vocal right now, and I treat it as the first inning of a much larger story.\n2. Cloudflare in Plain English: I cover AI crawl control, which gives site owners visibility into crawler activity plus the power to allow or block; pay per crawl, which lets a site owner charge AI crawlers for access; and the monetization gateway, which extends payment rules to any resource behind Cloudflare, including pages, data sets, APIs, MCP tool calls, files, and search indexes. The rail is x402, built on the HTTP 402 payment required response: the agent requests, the server prices it, the agent pays and retries with proof, and Cloudflare verifies at the edge.\n3. The Request Becomes the Transaction: Paid access starts to feel native to the internet itself: one request, a fraction of a penny, and the resource opens. A human closes the laptop over a third of a cent; a machine happily pays it to finish the job. Tiny resources become real businesses, charging per lookup, per successful call, per answer, or per comparison.\n4. The Agent Internet Stack: I map the layers forming underneath all of this: a messy internet of PDFs, pricing pages, old posts, and support docs; someone cleans it into structured data; someone makes it agent readable through an API, MCP tool, search index, feed, or llms.txt; someone adds payment rules where free drives distribution and paid protects value; and someone adds trust and analytics on freshness, source reliability, and which requests earn money. The guiding question: what resource does an agent need badly, often, and reliably enough to pay for?\n5. The Through Line and the Close: All three ideas share one engine: agents need clean, trusted, useful resources to do great work, whether that shows up as data, structure, access, expert knowledge, a tool, or a payment rule. I encourage building the manual version now — sell the human version, gather the data, package it — so the agent-native version is ready as payments spread. My closing questions for finding your own idea: what decision is expensive, what information is messy, what changes often, who already pays for help, and what would an agent need to do the job better?\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI:\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:",
-          "descriptionCN": "In this solo episode I break down Cloudflare's AI agent announcement in plain English and explain why I see it as the new business model for the internet. I walk through AI crawl control, pay per crawl, the monetization gateway, and the x402 payment rail, and I show how a single request turns into a transaction. From there I give three startup ideas built directly on top of this shift: a niche data refinery, agent readiness for businesses, and expert archives turned into agent tools. For each idea I lay out the wedge, the first customer, the first version, and how I would sell it. My core claim: the internet is moving from pages humans visit to resources agents use, and the builders who move now own the doors.\nTimestamps\n00:00 – Intro\n01:01 – The Old Paradigm of the Internet\n02:57 – The New Paradigm of the Internet\n03:41 – What Cloudflare is actually doing\n06:33 – An AI Index for all our customers\n07:34 – The Agent Internet Stack\n09:09 – Why Now Is the Best Time to Build\n10:29 – Startup Idea 1: The Niche Data Refinery\n17:10 – Startup Idea 2: Agent Readiness for Businesses\n23:43 – Startup Idea 3: Expert Archives as Agent Tools\n30:36 – The Filter for Finding Ideas\n32:33 – Closing Thoughts\nKey Points\n• The human web monetized attention; the agent web monetizes useful resources, priced per request.\n• Cloudflare's pay per crawl, monetization gateway, and x402 turn the HTTP 402 status code into a live checkout at the edge.\n• Idea 1: refine one niche's messy data into clean fuel for agents, starting with 100 businesses in one city.\n• Idea 2: sell agent readiness by showing a founder exactly what AI says about their company today.\n• Idea 3: package an expert's archive into one job-specific agent tool the audience already wants.\n• Every one of these works as a manual services business today and productizes as agent payments mature.\nNumbered Section Summaries\n1. The Old Bargain of the Internet: I describe the trade that funded the web: crawlers took the content, sites got the visitor, and owners monetized that attention through ads, email capture, subscriptions, and affiliate links. Agents change the flow, because the answer reaches the user while the visit stays home. That shift explains why publishers are vocal right now, and I treat it as the first inning of a much larger story.\n2. Cloudflare in Plain English: I cover AI crawl control, which gives site owners visibility into crawler activity plus the power to allow or block; pay per crawl, which lets a site owner charge AI crawlers for access; and the monetization gateway, which extends payment rules to any resource behind Cloudflare, including pages, data sets, APIs, MCP tool calls, files, and search indexes. The rail is x402, built on the HTTP 402 payment required response: the agent requests, the server prices it, the agent pays and retries with proof, and Cloudflare verifies at the edge.\n3. The Request Becomes the Transaction: Paid access starts to feel native to the internet itself: one request, a fraction of a penny, and the resource opens. A human closes the laptop over a third of a cent; a machine happily pays it to finish the job. Tiny resources become real businesses, charging per lookup, per successful call, per answer, or per comparison.\n4. The Agent Internet Stack: I map the layers forming underneath all of this: a messy internet of PDFs, pricing pages, old posts, and support docs; someone cleans it into structured data; someone makes it agent readable through an API, MCP tool, search index, feed, or llms.txt; someone adds payment rules where free drives distribution and paid protects value; and someone adds trust and analytics on freshness, source reliability, and which requests earn money. The guiding question: what resource does an agent need badly, often, and reliably enough to pay for?\n5. The Through Line and the Close: All three ideas share one engine: agents need clean, trusted, useful resources to do great work, whether that shows up as data, structure, access, expert knowledge, a tool, or a payment rule. I encourage building the manual version now — sell the human version, gather the data, package it — so the agent-native version is ready as payments spread. My closing questions for finding your own idea: what decision is expensive, what information is messy, what changes often, who already pays for help, and what would an agent need to do the job better?\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI:\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=MNNfat_QP0E",
-          "artworkUrl": "https://i.ytimg.com/vi/MNNfat_QP0E/hqdefault.jpg"
         }
       ]
     }
