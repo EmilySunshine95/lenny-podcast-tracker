@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-01T01:37:34.986Z",
+  "lastFetched": "2026-09-02T00:48:33.382Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -162,6 +162,16 @@
       "color": "#0ea5e9",
       "episodes": [
         {
+          "title": "How To Navigate the Next Wave of AI Competition",
+          "guest": null,
+          "date": "2026-09-01T18:37:11+00:00",
+          "description": "OpenAI cutting off Cursor after the SpaceX acquisition follows a pattern already set by Anthropic with Windsurf, and the fallout reaches far beyond lab rivalry. NLW explains why enterprises now need a strategy for open weights and open harnesses, treating model and tooling independence as resilience rather than just cost control. In the headlines: labor unions organizing against anti-data-center candidates, new rules targeting Chinese remote chip access, Anthropic's court win over the Pentagon, and enterprise demand behind the Mac Mini boom.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "OpenAI cutting off Cursor after the SpaceX acquisition follows a pattern already set by Anthropic with Windsurf, and the fallout reaches far beyond lab rivalry. NLW explains why enterprises now need a strategy for open weights and open harnesses, treating model and tooling independence as resilience rather than just cost control. In the headlines: labor unions organizing against anti-data-center candidates, new rules targeting Chinese remote chip access, Anthropic's court win over the Pentagon, and enterprise demand behind the Mac Mini boom.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=mLaO3L0dLlw",
+          "artworkUrl": "https://i.ytimg.com/vi/mLaO3L0dLlw/hqdefault.jpg"
+        },
+        {
           "title": "Where to Start AI Coding if You're Not Yet",
           "guest": null,
           "date": "2026-08-31T14:11:41+00:00",
@@ -210,16 +220,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=SHPIEDynd9I",
           "artworkUrl": "https://i.ytimg.com/vi/SHPIEDynd9I/hqdefault.jpg"
-        },
-        {
-          "title": "No AI Won't Take All Our Jobs. Here's What WILL Happen.",
-          "guest": null,
-          "date": "2026-08-24T20:12:19+00:00",
-          "description": "The AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "The AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=UMDxpXGGdMs",
-          "artworkUrl": "https://i.ytimg.com/vi/UMDxpXGGdMs/hqdefault.jpg"
         }
       ]
     },
@@ -384,6 +384,26 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "He makes $25M from a boring business",
+          "guest": null,
+          "date": "2026-09-01T23:07:40+00:00",
+          "description": "He makes $25M from a boring business",
+          "descriptionCN": "He makes $25M from a boring business",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=4yOe3fha8Hk",
+          "artworkUrl": "https://i.ytimg.com/vi/4yOe3fha8Hk/hqdefault.jpg"
+        },
+        {
+          "title": "\"Money's not everything, just 99%.\" Rocky Aoki.",
+          "guest": null,
+          "date": "2026-09-01T14:32:52+00:00",
+          "description": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "descriptionCN": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=uEbKgRyqMTM",
+          "artworkUrl": "https://i.ytimg.com/vi/uEbKgRyqMTM/hqdefault.jpg"
+        },
+        {
           "title": "Mohnish Pabrai's $10K to $1M investing strategy.",
           "guest": null,
           "date": "2026-08-31T17:38:02+00:00",
@@ -422,26 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=_GVhCyMlTvs",
           "artworkUrl": "https://i.ytimg.com/vi/_GVhCyMlTvs/hqdefault.jpg"
-        },
-        {
-          "title": "Mid-Day Squares sold $40 million worth of $2.49 chocolate bars.",
-          "guest": null,
-          "date": "2026-08-27T18:06:50+00:00",
-          "description": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
-          "descriptionCN": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=uOw-vSUbQBA",
-          "artworkUrl": "https://i.ytimg.com/vi/uOw-vSUbQBA/hqdefault.jpg"
-        },
-        {
-          "title": "He built a $5B company. Here's how he thinks about money.",
-          "guest": null,
-          "date": "2026-08-27T02:04:49+00:00",
-          "description": "He built a $5B company. Here's how he thinks about money.",
-          "descriptionCN": "He built a $5B company. Here's how he thinks about money.",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=wHwu1rsXH8I",
-          "artworkUrl": "https://i.ytimg.com/vi/wHwu1rsXH8I/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,26 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "This Might Be the Clearest Warning Shot We Ever Get - Ajeya Cotra",
+          "guest": null,
+          "date": "2026-09-01T19:10:39+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=1VB5EaNrtWw",
+          "artworkUrl": "https://i.ytimg.com/vi/1VB5EaNrtWw/hqdefault.jpg"
+        },
+        {
+          "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
+          "guest": null,
+          "date": "2026-09-01T16:03:54+00:00",
+          "description": "Ajeya Cotra is a researcher at METR, where she works on threat modeling for loss-of-control risks from advanced AI. Before that, she led the technical AI safety program at what is now Coefficient Giving.\nShe is one the three authors of METR and Redwood Research’s “Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident”.\nWe go through not only what she and her coauthors discovered during this investigation, but what it means for how we should train future, smarter AIs which might be involved in the process of recursive self-improvement.\nRead Ajeya's takeaways from this incident here:\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street’s ML engineering internships start with an intense four-day bootcamp: PyTorch, autograd, writing kernels, profiling workloads… all the things that Jane Street engineers need to know for their daily work. After that, interns tackle real projects, things the firm actually wants in its codebase. If you want to apply, or if you want to watch my recent conversation with Axel, one of Jane Street’s ML engineers, go to\n* Cursor, which is now part of SpaceX, noticed that their MoE layers were eating more than half of total training time. So they wrote and open-sourced Mixture-of-Kittens, which is a custom megakernel for training MoE models on NVL72s. This kernel sped up an end-to-end run across 512 GPUs by 1.4x, from about 760 to over 1000 tokens per second per GPU. If you want to read more about the ML research that Cursor and SpaceX are doing, go to\n* Antithesis hands you (or your agents) a bug’s root cause so you can avoid days of manual debugging. If your test run crashes, Antithesis rewinds, branches off hundreds of slightly varied rollouts, and checks in how many of them the crash still appears. Then it rewinds further and does this all again. As Antithesis rewinds, it eventually finds the spot where the frequency of the crash plummets: that’s where the root cause lives! If you want to see it in action, go to\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 - Agents get kicked off\n00:06:45 - Self-sacrificing behavior\n00:13:43 - Potemkin villages\n00:23:27 - The Hugging Face attack\n00:35:23 - The slopvestigation\n00:52:02 - Understanding the AI's motives\n01:05:31 - The actual dangers of anthropomorphizing\n01:14:30 - What smarter models might do\n01:30:29 - The implications for recursive self-improvement\n01:38:10 - Is this the case for open source?\n01:53:04 - How do we prevent this in the future?\n02:15:58 - The clearest warning shot we might ever get",
+          "descriptionCN": "Ajeya Cotra is a researcher at METR, where she works on threat modeling for loss-of-control risks from advanced AI. Before that, she led the technical AI safety program at what is now Coefficient Giving.\nShe is one the three authors of METR and Redwood Research’s “Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident”.\nWe go through not only what she and her coauthors discovered during this investigation, but what it means for how we should train future, smarter AIs which might be involved in the process of recursive self-improvement.\nRead Ajeya's takeaways from this incident here:\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street’s ML engineering internships start with an intense four-day bootcamp: PyTorch, autograd, writing kernels, profiling workloads… all the things that Jane Street engineers need to know for their daily work. After that, interns tackle real projects, things the firm actually wants in its codebase. If you want to apply, or if you want to watch my recent conversation with Axel, one of Jane Street’s ML engineers, go to\n* Cursor, which is now part of SpaceX, noticed that their MoE layers were eating more than half of total training time. So they wrote and open-sourced Mixture-of-Kittens, which is a custom megakernel for training MoE models on NVL72s. This kernel sped up an end-to-end run across 512 GPUs by 1.4x, from about 760 to over 1000 tokens per second per GPU. If you want to read more about the ML research that Cursor and SpaceX are doing, go to\n* Antithesis hands you (or your agents) a bug’s root cause so you can avoid days of manual debugging. If your test run crashes, Antithesis rewinds, branches off hundreds of slightly varied rollouts, and checks in how many of them the crash still appears. Then it rewinds further and does this all again. As Antithesis rewinds, it eventually finds the spot where the frequency of the crash plummets: that’s where the root cause lives! If you want to see it in action, go to\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 - Agents get kicked off\n00:06:45 - Self-sacrificing behavior\n00:13:43 - Potemkin villages\n00:23:27 - The Hugging Face attack\n00:35:23 - The slopvestigation\n00:52:02 - Understanding the AI's motives\n01:05:31 - The actual dangers of anthropomorphizing\n01:14:30 - What smarter models might do\n01:30:29 - The implications for recursive self-improvement\n01:38:10 - Is this the case for open source?\n01:53:04 - How do we prevent this in the future?\n02:15:58 - The clearest warning shot we might ever get",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=X50zezLFWWI",
+          "artworkUrl": "https://i.ytimg.com/vi/X50zezLFWWI/hqdefault.jpg"
+        },
         {
           "title": "The Export Controls Are Working - Dylan Patel",
           "guest": null,
@@ -496,26 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=GTmJYkf82gY",
           "artworkUrl": "https://i.ytimg.com/vi/GTmJYkf82gY/hqdefault.jpg"
-        },
-        {
-          "title": "Why Jane Street Makes More From Claude Than Anthropic Does - Dylan Patel",
-          "guest": null,
-          "date": "2026-08-28T21:31:38+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=4NMBwT1qYew",
-          "artworkUrl": "https://i.ytimg.com/vi/4NMBwT1qYew/hqdefault.jpg"
-        },
-        {
-          "title": "Why Isn’t China Further Behind in AI? - Dylan Patel",
-          "guest": null,
-          "date": "2026-08-27T20:26:04+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=JdLf3xO1hB0",
-          "artworkUrl": "https://i.ytimg.com/vi/JdLf3xO1hB0/hqdefault.jpg"
         }
       ]
     },
