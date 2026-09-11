@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-10T00:49:49.940Z",
+  "lastFetched": "2026-09-11T00:49:27.537Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -162,6 +162,16 @@
       "color": "#0ea5e9",
       "episodes": [
         {
+          "title": "AI Model Month is Already Delivering Big Gains",
+          "guest": null,
+          "date": "2026-09-10T13:53:51+00:00",
+          "description": "September opens with a flood of releases as Gemini 3.8 Flash, Muse Spark 1.3, and ChatGPT Images 2.5 all land within days of Fable 5.1 and GPT-6 Astra. NLW breaks down where each one actually fits, why speed and cost efficiency now matter as much as raw capability, and what Meta's new Muse personal assistant signals about consumer agents. In the headlines: OpenAI's Navier-Stokes solution and the ugly credit fight around it, a class action over Claude Max usage limits, ElevenLabs eyeing an IPO, and Cognition's raise at $48 billion.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "September opens with a flood of releases as Gemini 3.8 Flash, Muse Spark 1.3, and ChatGPT Images 2.5 all land within days of Fable 5.1 and GPT-6 Astra. NLW breaks down where each one actually fits, why speed and cost efficiency now matter as much as raw capability, and what Meta's new Muse personal assistant signals about consumer agents. In the headlines: OpenAI's Navier-Stokes solution and the ugly credit fight around it, a class action over Claude Max usage limits, ElevenLabs eyeing an IPO, and Cognition's raise at $48 billion.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=j90tdo5Tjes",
+          "artworkUrl": "https://i.ytimg.com/vi/j90tdo5Tjes/hqdefault.jpg"
+        },
+        {
           "title": "Why Astra Is the Most Significant and Confounding Model in a Very Long Time",
           "guest": null,
           "date": "2026-09-09T14:28:11+00:00",
@@ -210,16 +220,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=dLiXiD8hOAI",
           "artworkUrl": "https://i.ytimg.com/vi/dLiXiD8hOAI/hqdefault.jpg"
-        },
-        {
-          "title": "Why Fable 5.1 Is Worth the Upgrade",
-          "guest": null,
-          "date": "2026-09-02T21:41:51+00:00",
-          "description": "Fable 5.1 takes the top spot across nearly every benchmark while Anthropic pushes hard on cost, safeguards, and zero data retention for enterprises. NLW breaks down what independent evals actually found on token burn, why the right question is no longer whether to switch models but where each one fits in a personal model stack, and why building your own benchmark matters. In the headlines: Astra hitting OpenAI's critical cyber threshold, the recurrent depth monitorability debate, Gemini 3.8 Flash, and World Labs' Atlas.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Fable 5.1 takes the top spot across nearly every benchmark while Anthropic pushes hard on cost, safeguards, and zero data retention for enterprises. NLW breaks down what independent evals actually found on token burn, why the right question is no longer whether to switch models but where each one fits in a personal model stack, and why building your own benchmark matters. In the headlines: Astra hitting OpenAI's critical cyber threshold, the recurrent depth monitorability debate, Gemini 3.8 Flash, and World Labs' Atlas.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=CDUclXojmDg",
-          "artworkUrl": "https://i.ytimg.com/vi/CDUclXojmDg/hqdefault.jpg"
         }
       ]
     },
@@ -236,11 +236,11 @@
       "color": "#0891b2",
       "episodes": [
         {
-          "title": "Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP",
+          "title": "Orbs: Shifting Coding to Cloud — Quinn Slack, Amp Code",
           "guest": null,
           "date": "2026-09-07T14:00:06+00:00",
-          "description": "Sponsorship and business inquiries: business@latent.space",
-          "descriptionCN": "Sponsorship and business inquiries: business@latent.space",
+          "description": "swyx catchs up with Quinn Slack, CEO of Amp, discusses how the company has fundamentally changed software development by embracing AI agents and removing traditional processes like mandatory code reviews (7:03).\nKey Takeaways from the Discussion:\nThe Shift to Cloud-Based Development: Quinn argues that local development is effectively dead. AMP uses \"orbs\"—sandboxed environments running in the cloud—which allow for greater parallelism, security, and zero friction, enabling developers to work on multiple tasks at once without hardware limitations (1:49 - 2:07, 19:48).\nThe End of Mandatory Code Review: Because AMP uses a highly trusted, small, and accountable team, they have eliminated mandatory code reviews. They favor a \"meantime before recovery\" approach, which allows them to ship fixes in minutes rather than waiting for lengthy review processes (7:03 - 8:17).\nMini-Apps and Personalizable Software: Quinn explains that AI agents act as the \"ultimate settings screen.\" Instead of building complex off-the-shelf software with rigid configurations, AMP focuses on building ad-hoc, forkable software (\"jellyware\") that can be customized via code and agents by the end user (10:10 - 13:30, 32:04).\nOperational Efficiency: AMP uses agents not just for coding but for operational tasks, such as staging complex data migrations and monitoring production logs, which reduces the need for constant human oversight (14:45 - 17:00).\nCompany Philosophy: Quinn reflects on the advantages of staying a small, profitable \"SWAT team\" of 20 people. He argues that in the era of AI, the overhead of large teams (like hiring massive numbers of PMs or marketers) is becoming unnecessary, allowing for a focus on high-quality, high-agency work (29:45 - 31:36).\nTimestamps\n0:00 Introduction and team culture\n1:15 The shift to AMP and the new 'orb' model\n2:45 The death of local development environments\n7:03 Moving past mandatory code review\n8:43 Personalizable end-user software and dashboards\n11:15 The legacy of Sandstorm and personal clouds\n14:45 AI agents for operational tasks and migrations\n17:00 Security implications of cloud-based development\n20:29 Moving away from GitHub and legacy platforms\n23:36 The future of CI/CD and automated testing\n28:34 Founder insights: spinning off AMP and lean teams\n31:56 Building with agents: marketing and product automation\n34:56 The new open source: jellyware and portable workflows\n38:50 Final thoughts on the future of small, high-agency teams\n\"If you're not nudging them, yanking them to be on the frontier with you, then 3 months later, they're going to say, 'Hey, who are these fools in their product? It's obsolete.'\" (2:35)\n\"Local dev in our opinion is dead.\" (3:27)\n\"Mandatory code review before it gets to main is dead.\" (7:05)\n\"An agent is the ultimate settings screen for any software.\" (10:24)\n\"Coding SaaS will be the last SaaS in the world because all the other SaaS will just be buildable via coding SaaS.\" (23:23)\nSponsorship and business inquiries: business@latent.space",
+          "descriptionCN": "swyx catchs up with Quinn Slack, CEO of Amp, discusses how the company has fundamentally changed software development by embracing AI agents and removing traditional processes like mandatory code reviews (7:03).\nKey Takeaways from the Discussion:\nThe Shift to Cloud-Based Development: Quinn argues that local development is effectively dead. AMP uses \"orbs\"—sandboxed environments running in the cloud—which allow for greater parallelism, security, and zero friction, enabling developers to work on multiple tasks at once without hardware limitations (1:49 - 2:07, 19:48).\nThe End of Mandatory Code Review: Because AMP uses a highly trusted, small, and accountable team, they have eliminated mandatory code reviews. They favor a \"meantime before recovery\" approach, which allows them to ship fixes in minutes rather than waiting for lengthy review processes (7:03 - 8:17).\nMini-Apps and Personalizable Software: Quinn explains that AI agents act as the \"ultimate settings screen.\" Instead of building complex off-the-shelf software with rigid configurations, AMP focuses on building ad-hoc, forkable software (\"jellyware\") that can be customized via code and agents by the end user (10:10 - 13:30, 32:04).\nOperational Efficiency: AMP uses agents not just for coding but for operational tasks, such as staging complex data migrations and monitoring production logs, which reduces the need for constant human oversight (14:45 - 17:00).\nCompany Philosophy: Quinn reflects on the advantages of staying a small, profitable \"SWAT team\" of 20 people. He argues that in the era of AI, the overhead of large teams (like hiring massive numbers of PMs or marketers) is becoming unnecessary, allowing for a focus on high-quality, high-agency work (29:45 - 31:36).\nTimestamps\n0:00 Introduction and team culture\n1:15 The shift to AMP and the new 'orb' model\n2:45 The death of local development environments\n7:03 Moving past mandatory code review\n8:43 Personalizable end-user software and dashboards\n11:15 The legacy of Sandstorm and personal clouds\n14:45 AI agents for operational tasks and migrations\n17:00 Security implications of cloud-based development\n20:29 Moving away from GitHub and legacy platforms\n23:36 The future of CI/CD and automated testing\n28:34 Founder insights: spinning off AMP and lean teams\n31:56 Building with agents: marketing and product automation\n34:56 The new open source: jellyware and portable workflows\n38:50 Final thoughts on the future of small, high-agency teams\n\"If you're not nudging them, yanking them to be on the frontier with you, then 3 months later, they're going to say, 'Hey, who are these fools in their product? It's obsolete.'\" (2:35)\n\"Local dev in our opinion is dead.\" (3:27)\n\"Mandatory code review before it gets to main is dead.\" (7:05)\n\"An agent is the ultimate settings screen for any software.\" (10:24)\n\"Coding SaaS will be the last SaaS in the world because all the other SaaS will just be buildable via coding SaaS.\" (23:23)\nSponsorship and business inquiries: business@latent.space",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=hvwtHZ5E27c",
           "artworkUrl": "https://i.ytimg.com/vi/hvwtHZ5E27c/hqdefault.jpg"
@@ -384,6 +384,16 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "How two guys built a $300M horse empire",
+          "guest": null,
+          "date": "2026-09-10T19:36:25+00:00",
+          "description": "How two guys built a $300M horse empire",
+          "descriptionCN": "How two guys built a $300M horse empire",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=qaUg6bXSVog",
+          "artworkUrl": "https://i.ytimg.com/vi/qaUg6bXSVog/hqdefault.jpg"
+        },
+        {
           "title": "She makes $250k/year running perfume tours in NYC",
           "guest": null,
           "date": "2026-09-09T22:00:00+00:00",
@@ -432,16 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=vTIATn9tjgI",
           "artworkUrl": "https://i.ytimg.com/vi/vTIATn9tjgI/hqdefault.jpg"
-        },
-        {
-          "title": "Don't launch an ecom brand in 2026 before watching this",
-          "guest": null,
-          "date": "2026-09-07T12:35:32+00:00",
-          "description": "*$1M+ problems worth solving (90+ business ideas):*\nEpisode 859: Shaan Puri (  ) talks to Danny Yeung (  ) about how he built a $200M business in 18 months.\nShow Notes:\n(0:00) Intro\n(3:05) COVID losses\n(5:01) Meeting David Beckham\n(6:48) IM8\n(8:32) Hitting $100M in 11 months\n(17:05) This supplement works\n(25:20) Producing 200 offline events\n(27:45) Dropping out of high school\n(28:17) Telemarketing skills\n(37:45) COVID testing success\n(47:55) Asking AI about IM8",
-          "descriptionCN": "*$1M+ problems worth solving (90+ business ideas):*\nEpisode 859: Shaan Puri (  ) talks to Danny Yeung (  ) about how he built a $200M business in 18 months.\nShow Notes:\n(0:00) Intro\n(3:05) COVID losses\n(5:01) Meeting David Beckham\n(6:48) IM8\n(8:32) Hitting $100M in 11 months\n(17:05) This supplement works\n(25:20) Producing 200 offline events\n(27:45) Dropping out of high school\n(28:17) Telemarketing skills\n(37:45) COVID testing success\n(47:55) Asking AI about IM8",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=gHUMarocxy4",
-          "artworkUrl": "https://i.ytimg.com/vi/gHUMarocxy4/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,16 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "Where Does the Money Actually Go in AI? - Dylan Patel",
+          "guest": null,
+          "date": "2026-09-10T21:52:53+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=3x13g2_lfWA",
+          "artworkUrl": "https://i.ytimg.com/vi/3x13g2_lfWA/hqdefault.jpg"
+        },
         {
           "title": "The AI agents that breached OpenAI got caught for one reason - Ajeya Cotra",
           "guest": null,
@@ -506,16 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=XWdMujl4QLs",
           "artworkUrl": "https://i.ytimg.com/vi/XWdMujl4QLs/hqdefault.jpg"
-        },
-        {
-          "title": "AI Agents Hacked Hugging Face to Cover Up Cheating",
-          "guest": null,
-          "date": "2026-09-02T21:01:40+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=Loa0UXWnY68",
-          "artworkUrl": "https://i.ytimg.com/vi/Loa0UXWnY68/hqdefault.jpg"
         }
       ]
     },
@@ -680,6 +680,16 @@
       "color": "#16a34a",
       "episodes": [
         {
+          "title": "If you’re ambitious but inconsistent, please watch this",
+          "guest": null,
+          "date": "2026-09-10T16:07:48+00:00",
+          "description": "Get 1 month of Wispr Flow Pro completely free here 👉\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I'm reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "Get 1 month of Wispr Flow Pro completely free here 👉\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I'm reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=K8AMhj-ImMI",
+          "artworkUrl": "https://i.ytimg.com/vi/K8AMhj-ImMI/hqdefault.jpg"
+        },
+        {
           "title": "How to make your first $1,000 online",
           "guest": null,
           "date": "2026-09-07T16:00:22+00:00",
@@ -728,16 +738,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=fEMHMd7fovM",
           "artworkUrl": "https://i.ytimg.com/vi/fEMHMd7fovM/hqdefault.jpg"
-        },
-        {
-          "title": "Focus on one thing per quarter to succeed faster - click link in bio for my new app :)",
-          "guest": null,
-          "date": "2026-08-15T07:00:01+00:00",
-          "description": "What would happen if you committed to one thing for the next 90 days?\nMost of us into personal development have goals scattered in every direction:\n👉 Progress in the day job\n👉 Progress in the side hustle\n👉Better health\n👉 More present with the family\n👉 A creative hobby\n👉 Growing a personal brand\nThe problem is we make a tiny amount of progress in each direction.\nBut if we pick one thing, the one most important, needle-moving thing, and make that our primary focus for 90 days, we can make absolutely enormous progress in that one area 🚀\nLoads of people have talked about this: Gary Keller in The One Thing (@the1thingbook). @gregorymckeown in Essentialism. @cal.newport in Slow Productivity.\nSo ask yourself: if everything else stayed the same, what's the one area where a concerted effort would have the most needle-moving impact over the next 90 days?\nThen carve out the time to just do that one thing.\nIf you want help protecting that time, my team and I have an app called Superfocus that helps you stay focused on your goals and make progress each week.\nClick the link in my bio to join as a founding member :)",
-          "descriptionCN": "What would happen if you committed to one thing for the next 90 days?\nMost of us into personal development have goals scattered in every direction:\n👉 Progress in the day job\n👉 Progress in the side hustle\n👉Better health\n👉 More present with the family\n👉 A creative hobby\n👉 Growing a personal brand\nThe problem is we make a tiny amount of progress in each direction.\nBut if we pick one thing, the one most important, needle-moving thing, and make that our primary focus for 90 days, we can make absolutely enormous progress in that one area 🚀\nLoads of people have talked about this: Gary Keller in The One Thing (@the1thingbook). @gregorymckeown in Essentialism. @cal.newport in Slow Productivity.\nSo ask yourself: if everything else stayed the same, what's the one area where a concerted effort would have the most needle-moving impact over the next 90 days?\nThen carve out the time to just do that one thing.\nIf you want help protecting that time, my team and I have an app called Superfocus that helps you stay focused on your goals and make progress each week.\nClick the link in my bio to join as a founding member :)",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=waDtXRCShCg",
-          "artworkUrl": "https://i.ytimg.com/vi/waDtXRCShCg/hqdefault.jpg"
         }
       ]
     },
@@ -753,6 +753,16 @@
       "youtube": "https://www.youtube.com/@GregIsenberg",
       "color": "#ea580c",
       "episodes": [
+        {
+          "title": "GPT-6 Astra: How I’d Make Money With It",
+          "guest": null,
+          "date": "2026-09-10T18:11:19+00:00",
+          "description": "I talk with Ras Mic about GPT-6 Astra. We skip the game demos and the 3D toys, and we focus on use cases to earn money or improve products. I share 9 Astra prompts that I posted publicly, and Greg Brockman reposted. Ras then shows his hardware project: he moved from a speaker idea to a parts list, a Blender layout, and merged code in about 30 minutes. The takeaway is simple: use this model for the ideas that felt too large for you last year.\nTimestamps\n00:00 – Intro\n01:53 – Astra Overview\n04:14 – 9 Astra Prompts\n11:48 – Jarvis Speaker Idea\n16:21 – Think Bigger with Astra\n18:29 – Vibe Coding to Vibe Manufacturing\n21:16 – Closing Thoughts\nKey Points\n• Astra costs more per task, and it uses fewer steps, so the value per dollar stays high.\n• A performance audit moved one of Ras’s apps from 800 ms to 20–30 ms.\n• A security audit on his live payments app found real risks in production.\n• Ras went from a speaker idea to a $561 parts order and a merged pull request in about 30 minutes.\n• Ras’s point: intelligence keeps climbing, and bravery stays flat. Ask for bigger things.\n• The shift that vibe coding brought to software now reaches physical products.\nNumbered Section Summaries\n1. Why This Review Skips the Demos Ras opens with the reason for this format. The viral Astra clips show games and 3D scenes, and those stay fun to watch. We spend the episode on work that pays: better code, better products, and new businesses.\n2. Price, Speed, and Two Audits Astra sits at OpenAI's top price and matches Fable. A Codex subscription covers most of that cost today, and the model finishes tasks in fewer steps. Ras recommends two prompts for any live app: a full performance review, and a security audit.\n3. Reference Images and Computer Use Ras gets his best UI results when he gives Astra a reference image, and he used the old Microsoft XP network icon for one design. He also rates the computer-use ability highly. He pointed Codex at the Canada Revenue Agency site, and it found pages that Google search missed.\n4. Nine Prompts I Posted I share the prompt list from my post that Greg Brockman reposted. The first three serve solo operators: a bill renegotiator that talks to provider chat support, a service-business teardown that turns an agency workflow into a $500–$5,000 per month software product, and a marketplace watcher that texts me every underpriced listing in my city.\n5. Agents for Operations and Growth The next six prompts run a company. A weekly operator dashboard reads my docs, Stripe exports, and calls, then names the three highest-leverage actions. An agent-opportunity audit ranks tasks by human hours saved within 30 days. A browser operator returns an SOP, a nightly QA agent opens my app on a real phone, a competitor agent reports monthly, and a browser game captures leads for the core product.\n6. Ras’s AI Speaker Project Was likes the HomePod hardware and wants his own agent inside it. Jailbreaking stayed closed to him, so he asked Astra to design a build. Astra connected to Blender, modeled the speaker, specified a Raspberry Pi build, and set a $350–$450 budget before tax.\n7. From Blender Layout to a Merged PR Astra returned Amazon.ca links totaling $561 before tax, and Ras bought the parts. It then rendered the wiring layout in Blender, named Chinese suppliers for the shell, wrote the loader code for his agent repo, and opened a pull request. Ras merged it, and the whole path took about half an hour.\n8. Vibe Manufacturing and Subsidized Intelligence I compare this moment to 2024, when Lovable, Bolt, Replit, and v0 turned everyone into a vibe coder. I expect thousands of one-million-dollar-per-year businesses from the physical version of that shift. Ras closes with the economics: his agent counted more than $24,000 of model use in one week against a pair of $200 subscriptions.\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:\nFIND MIC ON SOCIAL\nX/Twitter:\nYoutube:",
+          "descriptionCN": "I talk with Ras Mic about GPT-6 Astra. We skip the game demos and the 3D toys, and we focus on use cases to earn money or improve products. I share 9 Astra prompts that I posted publicly, and Greg Brockman reposted. Ras then shows his hardware project: he moved from a speaker idea to a parts list, a Blender layout, and merged code in about 30 minutes. The takeaway is simple: use this model for the ideas that felt too large for you last year.\nTimestamps\n00:00 – Intro\n01:53 – Astra Overview\n04:14 – 9 Astra Prompts\n11:48 – Jarvis Speaker Idea\n16:21 – Think Bigger with Astra\n18:29 – Vibe Coding to Vibe Manufacturing\n21:16 – Closing Thoughts\nKey Points\n• Astra costs more per task, and it uses fewer steps, so the value per dollar stays high.\n• A performance audit moved one of Ras’s apps from 800 ms to 20–30 ms.\n• A security audit on his live payments app found real risks in production.\n• Ras went from a speaker idea to a $561 parts order and a merged pull request in about 30 minutes.\n• Ras’s point: intelligence keeps climbing, and bravery stays flat. Ask for bigger things.\n• The shift that vibe coding brought to software now reaches physical products.\nNumbered Section Summaries\n1. Why This Review Skips the Demos Ras opens with the reason for this format. The viral Astra clips show games and 3D scenes, and those stay fun to watch. We spend the episode on work that pays: better code, better products, and new businesses.\n2. Price, Speed, and Two Audits Astra sits at OpenAI's top price and matches Fable. A Codex subscription covers most of that cost today, and the model finishes tasks in fewer steps. Ras recommends two prompts for any live app: a full performance review, and a security audit.\n3. Reference Images and Computer Use Ras gets his best UI results when he gives Astra a reference image, and he used the old Microsoft XP network icon for one design. He also rates the computer-use ability highly. He pointed Codex at the Canada Revenue Agency site, and it found pages that Google search missed.\n4. Nine Prompts I Posted I share the prompt list from my post that Greg Brockman reposted. The first three serve solo operators: a bill renegotiator that talks to provider chat support, a service-business teardown that turns an agency workflow into a $500–$5,000 per month software product, and a marketplace watcher that texts me every underpriced listing in my city.\n5. Agents for Operations and Growth The next six prompts run a company. A weekly operator dashboard reads my docs, Stripe exports, and calls, then names the three highest-leverage actions. An agent-opportunity audit ranks tasks by human hours saved within 30 days. A browser operator returns an SOP, a nightly QA agent opens my app on a real phone, a competitor agent reports monthly, and a browser game captures leads for the core product.\n6. Ras’s AI Speaker Project Was likes the HomePod hardware and wants his own agent inside it. Jailbreaking stayed closed to him, so he asked Astra to design a build. Astra connected to Blender, modeled the speaker, specified a Raspberry Pi build, and set a $350–$450 budget before tax.\n7. From Blender Layout to a Merged PR Astra returned Amazon.ca links totaling $561 before tax, and Ras bought the parts. It then rendered the wiring layout in Blender, named Chinese suppliers for the shell, wrote the loader code for his agent repo, and opened a pull request. Ras merged it, and the whole path took about half an hour.\n8. Vibe Manufacturing and Subsidized Intelligence I compare this moment to 2024, when Lovable, Bolt, Replit, and v0 turned everyone into a vibe coder. I expect thousands of one-million-dollar-per-year businesses from the physical version of that shift. Ras closes with the economics: his agent counted more than $24,000 of model use in one week against a pair of $200 subscriptions.\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:\nFIND MIC ON SOCIAL\nX/Twitter:\nYoutube:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=nglqTHwuZ-8",
+          "artworkUrl": "https://i.ytimg.com/vi/nglqTHwuZ-8/hqdefault.jpg"
+        },
         {
           "title": "I'm Obsessed With Local AI. Here's Why",
           "guest": null,
@@ -802,16 +812,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=qQluNEfSVHk",
           "artworkUrl": "https://i.ytimg.com/vi/qQluNEfSVHk/hqdefault.jpg"
-        },
-        {
-          "title": "How I Use Skills + AI Agents to Run My Life",
-          "guest": null,
-          "date": "2026-08-19T20:00:27+00:00",
-          "description": "Get Your Complete Financial OS at\nI talk with Remy, known online as AI with Remy, about agent skills and how to share them across a whole team. Remy explains that a skill is an SOP for AI: a markdown file that teaches Claude your exact way to do a task. He then shows his system. He keeps his team skills in one GitHub repository, and he installs that repository as a plugin in Claude Code and Codex. The result is one source of truth, automatic updates for everyone, version control, and company ownership of the work. Listen to this episode if you run daily tasks with agents and you want your whole team to get the same quality of output.\nRemy’s prompt + skill setup:\nTimestamps\n00:00 – Intro\n02:33 – Skills as SOPs for AI\n04:27 – How the agent uses skills\n05:13 – AI is single player\n06:21 – Example Skills: Notion, Brand Voice, Email\n08:07 – How to share skills\n11:40 – What is a Plugin?\n14:58 – Anatomy of a Plugin\n15:30 – Version Control and Rollback\n16:58 – A Second Repo for Personal Skills\n18:29 – The Day Claude Deleted 150 Skills\n20:02 – Skills as Company Assets\n21:00 – A Web App on Top of the Repo\n24:46 – How Many Skills to Build\n27:00 – The Self-Improvement Loop\n28:15 – Skill Maxxing\n30:40 – Closing Thoughts\nKey Points\n• A skill is a markdown SOP that teaches an agent your exact way to do a task.\n• Most skills sit on one laptop, so a great process stays with one person.\n• A GitHub repo plus a plugin gives the team one source of truth for every skill.\n• Auto-update sends each skill edit to every teammate in Claude Code and Codex.\n• A company-owned repo keeps the skills when a teammate moves on.\n• Remy builds thin agents and thick skills, so any harness can run the same process.\nNumbered Section Summaries\n1. Skills as SOPs for AI\nRemy defines a skill as a markdown file that holds your full process, in the same way an SOP holds a process for an employee. He asks Claude for a sponsorship proposal, and Claude finds the proposal skill and produces a branded document in one shot. This matters because the model keeps your preferences from week to week.\n2. The Microsoft Word Era of Skills\nRemy compares today's skills to documents in the early Microsoft Word years: each file lives on one machine, and copies spread by email. Google Docs solved that with one shared file. Skills wait for the same shift, and that gap is the theme of the episode.\n3. Skills Worth Sharing\nHe shows three skills from a single week: Notion formatting, AI with Remy brand voice, and email formatting for Resend. Each one captures a look and a standard that he wants across the whole team. Shared skills keep the output consistent, whoever runs the task.\n4. Early Sharing Methods and Their Limits\nRemy walks through zip files on Slack, Google Drive, Dropbox, and Obsidian. Each method leaves duplicate copies, and Claude reads skills only from its own `.claude/skills` folder, so these setups need symlinks and manual repair. Technical teams cope with that; a junior marketer needs something simpler.\n5. From Repo to Plugin\nThe answer is a GitHub repo of team skills, grouped by department, installed as a plugin. In Claude Code you run `/plugin`, add the repo URL as a marketplace, and install the plugins you need. A few JSON files turn the repo into a plugin, and Remy had Claude write those for him.\n6. Distribution, Updates, and Ownership\nWith auto-update switched on, one edit reaches every teammate's Claude and Codex. Git history allows a rollback to any earlier version of a skill. The repo sits inside the company GitHub organization, so the business keeps the skills as an asset, and Enterprise accounts can push the plugin to everyone automatically.\n7. A UI, a Skills Assistant, and Usage Data\nHe built a web app that reads live from the team repo. It maps how skills call each other, such as a YouTube publish workflow that runs titles, thumbnails, and descriptions in sequence. An ask box recommends the right skill for a job, and a new hook counts each skill run per person, which shows the busy skills and the idle ones.\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI:\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:\nFIND REMY ON SOCIAL\nX:\nYoutube:\nAI with Remy:",
-          "descriptionCN": "Get Your Complete Financial OS at\nI talk with Remy, known online as AI with Remy, about agent skills and how to share them across a whole team. Remy explains that a skill is an SOP for AI: a markdown file that teaches Claude your exact way to do a task. He then shows his system. He keeps his team skills in one GitHub repository, and he installs that repository as a plugin in Claude Code and Codex. The result is one source of truth, automatic updates for everyone, version control, and company ownership of the work. Listen to this episode if you run daily tasks with agents and you want your whole team to get the same quality of output.\nRemy’s prompt + skill setup:\nTimestamps\n00:00 – Intro\n02:33 – Skills as SOPs for AI\n04:27 – How the agent uses skills\n05:13 – AI is single player\n06:21 – Example Skills: Notion, Brand Voice, Email\n08:07 – How to share skills\n11:40 – What is a Plugin?\n14:58 – Anatomy of a Plugin\n15:30 – Version Control and Rollback\n16:58 – A Second Repo for Personal Skills\n18:29 – The Day Claude Deleted 150 Skills\n20:02 – Skills as Company Assets\n21:00 – A Web App on Top of the Repo\n24:46 – How Many Skills to Build\n27:00 – The Self-Improvement Loop\n28:15 – Skill Maxxing\n30:40 – Closing Thoughts\nKey Points\n• A skill is a markdown SOP that teaches an agent your exact way to do a task.\n• Most skills sit on one laptop, so a great process stays with one person.\n• A GitHub repo plus a plugin gives the team one source of truth for every skill.\n• Auto-update sends each skill edit to every teammate in Claude Code and Codex.\n• A company-owned repo keeps the skills when a teammate moves on.\n• Remy builds thin agents and thick skills, so any harness can run the same process.\nNumbered Section Summaries\n1. Skills as SOPs for AI\nRemy defines a skill as a markdown file that holds your full process, in the same way an SOP holds a process for an employee. He asks Claude for a sponsorship proposal, and Claude finds the proposal skill and produces a branded document in one shot. This matters because the model keeps your preferences from week to week.\n2. The Microsoft Word Era of Skills\nRemy compares today's skills to documents in the early Microsoft Word years: each file lives on one machine, and copies spread by email. Google Docs solved that with one shared file. Skills wait for the same shift, and that gap is the theme of the episode.\n3. Skills Worth Sharing\nHe shows three skills from a single week: Notion formatting, AI with Remy brand voice, and email formatting for Resend. Each one captures a look and a standard that he wants across the whole team. Shared skills keep the output consistent, whoever runs the task.\n4. Early Sharing Methods and Their Limits\nRemy walks through zip files on Slack, Google Drive, Dropbox, and Obsidian. Each method leaves duplicate copies, and Claude reads skills only from its own `.claude/skills` folder, so these setups need symlinks and manual repair. Technical teams cope with that; a junior marketer needs something simpler.\n5. From Repo to Plugin\nThe answer is a GitHub repo of team skills, grouped by department, installed as a plugin. In Claude Code you run `/plugin`, add the repo URL as a marketplace, and install the plugins you need. A few JSON files turn the repo into a plugin, and Remy had Claude write those for him.\n6. Distribution, Updates, and Ownership\nWith auto-update switched on, one edit reaches every teammate's Claude and Codex. Git history allows a rollback to any earlier version of a skill. The repo sits inside the company GitHub organization, so the business keeps the skills as an asset, and Enterprise accounts can push the plugin to everyone automatically.\n7. A UI, a Skills Assistant, and Usage Data\nHe built a web app that reads live from the team repo. It maps how skills call each other, such as a YouTube publish workflow that runs titles, thumbnails, and descriptions in sequence. An ask box recommends the right skill for a job, and a new hook counts each skill run per person, which shows the busy skills and the idle ones.\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI:\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:\nFIND REMY ON SOCIAL\nX:\nYoutube:\nAI with Remy:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=xHsftiyT9pQ",
-          "artworkUrl": "https://i.ytimg.com/vi/xHsftiyT9pQ/hqdefault.jpg"
         }
       ]
     }
