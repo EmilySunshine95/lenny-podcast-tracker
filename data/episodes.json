@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-16T01:04:45.930Z",
+  "lastFetched": "2026-09-17T01:05:01.043Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -162,6 +162,16 @@
       "color": "#0ea5e9",
       "episodes": [
         {
+          "title": "Trump Rails Against AI Slowdown \"Hoax\"",
+          "guest": null,
+          "date": "2026-09-16T15:00:31+00:00",
+          "description": "Trump posts seven times on Truth Social calling AI extinction risk a hoax on par with global warming, while Jensen Huang calls doom predictions irresponsible and takes a surprise call from the Oval Office live on stage. NLW tracks how the pacing debate turned partisan almost overnight, with Obama launching Project Blueprint and Democrats lining up behind slowdown. In the headlines: 25 Fields medalists object to AI companies racing through open math problems, a Census study on AI-exposed graduates, and ZAI raising $5 billion to build a self-training loop.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "Trump posts seven times on Truth Social calling AI extinction risk a hoax on par with global warming, while Jensen Huang calls doom predictions irresponsible and takes a surprise call from the Oval Office live on stage. NLW tracks how the pacing debate turned partisan almost overnight, with Obama launching Project Blueprint and Democrats lining up behind slowdown. In the headlines: 25 Fields medalists object to AI companies racing through open math problems, a Census study on AI-exposed graduates, and ZAI raising $5 billion to build a self-training loop.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=5vh1Vr3QSCY",
+          "artworkUrl": "https://i.ytimg.com/vi/5vh1Vr3QSCY/hqdefault.jpg"
+        },
+        {
           "title": "AI Companies Begin to Align Around Slowdown",
           "guest": null,
           "date": "2026-09-15T02:08:16+00:00",
@@ -210,16 +220,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=Wqz2yyUCtiw",
           "artworkUrl": "https://i.ytimg.com/vi/Wqz2yyUCtiw/hqdefault.jpg"
-        },
-        {
-          "title": "The Multiplayer AI Sprint: Build Your Team’s First Shared Agent",
-          "guest": null,
-          "date": "2026-09-07T12:05:51+00:00",
-          "description": "AI agents have transformed how individuals work, but the next leap is moving them into the shared spaces where teams actually collaborate. In this episode, NLW explores how Anthropic, Every, OpenClaw and others are shifting from single-player AI to shared agents—and launches the Multiplayer AI Sprint for Teams, the latest free AIDB learning program. The four-part, self-directed sprint helps teams assess their current AI use, build shared context, identify collaborative workflows and put their first multiplayer agent to work.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "AI agents have transformed how individuals work, but the next leap is moving them into the shared spaces where teams actually collaborate. In this episode, NLW explores how Anthropic, Every, OpenClaw and others are shifting from single-player AI to shared agents—and launches the Multiplayer AI Sprint for Teams, the latest free AIDB learning program. The four-part, self-directed sprint helps teams assess their current AI use, build shared context, identify collaborative workflows and put their first multiplayer agent to work.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=1BqWLLkJym0",
-          "artworkUrl": "https://i.ytimg.com/vi/1BqWLLkJym0/hqdefault.jpg"
         }
       ]
     },
@@ -235,6 +235,16 @@
       "youtube": "https://www.youtube.com/@LatentSpacePod",
       "color": "#0891b2",
       "episodes": [
+        {
+          "title": "The Watchdogs of AGI — Rune Kvist of AI Underwriting Company",
+          "guest": null,
+          "date": "2026-09-16T18:01:13+00:00",
+          "description": "From their seed led by Nat Friedman and Dan Gross, AIUC has now announced a monster $40M Series A! From being Anthropic’s first product hire to building the standards, testing, and insurance infrastructure meant to make frontier AI deployable, Rune Kvist is betting that the biggest constraint on AI adoption won’t be capability — it will be trust. In this episode, the AIUC cofounder joins swyx and Vibhu to announce a new $40M round and explain why companies like Cursor, Harvey, Lovable, and ElevenLabs are increasingly confronting a problem that gets harder as AI gets better: who is responsible when autonomous systems fail?\nWe go deep on AIUC-1, the emerging standard for agent security, safety, and reliability; how AI agents are stress-tested for jailbreaks, hallucinations, and data leaks; and why Rune thinks standards and insurance could become critical infrastructure for AI. We also discuss the growing trust gap between governments and frontier labs, AI-enabled cyber and biological risks, why every model can ultimately be jailbroken, what happens when a $20 coding agent causes $200M of damage, whether AI engineers should be certified, and why even after AGI there may be one job the labs can never do themselves: be their own watchdog.\nWe discuss:\n• Why risk, liability, and trust may become the binding constraint on AI adoption\n• Rune’s path from reading the Scaling Laws paper to joining Anthropic in its earliest days\n• What Anthropic understood about scaling, compute, and the future years before it became obvious\n• Why Waymo illustrates the gap between AI capability and real-world deployment\n• AIUC’s $40M round and work with Cursor, Harvey, Lovable, ElevenLabs, and other frontier AI companies\n• AIUC-1: a standard for AI agent security, safety, and reliability\n• How agents are tested for jailbreaks, hallucinations, data leakage, and other failures\n• Why most AI companies optimize the happy path without seriously stress-testing adversarial cases\n• Why AI standards may need to update every quarter instead of every decade\n• The emerging trust gap between frontier AI labs and governments\n• Cybersecurity, child safety, biological weapons, and the expanding frontier-model risk surface\n• Why standards and insurance may need to evolve together\n• How Lloyd’s of London can insure AI systems and bring trust to enterprise deployment\n• What happens if a $20 Cursor subscription contributes to a $200M plane crash\n• The Air Canada chatbot case and how AI failures are beginning to clarify legal liability\n• Why copyright may be one of the hardest AI risks to insure\n• Evals, mechanistic interpretability, monitoring, and models becoming aware that they’re being tested\n• The impossible CISO mandate: adopt AI fast, but don’t let anything go wrong\n• Why robotics will make AI liability dramatically more consequential\n• Whether AI engineers should have Level 1, 2, and 3 certifications\n• AIUC’s roadmap across agents, frontier models, robotics, and universal red teaming\n• Why AGI could become a question of national sovereignty\n• Why the labs can never fully serve as their own watchdogs\n• The Big Short problem: how do you stop competing watchdogs from racing standards to the bottom?\nRune Kvist\n• LinkedIn:\n• X: [\nAIUC\nTimestamps\n00:00:00 Hook\n00:01:29 AIUC’s $40M Round and the Risk Bottleneck for AI\n00:02:36 From Scaling Laws to Early Anthropic\n00:09:27 Why Trust, Not Capability, Could Limit AI Adoption\n00:13:48 Founding AIUC and Building AIUC-1\n00:20:21 How AI Agents Are Audited and Stress-Tested\n00:26:55 Frontier Models, Government, and the AI Trust Gap\n00:35:01 Cyber, Child Safety, and AI-Enabled Biological Risk\n00:39:43 Why Standards and Insurance Belong Together\n00:43:14 What Does an AI Insurance Policy Actually Cover?\n00:52:13 The $20 Cursor Subscription and the $200M Plane Crash\n00:55:22 AI Liability, Monitoring, and Earning Enterprise Trust\n00:57:50 From AI Agents to Models to Robotics\n00:59:58 Copyright, Adverse Selection, and AI Insurance\n01:04:57 Evals, Mechanistic Interpretability, and Eval Awareness\n01:10:05 The Impossible Enterprise AI Mandate\n01:13:21 Prediction Markets vs. AI Audits\n01:16:12 Should AI Engineers Be Certified?\n01:20:39 AIUC’s Roadmap, AGI, and Who Watches the Watchdogs?\nSponsorship and business inquiries: business@latent.space",
+          "descriptionCN": "From their seed led by Nat Friedman and Dan Gross, AIUC has now announced a monster $40M Series A! From being Anthropic’s first product hire to building the standards, testing, and insurance infrastructure meant to make frontier AI deployable, Rune Kvist is betting that the biggest constraint on AI adoption won’t be capability — it will be trust. In this episode, the AIUC cofounder joins swyx and Vibhu to announce a new $40M round and explain why companies like Cursor, Harvey, Lovable, and ElevenLabs are increasingly confronting a problem that gets harder as AI gets better: who is responsible when autonomous systems fail?\nWe go deep on AIUC-1, the emerging standard for agent security, safety, and reliability; how AI agents are stress-tested for jailbreaks, hallucinations, and data leaks; and why Rune thinks standards and insurance could become critical infrastructure for AI. We also discuss the growing trust gap between governments and frontier labs, AI-enabled cyber and biological risks, why every model can ultimately be jailbroken, what happens when a $20 coding agent causes $200M of damage, whether AI engineers should be certified, and why even after AGI there may be one job the labs can never do themselves: be their own watchdog.\nWe discuss:\n• Why risk, liability, and trust may become the binding constraint on AI adoption\n• Rune’s path from reading the Scaling Laws paper to joining Anthropic in its earliest days\n• What Anthropic understood about scaling, compute, and the future years before it became obvious\n• Why Waymo illustrates the gap between AI capability and real-world deployment\n• AIUC’s $40M round and work with Cursor, Harvey, Lovable, ElevenLabs, and other frontier AI companies\n• AIUC-1: a standard for AI agent security, safety, and reliability\n• How agents are tested for jailbreaks, hallucinations, data leakage, and other failures\n• Why most AI companies optimize the happy path without seriously stress-testing adversarial cases\n• Why AI standards may need to update every quarter instead of every decade\n• The emerging trust gap between frontier AI labs and governments\n• Cybersecurity, child safety, biological weapons, and the expanding frontier-model risk surface\n• Why standards and insurance may need to evolve together\n• How Lloyd’s of London can insure AI systems and bring trust to enterprise deployment\n• What happens if a $20 Cursor subscription contributes to a $200M plane crash\n• The Air Canada chatbot case and how AI failures are beginning to clarify legal liability\n• Why copyright may be one of the hardest AI risks to insure\n• Evals, mechanistic interpretability, monitoring, and models becoming aware that they’re being tested\n• The impossible CISO mandate: adopt AI fast, but don’t let anything go wrong\n• Why robotics will make AI liability dramatically more consequential\n• Whether AI engineers should have Level 1, 2, and 3 certifications\n• AIUC’s roadmap across agents, frontier models, robotics, and universal red teaming\n• Why AGI could become a question of national sovereignty\n• Why the labs can never fully serve as their own watchdogs\n• The Big Short problem: how do you stop competing watchdogs from racing standards to the bottom?\nRune Kvist\n• LinkedIn:\n• X: [\nAIUC\nTimestamps\n00:00:00 Hook\n00:01:29 AIUC’s $40M Round and the Risk Bottleneck for AI\n00:02:36 From Scaling Laws to Early Anthropic\n00:09:27 Why Trust, Not Capability, Could Limit AI Adoption\n00:13:48 Founding AIUC and Building AIUC-1\n00:20:21 How AI Agents Are Audited and Stress-Tested\n00:26:55 Frontier Models, Government, and the AI Trust Gap\n00:35:01 Cyber, Child Safety, and AI-Enabled Biological Risk\n00:39:43 Why Standards and Insurance Belong Together\n00:43:14 What Does an AI Insurance Policy Actually Cover?\n00:52:13 The $20 Cursor Subscription and the $200M Plane Crash\n00:55:22 AI Liability, Monitoring, and Earning Enterprise Trust\n00:57:50 From AI Agents to Models to Robotics\n00:59:58 Copyright, Adverse Selection, and AI Insurance\n01:04:57 Evals, Mechanistic Interpretability, and Eval Awareness\n01:10:05 The Impossible Enterprise AI Mandate\n01:13:21 Prediction Markets vs. AI Audits\n01:16:12 Should AI Engineers Be Certified?\n01:20:39 AIUC’s Roadmap, AGI, and Who Watches the Watchdogs?\nSponsorship and business inquiries: business@latent.space",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=Sc2_LfWgHb4",
+          "artworkUrl": "https://i.ytimg.com/vi/Sc2_LfWgHb4/hqdefault.jpg"
+        },
         {
           "title": "Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive",
           "guest": null,
@@ -284,16 +294,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=79mIutht1f4",
           "artworkUrl": "https://i.ytimg.com/vi/79mIutht1f4/hqdefault.jpg"
-        },
-        {
-          "title": "⏭️ Forward Deployed: Voice AI on what works in 2026",
-          "guest": null,
-          "date": "2026-08-25T18:45:32+00:00",
-          "description": "Voice agents are one of the hottest use cases in enterprise right now, but also one of the hardest to actually take live. Getting latency low enough to feel human without dumbing down the responses, making reliable tool calls to a CRM without dropping the customer mid-call, building fallback models for when your main provider goes down. None of it is as simple as the demos make it look.\nBasil Chatha hosted a fireside chat with five eng leaders who deal with this stuff every day: Basia Sudol (Head of Enterprise Solutions, Decagon), Varun Singh (CPTO, Daily), Steven Diaz (FDE Manager, Vapi), Tyler D'Silva (Founding FDE, Retell AI), and Sudarshan Kamath (Founder, Smallest AI).\nWe get into why nobody serious is shipping real-time voice-to-voice yet, why LLMs forget the middle of your prompt (and what that does to your architecture), why a giant prompt quietly destroys your unit economics, and why voice agent costs are now being compared directly against human labor.\nPlus the stuff nobody warns you about: turn-taking, HIPAA constraints, why outbound is easier than inbound, why getting an exec to actually like the voice can be harder than any model problem, and more!",
-          "descriptionCN": "Voice agents are one of the hottest use cases in enterprise right now, but also one of the hardest to actually take live. Getting latency low enough to feel human without dumbing down the responses, making reliable tool calls to a CRM without dropping the customer mid-call, building fallback models for when your main provider goes down. None of it is as simple as the demos make it look.\nBasil Chatha hosted a fireside chat with five eng leaders who deal with this stuff every day: Basia Sudol (Head of Enterprise Solutions, Decagon), Varun Singh (CPTO, Daily), Steven Diaz (FDE Manager, Vapi), Tyler D'Silva (Founding FDE, Retell AI), and Sudarshan Kamath (Founder, Smallest AI).\nWe get into why nobody serious is shipping real-time voice-to-voice yet, why LLMs forget the middle of your prompt (and what that does to your architecture), why a giant prompt quietly destroys your unit economics, and why voice agent costs are now being compared directly against human labor.\nPlus the stuff nobody warns you about: turn-taking, HIPAA constraints, why outbound is easier than inbound, why getting an exec to actually like the voice can be harder than any model problem, and more!",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=MwNvowwcZOo",
-          "artworkUrl": "https://i.ytimg.com/vi/MwNvowwcZOo/hqdefault.jpg"
         }
       ]
     },
@@ -384,6 +384,26 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "Why this billionaire didn't invest in Facebook",
+          "guest": null,
+          "date": "2026-09-16T13:03:43+00:00",
+          "description": "Why this billionaire didn't invest in Facebook",
+          "descriptionCN": "Why this billionaire didn't invest in Facebook",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=3S8XRCRXQwI",
+          "artworkUrl": "https://i.ytimg.com/vi/3S8XRCRXQwI/hqdefault.jpg"
+        },
+        {
+          "title": "17 minutes that will completely reset how you think about growing online",
+          "guest": null,
+          "date": "2026-09-16T12:30:31+00:00",
+          "description": "*Shaan's guide on how to build an audience:*\nEpisode 862: Shaan Puri (  ) teaches what it takes to build an audience in 18 minutes.\nShow Notes:\n(0:00) Intro\n(1:00) Lesson 1: Who, not how many\n(2:28) Lesson 2: What should I talk about?\n(5:03) Lesson 3: Learn the 5 Ds\n(7:12) Lesson 4: OK this is getting long. But you’re still here. Weird, right\n(7:55) Lesson 5: Don't worry about writing style or production quality\n(9:08) Lesson 6: Create a binge bank\n(10:03) Lesson 7: Feeling, not information\n(12:05) Lesson 8: “Be so good they can’t ignore you”",
+          "descriptionCN": "*Shaan's guide on how to build an audience:*\nEpisode 862: Shaan Puri (  ) teaches what it takes to build an audience in 18 minutes.\nShow Notes:\n(0:00) Intro\n(1:00) Lesson 1: Who, not how many\n(2:28) Lesson 2: What should I talk about?\n(5:03) Lesson 3: Learn the 5 Ds\n(7:12) Lesson 4: OK this is getting long. But you’re still here. Weird, right\n(7:55) Lesson 5: Don't worry about writing style or production quality\n(9:08) Lesson 6: Create a binge bank\n(10:03) Lesson 7: Feeling, not information\n(12:05) Lesson 8: “Be so good they can’t ignore you”",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=47jy_FxuuBg",
+          "artworkUrl": "https://i.ytimg.com/vi/47jy_FxuuBg/hqdefault.jpg"
+        },
+        {
           "title": "The $500K decision that made Tony Hawk millions",
           "guest": null,
           "date": "2026-09-15T16:00:04+00:00",
@@ -422,26 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=gHXTskbbKXc",
           "artworkUrl": "https://i.ytimg.com/vi/gHXTskbbKXc/hqdefault.jpg"
-        },
-        {
-          "title": "How LeBron turned his Nike contract into $300M",
-          "guest": null,
-          "date": "2026-09-11T17:51:20+00:00",
-          "description": "How LeBron turned his Nike contract into $300M",
-          "descriptionCN": "How LeBron turned his Nike contract into $300M",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=XlX1tXtFODE",
-          "artworkUrl": "https://i.ytimg.com/vi/XlX1tXtFODE/hqdefault.jpg"
-        },
-        {
-          "title": "How two guys built a $300M horse empire",
-          "guest": null,
-          "date": "2026-09-10T19:36:25+00:00",
-          "description": "How two guys built a $300M horse empire",
-          "descriptionCN": "How two guys built a $300M horse empire",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=qaUg6bXSVog",
-          "artworkUrl": "https://i.ytimg.com/vi/qaUg6bXSVog/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,16 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "What AI Will Actually Do for Math in the Next 5 Years  - Grant Sanderson",
+          "guest": null,
+          "date": "2026-09-16T14:49:48+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=FxwiNX6l5qA",
+          "artworkUrl": "https://i.ytimg.com/vi/FxwiNX6l5qA/hqdefault.jpg"
+        },
         {
           "title": "What chess Elo suggests about AI's economic impact",
           "guest": null,
@@ -506,16 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=mpqnmFBIm0U",
           "artworkUrl": "https://i.ytimg.com/vi/mpqnmFBIm0U/hqdefault.jpg"
-        },
-        {
-          "title": "AI researchers debate how close we are to recursive self-improvement",
-          "guest": null,
-          "date": "2026-09-11T16:54:50+00:00",
-          "description": "New episode with John Schulman, Charlie O’Neill, and Beren Millidge.\nI got together with some of the most insightful AI researchers I know who are at the openish companies, because I wanted to hear the details of what's actually happening at the frontier and what comes next.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Antithesis helps you trust your code. As agents generate more and more of your software, the bottleneck shifts from your engineers actually writing code to verifying it. Antithesis does that testing for you. Ron Minsky, who co-leads Jane Street's tech group, told me that Antithesis was able to help his team shake out bugs in software that had already undergone heavy review. If you want to see how it fits into your development process, go to\n* Jane Street just launched its most ambitious competition yet: design a protocol-emulator ASIC. Basically, if you have a chip you want to test outside of a live system, you should be able to connect it to your design and have it simulate realistic traffic. Jane Street wants general-purpose, reprogrammable designs that can work across multiple protocols and remain useful as new ones emerge. The most novel submissions will actually get taped out, and the winners will receive a physical copy! The competition is open until January 18, 2027, and teams are encouraged. To get started download the template code at\n* Grok Bot has been a great way to hand off tasks. My team uses it as a producer: whenever my editor posts a rough cut of an interview in Slack, Grok Bot opens the transcript on its own computer, matches my notes to the exact moments they refer to, and uses a file of my preferences to suggest edits. Then it sends me its top clip candidates so I can review everything from my phone, which saves my editors from sorting through hours of footage. Try Grok Bot for yourself at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Steelmanning the case against RSI\n00:18:39 – What’s driving the Chinese labs’ progress\n00:28:06 – How will automated AI researchers be trained\n00:33:51 – Will long-horizon RL elicit AGI?\n00:45:24 – The sim-to-real gap\n01:00:33 – How much progress is explained by data?\n01:18:03 – Why is RL working so well?\n01:24:54 – Move 37 and entropy collapse\n01:28:32 – Rapid-fire timelines",
-          "descriptionCN": "New episode with John Schulman, Charlie O’Neill, and Beren Millidge.\nI got together with some of the most insightful AI researchers I know who are at the openish companies, because I wanted to hear the details of what's actually happening at the frontier and what comes next.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Antithesis helps you trust your code. As agents generate more and more of your software, the bottleneck shifts from your engineers actually writing code to verifying it. Antithesis does that testing for you. Ron Minsky, who co-leads Jane Street's tech group, told me that Antithesis was able to help his team shake out bugs in software that had already undergone heavy review. If you want to see how it fits into your development process, go to\n* Jane Street just launched its most ambitious competition yet: design a protocol-emulator ASIC. Basically, if you have a chip you want to test outside of a live system, you should be able to connect it to your design and have it simulate realistic traffic. Jane Street wants general-purpose, reprogrammable designs that can work across multiple protocols and remain useful as new ones emerge. The most novel submissions will actually get taped out, and the winners will receive a physical copy! The competition is open until January 18, 2027, and teams are encouraged. To get started download the template code at\n* Grok Bot has been a great way to hand off tasks. My team uses it as a producer: whenever my editor posts a rough cut of an interview in Slack, Grok Bot opens the transcript on its own computer, matches my notes to the exact moments they refer to, and uses a file of my preferences to suggest edits. Then it sends me its top clip candidates so I can review everything from my phone, which saves my editors from sorting through hours of footage. Try Grok Bot for yourself at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Steelmanning the case against RSI\n00:18:39 – What’s driving the Chinese labs’ progress\n00:28:06 – How will automated AI researchers be trained\n00:33:51 – Will long-horizon RL elicit AGI?\n00:45:24 – The sim-to-real gap\n01:00:33 – How much progress is explained by data?\n01:18:03 – Why is RL working so well?\n01:24:54 – Move 37 and entropy collapse\n01:28:32 – Rapid-fire timelines",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=PrSf7IOYu-I",
-          "artworkUrl": "https://i.ytimg.com/vi/PrSf7IOYu-I/hqdefault.jpg"
         }
       ]
     },
