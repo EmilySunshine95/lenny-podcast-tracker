@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-20T00:37:54.300Z",
+  "lastFetched": "2026-09-21T00:49:37.836Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -13,6 +13,16 @@
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#4f46e5",
       "episodes": [
+        {
+          "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+          "guest": "Peter Sellis",
+          "date": "2026-09-20T12:32:17Z",
+          "description": "Peter Sellis was the first product manager at Snapchat, where he spent seven years building one of the most beloved consumer products in history. He went on to serve as Head of Product at Discord, where he helped drive some of the fastest user growth the platform had seen. Having left his role at Discord, he gets to be especially real and unfiltered — nothing to promote, no PR, no comms team.\nIn our in-depth conversation, we discuss:\n1. Why Peter designs teams like . . . terrorist organizations\n2. What it was really like to manage Nikita Bier\n3. Why the median PM is so bad\n4. Why Snapchat’s ads business never reached its potential\n5. Why growth almost always comes from the core product\n6. Peter’s three “oxymorons” of great product management",
+          "descriptionCN": "Peter Sellis was the first product manager at Snapchat, where he spent seven years building one of the most beloved consumer products in history. He went on to serve as Head of Product at Discord, where he helped drive some of the fastest user growth the platform had seen. Having left his role at Discord, he gets to be especially real and unfiltered — nothing to promote, no PR, no comms team.\nIn our in-depth conversation, we discuss:\n1. Why Peter designs teams like . . . terrorist organizations\n2. What it was really like to manage Nikita Bier\n3. Why the median PM is so bad\n4. Why Snapchat’s ads business never reached its potential\n5. Why growth almost always comes from the core product\n6. Peter’s three “oxymorons” of great product management",
+          "duration": 97,
+          "url": "https://podcasts.apple.com/us/podcast/90-minutes-of-unfiltered-product-advice-from-snap/id1627920305?i=1000790789859&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/80/a3/c780a365-a1ed-527f-365f-1bd3e51ac6d1/mza_5908526734339724450.jpg/600x600bb.jpg"
+        },
         {
           "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
           "guest": "Roman Ugarte",
@@ -62,16 +72,6 @@
           "duration": 72,
           "url": "https://podcasts.apple.com/us/podcast/openais-head-of-design-this-is-the-best-time-in/id1627920305?i=1000783645151&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/de/76/b5de7615-739d-1ff2-7a9d-b675d6609ad3/mza_13044722032608419389.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "The playbook for building high-talent-density teams | Adam Ward, Head of Talent at Cursor",
-          "guest": "Adam Ward, Head of Talent at Cursor",
-          "date": "2026-08-09T12:31:29Z",
-          "description": "Adam Ward is the Head of Talent at Cursor, one of the fastest-growing developer tools in history. Before joining Cursor, he founded Growth by Design, an independent recruiting and talent strategy firm that helped build teams at the most ambitious AI and technology companies in the world. Adam has spent more than 20 years building elite, high-talent-density teams across the industry and is widely regarded as one of the most effective and creative recruiters in tech.\nIn our in-depth conversation, we discuss:\n1. Inside today’s “tale of two cities” talent market\n2. Why the traditional recruiting funnel—what Adam calls the “funnel of doom”—leads to mediocre hires\n3. Adam’s three-step playbook: scoping, mapping, and relentless pursuit\n4. The worst question to ask when sourcing great talent\n5. The rise of the forward deployed engineer—and how to become one\n6. The biggest mistake founders make when hiring their first recruiter",
-          "descriptionCN": "Adam Ward is the Head of Talent at Cursor, one of the fastest-growing developer tools in history. Before joining Cursor, he founded Growth by Design, an independent recruiting and talent strategy firm that helped build teams at the most ambitious AI and technology companies in the world. Adam has spent more than 20 years building elite, high-talent-density teams across the industry and is widely regarded as one of the most effective and creative recruiters in tech.\nIn our in-depth conversation, we discuss:\n1. Inside today’s “tale of two cities” talent market\n2. Why the traditional recruiting funnel—what Adam calls the “funnel of doom”—leads to mediocre hires\n3. Adam’s three-step playbook: scoping, mapping, and relentless pursuit\n4. The worst question to ask when sourcing great talent\n5. The rise of the forward deployed engineer—and how to become one\n6. The biggest mistake founders make when hiring their first recruiter",
-          "duration": 91,
-          "url": "https://podcasts.apple.com/us/podcast/the-playbook-for-building-high-talent-density-teams/id1627920305?i=1000781240135&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c0/8d/56/c08d5696-8465-09b4-b617-91df3c9b60ff/mza_11887044661848293012.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -87,6 +87,16 @@
       "youtube": "https://www.youtube.com/@DanKoeTalks",
       "color": "#f59e0b",
       "episodes": [
+        {
+          "title": "You need to be delusional if you want to succeed.",
+          "guest": null,
+          "date": "2026-09-20T17:35:20+00:00",
+          "description": "Save anything, read, highlight, and create with Eden:\nJoin the Creator Bootcamp:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
+          "descriptionCN": "Save anything, read, highlight, and create with Eden:\nJoin the Creator Bootcamp:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=rAjMOfKSAks",
+          "artworkUrl": "https://i.ytimg.com/vi/rAjMOfKSAks/hqdefault.jpg"
+        },
         {
           "title": "If You Have Multiple Interests, Please Start a One-Person Business",
           "guest": null,
@@ -136,16 +146,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=dbDpegaaxvo",
           "artworkUrl": "https://i.ytimg.com/vi/dbDpegaaxvo/hqdefault.jpg"
-        },
-        {
-          "title": "The Writing System That Saved My Brain (Learn Faster & Think Clearly)",
-          "guest": null,
-          "date": "2026-07-27T22:42:33+00:00",
-          "description": "Capture any idea, find what's going viral, and create unique content:\nThe creators bootcamp - learn to write and what to write about:\nNewsletter outline prompt:\nChat with or read/highlight the transcript of this video:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
-          "descriptionCN": "Capture any idea, find what's going viral, and create unique content:\nThe creators bootcamp - learn to write and what to write about:\nNewsletter outline prompt:\nChat with or read/highlight the transcript of this video:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=KCjwU4XYBL8",
-          "artworkUrl": "https://i.ytimg.com/vi/KCjwU4XYBL8/hqdefault.jpg"
         }
       ]
     },
@@ -161,6 +161,16 @@
       "youtube": "https://www.youtube.com/@AIDailyBrief",
       "color": "#0ea5e9",
       "episodes": [
+        {
+          "title": "7 Ways How We Use AI Is Changing",
+          "guest": null,
+          "date": "2026-09-20T22:35:12+00:00",
+          "description": "From persistent conversations and voice commands to chatbots that coordinate entire teams of agents, the way we work with AI is shifting. NLW breaks down seven changes shaping everyday AI use, including the move from prompts to goals, managing model costs, and building shared agents for teams.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "From persistent conversations and voice commands to chatbots that coordinate entire teams of agents, the way we work with AI is shifting. NLW breaks down seven changes shaping everyday AI use, including the move from prompts to goals, managing model costs, and building shared agents for teams.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=HNFhXFZxMYQ",
+          "artworkUrl": "https://i.ytimg.com/vi/HNFhXFZxMYQ/hqdefault.jpg"
+        },
         {
           "title": "Why Everyone is Now Getting Excited About Personal AI Agents",
           "guest": null,
@@ -210,16 +220,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=5Wivm4gd9YQ",
           "artworkUrl": "https://i.ytimg.com/vi/5Wivm4gd9YQ/hqdefault.jpg"
-        },
-        {
-          "title": "What to Use the Latest AI Tools For",
-          "guest": null,
-          "date": "2026-09-12T13:06:36+00:00",
-          "description": "Eight new product launches land in a single week, from OpenAI's GPT Live voice API to Cognition's Swe-2 model to persistent projects in Cursor. NLW goes through each one with a practical read on who should actually use it and what for, plus why voice control and cost-optimized model stacks are the two trends running underneath all of them. In the headlines: Anthropic's misuse report detailing distillation attacks, Sam Altman signaling openness to a coordinated slowdown, OpenAI pausing Pro subscriptions over compute, and Microsoft tripling data center capacity.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Eight new product launches land in a single week, from OpenAI's GPT Live voice API to Cognition's Swe-2 model to persistent projects in Cursor. NLW goes through each one with a practical read on who should actually use it and what for, plus why voice control and cost-optimized model stacks are the two trends running underneath all of them. In the headlines: Anthropic's misuse report detailing distillation attacks, Sam Altman signaling openness to a coordinated slowdown, OpenAI pausing Pro subscriptions over compute, and Microsoft tripling data center capacity.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=Y2hE6kYZPg0",
-          "artworkUrl": "https://i.ytimg.com/vi/Y2hE6kYZPg0/hqdefault.jpg"
         }
       ]
     },
@@ -384,6 +384,16 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "The billionaire collecting American history",
+          "guest": null,
+          "date": "2026-09-20T13:47:21+00:00",
+          "description": "The billionaire collecting American history",
+          "descriptionCN": "The billionaire collecting American history",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=Kr53CqKicoM",
+          "artworkUrl": "https://i.ytimg.com/vi/Kr53CqKicoM/hqdefault.jpg"
+        },
+        {
           "title": "The best productivity advice nobody follows",
           "guest": null,
           "date": "2026-09-19T17:31:49+00:00",
@@ -404,7 +414,7 @@
           "artworkUrl": "https://i.ytimg.com/vi/9R-bdXBAzgs/hqdefault.jpg"
         },
         {
-          "title": "Advice from Sam Altman’s coach that’ll piss off every hustle culture bro",
+          "title": "Sam Altman's coach destroys your limiting beliefs for 86 minutes straight",
           "guest": null,
           "date": "2026-09-18T13:15:08+00:00",
           "description": "*Get Sam's guide to turn ChatGPT into your life coach:*\nEpisode 863: Shaan Puri (  ) and Sam Parr (  ) get coached by Joe Hudson (  ) on the mental game of being a founder.\nShow Notes:\n(0:00) Intro\n(2:35) Limiting beliefs\n(6:48) Mind, heart, gut\n(8:20) The self-reliance pattern\n(14:45) Unkink your hose\n(16:35) Phrases that change your thinking\n(18:20) Visualize the negative outcomes\n(21:35) Most common fear of founders: homelessness\n(23:45) Tricking your nervous system with repetition\n(27:35) Avoiding conflict\n(32:40) How to address conflict\n(38:35) Abusive self-talk patterns\n(42:45) Is this stuff worth doing?\n(50:40) Experiments to try this week\n(54:45) Why bliss destroys you\n(59:35) Finding your billion-dollar purpose\n(1:01:00) What's the Illuminati like in person?\n(1:04:00) How Joe got here\n(1:22:00) Where you click matters",
@@ -432,16 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=3S8XRCRXQwI",
           "artworkUrl": "https://i.ytimg.com/vi/3S8XRCRXQwI/hqdefault.jpg"
-        },
-        {
-          "title": "8 (stupidly simple) rules to grow on social media",
-          "guest": null,
-          "date": "2026-09-16T12:30:31+00:00",
-          "description": "*Shaan's guide on how to build an audience:*\nEpisode 862: Shaan Puri (  ) teaches what it takes to build an audience in 18 minutes.\nShow Notes:\n(0:00) Intro\n(1:00) Lesson 1: Who, not how many\n(2:28) Lesson 2: What should I talk about?\n(5:03) Lesson 3: Learn the 5 Ds\n(7:12) Lesson 4: OK this is getting long. But you’re still here. Weird, right\n(7:55) Lesson 5: Don't worry about writing style or production quality\n(9:08) Lesson 6: Create a binge bank\n(10:03) Lesson 7: Feeling, not information\n(12:05) Lesson 8: “Be so good they can’t ignore you”",
-          "descriptionCN": "*Shaan's guide on how to build an audience:*\nEpisode 862: Shaan Puri (  ) teaches what it takes to build an audience in 18 minutes.\nShow Notes:\n(0:00) Intro\n(1:00) Lesson 1: Who, not how many\n(2:28) Lesson 2: What should I talk about?\n(5:03) Lesson 3: Learn the 5 Ds\n(7:12) Lesson 4: OK this is getting long. But you’re still here. Weird, right\n(7:55) Lesson 5: Don't worry about writing style or production quality\n(9:08) Lesson 6: Create a binge bank\n(10:03) Lesson 7: Feeling, not information\n(12:05) Lesson 8: “Be so good they can’t ignore you”",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=47jy_FxuuBg",
-          "artworkUrl": "https://i.ytimg.com/vi/47jy_FxuuBg/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,16 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "Is AI Getting Smarter Faster Than We Think? - Noam Brown",
+          "guest": null,
+          "date": "2026-09-20T18:08:17+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=jVyTt6eo1f8",
+          "artworkUrl": "https://i.ytimg.com/vi/jVyTt6eo1f8/hqdefault.jpg"
+        },
         {
           "title": "It's Getting Harder to Tell If AI Is Actually Aligned - Noam Brown",
           "guest": null,
@@ -506,16 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=FxwiNX6l5qA",
           "artworkUrl": "https://i.ytimg.com/vi/FxwiNX6l5qA/hqdefault.jpg"
-        },
-        {
-          "title": "What chess Elo suggests about AI's economic impact",
-          "guest": null,
-          "date": "2026-09-15T21:16:23+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=Fp4a4CaI-74",
-          "artworkUrl": "https://i.ytimg.com/vi/Fp4a4CaI-74/hqdefault.jpg"
         }
       ]
     },
