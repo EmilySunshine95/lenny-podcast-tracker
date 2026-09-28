@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-27T01:05:39.144Z",
+  "lastFetched": "2026-09-28T01:23:10.273Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -13,6 +13,16 @@
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#4f46e5",
       "episodes": [
+        {
+          "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+          "guest": "Molly Graham",
+          "date": "2026-09-27T12:32:18Z",
+          "description": "Molly Graham is back for round two, and this one is even more powerful. Molly has spent more than 20 years helping organizations and the humans inside them navigate growth and change. She’s held leadership roles at Google, Facebook, Quip, and the Chan Zuckerberg Initiative and is the host of TED’s WorkLife podcast (which she took over from Adam Grant). She also runs Glue Club, a leadership community for senior operators, and writes a popular newsletter called Lessons.\nIn our in-depth conversation, we discuss:\n1. Why Molly’s famous “give away your Legos” career advice no longer holds true in an AI world\n2. The grief, loneliness, and burnout sweeping through the tech industry right now\n3. Why delegating to AI is fundamentally different from delegating to a human\n4. The fear narrative around AI job displacement, and why it’s overblown\n5. Which Legos you should never give to AI\n6. What the best managers are doing right now",
+          "descriptionCN": "莫莉·格雷厄姆在第二轮比赛中回归，这一轮更加强大。 Molly 花了 20 多年的时间帮助组织及其内部人员应对增长和变革。她曾在 Google、Facebook、Quip 和 Chan Zuckerberg Initiative 担任领导职务，并且是 TED WorkLife 播客的主持人（她从 Adam Grant 手中接过该播客）。她还经营 Glue Club（一个针对高级操作员的领导力社区），并撰写了一份名为“Lessons”的热门时事通讯。\n在我们的深入对话中，我们讨论：\n1. 为什么莫莉著名的“放弃你的乐高积木”职业建议在人工智能世界不再适用\n2. 目前，悲伤、孤独和倦怠席卷了科技行业\n3. 为什么委托给人工智能与委托给人类有本质上的不同\n4. 关于人工智能工作取代的恐惧叙述，以及为什么它被夸大了\n5. 哪些乐高积木你不应该送给人工智能\n6. 最好的管理者现在在做什么",
+          "duration": 94,
+          "url": "https://podcasts.apple.com/us/podcast/the-grief-loneliness-and-burnout-sweeping-through/id1627920305?i=1000791870942&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/9f/97/1c9f971e-246f-1a9c-2818-b3fc62db380f/mza_4157106227263552035.jpg/600x600bb.jpg"
+        },
         {
           "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
           "guest": "Peter Sellis",
@@ -28,7 +38,7 @@
           "guest": "Roman Ugarte",
           "date": "2026-09-08T12:31:49Z",
           "description": "Roman Ugarte helped incubate and build Grok Bot, the popular new knowledge-work agent from SpaceXAI. A small, isolated team took it from first line of code to a working internal product in four weeks, and to a hugely successful public launch just three weeks later. Before Grok Bot, Roman led Growth at Cursor, where he helped scale the company from 15 people to over 1,000 before its acquisition by SpaceX.\nIn our in-depth conversation, we discuss:\n1. The origin story of Grok Bot\n2. The key decision to build it from scratch instead of adding it to Cursor\n3. Why the team personally onboarded nearly 300 of its first users\n4. The two early product decisions that made Grok Bot so successful\n5. Their “colleague-pilled” product philosophy\n6. Roman’s advice on moats, and what has allowed Cursor to keep winning in the most competitive market in the world",
-          "descriptionCN": "Roman Ugarte 帮助孵化和构建了 Grok Bot，这是 SpaceXAI 推出的流行的新型知识工作代理。一个小型的、孤立的团队在四个星期内将其从第一行代码变成了一个可运行的内部产品，并在三周后取得了巨大成功的公开发布。在加入 Grok Bot 之前，Roman 领导了 Cursor 的发展，在该公司被 SpaceX 收购之前，他帮助该公司从 15 人扩大到 1,000 多人。\n在我们的深入对话中，我们讨论：\n1. Grok Bot 的起源故事\n2.关键决定��从头开始构建它而不是添加到Cursor中\n3. 为什么团队亲自吸引了近 300 名第一批用户\n4. 让 Grok Bot 如此成功的两个早期产品决策\n5. 他们的“同事堆积”的产品理念\n6. Roman 关于护城河的建议，以及是什么让 Cursor 在全球竞争最激烈的市场中不断获胜",
+          "descriptionCN": "Roman Ugarte 帮助孵化和构建了 Grok Bot，这是 SpaceXAI 推出的流行的新型知识工作代理。一个小型、孤立的团队在四个星期内将其从第一行代码变成了一个可运行的内部产品，并在三周后取得了巨大成功的公开发布。在加入 Grok Bot 之前，Roman 领导了 Cursor 的发展，在该公司被 SpaceX 收购之前，他帮助该公司从 15 人扩大到 1,000 多人。\n在我们的深入对话中，我们讨论：\n1. Grok Bot 的起源故事\n2.关键决定是��头开始构建它而不是添加到Cursor中\n3. 为什么团队亲自吸引了近 300 名第一批用户\n4. 让 Grok Bot 如此成功的两个早期产品决策\n5. 他们的“同事堆积”的产品理念\n6. Roman 关于护城河的建议，以及是什么让 Cursor 在全球竞争最激烈的市场中不断获胜",
           "duration": 83,
           "url": "https://podcasts.apple.com/us/podcast/how-we-built-grok-bot-in-a-month-roman-ugarte-spacexai/id1627920305?i=1000788466289&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/4e/39/fe4e39c3-c32e-36ec-8c31-70a7106b2a6a/mza_9529541479666928279.png/600x600bb.jpg"
@@ -62,16 +72,6 @@
           "duration": 85,
           "url": "https://podcasts.apple.com/us/podcast/how-to-close-%24100k-enterprise-deals-step-by-step-jen-abel/id1627920305?i=1000785297925&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3d/93/2f/3d932f5d-bec8-23d6-fe6d-78fb11d328e1/mza_1309977165869327307.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
-          "guest": "Ian Silber",
-          "date": "2026-08-16T12:31:42Z",
-          "description": "Ian Silber is the head of product design at OpenAI, where he has led the design of ChatGPT, Codex, and all of OpenAI’s product experience for the past three years. Before OpenAI, he was at Artifact, the AI-powered news app built by the founders of Instagram. Prior to that, he spent eight years at Instagram, where he worked on products including Reels. Ian is one of the most consequential designers working in AI today, and he takes us inside how OpenAI designs ChatGPT, Codex, and the future of how we will interact with AI.\nIn our in-depth conversation, we discuss:\n1. Why Ian believes this is the best time in history to be a product designer\n2. Why engineers 10x’d with AI but design teams haven’t\n3. What OpenAI looks for when hiring designers\n4. “Just do less”: Ian’s counterintuitive advice to his designers\n5. The future of ChatGPT as a super app\n6. Where humans still win: user understanding, invention, and point of view",
-          "descriptionCN": "Ian Silber 是 OpenAI 的产品设计主管，过去三年他领导了 ChatGPT、Codex 的设计以及 OpenAI 的所有产品体验。在加入 OpenAI 之前，他曾在 Artifact 工作，这是一款由 Instagram 创始人开发的人工智能新闻应用程序。在此之前，他在 Instagram 工作了八年，负责开发包括 Reels 在内的产品。 Ian 是当今人工智能领域最有影响力的设计师之一，他带我们了解 OpenAI 如何设计 ChatGPT、Codex，以及我们与人工智能交互的未来。\n在我们的深入对话中，我们讨论：\n1. 为什么 Ian 认为这是历史上成为产品设计师的最佳时代\n2. 为什么工程师十倍地使用人工智能，但设计团队却没有\n3. OpenAI 在招聘设计师时看重什么\n4.“少做一点”：伊恩给设计师的违反直觉的建议\n5. ChatGPT 作为超级应用程序的未来\n6. 人类仍然获胜的地方：用户理解、发明和观点",
-          "duration": 72,
-          "url": "https://podcasts.apple.com/us/podcast/openais-head-of-design-this-is-the-best-time-in/id1627920305?i=1000783645151&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/de/76/b5de7615-739d-1ff2-7a9d-b675d6609ad3/mza_13044722032608419389.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -458,6 +458,16 @@
       "color": "#6366f1",
       "episodes": [
         {
+          "title": "What If Each AI Generation Gets Slightly Less Aligned? - Noam Brown",
+          "guest": null,
+          "date": "2026-09-27T20:35:49+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=vkecOqfTh_I",
+          "artworkUrl": "https://i.ytimg.com/vi/vkecOqfTh_I/hqdefault.jpg"
+        },
+        {
           "title": "Why LLMs Might Hit a Wall - Noam Brown",
           "guest": null,
           "date": "2026-09-26T20:14:06+00:00",
@@ -482,7 +492,7 @@
           "guest": null,
           "date": "2026-09-25T18:04:31+00:00",
           "description": "This is the final lecture in our series with Sarah Paine, and it's a fitting place to end.\nSarah tackles war termination: why wars are easy to start, hard to end, and even harder to end on the terms you wanted. Using the Russo-Japanese War as a model, she explains what goes wrong when regional wars escalate into global ones, or when conventional victories turn into endless insurgencies. It's especially relevant given what's going on today.\nAs we wrap up, I want to thank Sarah for doing this with me. It's been a real privilege to share her lectures with all of you. Thanks for watching.\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – How Japan beat a far bigger Russia\n00:08:18 – Clausewitz's culminating points of victory\n00:14:24 – What finally made Russia give up?\n00:26:54 – Gulf War: the war the US didn't pay for\n00:30:31 – Korea and the cost of shifting war aims\n00:34:48 – Sun Tzu's \"death ground\"\n00:39:32 – How regional wars go global: WWI to Pearl Harbor\n00:46:38 – Why insurgencies deny victory: China to Iraq\n00:51:06 – Questions to ask before any war",
-          "descriptionCN": "这是莎拉·潘恩系列讲座的最后一堂，也是一个合适的结束点。\n莎拉解决了战争终止问题：为什么战争很容易开始，很难结束，甚至更难按照你想要的条件结束。她以日俄战争为模型，解释了当地区战争升级为全球战争，或者当传统的胜利变成无休止的叛乱时，会出现什么问题。考虑到今天发生的事情，这一点尤其重要。\n在我们结束时，我要感谢莎拉和我一起做这件事。能够与大家分享她的讲座真是我的荣幸。感谢您的观看。\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – 日本如何击败强大得多的俄罗斯\n00:08:18 – 克劳塞维茨的胜利的顶峰\n00:14:24 – 是什么最终让俄罗斯放弃了？\n00:26:54 – 海湾战争：美国没有为这场战争付出代价\n00:30:31 – 朝鲜和改变战争目标的代价\n00:34:48 – 孙子的“死亡之地”\n00:39:32 – 地区战争如何走向全球：第一次世界大战到珍珠港\n00:46:38 – 为什么叛乱分子否认胜利：中国对伊拉克\n00:51:06 – 任何战争之前要问的问题",
+          "descriptionCN": "这是莎拉·潘恩系列讲座的最后一堂，也是一个合适的结束点。\n莎拉解决了战争终止问题：为什么战争很容易开始，很难结束，甚至更难按照你想要的条件结束。她以日俄战争为模型，解释了当地区战争升级为全球战争，或者当传统的胜利变成无休止的叛乱时，会出现什么问题。考虑到今天发生的事情，这一点尤其重要。\n在我们结束时，我要感谢莎拉和我一起做这件事。能够与大家��享她的讲座真是我的荣幸。感谢您的观看。\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – 日本如何击败强大得多的俄罗斯\n00:08:18 – 克劳塞维茨的胜利的顶峰\n00:14:24 – 是什么最终让俄罗斯放弃了？\n00:26:54 – 海湾战争：美国没有为这场战争付出代价\n00:30:31 – 朝鲜和改变战争目标的代价\n00:34:48 – 孙子的“死亡之地”\n00:39:32 – 地区战争如何走向全球：第一次世界大战到珍珠港\n00:46:38 – 为什么叛乱分子否认胜利：中国对伊拉克\n00:51:06 – 任何战争之前要问的问题",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=f6cjAEr08qk",
           "artworkUrl": "https://i.ytimg.com/vi/f6cjAEr08qk/hqdefault.jpg"
@@ -506,16 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=ISgqeLL5oeo",
           "artworkUrl": "https://i.ytimg.com/vi/ISgqeLL5oeo/hqdefault.jpg"
-        },
-        {
-          "title": "AI Agents Are More Honest With Each Other Than With Us - Noam Brown",
-          "guest": null,
-          "date": "2026-09-22T19:28:29+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=W6fL5aGybMo",
-          "artworkUrl": "https://i.ytimg.com/vi/W6fL5aGybMo/hqdefault.jpg"
         }
       ]
     },
@@ -610,7 +610,7 @@
           "guest": null,
           "date": "2026-07-03T00:07:40+00:00",
           "description": "Naval with three founders who are living in the future: Garry Tan (Y Combinator), Daniel Francis (Abel Police), and Farbood Nivi (A-LIST).\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\nPermalink:",
-          "descriptionCN": "Naval 的三位创始人都生活在未来：Garry Tan (Y Combinator)、Daniel Francis (Abel Police) 和 Farbood Nivi (A-LIST)。\n00:00 嘉宾介绍\n02:35 生活在未来\n03:58 人工智能会智胜我们吗？\n07:43 在人类的救济线\n09:59 技术精灵出局了\n12:33 我们投资了新冠病毒？！\n14:25 好的写作是新颖的\n18:50 像2028年一样���活\n24:32 真理点ai\n30:18 中国有重量吗？\n35:38 每个人都有人工智能焦虑\n39:32 让你的经纪人和我的经纪人谈谈\n42:01 如果开源占据主导地位怎么办？\n44:03 谷歌上的太阳正在落山\n48:00 乘坐AGI\n50:46 会有初创公司吗？\n54:05 保卫台湾\n1:00:05 加州帝国\n1:01:26 如果美国衰落\n1:03:11 通用基础机器人\n1:06:01 人类作为人工智能处理者\n永久链接：",
+          "descriptionCN": "Naval 的三位创始人都生活在未来：Garry Tan (Y Combinator)、Daniel Francis (Abel Police) 和 Farbood Nivi (A-LIST)。\n00:00 嘉宾介绍\n02:35 生活在未来\n03:58 人工智能会智胜我们吗？\n07:43 在人类的救济线\n09:59 技术精灵出局了\n12:33 我们投资了新冠病毒？！\n14:25 好的写作是新颖的\n18:50 像2028年一样生活\n24:32 真理点ai\n30:18 中国有重量吗？\n35:38 每个人都有人工智能焦虑\n39:32 让你的经纪人和我的经纪人谈谈\n42:01 如果开源占据主导地位怎么办？\n44:03 谷歌上的太阳正在落山\n48:00 乘坐AGI\n50:46 会有初创公司吗？\n54:05 保卫台湾\n1:00:05 加州帝国\n1:01:26 如果美国衰落\n1:03:11 通用基础机器人\n1:06:01 人类作为人工智能处理者\n永久链接：",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=6m-ZZBCiiEE",
           "artworkUrl": "https://i.ytimg.com/vi/6m-ZZBCiiEE/hqdefault.jpg"
@@ -640,7 +640,7 @@
           "guest": null,
           "date": "2026-06-07T01:24:45+00:00",
           "description": "“Clearly there are 100x or 1,000x engineers now. The world hasn’t adjusted.”\n— Guillermo Rauch (Vercel)\nGuillermo: I’ve been really pilled with this idea of software factories. You used to ship the output directly, and everything inside the company was how good is person A at shipping output B? And now what’s happening is the way that I’m judging you as an engineer is, are you producing the factory that will produce multiplicative outputs B through Z, right?\nWe used to believe, and it used to be somewhat controversial, that there’s 10X engineers. Now clearly there’s 100X or 1,000X engineers. And the world hasn’t fully adjusted to this.\n@naval: I used to get flamed on Twitter for saying there are 10X engineers, because it flies in the face of so much equality philosophy that everyone’s equal. But the reality is, when you’re operating in idea domains—when you’re operating in intellectual domains and virtual digital domains—it’s not even 10X. It’s 100X or 1,000X, and it always has been.\nSatoshi, Notch, the guy who invented JavaScript, the Brendan Eichs of the world. John Carmack. These are 1,000X programmers.\nNot to even mention if you choose the right thing to work on versus the wrong thing to work on, that’s an infinity difference. And it could just be not necessarily even a better programmer, just one who had a better judgment of what to work on in the first place.\nAnd now obviously it’s less controversial, because of AI leverage.",
-          "descriptionCN": "“显然现在有 100 倍或 1,000 倍的工程师。世界还没有调整。”\n— 吉列尔莫·劳赫 (Vercel)\nGuillermo：我对软件工厂的想法非常着迷。你以前直接运送输出，公司内部的一切都是A在运送输出B时有多好？现在发生的事情是我对你作为一名工程师的评价，你是否正在生产将产生乘法输出 B 到 Z 的工厂，对吧？\n我们曾经相信，有 10X 工程师的存在，但也曾经存在一些争议。现在显然有 100 倍或 1,000 倍的工程师。世界还没有完全适应这一点。\n@naval：我曾经因为说有 10X 工程师而在 Twitter 上受到攻击，因为它违背了人人平等的平等理念。但现实是，当你在创意领域运作时——当你在知识领域和虚拟数字领域运作时——它甚至不是 10 倍。它是 100 倍或 1,000 倍，而且一直都是。\nSatoshi，Notch，JavaScript 的发明者，世界上的 Brendan Eichs。约翰·卡马克.这些是 1000 倍的程序员。\n更不用说你选择正确的工作还是错误的工作，这是一个无穷大的差异。而且不一定是更好的程序员，只是一个对首先要做什么有更好判断的人。\n现在，由于人工智能的影响力，它的争议显然减少了。",
+          "descriptionCN": "“显然现在有 100 倍或 1,000 倍的工程师。世界还没有调整。”\n— 吉列尔莫·劳赫 (Vercel)\nGuillermo：我对软件工厂的想法非常着迷。你以前直接运送输出，公司内部的一切都是A在运送输出B时有多好？现在发生的事情是我对你作为一名工程师的评价，你是否正在生产将产生乘法输出 B 到 Z 的工厂，对吗？\n我们曾经相信，有 10X 工程师的存在，但也曾经存在一些争议。现在显然有 100 倍或 1,000 倍的工程师。世界还没有完全适应这一点。\n@naval：我曾经因为说有 10X 工程师而在 Twitter 上受到攻击，因为它违背了人人平等的平等理念。但现实是，当你在创意领域运作时——当你在知识领域和虚拟数字领域运作时——它甚至不是 10 倍。它是 100 倍或 1,000 倍，而且一直都是。\nSatoshi，Notch，JavaScript 的发明者，世界上的 Brendan Eichs。约翰·卡马克.这些是 1000 倍的程序员。\n更不用说你选择正确的工作还是错误的工作，这是一个无穷大的差异。而且不一定是更好的程序员，只是一个对首先要做什么有更好判断的人。\n现在，由于人工智能的影响力，它的争议显然减少了。",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=RvdjkZeYIKg",
           "artworkUrl": "https://i.ytimg.com/vi/RvdjkZeYIKg/hqdefault.jpg"
@@ -650,7 +650,7 @@
           "guest": null,
           "date": "2026-06-01T18:47:33+00:00",
           "description": "Full episode with with 20 minutes of new material at the end. With Guillermo Rauch (Vercel), Blake Scholl (Boom Supersonic), and Max Hodak (Science).\nSoftware factories, vertical integration, the regulatory frontier, and the autonomous company.\nPart 1: Waste Tokens, Save Time\n00:00 Three Frontier Founders\n01:27 AI Software Factories\n04:15 Waste Tokens, Save Time\n05:47 Models Instructing Humans\n09:29 Is Pure Software Dead?\n12:03 You Don't Get Stuck Anymore\nPart 2: Vibe Coding Hardware\n14:39 Vibe Coding a Turbine Blade\n18:07 Open Source Compounds China's Advantage\n20:15 You Always Want the Smartest Model\n22:44 Software Still Needs Hands\n24:43 Humans Are Becoming Verifiers\nPart 3: The Regulatory Frontier\n27:53 The Regulatory Red Queen Race\n32:32 Why There's No Innovation in Healthcare\n36:49 We Need a True 50-State Experiment\n40:31 China's FDA Is Beating Ours\n43:37 Healthcare Is a Communist Society Inside Capitalism\n45:57 Sid's Story: N-of-1 Medicine\nPart 4: The Autonomous Company\n47:49 Autonomous Infrastructure\n51:25 Your Job Is to Train the Agent\n54:54 The Next Lord of the Rings\n59:08 What's Your Definition of Art?\n1:05:00 Can AI Have New Ideas?\n1:07:03 A Very Large Number of Small Teams\nTranscript:",
-          "descriptionCN": "整集最后有 20 分钟的新材料。与吉列尔莫·劳赫（Vercel）、布莱克·肖尔（Boom Supersonic）和马克斯·霍达克（Science）合作。\n软件工厂、垂直整合、监管前沿和自治公司。\n第 1 部分：浪费代币，节省时间\n00:00 三位前沿创始人\n01:27 人工智能软件工厂\n04:15 浪费代币，节省时间\n05:47 指导人类的模型\n09:29 纯软件死了吗？\n12:03 你不会再被卡住了\n第 2 部分：Vibe 编码硬件\n14:39 Vibe 编码涡轮叶片\n18:07 开源化合物中国的优势\n20:15 你总是想要最聪明的模型\n22:44 软件仍然需要人工\n24:43 人类正在成为验证者\n第 3 部分：监管前沿\n27:53 监管红皇后竞赛\n32:32 为什么医疗保健没有创新\n36:49 我们需要一个真正的 50 态实验\n40:31 中国的FDA正在打败我们\n43:37 医疗保健是资本主义内部的共产主义社会\n45:57 Sid 的故事：N-of-1 药物\n第 4 部分：自治公司\n47:49 自主基础设施\n51:25 你的工作是培训代理人\n54:54 下一个指环王\n59:08 您对艺术的定义是什么？\n1:05:00 AI能有新想法吗？\n1:07:03 大量小团队\n成绩单：",
+          "descriptionCN": "整集最后有 20 分钟的新材料。与吉列尔莫·劳奇（Vercel）、布莱克·肖尔（Boom Supersonic）和马克斯·霍达克（Science）合作。\n软件工厂、垂直整合、监管前沿和自治公司。\n第 1 部分：浪费代币，节省时间\n00:00 三位前沿创始人\n01:27 人工智能软件工厂\n04:15 浪费代币，节省时间\n05:47 指导人类的模型\n09:29 纯软件死了吗？\n12:03 你不会再被卡住了\n第 2 部分：Vibe 编码硬件\n14:39 Vibe 编码涡轮叶片\n18:07 开源化合物中国的优势\n20:15 你总是想要最聪明的模型\n22:44 软件仍然需要人工\n24:43 人类正在成为验证者\n第 3 部分：监管前沿\n27:53 监管红皇后竞赛\n32:32 为什么医疗保健没有创新\n36:49 我们需要一个真正的 50 态实验\n40:31 中国的FDA正在打败我们\n43:37 医疗保健是资本主义内部的共产主义社会\n45:57 Sid 的故事：N-of-1 药物\n第 4 部分：自治公司\n47:49 自主基础设施\n51:25 你的工作是培训代理人\n54:54 下一个指环王\n59:08 您对艺术的定义是什么？\n1:05:00 AI能有新想法吗？\n1:07:03 大量小团队\n成绩单：",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=v6MWNrVbM4E",
           "artworkUrl": "https://i.ytimg.com/vi/v6MWNrVbM4E/hqdefault.jpg"
