@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-04T02:22:30.655Z",
+  "lastFetched": "2026-10-05T01:34:34.675Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -13,6 +13,16 @@
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#4f46e5",
       "episodes": [
+        {
+          "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+          "guest": "Tibo Sottiaux",
+          "date": "2026-10-04T12:32:47Z",
+          "description": "Tibo Sottiaux leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.\nWe discuss:\n1. Dots, OpenAI’s new personal AI assistant\n2. Why most actions on the internet will soon be taken by agents\n3. Why loops, graphs, and fine-tuning agent workflows are a passing phase\n4. Which skills are trending up and down in the AI era\n5. How Tibo’s Dot warned him about a production outage five minutes before the launch\n6. OpenAI’s approach to AI safety",
+          "descriptionCN": "Tibo Sottiaux leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.\nWe discuss:\n1. Dots, OpenAI’s new personal AI assistant\n2. Why most actions on the internet will soon be taken by agents\n3. Why loops, graphs, and fine-tuning agent workflows are a passing phase\n4. Which skills are trending up and down in the AI era\n5. How Tibo’s Dot warned him about a production outage five minutes before the launch\n6. OpenAI’s approach to AI safety",
+          "duration": 37,
+          "url": "https://podcasts.apple.com/us/podcast/openais-head-of-chatgpt-were-entering-a-new-era/id1627920305?i=1000793099277&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/ca/fd/e4cafda0-e7e8-ccd4-388d-93341a6bd344/mza_6770909817174607087.png/600x600bb.jpg"
+        },
         {
           "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
           "guest": "Molly Graham",
@@ -62,16 +72,6 @@
           "duration": 82,
           "url": "https://podcasts.apple.com/us/podcast/ais-third-era-the-rise-of-persistent-ai-coworkers/id1627920305?i=1000786817796&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/42/ce/df42ce93-e928-1c4a-d1af-5019231dc1d0/mza_9545198747293501922.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
-          "guest": "Jen Abel",
-          "date": "2026-08-23T12:31:43Z",
-          "description": "Jen Abel is the co-founder of JJellyfish and GM of enterprise sales at State Affairs. She is widely regarded as one of the sharpest practitioners in enterprise sales, and for that reason, this is her third visit to the podcast. In our first conversation we went deep on founder-led sales; in our second we mapped the $1M–$10M playbook. This time we do something I’ve never seen on another podcast: walk step by step through the full enterprise sales cycle. Most people think it’s five steps. Jen shows it’s closer to 15.\nIn our in-depth conversation, we discuss:\n1. Why the standard five-stage CRM pipeline is a forecasting tool, not a sales process, and what the real 15-step cycle looks like\n2. The “pincer model” for landing the first meeting at the executive and N-minus-one level simultaneously\n3. How to craft a two-to-three-sentence message around giving them “alpha”\n4. How to run an intro call that extracts maximum intelligence before you ever show a demo\n5. The two-to-three-day pilot structure, how to define success jointly, and when to charge for a longer pilot versus giving it away\n6. Navigating pricing, procurement, redline negotiations, and the final signature without losing momentum",
-          "descriptionCN": "Jen Abel is the co-founder of JJellyfish and GM of enterprise sales at State Affairs. She is widely regarded as one of the sharpest practitioners in enterprise sales, and for that reason, this is her third visit to the podcast. In our first conversation we went deep on founder-led sales; in our second we mapped the $1M–$10M playbook. This time we do something I’ve never seen on another podcast: walk step by step through the full enterprise sales cycle. Most people think it’s five steps. Jen shows it’s closer to 15.\nIn our in-depth conversation, we discuss:\n1. Why the standard five-stage CRM pipeline is a forecasting tool, not a sales process, and what the real 15-step cycle looks like\n2. The “pincer model” for landing the first meeting at the executive and N-minus-one level simultaneously\n3. How to craft a two-to-three-sentence message around giving them “alpha”\n4. How to run an intro call that extracts maximum intelligence before you ever show a demo\n5. The two-to-three-day pilot structure, how to define success jointly, and when to charge for a longer pilot versus giving it away\n6. Navigating pricing, procurement, redline negotiations, and the final signature without losing momentum",
-          "duration": 85,
-          "url": "https://podcasts.apple.com/us/podcast/how-to-close-%24100k-enterprise-deals-step-by-step-jen-abel/id1627920305?i=1000785297925&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3d/93/2f/3d932f5d-bec8-23d6-fe6d-78fb11d328e1/mza_1309977165869327307.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -458,6 +458,56 @@
       "color": "#6366f1",
       "episodes": [
         {
+          "title": "The Army Sent to Stop Cortés Joined Him Instead - Si Sheppard",
+          "guest": null,
+          "date": "2026-10-04T20:57:04+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=j7AgSzNlRBk",
+          "artworkUrl": "https://i.ytimg.com/vi/j7AgSzNlRBk/hqdefault.jpg"
+        },
+        {
+          "title": "How 168 Men Captured the Inca Emperor - Si Sheppard",
+          "guest": null,
+          "date": "2026-10-03T20:22:31+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=5QsADHyOU2w",
+          "artworkUrl": "https://i.ytimg.com/vi/5QsADHyOU2w/hqdefault.jpg"
+        },
+        {
+          "title": "The Myth of the Helpless Aztecs and Inca - Si Sheppard",
+          "guest": null,
+          "date": "2026-10-02T23:57:00+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=IMRyQ4ro9lg",
+          "artworkUrl": "https://i.ytimg.com/vi/IMRyQ4ro9lg/hqdefault.jpg"
+        },
+        {
+          "title": "How Conquistadors Conquered the Aztecs - Si Sheppard",
+          "guest": null,
+          "date": "2026-10-01T22:22:58+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=KWluK74cNzs",
+          "artworkUrl": "https://i.ytimg.com/vi/KWluK74cNzs/hqdefault.jpg"
+        },
+        {
+          "title": "How did a few hundred Spanish soldiers topple two empires? – Si Sheppard",
+          "guest": null,
+          "date": "2026-10-01T16:00:01+00:00",
+          "description": "New episode with military historian Si Sheppard.\nThe conquests of the Aztec and Inca empires might be the most shocking events in human history. Hernan Cortés and some hundreds of Conquistadors landed on a new continent they knew basically nothing about, and within 2 and a half years, conquered the 6 million strong Aztec empire.\nThen, a decade later, Francisco Pizarro did the same thing to an Incan Empire of some 10 million inhabitants.\nIn both cases, the Conquistadors consistently beat native armies while being literally 100x (or even in some cases 1000x) outnumbered - and in many cases, did so without taking a single casualty.\nAnd they did this with 99% of their military forces being made up of the very natives they were trying to subjugate.\nWe often forget how wild human history is. People talk about AI takeover as if it would be some crazy, unprecedented sci-fi outcome. But this would not be the first time an alien force whose motives the defenders barely understand use more advanced technology and diplomatic cunning to outmaneuver and then take over a much larger and long established existing order.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street’s intern projects are even more ambitious than I realized. One intern spent his summer researching LLM memorization, figuring out how to quantify and reduce it. This matters because, when Jane Street tests their models on historical data, they need to know that performance reflects predictive power, not just memorized outcomes. Another intern spent his time developing a new activation checkpointing scheme: his custom version ended up outperforming PyTorch’s native one. If you want to read about more 2026 intern projects or apply for Jane Street’s 2027 internships, go to\n* Grok Bot can tackle the tasks you’ve been meaning to handle but just haven’t gotten around to. For example, SpaceXAI recently gave Grok Bot access to their procurement contracts, vendor spend, and usage data: it ended up identifying over $100,000 in potential savings for them. I decided to try this on my own spend, and Grok Bot found over $5,000 of savings for me, even though I run a pretty small team. Try it out yourself at\n* Antithesis solves one of the biggest problems with traditional software testing: to test for a bug, you first have to be able to imagine it. Antithesis runs your system through thousands of parallel histories and steers your tests for you, injecting faults and generally trying to make everything as adversarial as possible. That way, your software gets tested against scenarios you’d never imagine but that could still arise in the real world. Learn more at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Cortés’s conquest of the Aztecs\n00:22:39 – Pizarro’s conquest of the Inca\n00:26:59 – Explaining Conquistador military superiority\n00:34:39 – Could the natives have beat the Conquistadors?\n00:48:56 – The Aztecs and Incas did not learn from each other\n00:56:11 – Why Spain still lost in the long run\n01:07:47 – Why didn’t the Aztecs/Incas adapt better to European warfare?\n01:14:16 – Conquistador motivation\n01:26:22 – Why Mughal India also couldn't play the Europeans off each other\n01:33:42 – Diplomacy was just as important as technology",
+          "descriptionCN": "New episode with military historian Si Sheppard.\nThe conquests of the Aztec and Inca empires might be the most shocking events in human history. Hernan Cortés and some hundreds of Conquistadors landed on a new continent they knew basically nothing about, and within 2 and a half years, conquered the 6 million strong Aztec empire.\nThen, a decade later, Francisco Pizarro did the same thing to an Incan Empire of some 10 million inhabitants.\nIn both cases, the Conquistadors consistently beat native armies while being literally 100x (or even in some cases 1000x) outnumbered - and in many cases, did so without taking a single casualty.\nAnd they did this with 99% of their military forces being made up of the very natives they were trying to subjugate.\nWe often forget how wild human history is. People talk about AI takeover as if it would be some crazy, unprecedented sci-fi outcome. But this would not be the first time an alien force whose motives the defenders barely understand use more advanced technology and diplomatic cunning to outmaneuver and then take over a much larger and long established existing order.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Jane Street’s intern projects are even more ambitious than I realized. One intern spent his summer researching LLM memorization, figuring out how to quantify and reduce it. This matters because, when Jane Street tests their models on historical data, they need to know that performance reflects predictive power, not just memorized outcomes. Another intern spent his time developing a new activation checkpointing scheme: his custom version ended up outperforming PyTorch’s native one. If you want to read about more 2026 intern projects or apply for Jane Street’s 2027 internships, go to\n* Grok Bot can tackle the tasks you’ve been meaning to handle but just haven’t gotten around to. For example, SpaceXAI recently gave Grok Bot access to their procurement contracts, vendor spend, and usage data: it ended up identifying over $100,000 in potential savings for them. I decided to try this on my own spend, and Grok Bot found over $5,000 of savings for me, even though I run a pretty small team. Try it out yourself at\n* Antithesis solves one of the biggest problems with traditional software testing: to test for a bug, you first have to be able to imagine it. Antithesis runs your system through thousands of parallel histories and steers your tests for you, injecting faults and generally trying to make everything as adversarial as possible. That way, your software gets tested against scenarios you’d never imagine but that could still arise in the real world. Learn more at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Cortés’s conquest of the Aztecs\n00:22:39 – Pizarro’s conquest of the Inca\n00:26:59 – Explaining Conquistador military superiority\n00:34:39 – Could the natives have beat the Conquistadors?\n00:48:56 – The Aztecs and Incas did not learn from each other\n00:56:11 – Why Spain still lost in the long run\n01:07:47 – Why didn’t the Aztecs/Incas adapt better to European warfare?\n01:14:16 – Conquistador motivation\n01:26:22 – Why Mughal India also couldn't play the Europeans off each other\n01:33:42 – Diplomacy was just as important as technology",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=LwQQ7nBCGSs",
+          "artworkUrl": "https://i.ytimg.com/vi/LwQQ7nBCGSs/hqdefault.jpg"
+        },
+        {
           "title": "Russia Couldn't Afford to Keep Fighting - Sarah Paine",
           "guest": null,
           "date": "2026-09-30T23:45:05+00:00",
@@ -466,56 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=jSkAV5f9Ptw",
           "artworkUrl": "https://i.ytimg.com/vi/jSkAV5f9Ptw/hqdefault.jpg"
-        },
-        {
-          "title": "How Korea Went from Civil War to Near World War - Sarah Paine",
-          "guest": null,
-          "date": "2026-09-29T22:34:45+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=xsYoSwrcNOY",
-          "artworkUrl": "https://i.ytimg.com/vi/xsYoSwrcNOY/hqdefault.jpg"
-        },
-        {
-          "title": "Why nobody could stop World War I - Sarah Paine",
-          "guest": null,
-          "date": "2026-09-28T20:27:26+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=DFCfEHD22RY",
-          "artworkUrl": "https://i.ytimg.com/vi/DFCfEHD22RY/hqdefault.jpg"
-        },
-        {
-          "title": "What If Each AI Generation Gets Slightly Less Aligned? - Noam Brown",
-          "guest": null,
-          "date": "2026-09-27T20:35:49+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=vkecOqfTh_I",
-          "artworkUrl": "https://i.ytimg.com/vi/vkecOqfTh_I/hqdefault.jpg"
-        },
-        {
-          "title": "Why LLMs Might Hit a Wall - Noam Brown",
-          "guest": null,
-          "date": "2026-09-26T20:14:06+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=_Wn0CUjFZWQ",
-          "artworkUrl": "https://i.ytimg.com/vi/_Wn0CUjFZWQ/hqdefault.jpg"
-        },
-        {
-          "title": "You can win every battle and still lose the war - Sarah Paine",
-          "guest": null,
-          "date": "2026-09-25T20:37:30+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=nHkYf3iGlRE",
-          "artworkUrl": "https://i.ytimg.com/vi/nHkYf3iGlRE/hqdefault.jpg"
         }
       ]
     },
