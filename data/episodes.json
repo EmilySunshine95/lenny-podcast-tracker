@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-15T01:12:03.517Z",
+  "lastFetched": "2026-10-16T00:59:13.640Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -18,7 +18,7 @@
           "guest": "Josh Woodward",
           "date": "2026-10-11T12:31:59Z",
           "description": "Josh Woodward is the head of Google Labs, the Gemini app, and AI Studio. He has spent over 17 years at Google and oversees its longest-running and largest labs team, whose products include NotebookLM (now Gemini Notebook), Project Genie, and Flow. His job is to find, experiment with, and scale new AI products, and he has built one of the most distinctive product cultures in the industry for generating ideas, running experiments, and, even more importantly, knowing when to quit.\nIn our in-depth conversation, we discuss:\n1. Why every company now needs to think and operate like a labs team\n2. Where the best ideas really come from\n3. The “almost possible” framework\n4. How to recognize genuine product-market fit early\n5. When to kill an idea\n6. What skills are rising in value in the AI era\n7. Why roles are not actually blurring into one universal builder role\n8. How to set up your internal labs team",
-          "descriptionCN": "乔什·伍德沃德 (Josh Woodward) 是 Google 实验室、Gemini 应用程序和 AI Studio 的负责人。他在 Google 工作了 17 年多，负责管理其运行时间最长、规模最大的实验室团队，其产品包括 NotebookLM（现为 Gemini Notebook）、Project Genie 和 Flow。他的工作是发现、试验和扩展新的人工智能产品，他建立了业内最独特的产品文化之一，用于产生想法、进行实验，更重要的是，知道何时退出。\n在我们的深入对话中，我们讨论：\n1. 为什么现在每家公司都需要像实验���团队一样思考和运作\n2. 最好的想法真正来自哪里\n3.“几乎可能”的框架\n4. 如何及早识别真正的产品与市场契合度\n5. 何时扼杀一个想法\n6.人工智能时代哪些技能的价值正在上升\n7. 为什么角色实际上并没有模糊为一个通用构建者角色\n8. 如何组建内部实验室团队",
+          "descriptionCN": "乔什·伍德沃德 (Josh Woodward) 是 Google 实验室、Gemini 应用程序和 AI Studio 的负责人。他在 Google 工作了 17 年多，负责管理其运行时间最长、规模最大的实验室团队，其产品包括 NotebookLM（现为 Gemini Notebook）、Project Genie 和 Flow。他的工作是发现、试验和扩展新的人工智能产品，他建立了业内最独特的产品文化之一，用于产生想法、进行实验，更重要的是，知道何时退出。\n在我们的深入对话中，我们讨论：\n1. 为什么现在每家公司都需要像实验��团队一样思考和运作\n2. 最好的想法真正来自哪里\n3.“几乎可能”的框架\n4. 如何及早识别真正的产品与市场契合度\n5. 何时扼杀一个想法\n6.人工智能时代哪些技能的价值正在上升\n7. 为什么角色实际上并没有模糊为一个通用构建者角色\n8. 如何组建内部实验室团队",
           "duration": 62,
           "url": "https://podcasts.apple.com/us/podcast/why-every-company-now-needs-to-think-and-operate-like/id1627920305?i=1000795263758&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/8d/78/588d78a0-2062-15fe-7566-235323c0f718/mza_9185879795648835118.png/600x600bb.jpg"
@@ -58,7 +58,7 @@
           "guest": "Roman Ugarte",
           "date": "2026-09-08T12:31:49Z",
           "description": "Roman Ugarte helped incubate and build Grok Bot, the popular new knowledge-work agent from SpaceXAI. A small, isolated team took it from first line of code to a working internal product in four weeks, and to a hugely successful public launch just three weeks later. Before Grok Bot, Roman led Growth at Cursor, where he helped scale the company from 15 people to over 1,000 before its acquisition by SpaceX.\nIn our in-depth conversation, we discuss:\n1. The origin story of Grok Bot\n2. The key decision to build it from scratch instead of adding it to Cursor\n3. Why the team personally onboarded nearly 300 of its first users\n4. The two early product decisions that made Grok Bot so successful\n5. Their “colleague-pilled” product philosophy\n6. Roman’s advice on moats, and what has allowed Cursor to keep winning in the most competitive market in the world",
-          "descriptionCN": "Roman Ugarte 帮助孵化和构建了 Grok Bot，这是 SpaceXAI 推出的流行的新型知识工作代理。一个小型、孤立的团队在四个星期内将其从第一行代码变成了一个可运行的内部产品，并在三周后取得了巨大成功的公开发布。在加入 Grok Bot 之前，Roman 领导了 Cursor 的发展，在该公司被 SpaceX 收购之前，他帮助该公司从 15 人扩大到 1,000 多人。\n在我们的深入对话中，我们讨论：\n1. Grok Bot 的起源故事\n2.关键决定���从头开始构建它而不是添加到Cursor中\n3. 为什么团队亲自吸引了近 300 名第一批用户\n4. 让 Grok Bot 如此成功的两个早期产品决策\n5. 他们的“同事堆积”的产品理念\n6. Roman 关于护城河的建议，以及是什么让 Cursor 在全球竞争最激烈的市场中不断获胜",
+          "descriptionCN": "Roman Ugarte 帮助孵化和构建了 Grok Bot，这是 SpaceXAI 推出的流行的新型知识工作代理。一个小型、孤立的团队在四个星期内将其从第一行代码变成了一个可运行的内部产品，并在三周后取得了巨大成功的公开发布。在加入 Grok Bot 之前，Roman 领导了 Cursor 的发展，在该公司被 SpaceX 收购之前，他帮助该公司从 15 人扩大到 1,000 多人。\n在我们的深入对话中，我们讨论：\n1. Grok Bot 的起源故事\n2.关键决定是��头开始构建它而不是添加到Cursor中\n3. 为什么团队亲自吸引了近 300 名第一批用户\n4. 让 Grok Bot 如此成功的两个早期产品决策\n5. 他们的“同事堆积”的产品理念\n6. Roman 关于护城河的建议，以及是什么让 Cursor 在全球竞争最激烈的市场中不断获胜",
           "duration": 83,
           "url": "https://podcasts.apple.com/us/podcast/how-we-built-grok-bot-in-a-month-roman-ugarte-spacexai/id1627920305?i=1000788466289&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/4e/39/fe4e39c3-c32e-36ec-8c31-70a7106b2a6a/mza_9529541479666928279.png/600x600bb.jpg"
@@ -458,64 +458,64 @@
       "color": "#6366f1",
       "episodes": [
         {
-          "title": "How Silver Made Spain Poorer - Si Sheppard",
+          "title": "How Spain Got Rich and Fell Behind - Si Sheppard",
           "guest": null,
-          "date": "2026-10-09T00:01:37+00:00",
+          "date": "2026-10-16T00:01:56+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=f2g-3rYGHJE",
-          "artworkUrl": "https://i.ytimg.com/vi/f2g-3rYGHJE/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ",
+          "artworkUrl": "https://i.ytimg.com/vi/hjhJQXlQ6HQ/hqdefault.jpg"
         },
         {
-          "title": "Why 90% of Cortés's Army Wasn't Spanish - Si Sheppard",
+          "title": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
           "guest": null,
-          "date": "2026-10-07T21:14:29+00:00",
+          "date": "2026-10-14T21:33:58+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=JoE9AbbVT9A",
-          "artworkUrl": "https://i.ytimg.com/vi/JoE9AbbVT9A/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8",
+          "artworkUrl": "https://i.ytimg.com/vi/_hH7vnTWnq8/hqdefault.jpg"
         },
         {
-          "title": "Toppling Saddam was the easy part - Sarah Paine",
+          "title": "Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard",
           "guest": null,
-          "date": "2026-10-06T22:55:07+00:00",
+          "date": "2026-10-12T17:40:51+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=7rk18oEEqzc",
-          "artworkUrl": "https://i.ytimg.com/vi/7rk18oEEqzc/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=RUoY5GCdONY",
+          "artworkUrl": "https://i.ytimg.com/vi/RUoY5GCdONY/hqdefault.jpg"
         },
         {
-          "title": "168 Conquistadors vs 80000 Inca - Si Sheppard",
+          "title": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
           "guest": null,
-          "date": "2026-10-05T21:07:07+00:00",
+          "date": "2026-10-11T20:54:26+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=NWZGTdxyTpc",
-          "artworkUrl": "https://i.ytimg.com/vi/NWZGTdxyTpc/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ",
+          "artworkUrl": "https://i.ytimg.com/vi/Q3nhfMQLZdQ/hqdefault.jpg"
         },
         {
-          "title": "The Army Sent to Stop Cortés Joined Him Instead - Si Sheppard",
+          "title": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
           "guest": null,
-          "date": "2026-10-04T20:57:04+00:00",
+          "date": "2026-10-10T18:49:05+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=j7AgSzNlRBk",
-          "artworkUrl": "https://i.ytimg.com/vi/j7AgSzNlRBk/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM",
+          "artworkUrl": "https://i.ytimg.com/vi/hTHPsAOEIWM/hqdefault.jpg"
         },
         {
-          "title": "How 168 Men Captured the Inca Emperor - Si Sheppard",
+          "title": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
           "guest": null,
-          "date": "2026-10-03T20:22:31+00:00",
+          "date": "2026-10-10T00:00:15+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=5QsADHyOU2w",
-          "artworkUrl": "https://i.ytimg.com/vi/5QsADHyOU2w/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=BWnygfn04qA",
+          "artworkUrl": "https://i.ytimg.com/vi/BWnygfn04qA/hqdefault.jpg"
         }
       ]
     },
@@ -610,7 +610,7 @@
           "guest": null,
           "date": "2026-07-03T00:07:40+00:00",
           "description": "Naval with three founders who are living in the future: Garry Tan (Y Combinator), Daniel Francis (Abel Police), and Farbood Nivi (A-LIST).\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\nPermalink:",
-          "descriptionCN": "Naval 的三位创始人都生活在未来：Garry Tan (Y Combinator)、Daniel Francis (Abel Police) 和 Farbood Nivi (A-LIST)。\n00:00 嘉宾介绍\n02:35 生活在未来\n03:58 人工智能会智胜我们吗？\n07:43 在人类的救济线\n09:59 技术精灵出局了\n12:33 我们投资了新冠病毒？！\n14:25 好的写作是新颖的\n18:50 像2028年一样���活\n24:32 真理点ai\n30:18 中国有重量吗？\n35:38 每个人都有人工智能焦虑\n39:32 让你的经纪人和我的经纪人谈谈\n42:01 如果开源占据主导地位怎么办？\n44:03 谷歌上的太阳正在落山\n48:00 乘坐AGI\n50:46 会有初创公司吗？\n54:05 保卫台湾\n1:00:05 加州帝国\n1:01:26 如果美国衰落\n1:03:11 通用基础机器人\n1:06:01 人类作为人工智能处理者\n永久链接：",
+          "descriptionCN": "Naval with three founders who are living in the future: Garry Tan (Y Combinator), Daniel Francis (Abel Police), and Farbood Nivi (A-LIST).\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\nPermalink:",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=6m-ZZBCiiEE",
           "artworkUrl": "https://i.ytimg.com/vi/6m-ZZBCiiEE/hqdefault.jpg"
@@ -620,7 +620,7 @@
           "guest": null,
           "date": "2026-06-17T04:27:30+00:00",
           "description": "With agents, you just don’t get stuck anymore. —Max Hodak",
-          "descriptionCN": "有了代理，您就不会再陷入困境。 ——马克斯·霍达克",
+          "descriptionCN": "With agents, you just don’t get stuck anymore. —Max Hodak",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=oeQNcZoRL4Y",
           "artworkUrl": "https://i.ytimg.com/vi/oeQNcZoRL4Y/hqdefault.jpg"
@@ -630,7 +630,7 @@
           "guest": null,
           "date": "2026-06-09T04:01:49+00:00",
           "description": "Don’t look at tokens either as inputs or outputs.  Just look at your time and look at the final output. — Naval",
-          "descriptionCN": "不要将代币视为输入或输出。  只需查看您的时间并查看最终输出即可。 — 海军",
+          "descriptionCN": "Don’t look at tokens either as inputs or outputs.  Just look at your time and look at the final output. — Naval",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=x-P119dx8xM",
           "artworkUrl": "https://i.ytimg.com/vi/x-P119dx8xM/hqdefault.jpg"
@@ -640,7 +640,7 @@
           "guest": null,
           "date": "2026-06-07T01:24:45+00:00",
           "description": "“Clearly there are 100x or 1,000x engineers now. The world hasn’t adjusted.”\n— Guillermo Rauch (Vercel)\nGuillermo: I’ve been really pilled with this idea of software factories. You used to ship the output directly, and everything inside the company was how good is person A at shipping output B? And now what’s happening is the way that I’m judging you as an engineer is, are you producing the factory that will produce multiplicative outputs B through Z, right?\nWe used to believe, and it used to be somewhat controversial, that there’s 10X engineers. Now clearly there’s 100X or 1,000X engineers. And the world hasn’t fully adjusted to this.\n@naval: I used to get flamed on Twitter for saying there are 10X engineers, because it flies in the face of so much equality philosophy that everyone’s equal. But the reality is, when you’re operating in idea domains—when you’re operating in intellectual domains and virtual digital domains—it’s not even 10X. It’s 100X or 1,000X, and it always has been.\nSatoshi, Notch, the guy who invented JavaScript, the Brendan Eichs of the world. John Carmack. These are 1,000X programmers.\nNot to even mention if you choose the right thing to work on versus the wrong thing to work on, that’s an infinity difference. And it could just be not necessarily even a better programmer, just one who had a better judgment of what to work on in the first place.\nAnd now obviously it’s less controversial, because of AI leverage.",
-          "descriptionCN": "“显然现在有 100 倍或 1,000 倍的工程师。世界还没有调整。”\n— 吉列尔莫·劳赫 (Vercel)\nGuillermo：我对软件工厂的想法非常着迷。你以前直接运送输出，公司内部的一切都是A在运送输出B时有多好？现在发生的事情是我对你作为一名工程师的评价，你是否正在生产将产生乘法输出 B 到 Z 的工厂，对吧？\n我们曾经相信，有 10X 工程师的存在，但也曾经存在一些争议。现在显然有 100 倍或 1,000 倍的工程师。世界还没有完全适应这一点。\n@naval：我曾经因为说有 10X 工程师而在 Twitter 上受到攻击，因为它违背了人人平等的平等理念。但现实是，当你在创意领域运作时——当你在知识领域和虚拟数字领域运作时——它甚至不是 10 倍。它是 100 倍或 1,000 倍，而且一直都是。\nSatoshi，Notch，JavaScript 的发明者，世界上的 Brendan Eichs。约翰·卡马克.这些是 1000 倍的程序员。\n更不用说你选择正确的工作还是错误的工作，这是一个无穷大的差异。而且不一定是更好的程序员，只是一个对首先要做什么有更好判断的人。\n现在，由于人工智能的影响力，它的争议显然减少了。",
+          "descriptionCN": "“Clearly there are 100x or 1,000x engineers now. The world hasn’t adjusted.”\n— Guillermo Rauch (Vercel)\nGuillermo: I’ve been really pilled with this idea of software factories. You used to ship the output directly, and everything inside the company was how good is person A at shipping output B? And now what’s happening is the way that I’m judging you as an engineer is, are you producing the factory that will produce multiplicative outputs B through Z, right?\nWe used to believe, and it used to be somewhat controversial, that there’s 10X engineers. Now clearly there’s 100X or 1,000X engineers. And the world hasn’t fully adjusted to this.\n@naval: I used to get flamed on Twitter for saying there are 10X engineers, because it flies in the face of so much equality philosophy that everyone’s equal. But the reality is, when you’re operating in idea domains—when you’re operating in intellectual domains and virtual digital domains—it’s not even 10X. It’s 100X or 1,000X, and it always has been.\nSatoshi, Notch, the guy who invented JavaScript, the Brendan Eichs of the world. John Carmack. These are 1,000X programmers.\nNot to even mention if you choose the right thing to work on versus the wrong thing to work on, that’s an infinity difference. And it could just be not necessarily even a better programmer, just one who had a better judgment of what to work on in the first place.\nAnd now obviously it’s less controversial, because of AI leverage.",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=RvdjkZeYIKg",
           "artworkUrl": "https://i.ytimg.com/vi/RvdjkZeYIKg/hqdefault.jpg"
@@ -650,7 +650,7 @@
           "guest": null,
           "date": "2026-06-01T18:47:33+00:00",
           "description": "Full episode with with 20 minutes of new material at the end. With Guillermo Rauch (Vercel), Blake Scholl (Boom Supersonic), and Max Hodak (Science).\nSoftware factories, vertical integration, the regulatory frontier, and the autonomous company.\nPart 1: Waste Tokens, Save Time\n00:00 Three Frontier Founders\n01:27 AI Software Factories\n04:15 Waste Tokens, Save Time\n05:47 Models Instructing Humans\n09:29 Is Pure Software Dead?\n12:03 You Don't Get Stuck Anymore\nPart 2: Vibe Coding Hardware\n14:39 Vibe Coding a Turbine Blade\n18:07 Open Source Compounds China's Advantage\n20:15 You Always Want the Smartest Model\n22:44 Software Still Needs Hands\n24:43 Humans Are Becoming Verifiers\nPart 3: The Regulatory Frontier\n27:53 The Regulatory Red Queen Race\n32:32 Why There's No Innovation in Healthcare\n36:49 We Need a True 50-State Experiment\n40:31 China's FDA Is Beating Ours\n43:37 Healthcare Is a Communist Society Inside Capitalism\n45:57 Sid's Story: N-of-1 Medicine\nPart 4: The Autonomous Company\n47:49 Autonomous Infrastructure\n51:25 Your Job Is to Train the Agent\n54:54 The Next Lord of the Rings\n59:08 What's Your Definition of Art?\n1:05:00 Can AI Have New Ideas?\n1:07:03 A Very Large Number of Small Teams\nTranscript:",
-          "descriptionCN": "整集最后有 20 分钟的新材料。与吉列尔莫·劳赫（Vercel）、布莱克·肖尔（Boom Supersonic）和马克斯·霍达克（Science）合作。\n软件工厂、垂直整合、监管前沿和自治公司。\n第 1 部分：浪费代币，节省时间\n00:00 三位前沿创始人\n01:27 人工智能软件工厂\n04:15 浪费代币，节省时间\n05:47 指导人类的模型\n09:29 纯软件死了吗？\n12:03 你不会再被卡住了\n第 2 部分：Vibe 编码硬件\n14:39 Vibe 编码涡轮叶片\n18:07 开源化合物中国的优势\n20:15 你总是想要最聪明的模型\n22:44 软件仍然需要人工\n24:43 人类正在成为验证者\n第 3 部分：监管前沿\n27:53 监管红皇后竞赛\n32:32 为什么医疗保健没有创新\n36:49 我们需要一个真正的 50 态实验\n40:31 中国的FDA正在打败我们\n43:37 医疗保健是资本主义内部的共产主义社会\n45:57 Sid 的故事：N-of-1 药物\n第 4 部分：自治公司\n47:49 自主基础设施\n51:25 你的工作是培训代理人\n54:54 下一个指环王\n59:08 您对艺术的定义是什么？\n1:05:00 AI能有新想法吗？\n1:07:03 大量小团队\n成绩单：",
+          "descriptionCN": "Full episode with with 20 minutes of new material at the end. With Guillermo Rauch (Vercel), Blake Scholl (Boom Supersonic), and Max Hodak (Science).\nSoftware factories, vertical integration, the regulatory frontier, and the autonomous company.\nPart 1: Waste Tokens, Save Time\n00:00 Three Frontier Founders\n01:27 AI Software Factories\n04:15 Waste Tokens, Save Time\n05:47 Models Instructing Humans\n09:29 Is Pure Software Dead?\n12:03 You Don't Get Stuck Anymore\nPart 2: Vibe Coding Hardware\n14:39 Vibe Coding a Turbine Blade\n18:07 Open Source Compounds China's Advantage\n20:15 You Always Want the Smartest Model\n22:44 Software Still Needs Hands\n24:43 Humans Are Becoming Verifiers\nPart 3: The Regulatory Frontier\n27:53 The Regulatory Red Queen Race\n32:32 Why There's No Innovation in Healthcare\n36:49 We Need a True 50-State Experiment\n40:31 China's FDA Is Beating Ours\n43:37 Healthcare Is a Communist Society Inside Capitalism\n45:57 Sid's Story: N-of-1 Medicine\nPart 4: The Autonomous Company\n47:49 Autonomous Infrastructure\n51:25 Your Job Is to Train the Agent\n54:54 The Next Lord of the Rings\n59:08 What's Your Definition of Art?\n1:05:00 Can AI Have New Ideas?\n1:07:03 A Very Large Number of Small Teams\nTranscript:",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=v6MWNrVbM4E",
           "artworkUrl": "https://i.ytimg.com/vi/v6MWNrVbM4E/hqdefault.jpg"
@@ -660,7 +660,7 @@
           "guest": null,
           "date": "2026-05-21T15:53:45+00:00",
           "description": "Doom is easy. Optimism takes imagination.\nThe Only Way Out\nA Podcast Film",
-          "descriptionCN": "厄运很容易。乐观需要想象力。\n唯一的出路\n播客电影",
+          "descriptionCN": "Doom is easy. Optimism takes imagination.\nThe Only Way Out\nA Podcast Film",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=jf-xA0zprZs",
           "artworkUrl": "https://i.ytimg.com/vi/jf-xA0zprZs/hqdefault.jpg"
