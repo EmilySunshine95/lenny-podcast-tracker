@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-16T00:59:13.640Z",
+  "lastFetched": "2026-10-17T01:01:42.618Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -28,7 +28,7 @@
           "guest": "Tibo Sottiaux",
           "date": "2026-10-04T12:32:47Z",
           "description": "Tibo Sottiaux leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.\nWe discuss:\n1. Dots, OpenAI’s new personal AI assistant\n2. Why most actions on the internet will soon be taken by agents\n3. Why loops, graphs, and fine-tuning agent workflows are a passing phase\n4. Which skills are trending up and down in the AI era\n5. How Tibo’s Dot warned him about a production outage five minutes before the launch\n6. OpenAI’s approach to AI safety",
-          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一个过渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
+          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. ��什么循环、图形和微调代理工作流程是一个过渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
           "duration": 37,
           "url": "https://podcasts.apple.com/us/podcast/openais-head-of-chatgpt-were-entering-a-new-era/id1627920305?i=1000793099277&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/ca/fd/e4cafda0-e7e8-ccd4-388d-93341a6bd344/mza_6770909817174607087.png/600x600bb.jpg"
