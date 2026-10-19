@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-18T00:37:28.716Z",
+  "lastFetched": "2026-10-19T00:47:00.474Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -13,6 +13,16 @@
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#4f46e5",
       "episodes": [
+        {
+          "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+          "guest": "Emmanuel Ameisen",
+          "date": "2026-10-18T12:31:36Z",
+          "description": "Emmanuel Ameisen is an interpretability researcher at Anthropic, where he looks inside LLMs like Claude to understand how they think. Before joining Anthropic, he spent years in applied ML at Stripe and Insight, and is the author of Building Machine Learning Powered Applications. His research has produced some of the most striking findings in the field: that models form general representations of concepts, plan many tokens ahead without stating those plans explicitly, and may exhibit something structurally similar to the distinction between conscious and unconscious processing in humans.\nWe discuss:\n1. Why the “next-token predictor” framing undersells how models actually plan and think\n2. Why anthropomorphizing AI can actually be the right approach\n3. Why models are “grown,” not built\n4. What the “J space” reveals about model self-awareness\n5. The smooth scaling curve behind what look like sudden capability jumps\n6. How interpretability connects to AI alignment and safety",
+          "descriptionCN": "Emmanuel Ameisen 是 Anthropic 的可解释性研究员，他深入研究像 Claude 这样的法学硕士，以了解他们的想法。在加入 Anthropic 之前，他在 Stripe 和 Insight 从事应用机器学习工作多年，并且是《构建机器学习驱动的应用程序》一书的作者。他的研究产生了该领域一些最引人注目的发现：模型形成概念的一般表示，提前计划许多标记而无需明确说明这些计划，并且可能在结构上表现出类似于人类有意识和无意识处理之间的区别的东西。\n我们讨论：\n1. 为什么“下一个令牌预测器”框架低估了模型实际计划和思考的方式\n2. 为什么人工智能拟人化实际上是正确的方法\n3. 为什么模型是“成长”的，而不是构建的\n4.“J空间”揭示了模特的自我意识\n5.看似突然的能力跳跃背后的平滑缩放曲线\n6. 可解释性如何与人工智能一致性和安全性联系起来",
+          "duration": 72,
+          "url": "https://podcasts.apple.com/us/podcast/inside-the-black-box-of-ai-how-ai-models-actually/id1627920305?i=1000796921555&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/68/9a/c1689a29-e55d-25f5-843d-25a40cd0a445/mza_2218839203053274660.png/600x600bb.jpg"
+        },
         {
           "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
           "guest": "Josh Woodward",
@@ -58,20 +68,10 @@
           "guest": "Roman Ugarte",
           "date": "2026-09-08T12:31:49Z",
           "description": "Roman Ugarte helped incubate and build Grok Bot, the popular new knowledge-work agent from SpaceXAI. A small, isolated team took it from first line of code to a working internal product in four weeks, and to a hugely successful public launch just three weeks later. Before Grok Bot, Roman led Growth at Cursor, where he helped scale the company from 15 people to over 1,000 before its acquisition by SpaceX.\nIn our in-depth conversation, we discuss:\n1. The origin story of Grok Bot\n2. The key decision to build it from scratch instead of adding it to Cursor\n3. Why the team personally onboarded nearly 300 of its first users\n4. The two early product decisions that made Grok Bot so successful\n5. Their “colleague-pilled” product philosophy\n6. Roman’s advice on moats, and what has allowed Cursor to keep winning in the most competitive market in the world",
-          "descriptionCN": "Roman Ugarte 帮助孵化和构建了 Grok Bot，这是 SpaceXAI 推出的流行的新型知识工作代理。一个小型、孤立的团队在四个星期内将其从第一行代码变成了一个可运行的内部产品，并在三周后取得了巨大成功的公开发布。在加入 Grok Bot 之前，Roman 领导了 Cursor 的发展，在该公司被 SpaceX 收购之前，他帮助该公司从 15 人扩大到 1,000 多人。\n在我们的深入对话中，我们讨论：\n1. Grok Bot 的起源故事\n2.关键决定是��头开始构建它而不是添加到Cursor中\n3. 为什么团队亲自吸引了近 300 名第一批用户\n4. 让 Grok Bot 如此成功的两个早期产品决策\n5. 他们的“同事堆积”的产品理念\n6. Roman 关于护城河的建议，以及是什么让 Cursor 在全球竞争最激烈的市场中不断获胜",
+          "descriptionCN": "Roman Ugarte 帮助孵化和构建了 Grok Bot，这是 SpaceXAI 推出的流行的新型知识工作代理。一个小型、孤立的团队在四个星期内将其从第一行代码变成了一个可运行的内部产品，并在三周后取得了巨大成功的公开发布。在加入 Grok Bot 之前，Roman 领导了 Cursor 的发展，在该公司被 SpaceX 收购之前，他帮助该公司从 15 人扩大到 1,000 多人。\n在我们的深入对话中，我们讨论：\n1. Grok Bot 的起源故事\n2.关键决定是��头开始构建它而不是添加到Cursor中\n3. 为什么团队亲自吸引了近 300 名第一批用户\n4. 让 Grok Bot 如此成功的两个早期产品决策\n5. 他们的“同事堆积”产品理念\n6. Roman 关于护城河的建议，以及是什么让 Cursor 在全球竞争最激烈的市场中不断获胜",
           "duration": 83,
           "url": "https://podcasts.apple.com/us/podcast/how-we-built-grok-bot-in-a-month-roman-ugarte-spacexai/id1627920305?i=1000788466289&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/4e/39/fe4e39c3-c32e-36ec-8c31-70a7106b2a6a/mza_9529541479666928279.png/600x600bb.jpg"
-        },
-        {
-          "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
-          "guest": "Anish Acharya",
-          "date": "2026-09-06T12:32:00Z",
-          "description": "Anish Acharya is a General Partner at Andreessen Horowitz (a16z), where he has focused on consumer investing. Anish is one of the most insightful, thought-provoking, and in-the-weeds product investors I’ve met, and this conversation will get your mind buzzing. Before joining a16z, Anish was a serial founder and operator: he founded SocialDeck, which he sold to Google, then led multiple efforts inside Google before founding Snowball, which he sold to Credit Karma. At Credit Karma he rose to VP of Product and then GM of the consumer product and the broader credit card business.\nIn our in-depth conversation, we discuss:\n1. Why you don’t have to worry about becoming part of the “permanent underclass”\n2. Why company building will now involve creating a series of loops\n3. What’s happening in consumer right now\n4. Why the biggest opportunity in consumer is “/loop, make me happier”\n5. Why moats are discovered, not designed\n6. The rising importance of distribution as a moat\n7. Being a model sommelier",
-          "descriptionCN": "Anish Acharya 是 Andreessen Horowitz (a16z) 的普通合伙人，专注于消费者投资。安尼什是我见过的最有洞察力、最发人深省、最活跃的产品投资者之一，这次谈话会让你头脑发热。在加入 a16z 之前，Anish 是一位连续创始人和运营商：他创立了 SocialDeck，并将其卖给了 Google，然后在 Google 内部领导了多项工作，最后创立了 Snowball，并将其卖给了 Credit Karma。在 Credit Karma，他升任产品副总裁，然后担任消费产品和更广泛的信用卡业务总经理。\n在我们的深入对话中，我们讨论：\n1. 为什么你不必担心成为“永久下层阶级”的一部分\n2. 为什么公司建设现在需要创建一系列循环\n3. 消费者现在正在发生什么\n4. 为什么消费者最大的机会是“/loop，让我更快乐”\n5. 为什么护城河是被发现的，而不是设计的\n6. 分销作为护城河的重要性日益增加\n7. 成为模范侍酒师",
-          "duration": 79,
-          "url": "https://podcasts.apple.com/us/podcast/why-companies-are-becoming-a-series-of-loops/id1627920305?i=1000788139953&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/67/3c/0b673cf3-f7fd-712f-b0ec-b6a54cbdbaa8/mza_10770216234561998010.jpg/600x600bb.jpg"
         }
       ]
     },
