@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-21T01:15:28.535Z",
+  "lastFetched": "2026-10-22T01:11:10.248Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -162,64 +162,64 @@
       "color": "#0ea5e9",
       "episodes": [
         {
-          "title": "Consumers Will Never Pay for AI",
+          "title": "Why AI Companies Are Betting Personality Beats Intelligence",
           "guest": null,
-          "date": "2026-10-07T14:03:10+00:00",
-          "description": "Only 2.2% of US households pay for AI, and the top 1% of spenders outspend the bottom half combined. NLW digs into a16z's new consumer AI rankings and the argument it set off over whether the other 98% are early adopters in waiting or people who will never buy an AI subscription at all. In the headlines: Reflection AI's Beam open model lands, New York City holds an existential risk hearing, and Microsoft and Meta slash their Claude spending.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Only 2.2% of US households pay for AI, and the top 1% of spenders outspend the bottom half combined. NLW digs into a16z's new consumer AI rankings and the argument it set off over whether the other 98% are early adopters in waiting or people who will never buy an AI subscription at all. In the headlines: Reflection AI's Beam open model lands, New York City holds an existential risk hearing, and Microsoft and Meta slash their Claude spending.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "date": "2026-10-21T12:38:24+00:00",
+          "description": "AI personality is becoming a real battleground as intelligence gets commoditized, and a new Artificial Analysis benchmark now measures traits like warmth, imagination, and slop. NLW traces key moments from the DeepSeek reasoning craze to the GPT-4o revolt and Opus 5, and looks at why Meta’s Muse leans on character. In the headlines: Elon Musk’s SpaceX share gift to American kids, the White House AI task force’s export control threat, a Saudi link in the OpenAI listening device case, and a DHS ban on DeepSeek.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "AI personality is becoming a real battleground as intelligence gets commoditized, and a new Artificial Analysis benchmark now measures traits like warmth, imagination, and slop. NLW traces key moments from the DeepSeek reasoning craze to the GPT-4o revolt and Opus 5, and looks at why Meta’s Muse leans on character. In the headlines: Elon Musk’s SpaceX share gift to American kids, the White House AI task force’s export control threat, a Saudi link in the OpenAI listening device case, and a DHS ban on DeepSeek.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=J3n4IUwmuOM",
-          "artworkUrl": "https://i.ytimg.com/vi/J3n4IUwmuOM/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=FSX5JFJS9PQ",
+          "artworkUrl": "https://i.ytimg.com/vi/FSX5JFJS9PQ/hqdefault.jpg"
         },
         {
-          "title": "America's Open Model Comeback Is Starting",
+          "title": "The AI Wealth Problem",
           "guest": null,
-          "date": "2026-10-06T15:24:34+00:00",
-          "description": "Reflection AI is about to drop an open model that could bring the open-weight crown back to the US, and several other American labs are lining up behind it. NLW breaks down how the open-weight conversation split into three separate debates about safety, national security, and enterprise strategy, and why data sovereignty is making open models the serious enterprise pick. In the headlines: Amazon's billion-dollar data center community pledge, Sam Altman's rough soundbite on AI safety, and Meta open sourcing the Muse gadget firmware.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Reflection AI is about to drop an open model that could bring the open-weight crown back to the US, and several other American labs are lining up behind it. NLW breaks down how the open-weight conversation split into three separate debates about safety, national security, and enterprise strategy, and why data sovereignty is making open models the serious enterprise pick. In the headlines: Amazon's billion-dollar data center community pledge, Sam Altman's rough soundbite on AI safety, and Meta open sourcing the Muse gadget firmware.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "date": "2026-10-20T12:46:57+00:00",
+          "description": "Anthropic’s new Public Benefit Fund commits roughly 20 percent of company shares to the public good, and the debate reveals a bigger fight over AI wealth, power, and democracy. NLW breaks down the praise and criticism, plus Anthropic’s proposed AI safety bill and why safety advocates are upset. In the headlines: the OpenCode cyber attack, AI bubble fears, Microsoft pulling a UK data center deal, and New York City’s call to pause the Anthropic IPO.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "Anthropic’s new Public Benefit Fund commits roughly 20 percent of company shares to the public good, and the debate reveals a bigger fight over AI wealth, power, and democracy. NLW breaks down the praise and criticism, plus Anthropic’s proposed AI safety bill and why safety advocates are upset. In the headlines: the OpenCode cyber attack, AI bubble fears, Microsoft pulling a UK data center deal, and New York City’s call to pause the Anthropic IPO.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=nXKbGxi5tOg",
-          "artworkUrl": "https://i.ytimg.com/vi/nXKbGxi5tOg/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=bw8nHS0_cl0",
+          "artworkUrl": "https://i.ytimg.com/vi/bw8nHS0_cl0/hqdefault.jpg"
         },
         {
-          "title": "How to Choose Your Personal Agent",
+          "title": "A Potentially Historic AI Breakthrough",
           "guest": null,
-          "date": "2026-10-05T23:54:14+00:00",
-          "description": "Dots, Muse, GrokBot, OpenClaw and more are competing to become your personal AI agent. But which one is right for you? NLW breaks down the trade-offs that matter most, from work versus personal use to model choice, ease of setup and data privacy, and walks through an interactive quiz designed to help you choose where to start.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Dots, Muse, GrokBot, OpenClaw and more are competing to become your personal AI agent. But which one is right for you? NLW breaks down the trade-offs that matter most, from work versus personal use to model choice, ease of setup and data privacy, and walks through an interactive quiz designed to help you choose where to start.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "date": "2026-10-19T16:41:01+00:00",
+          "description": "A new essay from former OpenAI researcher Nick Cammarata is being hailed as a potentially historic AI breakthrough. His argument: neural networks may already be far more understandable than researchers believed, and years of apparent complexity may reflect flaws in how we’ve been looking at them. NLW breaks down the surprisingly simple connection between cat faces and car fronts, why bigger models could be easier to interpret, and what this could mean for detecting AI deception—with a look at what the evidence shows and what remains unproven.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "A new essay from former OpenAI researcher Nick Cammarata is being hailed as a potentially historic AI breakthrough. His argument: neural networks may already be far more understandable than researchers believed, and years of apparent complexity may reflect flaws in how we’ve been looking at them. NLW breaks down the surprisingly simple connection between cat faces and car fronts, why bigger models could be easier to interpret, and what this could mean for detecting AI deception—with a look at what the evidence shows and what remains unproven.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=WloeFbIX7PU",
-          "artworkUrl": "https://i.ytimg.com/vi/WloeFbIX7PU/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=d6SO10ihpL4",
+          "artworkUrl": "https://i.ytimg.com/vi/d6SO10ihpL4/hqdefault.jpg"
         },
         {
-          "title": "AI Agents Are Moving Into the Real World",
+          "title": "The Most Important AI Model Announcements This Week",
           "guest": null,
-          "date": "2026-10-05T14:23:44+00:00",
-          "description": "Meta is bringing Muse to smart glasses and a new wearable, while GrokBot is turning Teslas into voice-controlled personal assistants. As skeptics question whether consumers actually want AI agents, early users are finding real value in handing off life's annoying admin. In the headlines: Claude’s preliminary biology discovery, Trump’s “Super Intelligence” rebrand, and competing visions for AI governance at the UN.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Meta is bringing Muse to smart glasses and a new wearable, while GrokBot is turning Teslas into voice-controlled personal assistants. As skeptics question whether consumers actually want AI agents, early users are finding real value in handing off life's annoying admin. In the headlines: Claude’s preliminary biology discovery, Trump’s “Super Intelligence” rebrand, and competing visions for AI governance at the UN.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "date": "2026-10-16T23:13:03+00:00",
+          "description": "The most consequential AI announcements this week might be the ones getting the least attention. NLW explores what Microsoft’s MAI Base 2 and Meta’s Muse Spark Open mean for how businesses use, customize, and pay for AI. In the headlines: Anthropic’s embedded safety evaluators, Cognition’s performance-based token budgets, and a community-built AI battle royale.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "The most consequential AI announcements this week might be the ones getting the least attention. NLW explores what Microsoft’s MAI Base 2 and Meta’s Muse Spark Open mean for how businesses use, customize, and pay for AI. In the headlines: Anthropic’s embedded safety evaluators, Cognition’s performance-based token budgets, and a community-built AI battle royale.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=ft3psYNsdO0",
-          "artworkUrl": "https://i.ytimg.com/vi/ft3psYNsdO0/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=pmuGWJte_EY",
+          "artworkUrl": "https://i.ytimg.com/vi/pmuGWJte_EY/hqdefault.jpg"
         },
         {
-          "title": "What the Best Business AI Users Are Doing Different",
+          "title": "How the Latest AI Model Jump is Disrupting Business Models",
           "guest": null,
-          "date": "2026-10-03T16:17:53+00:00",
-          "description": "What separates businesses getting real returns from AI from those still experimenting? New KPMG research reveals how leading organizations are scaling agents, managing multiple models, and connecting AI spending to business value—with ambitions increasingly extending beyond efficiency to revenue growth. In the headlines: Meta’s Muse-fueled rally, Anthropic’s push for a pre-Thanksgiving IPO, and Google’s first AI chips in orbit.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "What separates businesses getting real returns from AI from those still experimenting? New KPMG research reveals how leading organizations are scaling agents, managing multiple models, and connecting AI spending to business value—with ambitions increasingly extending beyond efficiency to revenue growth. In the headlines: Meta’s Muse-fueled rally, Anthropic’s push for a pre-Thanksgiving IPO, and Google’s first AI chips in orbit.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "date": "2026-10-16T12:39:41+00:00",
+          "description": "Astra and Opus 5.5 are decompiling and rebuilding software and games, putting real pressure on the business models of SaaS giants and game studios. NLW breaks down how Epic, Xbox, and legacy brands are responding, and where the disruption is real versus overhyped. In the headlines: Anthropic’s pre-IPO revenue numbers, CoreWeave’s distressed bonds, ASML’s supply limits, and Nvidia’s push on AI safety.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "Astra and Opus 5.5 are decompiling and rebuilding software and games, putting real pressure on the business models of SaaS giants and game studios. NLW breaks down how Epic, Xbox, and legacy brands are responding, and where the disruption is real versus overhyped. In the headlines: Anthropic’s pre-IPO revenue numbers, CoreWeave’s distressed bonds, ASML’s supply limits, and Nvidia’s push on AI safety.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=Rx7G-8myrd8",
-          "artworkUrl": "https://i.ytimg.com/vi/Rx7G-8myrd8/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=xIFMwhvvUUo",
+          "artworkUrl": "https://i.ytimg.com/vi/xIFMwhvvUUo/hqdefault.jpg"
         },
         {
-          "title": "The Rise of the AI Moderates",
+          "title": "How to Go from AI Power User to AI Leader",
           "guest": null,
-          "date": "2026-10-02T17:42:04+00:00",
-          "description": "As the AI debate grows more polarized, a growing chorus is rejecting the choice between unchecked optimism and inevitable doom. NLW explores arguments from Francis Fukuyama, AI researchers, and Jeffrey Katzenberg that point toward a more productive conversation about AI risk, human creativity, and who gets a say in shaping what comes next.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "As the AI debate grows more polarized, a growing chorus is rejecting the choice between unchecked optimism and inevitable doom. NLW explores arguments from Francis Fukuyama, AI researchers, and Jeffrey Katzenberg that point toward a more productive conversation about AI risk, human creativity, and who gets a say in shaping what comes next.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "date": "2026-10-15T20:00:01+00:00",
+          "description": "As AI becomes central to work, a new leadership opportunity is emerging for those who can help others use it effectively. In this Operator's Cut, NLW and Nufar explore how AI power users can become leaders on their teams, the skills that distinguish great AI champions, and how companies can build programs that turn individual expertise into real business value.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "As AI becomes central to work, a new leadership opportunity is emerging for those who can help others use it effectively. In this Operator's Cut, NLW and Nufar explore how AI power users can become leaders on their teams, the skills that distinguish great AI champions, and how companies can build programs that turn individual expertise into real business value.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=0fZTguKX9xM",
-          "artworkUrl": "https://i.ytimg.com/vi/0fZTguKX9xM/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=wdXF-5nn-T4",
+          "artworkUrl": "https://i.ytimg.com/vi/wdXF-5nn-T4/hqdefault.jpg"
         }
       ]
     },
