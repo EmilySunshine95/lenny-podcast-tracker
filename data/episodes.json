@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-22T01:11:10.248Z",
+  "lastFetched": "2026-10-23T01:11:11.668Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -88,6 +88,26 @@
       "color": "#f59e0b",
       "episodes": [
         {
+          "title": "How To Make Your First Viral YouTube Video Script",
+          "guest": null,
+          "date": "2026-10-19T17:32:01+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=B74niQ96kXM",
+          "artworkUrl": "https://i.ytimg.com/vi/B74niQ96kXM/hqdefault.jpg"
+        },
+        {
+          "title": "All it takes is 6 months to change your trajectory",
+          "guest": null,
+          "date": "2026-10-17T17:26:01+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=Wf0V7Zd2t_w",
+          "artworkUrl": "https://i.ytimg.com/vi/Wf0V7Zd2t_w/hqdefault.jpg"
+        },
+        {
           "title": "A core sign of low intelligence",
           "guest": null,
           "date": "2026-10-06T23:09:04+00:00",
@@ -126,26 +146,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=rAjMOfKSAks",
           "artworkUrl": "https://i.ytimg.com/vi/rAjMOfKSAks/hqdefault.jpg"
-        },
-        {
-          "title": "If You Have Multiple Interests, Please Start a One-Person Business",
-          "guest": null,
-          "date": "2026-09-11T16:01:32+00:00",
-          "description": "Free: the full one person business AI system:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
-          "descriptionCN": "Free: the full one person business AI system:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=XqS7kIWMIDE",
-          "artworkUrl": "https://i.ytimg.com/vi/XqS7kIWMIDE/hqdefault.jpg"
-        },
-        {
-          "title": "If You Have Multiple Interests, Please Take Advantage of the Next 10 Years",
-          "guest": null,
-          "date": "2026-09-03T20:32:23+00:00",
-          "description": "Creator bootcamp starts sept 9th:\nCombine your interests into one brand with this custom AI:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
-          "descriptionCN": "Creator bootcamp starts sept 9th:\nCombine your interests into one brand with this custom AI:\nMy weekly writing on the mind, the internet, and the future:\nIf you'd rather listen to these videos on Spotify:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=pmQhqVLVApw",
-          "artworkUrl": "https://i.ytimg.com/vi/pmQhqVLVApw/hqdefault.jpg"
         }
       ]
     },
@@ -161,6 +161,16 @@
       "youtube": "https://www.youtube.com/@AIDailyBrief",
       "color": "#0ea5e9",
       "episodes": [
+        {
+          "title": "How AI is Changing What Work Means",
+          "guest": null,
+          "date": "2026-10-22T13:55:14+00:00",
+          "description": "Why is a financial research firm using AI to design proteins that target scorpion venom? Because AI is changing what work means—and what businesses are capable of doing. Citrini Research’s unexpected experiment opens up bigger questions about who gets to do science, whether AI labs will compete with their customers, and how far companies can push beyond their traditional expertise. In the headlines: Muse hits 10 million US downloads, Gemini gets more personal in Android Auto, and Anthropic’s financial disclosures spark fresh valuation debates.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "Why is a financial research firm using AI to design proteins that target scorpion venom? Because AI is changing what work means—and what businesses are capable of doing. Citrini Research’s unexpected experiment opens up bigger questions about who gets to do science, whether AI labs will compete with their customers, and how far companies can push beyond their traditional expertise. In the headlines: Muse hits 10 million US downloads, Gemini gets more personal in Android Auto, and Anthropic’s financial disclosures spark fresh valuation debates.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=65EUWUM-clM",
+          "artworkUrl": "https://i.ytimg.com/vi/65EUWUM-clM/hqdefault.jpg"
+        },
         {
           "title": "Why AI Companies Are Betting Personality Beats Intelligence",
           "guest": null,
@@ -210,16 +220,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=xIFMwhvvUUo",
           "artworkUrl": "https://i.ytimg.com/vi/xIFMwhvvUUo/hqdefault.jpg"
-        },
-        {
-          "title": "How to Go from AI Power User to AI Leader",
-          "guest": null,
-          "date": "2026-10-15T20:00:01+00:00",
-          "description": "As AI becomes central to work, a new leadership opportunity is emerging for those who can help others use it effectively. In this Operator's Cut, NLW and Nufar explore how AI power users can become leaders on their teams, the skills that distinguish great AI champions, and how companies can build programs that turn individual expertise into real business value.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "As AI becomes central to work, a new leadership opportunity is emerging for those who can help others use it effectively. In this Operator's Cut, NLW and Nufar explore how AI power users can become leaders on their teams, the skills that distinguish great AI champions, and how companies can build programs that turn individual expertise into real business value.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=wdXF-5nn-T4",
-          "artworkUrl": "https://i.ytimg.com/vi/wdXF-5nn-T4/hqdefault.jpg"
         }
       ]
     },
@@ -384,6 +384,26 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "What Elon Musk would do if he lost everything",
+          "guest": null,
+          "date": "2026-10-22T21:31:01+00:00",
+          "description": "What Elon Musk would do if he lost everything",
+          "descriptionCN": "What Elon Musk would do if he lost everything",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=_Lux62iTbFE",
+          "artworkUrl": "https://i.ytimg.com/vi/_Lux62iTbFE/hqdefault.jpg"
+        },
+        {
+          "title": "Why Zuckerberg bet $15B on Alexander Wang",
+          "guest": null,
+          "date": "2026-10-22T00:11:40+00:00",
+          "description": "Why Zuckerberg bet $15B on Alexander Wang",
+          "descriptionCN": "Why Zuckerberg bet $15B on Alexander Wang",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=aX6-BC2rBHI",
+          "artworkUrl": "https://i.ytimg.com/vi/aX6-BC2rBHI/hqdefault.jpg"
+        },
+        {
           "title": "How this tiny golf game makes $500K a year",
           "guest": null,
           "date": "2026-10-20T22:39:53+00:00",
@@ -394,7 +414,7 @@
           "artworkUrl": "https://i.ytimg.com/vi/b89qg6pBp2E/hqdefault.jpg"
         },
         {
-          "title": "We watched the 3hr Elizabeth Holmes doc so you don’t have to",
+          "title": "We watched the Elizabeth Holmes doc (and honestly, WTF)",
           "guest": null,
           "date": "2026-10-20T15:18:43+00:00",
           "description": "*Sam's database on how long it takes to become a millionaire:*\nEpisode 874: Shaan Puri (  ) and Sam Parr (  ) are breaking down the best documentary of the year.\nCheck Out Sam's Stuff:\n• Hampton (joinhampton.com): My community for founders. Average member does $25m/year. Many of the guests are members. Get after it...apply:\nCheck Out Shaan's Stuff:\n• Shaan's weekly email -\n• Visit  to hire worldwide talent like Shaan and get $500 off for being an MFM listener. Hire developers, assistants, marketing pros, sales teams and more for 80% less than US equivalents.\n• Mercury - Shaan uses Mercury across all of his companies. you can too:\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided by Choice Financial Group, Column, N.A., Members FDIC\n• I run all my newsletters on Beehiiv and you should too + we're giving away $10k to our favorite newsletter, check it out:\nbeehiiv.com/mfm-challenge\nMy First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano /",
@@ -404,7 +424,7 @@
           "artworkUrl": "https://i.ytimg.com/vi/VVw5m7IA0no/hqdefault.jpg"
         },
         {
-          "title": "This guy beat the S&P500 for 11 years doing (almost) nothing",
+          "title": "How he beat the S&P 500 for 11 years doing (almost) nothing",
           "guest": null,
           "date": "2026-10-19T13:30:31+00:00",
           "description": "*Investing guide: 35+ money principles from investors/financial operators*\nEpisode 873: Shaan Puri (  ) and Sam Parr (  ) talk about an investor who makes 2.9 decisions a year, Zuck’s victory lap and what happened when Sam hired an executive coach.\nShow Notes:\n(0:00) Zero Action Investing\n(7:55) Premortems\n(10:05) Zuck's Victory Lap\n(16:50) The Superpower of 100x Leaders\n(20:45) Sam Hires an Executive Coach\n(21:35) Identify the Game You're Playing\n(30:15) Keep Your Sails Up\n(33:45) Sam Attacks His Panic Attacks\n(38:55) Role Playing Hard Situations\n(41:00) How to Prep for the Scariest Moments\nCheck Out Sam's Stuff:\n• Hampton (joinhampton.com): My community for founders. Average member does $25m/year. Many of the guests are members. Get after it...apply:\nCheck Out Shaan's Stuff:\n• Shaan's weekly email -\n• Visit  to hire worldwide talent like Shaan and get $500 off for being an MFM listener. Hire developers, assistants, marketing pros, sales teams and more for 80% less than US equivalents.\n• Mercury - Shaan uses Mercury across all of his companies. you can too:\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided by Choice Financial Group, Column, N.A., Members FDIC\n• I run all my newsletters on Beehiiv and you should too + we're giving away $10k to our favorite newsletter, check it out:\nbeehiiv.com/mfm-challenge\nMy First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano /",
@@ -422,26 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=EWckNEYWshY",
           "artworkUrl": "https://i.ytimg.com/vi/EWckNEYWshY/hqdefault.jpg"
-        },
-        {
-          "title": "One Family Controls 70% of All Motels",
-          "guest": null,
-          "date": "2026-10-18T22:58:02+00:00",
-          "description": "One Family Controls 70% of All Motels",
-          "descriptionCN": "One Family Controls 70% of All Motels",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=0ab30SMpLFo",
-          "artworkUrl": "https://i.ytimg.com/vi/0ab30SMpLFo/hqdefault.jpg"
-        },
-        {
-          "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
-          "guest": null,
-          "date": "2026-10-17T22:43:10+00:00",
-          "description": "Howard Marks: The S&P 500 isn’t a good bet right now",
-          "descriptionCN": "Howard Marks: The S&P 500 isn’t a good bet right now",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=pTuzmOblTGY",
-          "artworkUrl": "https://i.ytimg.com/vi/pTuzmOblTGY/hqdefault.jpg"
         }
       ]
     },
@@ -458,64 +458,64 @@
       "color": "#6366f1",
       "episodes": [
         {
-          "title": "How Spain Got Rich and Fell Behind - Si Sheppard",
+          "title": "AI’s bottleneck isn’t compute. It’s geometry.",
           "guest": null,
-          "date": "2026-10-16T00:01:56+00:00",
+          "date": "2026-10-22T23:21:44+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=hjhJQXlQ6HQ",
-          "artworkUrl": "https://i.ytimg.com/vi/hjhJQXlQ6HQ/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY",
+          "artworkUrl": "https://i.ytimg.com/vi/o5UZtZuPAeY/hqdefault.jpg"
         },
         {
-          "title": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
+          "title": "What will computer chips look like in 2045?",
           "guest": null,
-          "date": "2026-10-14T21:33:58+00:00",
-          "description": "",
-          "descriptionCN": "",
+          "date": "2026-10-22T16:00:07+00:00",
+          "description": "I spent two days touring Intel’s most advanced fab and talking to its technical leadership to understand what the chips of the future will look like.\nA lot of what's coming next – gate-all-around transistors, backside power, CFET, hybrid bonding – is hard to follow without actually seeing it, so we made all the awesome animated explainers that I wish I had while I was prepping.\nI also asked Intel’s leadership how the semiconductor industry will cope with the enormous shock in demand from AI.\nAI compute has grown 3x a year for the last decade, but according to Intel's CTO, Intel could only double leading-edge wafer production with today’s global stock of chipmaking tools.\nWhat kinds of tricks can foundries pull to extend this crossover point where demand surges way ahead of supply?\nThis was a totally new format for us - hope you enjoy!\nI also made flashcards for the concepts I had to learn to prep for this episode – link below.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Flashcards:\n* Transcript:\n* Apple Podcasts:\n* Spotify:\nMusic for this episode composed by Tom Fox @tomfoxcatalog\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* WorkOS helps you do business with enterprises. It gives you access to all the features most commonly required by enterprises: SSO, SCIM, RBAC, audit logs, and more. It’s easy to plug these features in — it only takes a few lines of code — and WorkOS is releasing new functionality all the time, including things like auth for agents. If you want to join the 3,000+ companies that rely on WorkOS, go to\n* Jane Street built a powerful tool called magic-trace to help analyze and debug their trading systems. It only exists because one engineer noticed a feature on Intel chips called Processor Trace and thought it’d be valuable to build on top of. Now, traders and developers across Jane Street use magic-trace every single day! If you want to be trusted to pursue the ideas you think matter most, Jane Street is hiring. Go to\n* Antithesis’ testing platform lets you perfectly reproduce every single bug you find. That’s because it runs on a fully deterministic computer, which strips out all the unpredictability that can make certain bugs flaky and hard to pin down. To build it, Antithesis found every source of non-determinism in Intel’s x86 architecture and either sealed it off or replaced it with a controlled simulation. Learn more at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Intro\n00:00:47 – How Intel brings up a new process node\n00:03:22 – What Intel learned from 10nm\n00:06:28 – From planar transistors to gate-all-around\n00:13:13 – Why High-NA EUV pays off for Intel but not TSMC\n00:19:20 – Could chips have evolved completely differently?\n00:23:33 – Inside Intel's \"Hot Topics\" meeting\n00:29:30 – Replacing copper wires with ruthenium\n00:32:41 – Why stacked transistors take a decade to ship\n00:39:45 – Hybrid bonding and the chip-to-chip bottleneck\n00:48:00 – There aren't enough tools to 10x chip production\n00:53:14 – Can Intel catch up to TSMC?\n01:01:02 – Terafab, and rethinking the fab from scratch",
+          "descriptionCN": "I spent two days touring Intel’s most advanced fab and talking to its technical leadership to understand what the chips of the future will look like.\nA lot of what's coming next – gate-all-around transistors, backside power, CFET, hybrid bonding – is hard to follow without actually seeing it, so we made all the awesome animated explainers that I wish I had while I was prepping.\nI also asked Intel’s leadership how the semiconductor industry will cope with the enormous shock in demand from AI.\nAI compute has grown 3x a year for the last decade, but according to Intel's CTO, Intel could only double leading-edge wafer production with today’s global stock of chipmaking tools.\nWhat kinds of tricks can foundries pull to extend this crossover point where demand surges way ahead of supply?\nThis was a totally new format for us - hope you enjoy!\nI also made flashcards for the concepts I had to learn to prep for this episode – link below.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Flashcards:\n* Transcript:\n* Apple Podcasts:\n* Spotify:\nMusic for this episode composed by Tom Fox @tomfoxcatalog\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* WorkOS helps you do business with enterprises. It gives you access to all the features most commonly required by enterprises: SSO, SCIM, RBAC, audit logs, and more. It’s easy to plug these features in — it only takes a few lines of code — and WorkOS is releasing new functionality all the time, including things like auth for agents. If you want to join the 3,000+ companies that rely on WorkOS, go to\n* Jane Street built a powerful tool called magic-trace to help analyze and debug their trading systems. It only exists because one engineer noticed a feature on Intel chips called Processor Trace and thought it’d be valuable to build on top of. Now, traders and developers across Jane Street use magic-trace every single day! If you want to be trusted to pursue the ideas you think matter most, Jane Street is hiring. Go to\n* Antithesis’ testing platform lets you perfectly reproduce every single bug you find. That’s because it runs on a fully deterministic computer, which strips out all the unpredictability that can make certain bugs flaky and hard to pin down. To build it, Antithesis found every source of non-determinism in Intel’s x86 architecture and either sealed it off or replaced it with a controlled simulation. Learn more at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Intro\n00:00:47 – How Intel brings up a new process node\n00:03:22 – What Intel learned from 10nm\n00:06:28 – From planar transistors to gate-all-around\n00:13:13 – Why High-NA EUV pays off for Intel but not TSMC\n00:19:20 – Could chips have evolved completely differently?\n00:23:33 – Inside Intel's \"Hot Topics\" meeting\n00:29:30 – Replacing copper wires with ruthenium\n00:32:41 – Why stacked transistors take a decade to ship\n00:39:45 – Hybrid bonding and the chip-to-chip bottleneck\n00:48:00 – There aren't enough tools to 10x chip production\n00:53:14 – Can Intel catch up to TSMC?\n01:01:02 – Terafab, and rethinking the fab from scratch",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=_hH7vnTWnq8",
-          "artworkUrl": "https://i.ytimg.com/vi/_hH7vnTWnq8/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=frYSOKvNiiE",
+          "artworkUrl": "https://i.ytimg.com/vi/frYSOKvNiiE/hqdefault.jpg"
         },
         {
-          "title": "Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard",
+          "title": "Why Britain Gave Up America - Sarah Paine",
           "guest": null,
-          "date": "2026-10-12T17:40:51+00:00",
+          "date": "2026-10-21T18:15:24+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=RUoY5GCdONY",
-          "artworkUrl": "https://i.ytimg.com/vi/RUoY5GCdONY/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=Hph1Bwzdk_4",
+          "artworkUrl": "https://i.ytimg.com/vi/Hph1Bwzdk_4/hqdefault.jpg"
         },
         {
-          "title": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
+          "title": "Why nobody could stop World War I - Sarah Paine",
           "guest": null,
-          "date": "2026-10-11T20:54:26+00:00",
+          "date": "2026-10-21T15:00:09+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=Q3nhfMQLZdQ",
-          "artworkUrl": "https://i.ytimg.com/vi/Q3nhfMQLZdQ/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=2FaEkewECHs",
+          "artworkUrl": "https://i.ytimg.com/vi/2FaEkewECHs/hqdefault.jpg"
         },
         {
-          "title": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
+          "title": "What if the Vikings had colonized America? - Si Sheppard",
           "guest": null,
-          "date": "2026-10-10T18:49:05+00:00",
+          "date": "2026-10-20T21:25:20+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=hTHPsAOEIWM",
-          "artworkUrl": "https://i.ytimg.com/vi/hTHPsAOEIWM/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=ykyt-M6s3PA",
+          "artworkUrl": "https://i.ytimg.com/vi/ykyt-M6s3PA/hqdefault.jpg"
         },
         {
-          "title": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
+          "title": "How a US Tariff Helped Push Japan to War - Sarah Paine",
           "guest": null,
-          "date": "2026-10-10T00:00:15+00:00",
+          "date": "2026-10-19T21:28:33+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=BWnygfn04qA",
-          "artworkUrl": "https://i.ytimg.com/vi/BWnygfn04qA/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=jG-I55-5rYo",
+          "artworkUrl": "https://i.ytimg.com/vi/jG-I55-5rYo/hqdefault.jpg"
         }
       ]
     },
@@ -610,7 +610,7 @@
           "guest": null,
           "date": "2026-07-03T00:07:40+00:00",
           "description": "Naval with three founders who are living in the future: Garry Tan (Y Combinator), Daniel Francis (Abel Police), and Farbood Nivi (A-LIST).\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\nPermalink:",
-          "descriptionCN": "Naval 的三位创始人都生活在未来：Garry Tan (Y Combinator)、Daniel Francis (Abel Police) 和 Farbood Nivi (A-LIST)。\n00:00 嘉宾介绍\n02:35 生活在未来\n03:58 人工智能会智胜我们吗？\n07:43 在人类的救济线\n09:59 技术精灵出局了\n12:33 我们投资了新冠病毒？！\n14:25 好的写作是新颖的\n18:50 像2028年一样���活\n24:32 真理点ai\n30:18 中国有重量吗？\n35:38 每个人都有人工智能焦虑\n39:32 让你的经纪人和我的经纪人谈谈\n42:01 如果开源占据主导地位怎么办？\n44:03 谷歌上的太阳正在落山\n48:00 乘坐AGI\n50:46 会有初创公司吗？\n54:05 保卫台湾\n1:00:05 加州帝国\n1:01:26 如果美国衰落\n1:03:11 通用基础机器人\n1:06:01 人类作为人工智能处理者\n永久链接：",
+          "descriptionCN": "Naval with three founders who are living in the future: Garry Tan (Y Combinator), Daniel Francis (Abel Police), and Farbood Nivi (A-LIST).\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\nPermalink:",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=6m-ZZBCiiEE",
           "artworkUrl": "https://i.ytimg.com/vi/6m-ZZBCiiEE/hqdefault.jpg"
@@ -620,7 +620,7 @@
           "guest": null,
           "date": "2026-06-17T04:27:30+00:00",
           "description": "With agents, you just don’t get stuck anymore. —Max Hodak",
-          "descriptionCN": "有了代理，您就不会再陷入困境。 ——马克斯·霍达克",
+          "descriptionCN": "With agents, you just don’t get stuck anymore. —Max Hodak",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=oeQNcZoRL4Y",
           "artworkUrl": "https://i.ytimg.com/vi/oeQNcZoRL4Y/hqdefault.jpg"
@@ -630,7 +630,7 @@
           "guest": null,
           "date": "2026-06-09T04:01:49+00:00",
           "description": "Don’t look at tokens either as inputs or outputs.  Just look at your time and look at the final output. — Naval",
-          "descriptionCN": "不要将代币视为输入或输出。  只需查看您的时间并查看最终输出即可。 — 海军",
+          "descriptionCN": "Don’t look at tokens either as inputs or outputs.  Just look at your time and look at the final output. — Naval",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=x-P119dx8xM",
           "artworkUrl": "https://i.ytimg.com/vi/x-P119dx8xM/hqdefault.jpg"
@@ -640,7 +640,7 @@
           "guest": null,
           "date": "2026-06-07T01:24:45+00:00",
           "description": "“Clearly there are 100x or 1,000x engineers now. The world hasn’t adjusted.”\n— Guillermo Rauch (Vercel)\nGuillermo: I’ve been really pilled with this idea of software factories. You used to ship the output directly, and everything inside the company was how good is person A at shipping output B? And now what’s happening is the way that I’m judging you as an engineer is, are you producing the factory that will produce multiplicative outputs B through Z, right?\nWe used to believe, and it used to be somewhat controversial, that there’s 10X engineers. Now clearly there’s 100X or 1,000X engineers. And the world hasn’t fully adjusted to this.\n@naval: I used to get flamed on Twitter for saying there are 10X engineers, because it flies in the face of so much equality philosophy that everyone’s equal. But the reality is, when you’re operating in idea domains—when you’re operating in intellectual domains and virtual digital domains—it’s not even 10X. It’s 100X or 1,000X, and it always has been.\nSatoshi, Notch, the guy who invented JavaScript, the Brendan Eichs of the world. John Carmack. These are 1,000X programmers.\nNot to even mention if you choose the right thing to work on versus the wrong thing to work on, that’s an infinity difference. And it could just be not necessarily even a better programmer, just one who had a better judgment of what to work on in the first place.\nAnd now obviously it’s less controversial, because of AI leverage.",
-          "descriptionCN": "“显然现在有 100 倍或 1,000 倍的工程师。世界还没有调整。”\n— 吉列尔莫·劳赫 (Vercel)\nGuillermo：我对软件工厂的想法非常着迷。你以前直接运送输出，公司内部的一切都是A在运送输出B时有多好？现在发生的事情是我对你作为一名工程师的评价，你是否正在生产将产生乘法输出 B 到 Z 的工厂，对吗？\n我们曾经相信，有 10X 工程师的存在，但也曾经存在一些争议。现在显然有 100 倍或 1,000 倍的工程师。世界还没有完全适应这一点。\n@naval：我曾经因为说有 10X 工程师而在 Twitter 上受到攻击，因为它违背了人人平等的平等理念。但现实是，当你在创意领域运作时——当你在知识领域和虚拟数字领域运作时——它甚至不是 10 倍。它是 100 倍或 1,000 倍，而且一直都是。\nSatoshi，Notch，JavaScript 的发明者，世界上的 Brendan Eichs。约翰·卡马克.这些是 1000 倍的程序员。\n更不用说你选择正确的工作还是错误的工作，这是一个无穷大的差异。而且不一定是更好的程序员，只是一个对首先要做什么有更好判断的人。\n现在，由于人工智能的影响力，它的争议显然减少了。",
+          "descriptionCN": "“Clearly there are 100x or 1,000x engineers now. The world hasn’t adjusted.”\n— Guillermo Rauch (Vercel)\nGuillermo: I’ve been really pilled with this idea of software factories. You used to ship the output directly, and everything inside the company was how good is person A at shipping output B? And now what’s happening is the way that I’m judging you as an engineer is, are you producing the factory that will produce multiplicative outputs B through Z, right?\nWe used to believe, and it used to be somewhat controversial, that there’s 10X engineers. Now clearly there’s 100X or 1,000X engineers. And the world hasn’t fully adjusted to this.\n@naval: I used to get flamed on Twitter for saying there are 10X engineers, because it flies in the face of so much equality philosophy that everyone’s equal. But the reality is, when you’re operating in idea domains—when you’re operating in intellectual domains and virtual digital domains—it’s not even 10X. It’s 100X or 1,000X, and it always has been.\nSatoshi, Notch, the guy who invented JavaScript, the Brendan Eichs of the world. John Carmack. These are 1,000X programmers.\nNot to even mention if you choose the right thing to work on versus the wrong thing to work on, that’s an infinity difference. And it could just be not necessarily even a better programmer, just one who had a better judgment of what to work on in the first place.\nAnd now obviously it’s less controversial, because of AI leverage.",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=RvdjkZeYIKg",
           "artworkUrl": "https://i.ytimg.com/vi/RvdjkZeYIKg/hqdefault.jpg"
@@ -650,7 +650,7 @@
           "guest": null,
           "date": "2026-06-01T18:47:33+00:00",
           "description": "Full episode with with 20 minutes of new material at the end. With Guillermo Rauch (Vercel), Blake Scholl (Boom Supersonic), and Max Hodak (Science).\nSoftware factories, vertical integration, the regulatory frontier, and the autonomous company.\nPart 1: Waste Tokens, Save Time\n00:00 Three Frontier Founders\n01:27 AI Software Factories\n04:15 Waste Tokens, Save Time\n05:47 Models Instructing Humans\n09:29 Is Pure Software Dead?\n12:03 You Don't Get Stuck Anymore\nPart 2: Vibe Coding Hardware\n14:39 Vibe Coding a Turbine Blade\n18:07 Open Source Compounds China's Advantage\n20:15 You Always Want the Smartest Model\n22:44 Software Still Needs Hands\n24:43 Humans Are Becoming Verifiers\nPart 3: The Regulatory Frontier\n27:53 The Regulatory Red Queen Race\n32:32 Why There's No Innovation in Healthcare\n36:49 We Need a True 50-State Experiment\n40:31 China's FDA Is Beating Ours\n43:37 Healthcare Is a Communist Society Inside Capitalism\n45:57 Sid's Story: N-of-1 Medicine\nPart 4: The Autonomous Company\n47:49 Autonomous Infrastructure\n51:25 Your Job Is to Train the Agent\n54:54 The Next Lord of the Rings\n59:08 What's Your Definition of Art?\n1:05:00 Can AI Have New Ideas?\n1:07:03 A Very Large Number of Small Teams\nTranscript:",
-          "descriptionCN": "整集最后有 20 分钟的新材料。与吉列尔莫·劳奇（Vercel）、布莱克·肖尔（Boom Supersonic）和马克斯·霍达克（Science）合作。\n软件工厂、垂直整合、监管前沿和自治公司。\n第 1 部分：浪费代币，节省时间\n00:00 三位前沿创始人\n01:27 人工智能软件工厂\n04:15 浪费代币，节省时间\n05:47 指导人类的模型\n09:29 纯软件死了吗？\n12:03 你不会再被卡住了\n第 2 部分：Vibe 编码硬件\n14:39 Vibe 编码涡轮叶片\n18:07 开源化合物中国的优势\n20:15 你总是想要最聪明的模型\n22:44 软件仍然需要人工\n24:43 人类正在成为验证者\n第 3 部分：监管前沿\n27:53 监管红皇后竞赛\n32:32 为什么医疗保健没有创新\n36:49 我们需要一个真正的 50 态实验\n40:31 中国的FDA正在打败我们\n43:37 医疗保健是资本主义内部的共产主义社会\n45:57 Sid 的故事：N-of-1 药物\n第 4 部分：自治公司\n47:49 自主基础设施\n51:25 你的工作是培训代理人\n54:54 下一个指环王\n59:08 您对艺术的定义是什么？\n1:05:00 AI能有新想法吗？\n1:07:03 大量小团队\n成绩单：",
+          "descriptionCN": "Full episode with with 20 minutes of new material at the end. With Guillermo Rauch (Vercel), Blake Scholl (Boom Supersonic), and Max Hodak (Science).\nSoftware factories, vertical integration, the regulatory frontier, and the autonomous company.\nPart 1: Waste Tokens, Save Time\n00:00 Three Frontier Founders\n01:27 AI Software Factories\n04:15 Waste Tokens, Save Time\n05:47 Models Instructing Humans\n09:29 Is Pure Software Dead?\n12:03 You Don't Get Stuck Anymore\nPart 2: Vibe Coding Hardware\n14:39 Vibe Coding a Turbine Blade\n18:07 Open Source Compounds China's Advantage\n20:15 You Always Want the Smartest Model\n22:44 Software Still Needs Hands\n24:43 Humans Are Becoming Verifiers\nPart 3: The Regulatory Frontier\n27:53 The Regulatory Red Queen Race\n32:32 Why There's No Innovation in Healthcare\n36:49 We Need a True 50-State Experiment\n40:31 China's FDA Is Beating Ours\n43:37 Healthcare Is a Communist Society Inside Capitalism\n45:57 Sid's Story: N-of-1 Medicine\nPart 4: The Autonomous Company\n47:49 Autonomous Infrastructure\n51:25 Your Job Is to Train the Agent\n54:54 The Next Lord of the Rings\n59:08 What's Your Definition of Art?\n1:05:00 Can AI Have New Ideas?\n1:07:03 A Very Large Number of Small Teams\nTranscript:",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=v6MWNrVbM4E",
           "artworkUrl": "https://i.ytimg.com/vi/v6MWNrVbM4E/hqdefault.jpg"
@@ -660,7 +660,7 @@
           "guest": null,
           "date": "2026-05-21T15:53:45+00:00",
           "description": "Doom is easy. Optimism takes imagination.\nThe Only Way Out\nA Podcast Film",
-          "descriptionCN": "厄运很容易。乐观需要想象力。\n唯一的出路\n播客电影",
+          "descriptionCN": "Doom is easy. Optimism takes imagination.\nThe Only Way Out\nA Podcast Film",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=jf-xA0zprZs",
           "artworkUrl": "https://i.ytimg.com/vi/jf-xA0zprZs/hqdefault.jpg"
@@ -680,64 +680,64 @@
       "color": "#16a34a",
       "episodes": [
         {
-          "title": "How much money do you need to feel financially free?",
+          "title": "Why your real screen time is higher than you think",
           "guest": null,
-          "date": "2026-10-08T10:00:31+00:00",
-          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报���畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=_HI_QPwLlGw",
-          "artworkUrl": "https://i.ytimg.com/vi/_HI_QPwLlGw/hqdefault.jpg"
-        },
-        {
-          "title": "The Business Advice You Won't Find on YouTube",
-          "guest": null,
-          "date": "2026-10-07T16:29:26+00:00",
-          "description": "Start your business through Stan. Unlock your 30-day free trial of Creator Pro at:\n👉 [Free 3-hour course] Turn your expertise into a $100k/year income stream →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "通过 Stan 开始您的业务。解锁 Creator Pro 的 30 天免费试用版：\n👉【免费3小时课程】将您的专业知识转化为每年10万美元的收入来源→\n🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报》畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=dKsp8aXrwJw",
-          "artworkUrl": "https://i.ytimg.com/vi/dKsp8aXrwJw/hqdefault.jpg"
-        },
-        {
-          "title": "How do I start earning online while studying?",
-          "guest": null,
-          "date": "2026-10-07T10:00:37+00:00",
-          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报���畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=s37yMCqy0Bw",
-          "artworkUrl": "https://i.ytimg.com/vi/s37yMCqy0Bw/hqdefault.jpg"
-        },
-        {
-          "title": "Don't quit your job to start a business",
-          "guest": null,
-          "date": "2026-10-06T10:00:00+00:00",
-          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报》畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=tBfuTk_A1mI",
-          "artworkUrl": "https://i.ytimg.com/vi/tBfuTk_A1mI/hqdefault.jpg"
-        },
-        {
-          "title": "I spent 8 years training to be a doctor. Then I quit",
-          "guest": null,
-          "date": "2026-10-05T10:00:28+00:00",
+          "date": "2026-10-22T10:00:01+00:00",
           "description": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报���畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
+          "descriptionCN": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=LCSqyC8q260",
-          "artworkUrl": "https://i.ytimg.com/vi/LCSqyC8q260/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=u4V4G_hazbo",
+          "artworkUrl": "https://i.ytimg.com/vi/u4V4G_hazbo/hqdefault.jpg"
         },
         {
-          "title": "5 productivity apps I use every single day",
+          "title": "If you want to build a business, start a problems list",
           "guest": null,
-          "date": "2026-10-04T10:00:26+00:00",
-          "description": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报���畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
+          "date": "2026-10-21T10:00:06+00:00",
+          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=ekyJ76rQtSI",
-          "artworkUrl": "https://i.ytimg.com/vi/ekyJ76rQtSI/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=1Jwd2eVlVvo",
+          "artworkUrl": "https://i.ytimg.com/vi/1Jwd2eVlVvo/hqdefault.jpg"
+        },
+        {
+          "title": "My one piece of advice for your 20s",
+          "guest": null,
+          "date": "2026-10-20T10:00:10+00:00",
+          "description": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=wrAqamg3CZY",
+          "artworkUrl": "https://i.ytimg.com/vi/wrAqamg3CZY/hqdefault.jpg"
+        },
+        {
+          "title": "How to shift from an employee to an entrepreneur mindset",
+          "guest": null,
+          "date": "2026-10-19T10:00:34+00:00",
+          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=x9Q1_opRdQI",
+          "artworkUrl": "https://i.ytimg.com/vi/x9Q1_opRdQI/hqdefault.jpg"
+        },
+        {
+          "title": "Doesn't dating get in the way of productivity?",
+          "guest": null,
+          "date": "2026-10-18T10:00:24+00:00",
+          "description": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=WAtzGzuazdg",
+          "artworkUrl": "https://i.ytimg.com/vi/WAtzGzuazdg/hqdefault.jpg"
+        },
+        {
+          "title": "How to expand your personal brand into new topics",
+          "guest": null,
+          "date": "2026-10-17T10:00:30+00:00",
+          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n��  My website / blog:",
+          "descriptionCN": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n��  My website / blog:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=PYS-Yul--Gg",
+          "artworkUrl": "https://i.ytimg.com/vi/PYS-Yul--Gg/hqdefault.jpg"
         }
       ]
     },
