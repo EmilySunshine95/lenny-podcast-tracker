@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-25T00:47:48.144Z",
+  "lastFetched": "2026-10-26T00:57:59.784Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -13,6 +13,16 @@
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#4f46e5",
       "episodes": [
+        {
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "guest": "Rob Snyder",
+          "date": "2026-10-25T12:31:34Z",
+          "description": "Rob Snyder is the author of The Power of Pull and writes the newsletter The Physics of Startups. He has advised more than 50 startups on growing from zero to $1 million in ARR, drawing on his own experience as a founder who spent two years pushing a product the market didn’t want before accidentally stumbling onto what actually works. In this episode, we walk step by step through his framework for finding product-market fit, from coming up with an idea to closing your first handful of deals.\nWe discuss:\n1. The PULL framework: Project, Unavoidable, List of options, Limitations\n2. Where the best startup ideas come from\n3. Tactics for cold outreach and running your first sales call\n4. Why Rob advises against design partners\n5. Goblin mode: what to do when nothing is working\n6. How to apply the PULL framework inside larger companies",
+          "descriptionCN": "罗布·斯奈德 (Rob Snyder) 是《拉力的力量》一书的作者，也是时事通讯《初创公司的物理学》的作者。他利用自己作为创始人的经验，为 50 多家初创公司提供了从零到 100 万美元的 ARR 增长建议，他花了两年时间推出市场不想要的产品，然后意外地发现了真正有效的产品。在本集中，我们将逐步介绍他寻找产品与市场契合度的框架，从提出想法到完成第一笔交易。\n我们讨论：\n1. PULL 框架：项目、不可避免的问题、选项列表、限制\n2. 最好的创业创意来自哪里\n3. 冷外展和第一次销售拜访的策略\n4. 为什么 Rob 不建议设计合作伙伴\n5.妖精模式：什么都不起作用时该怎么办\n6. 如何在大公司内部应用PULL框架",
+          "duration": 86,
+          "url": "https://podcasts.apple.com/us/podcast/an-86-minute-guide-to-finding-pmf-rob-snyder-author/id1627920305?i=1000798018699&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/13/9b/41139bfa-6a48-f924-36c2-c1be32fd3dd0/mza_7813383654798338187.jpg/600x600bb.jpg"
+        },
         {
           "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
           "guest": "Emmanuel Ameisen",
@@ -28,7 +38,7 @@
           "guest": "Josh Woodward",
           "date": "2026-10-11T12:31:59Z",
           "description": "Josh Woodward is the head of Google Labs, the Gemini app, and AI Studio. He has spent over 17 years at Google and oversees its longest-running and largest labs team, whose products include NotebookLM (now Gemini Notebook), Project Genie, and Flow. His job is to find, experiment with, and scale new AI products, and he has built one of the most distinctive product cultures in the industry for generating ideas, running experiments, and, even more importantly, knowing when to quit.\nIn our in-depth conversation, we discuss:\n1. Why every company now needs to think and operate like a labs team\n2. Where the best ideas really come from\n3. The “almost possible” framework\n4. How to recognize genuine product-market fit early\n5. When to kill an idea\n6. What skills are rising in value in the AI era\n7. Why roles are not actually blurring into one universal builder role\n8. How to set up your internal labs team",
-          "descriptionCN": "乔什·伍德沃德 (Josh Woodward) 是 Google 实验室、Gemini 应用程序和 AI Studio 的负责人。他在 Google 工作了 17 年多，负责管理其运行时间最长、规模最大的实验室团队，其产品包括 NotebookLM（现为 Gemini Notebook）、Project Genie 和 Flow。他的工作是发现、试验和扩展新的人工智能产品，他建立了业内最独特的产品文化之一，用于产生想法、进行实验，更重要的是，知道何时退出。\n在我们的深入对话中，我们讨论：\n1. 为什么现在每家公司都需要像实验��团队一样思考和运作\n2. 最好的想法真正来自哪里\n3.“几乎可能”的框架\n4. 如何及早识别真正的产品与市场契合度\n5. 何时扼杀一个想法\n6.人工智能时代哪些技能的价值正在上升\n7. 为什么角色实际上并没有模糊为一个通用构建者角色\n8. 如何组建内部实验室团队",
+          "descriptionCN": "乔什·伍德沃德 (Josh Woodward) 是 Google 实验室、Gemini 应用程序和 AI Studio 的负责人。他在 Google 工作了 17 年多，负责管理其运行时间最长、规模最大的实验室团队，其产品包括 NotebookLM（现为 Gemini Notebook）、Project Genie 和 Flow。他的工作是发现、试验和扩展新的人工智能产品，他建立了业内最独特的产品文化之一，用于产生想法、进行实验，更重要的是，知道何时退出。\n在我们的深入对话中，我们讨论：\n1. 为什么现在每家公司都需要像实验室团队一样思考和运作\n2. 最好的想法真正来自哪里\n3.“几乎可能”的框架\n4. 如何及早识别真正的产品与市场契合度\n5. 何时扼杀一个想法\n6.人工智能时代哪些技能的价值正在上升\n7. 为什么角色实际上并没有模糊为一个通用构建者角色\n8. 如何组建内部实验室团队",
           "duration": 62,
           "url": "https://podcasts.apple.com/us/podcast/why-every-company-now-needs-to-think-and-operate-like/id1627920305?i=1000795263758&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/8d/78/588d78a0-2062-15fe-7566-235323c0f718/mza_9185879795648835118.png/600x600bb.jpg"
@@ -62,16 +72,6 @@
           "duration": 97,
           "url": "https://podcasts.apple.com/us/podcast/90-minutes-of-unfiltered-product-advice-from-snap/id1627920305?i=1000790789859&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a7/4b/ef/a74befc1-d310-4b73-762c-349383843678/mza_16012271153500627980.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
-          "guest": "Roman Ugarte",
-          "date": "2026-09-08T12:31:49Z",
-          "description": "Roman Ugarte helped incubate and build Grok Bot, the popular new knowledge-work agent from SpaceXAI. A small, isolated team took it from first line of code to a working internal product in four weeks, and to a hugely successful public launch just three weeks later. Before Grok Bot, Roman led Growth at Cursor, where he helped scale the company from 15 people to over 1,000 before its acquisition by SpaceX.\nIn our in-depth conversation, we discuss:\n1. The origin story of Grok Bot\n2. The key decision to build it from scratch instead of adding it to Cursor\n3. Why the team personally onboarded nearly 300 of its first users\n4. The two early product decisions that made Grok Bot so successful\n5. Their “colleague-pilled” product philosophy\n6. Roman’s advice on moats, and what has allowed Cursor to keep winning in the most competitive market in the world",
-          "descriptionCN": "Roman Ugarte 帮助孵化和构建了 Grok Bot，这是 SpaceXAI 推出的流行的新型知识工作代理。一个小型、孤立的团队在四个星期内将其从第一行代码变成了一个可运行的内部产品，并在三周后取得了巨大成功的公开发布。在加入 Grok Bot 之前，Roman 领导了 Cursor 的发展，在该公司被 SpaceX 收购之前，他帮助该公司从 15 人扩大到 1,000 多人。\n在我们的深入对话中，我们讨论：\n1. Grok Bot 的起源故事\n2.关键决定是��头开始构建它而不是添加到Cursor中\n3. 为什么团队亲自吸引了近 300 名第一批用户\n4. 让 Grok Bot 如此成功的两个早期产品决策\n5. 他们的“同事堆积”产品理念\n6. Roman 关于护城河的建议，以及是什么让 Cursor 在全球竞争最激烈的市场中不断获胜",
-          "duration": 83,
-          "url": "https://podcasts.apple.com/us/podcast/how-we-built-grok-bot-in-a-month-roman-ugarte-spacexai/id1627920305?i=1000788466289&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/4e/39/fe4e39c3-c32e-36ec-8c31-70a7106b2a6a/mza_9529541479666928279.png/600x600bb.jpg"
         }
       ]
     },
@@ -458,6 +458,26 @@
       "color": "#6366f1",
       "episodes": [
         {
+          "title": "Why Hunter-Gatherers Lost to Farmers - Kyle Harper",
+          "guest": null,
+          "date": "2026-10-24T19:43:51+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=Uo297BJeNvQ",
+          "artworkUrl": "https://i.ytimg.com/vi/Uo297BJeNvQ/hqdefault.jpg"
+        },
+        {
+          "title": "Why transistors stopped being flat",
+          "guest": null,
+          "date": "2026-10-23T22:40:10+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=cy1yoHVX2IQ",
+          "artworkUrl": "https://i.ytimg.com/vi/cy1yoHVX2IQ/hqdefault.jpg"
+        },
+        {
           "title": "AI’s bottleneck isn’t compute. It’s geometry.",
           "guest": null,
           "date": "2026-10-22T23:21:44+00:00",
@@ -472,7 +492,7 @@
           "guest": null,
           "date": "2026-10-22T16:00:07+00:00",
           "description": "I spent two days touring Intel’s most advanced fab and talking to its technical leadership to understand what the chips of the future will look like.\nA lot of what's coming next – gate-all-around transistors, backside power, CFET, hybrid bonding – is hard to follow without actually seeing it, so we made all the awesome animated explainers that I wish I had while I was prepping.\nI also asked Intel’s leadership how the semiconductor industry will cope with the enormous shock in demand from AI.\nAI compute has grown 3x a year for the last decade, but according to Intel's CTO, Intel could only double leading-edge wafer production with today’s global stock of chipmaking tools.\nWhat kinds of tricks can foundries pull to extend this crossover point where demand surges way ahead of supply?\nThis was a totally new format for us - hope you enjoy!\nI also made flashcards for the concepts I had to learn to prep for this episode – link below.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Flashcards:\n* Transcript:\n* Apple Podcasts:\n* Spotify:\nMusic for this episode composed by Tom Fox @tomfoxcatalog\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* WorkOS helps you do business with enterprises. It gives you access to all the features most commonly required by enterprises: SSO, SCIM, RBAC, audit logs, and more. It’s easy to plug these features in — it only takes a few lines of code — and WorkOS is releasing new functionality all the time, including things like auth for agents. If you want to join the 3,000+ companies that rely on WorkOS, go to\n* Jane Street built a powerful tool called magic-trace to help analyze and debug their trading systems. It only exists because one engineer noticed a feature on Intel chips called Processor Trace and thought it’d be valuable to build on top of. Now, traders and developers across Jane Street use magic-trace every single day! If you want to be trusted to pursue the ideas you think matter most, Jane Street is hiring. Go to\n* Antithesis’ testing platform lets you perfectly reproduce every single bug you find. That’s because it runs on a fully deterministic computer, which strips out all the unpredictability that can make certain bugs flaky and hard to pin down. To build it, Antithesis found every source of non-determinism in Intel’s x86 architecture and either sealed it off or replaced it with a controlled simulation. Learn more at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Intro\n00:00:47 – How Intel brings up a new process node\n00:03:22 – What Intel learned from 10nm\n00:06:28 – From planar transistors to gate-all-around\n00:13:13 – Why High-NA EUV pays off for Intel but not TSMC\n00:19:20 – Could chips have evolved completely differently?\n00:23:33 – Inside Intel's \"Hot Topics\" meeting\n00:29:30 – Replacing copper wires with ruthenium\n00:32:41 – Why stacked transistors take a decade to ship\n00:39:45 – Hybrid bonding and the chip-to-chip bottleneck\n00:48:00 – There aren't enough tools to 10x chip production\n00:53:14 – Can Intel catch up to TSMC?\n01:01:02 – Terafab, and rethinking the fab from scratch",
-          "descriptionCN": "I spent two days touring Intel’s most advanced fab and talking to its technical leadership to understand what the chips of the future will look like.\nA lot of what's coming next – gate-all-around transistors, backside power, CFET, hybrid bonding – is hard to follow without actually seeing it, so we made all the awesome animated explainers that I wish I had while I was prepping.\nI also asked Intel’s leadership how the semiconductor industry will cope with the enormous shock in demand from AI.\nAI compute has grown 3x a year for the last decade, but according to Intel's CTO, Intel could only double leading-edge wafer production with today’s global stock of chipmaking tools.\nWhat kinds of tricks can foundries pull to extend this crossover point where demand surges way ahead of supply?\nThis was a totally new format for us - hope you enjoy!\nI also made flashcards for the concepts I had to learn to prep for this episode – link below.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Flashcards:\n* Transcript:\n* Apple Podcasts:\n* Spotify:\nMusic for this episode composed by Tom Fox @tomfoxcatalog\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* WorkOS helps you do business with enterprises. It gives you access to all the features most commonly required by enterprises: SSO, SCIM, RBAC, audit logs, and more. It’s easy to plug these features in — it only takes a few lines of code — and WorkOS is releasing new functionality all the time, including things like auth for agents. If you want to join the 3,000+ companies that rely on WorkOS, go to\n* Jane Street built a powerful tool called magic-trace to help analyze and debug their trading systems. It only exists because one engineer noticed a feature on Intel chips called Processor Trace and thought it’d be valuable to build on top of. Now, traders and developers across Jane Street use magic-trace every single day! If you want to be trusted to pursue the ideas you think matter most, Jane Street is hiring. Go to\n* Antithesis’ testing platform lets you perfectly reproduce every single bug you find. That’s because it runs on a fully deterministic computer, which strips out all the unpredictability that can make certain bugs flaky and hard to pin down. To build it, Antithesis found every source of non-determinism in Intel’s x86 architecture and either sealed it off or replaced it with a controlled simulation. Learn more at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – Intro\n00:00:47 – How Intel brings up a new process node\n00:03:22 – What Intel learned from 10nm\n00:06:28 – From planar transistors to gate-all-around\n00:13:13 – Why High-NA EUV pays off for Intel but not TSMC\n00:19:20 – Could chips have evolved completely differently?\n00:23:33 – Inside Intel's \"Hot Topics\" meeting\n00:29:30 – Replacing copper wires with ruthenium\n00:32:41 – Why stacked transistors take a decade to ship\n00:39:45 – Hybrid bonding and the chip-to-chip bottleneck\n00:48:00 – There aren't enough tools to 10x chip production\n00:53:14 – Can Intel catch up to TSMC?\n01:01:02 – Terafab, and rethinking the fab from scratch",
+          "descriptionCN": "我花了两天时间参观了英特尔最先进的晶圆厂，并与其技术领导层进行了交谈，以了解未来的芯片会是什么样子。\n接下来会发生的很多事情——全栅极晶体管、背面电源、CFET、混合键合——如果没有实际看到它们，就很难理解，所以我们制作了所有很棒的动画解释器，我希望在准备的时候能有这些解释器。\n我还询问了英特尔的领导层，半导体行业将如何应对人工智能需求的巨大冲击。\n在过去十年中，人工智能计算每年增长 3 倍，但根据英特尔首席技术官的说法，凭借当今全球芯片制造工具的库存，英特尔只能将领��的晶圆产量翻一番。\n代工厂可以采取哪些技巧来延长需求远远超过供应的交叉点？\n这对我们来说是一种全新的形式 - 希望您喜欢！\n我还为我必须学习的概念制作了抽认卡，为这一集做准备——链接如下。\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄𝐋𝐈𝐍𝐊𝐒\n* 抽认卡：\n* 成绩单：\n* 苹果播客：\n* Spotify：\n本集音乐由 Tom Fox @tomfoxcatalog 创作\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* WorkOS 帮助您与企业开展业务。它使您可以访问企业最常需要的所有功能：SSO、SCIM、RBAC、审核日志等。插入这些功能很容易——只需要几行代码——而且 WorkOS 一直在发布新功能，包括代理身份验证等功能。如果您想加入 3,000 多家依赖 WorkOS 的公司，请访问\n* Jane Street 构建了一个名为 magic-trace 的强大工具来帮助分析和调试他们的交易系统。它之所以存在，只是因为一位工程师注意到英特尔芯片上有一个名为 Processor Trace 的功能，并认为在其基础上进行构建很有价值。现在，简街的交易员和开发商每天都在使用 magic-trace！如果你想得到信任去追求你认为最重要的想法，Jane Street 正在招聘。前往\n* Antithesis 的测试平台可让您完美重现您发现的每一个错误。这是因为它在完全确定性的计算机上运行，​​从而消除了所有可能导致某些错误难以确定的不可预测性。为了构建它，Antithesis 找到了英特尔 x86 架构中所有不确定性的来源，要么将其密封，要么用受控模拟取代它。了解更多信息，请访问\n要赞助未来的剧集，请访问\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – 简介\n00:00:47 – 英特尔如何推出新的工艺节点\n00:03:22 – 英特尔从 10nm 学到了什么\n00:06:28 – 从平面晶体管到全栅极\n00:13:13 – 为什么高数值孔径 EUV 对英特尔有利，但对台积电不利\n00:19:20 – 芯片的发展是否会完全不同？\n00:23:33 – 英特尔“热门话题”会议内部\n00:29:30 – 用钌代替铜线\n00:32:41 – 为什么堆叠晶体管需要十年才能发货\n00:39:45 – 混合键合和芯片间瓶颈\n00:48:00 – 没有足够的工具来实现 10 倍的芯片生产\n00:53:14 – 英特尔能赶上台积电吗？\n01:01:02 – Terafab，从头开始重新思考晶圆厂",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=frYSOKvNiiE",
           "artworkUrl": "https://i.ytimg.com/vi/frYSOKvNiiE/hqdefault.jpg"
@@ -496,26 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=2FaEkewECHs",
           "artworkUrl": "https://i.ytimg.com/vi/2FaEkewECHs/hqdefault.jpg"
-        },
-        {
-          "title": "What if the Vikings had colonized America? - Si Sheppard",
-          "guest": null,
-          "date": "2026-10-20T21:25:20+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=ykyt-M6s3PA",
-          "artworkUrl": "https://i.ytimg.com/vi/ykyt-M6s3PA/hqdefault.jpg"
-        },
-        {
-          "title": "How a US Tariff Helped Push Japan to War - Sarah Paine",
-          "guest": null,
-          "date": "2026-10-19T21:28:33+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=jG-I55-5rYo",
-          "artworkUrl": "https://i.ytimg.com/vi/jG-I55-5rYo/hqdefault.jpg"
         }
       ]
     },
