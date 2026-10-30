@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-29T02:04:35.722Z",
+  "lastFetched": "2026-10-30T02:23:42.651Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -38,7 +38,7 @@
           "guest": "Josh Woodward",
           "date": "2026-10-11T12:31:59Z",
           "description": "Josh Woodward is the head of Google Labs, the Gemini app, and AI Studio. He has spent over 17 years at Google and oversees its longest-running and largest labs team, whose products include NotebookLM (now Gemini Notebook), Project Genie, and Flow. His job is to find, experiment with, and scale new AI products, and he has built one of the most distinctive product cultures in the industry for generating ideas, running experiments, and, even more importantly, knowing when to quit.\nIn our in-depth conversation, we discuss:\n1. Why every company now needs to think and operate like a labs team\n2. Where the best ideas really come from\n3. The “almost possible” framework\n4. How to recognize genuine product-market fit early\n5. When to kill an idea\n6. What skills are rising in value in the AI era\n7. Why roles are not actually blurring into one universal builder role\n8. How to set up your internal labs team",
-          "descriptionCN": "乔什·伍德沃德 (Josh Woodward) 是 Google 实验室、Gemini 应用程序和 AI Studio 的负责人。他在 Google 工作了 17 年多，负责管理其运行时间最长、规模最大的实验室团队，其产品包括 NotebookLM（现为 Gemini Notebook）、Project Genie 和 Flow。他的工作是发现、试验和扩展新的人工智能产品，他建立了业内最独特的产品文化之一，用于产生想法、进行实验，更重要的是，知道何时退出。\n在我们的深入对话中，我们讨论：\n1. 为什么现在每家公司都需要像实验室团队一样思考和运作\n2. 最好的想法真正来自哪里\n3.“几乎可能”的框架\n4. 如何及早识别真正的产品与市场契合度\n5. 何时扼杀一个想法\n6.人工智能时代哪些技能的价值正在上升\n7. 为什么角色实际上并没有模糊为一个通用构建者角色\n8. 如何组建内部实验室团队",
+          "descriptionCN": "乔什·伍德沃德 (Josh Woodward) 是 Google 实验室、Gemini 应用程序和 AI Studio 的负责人。他在 Google 工作了 17 年多，负责管理其运行时间最长、规模最大的实验室团队，其产品包括 NotebookLM（现为 Gemini Notebook）、Project Genie 和 Flow。他的工作是发现、试验和扩展新的人工智能产品，他建立了业内最独特的产品文化之一，用于产生想法、进行实验，更重要的是，知道何时退出。\n在我们的深入对话中，我们讨论：\n1. 为什么现在每家公司都需要像实验���团队一样思考和运作\n2. 最好的想法真正来自哪里\n3.“几乎可能”的框架\n4. 如何及早识别真正的产品与市场契合度\n5. 何时扼杀一个想法\n6.人工智能时代哪些技能的价值正在上升\n7. 为什么角色实际上并没有模糊为一个通用构建者角色\n8. 如何组建内部实验室团队",
           "duration": 62,
           "url": "https://podcasts.apple.com/us/podcast/why-every-company-now-needs-to-think-and-operate-like/id1627920305?i=1000795263758&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/8d/78/588d78a0-2062-15fe-7566-235323c0f718/mza_9185879795648835118.png/600x600bb.jpg"
@@ -48,7 +48,7 @@
           "guest": "Tibo Sottiaux",
           "date": "2026-10-04T12:32:47Z",
           "description": "Tibo Sottiaux leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.\nWe discuss:\n1. Dots, OpenAI’s new personal AI assistant\n2. Why most actions on the internet will soon be taken by agents\n3. Why loops, graphs, and fine-tuning agent workflows are a passing phase\n4. Which skills are trending up and down in the AI era\n5. How Tibo’s Dot warned him about a production outage five minutes before the launch\n6. OpenAI’s approach to AI safety",
-          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. ��什么循环、图形和微调代理工作流程是一个过渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
+          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一个过渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
           "duration": 37,
           "url": "https://podcasts.apple.com/us/podcast/openais-head-of-chatgpt-were-entering-a-new-era/id1627920305?i=1000793099277&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/ca/fd/e4cafda0-e7e8-ccd4-388d-93341a6bd344/mza_6770909817174607087.png/600x600bb.jpg"
@@ -256,7 +256,7 @@
           "artworkUrl": "https://i.ytimg.com/vi/MRQTlwcW-aQ/hqdefault.jpg"
         },
         {
-          "title": "An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio",
+          "title": "What 90,000 Rollouts Reveal About AI Agents Doing Science - Ian Quigley, Leash Bio",
           "guest": null,
           "date": "2026-10-26T15:00:07+00:00",
           "description": "Leash Biosciences built a platform to physically measure thousands of proteins against millions of molecules. In this followup to our Leash Bio podcast with cofounder Ian Quigley, he returns to discuss the release of Minos, Leash’s framework of pre-measured experimental worlds that scientific agents can explore.\nIan goes into how scientific agents traverse these environments, whether they use information from prior experiments to inform future choices, how good they get at medicinal chemistry, and how their broad decision making abilities affect their performance.\nWe cover:\n- Huge action spaces that can be explored by reasoning agents\n- Which models are the best at medicinal chemistry\n- What mistakes they make and how Leash can tell\n- How agents weren’t ready to do this at all a year ago\n- The basic idea of a lab-in-the-loop with zero latency\n- The path to large numbers of new worlds\nLeash published this work and is releasing a few dozen Minos worlds and thousands of agent transcripts for the community to use.\nOriginal YouTube with Ian Quigley:\nBlog post:\nPreprint:\nData and transcripts:\nSponsorship and business inquiries: business@latent.space",
@@ -280,7 +280,7 @@
           "guest": null,
           "date": "2026-10-22T14:00:10+00:00",
           "description": "What would you get if Bloomberg, Claude, and Netflix had a baby? Moshi founder and CEO Anekha Sokhal joins swyx at AI Engineer NYC to discuss building AI tools for traders: connecting market data, handling conflicting sources, and turning insights into recommendations people actually use.\nThey also discuss the pressure on AI engineers to become the whole team, and how to make the most of conference conversations.\nMoshi:\nAI Engineer:\nLatent Space:\nChapters:\n00:00 AI Engineer NYC and the one-person team\n00:54 Meet Anekha Sokhal\n02:30 From math to trading\n05:45 What is Moshi?\n06:53 Structured, unstructured, and private data\n08:26 Building a connected data graph\n10:03 Bloomberg, Claude, and Netflix\n12:19 From dashboards to workflows\n14:49 Trust and private data\n16:12 When sources disagree\n16:45 Parsing messy PDFs\n18:19 AI Engineer NYC and the one-person team\n20:32 Making conference connections\n23:47 Hiring versus finding customers\n25:56 How swyx got into AI\nSponsorship and business inquiries: business@latent.space",
-          "descriptionCN": "如果彭博、克劳德和 Netflix 有了孩子，你会得到什么？ Moshi 创始人兼首席执行官 Anekha Sokhal 与 swyx 的 AI Engineer NYC 一起讨论为交易者构建 AI 工具：连接市场数据、处理相互冲突的来源以及将见解转化为人们实际使用的建议。\n他们还讨论了人工智能工程师成为整个团队的压力，以及如何充分利用会议对话。\n莫西：\n人工智能工程师：\n潜在空间：\n章节：\n00:00 NYC 人工智能工程师和一个人团队\n00:54 认识阿内卡·索哈尔\n02:30 从数学到交易\n05:45 什么是莫西？\n06:53 结构化、非结构化和私有数据\n08:26 构建连接的数据图\n10:03 彭博社、克劳德和 Netflix\n12:19 从仪表板到工作流程\n14:49 信���和私人数据\n16:12 当消息来源不同意时\n16:45 解析凌乱的 PDF\n18:19 NYC 人工智能工程师和一个人团队\n20:32 建立会议联系\n23:47 招聘与寻找客户\n25:56 swyx如何进入人工智能领域\n赞助和业务咨询：business@latent.space",
+          "descriptionCN": "如果彭博、克劳德和 Netflix 有了孩子，你会得到什么？ Moshi 创始人兼首席执行官 Anekha Sokhal 与 swyx 的 AI Engineer NYC 一起讨论为交易者构建 AI 工具：连接市场数据、处理相互冲突的来源以及将见解转化为人们实际使用的建议。\n他们还讨论了人工智能工程师成为整个团队的压力，以及如何充分利用会议对话。\n莫西：\n人工智能工程师：\n潜在空间：\n章节：\n00:00 NYC 人工智能工程师和一个人团队\n00:54 认识阿内卡·索哈尔\n02:30 从数学到交易\n05:45 什么是莫西？\n06:53 结构化、非结构化和私有数据\n08:26 构建连接的数据图\n10:03 彭博社、克劳德和 Netflix\n12:19 从仪表板到工作流程\n14:49 信任和私人数据\n16:12 当消息来源不同意时\n16:45 解析凌乱的 PDF\n18:19 NYC 人工智能工程师和一个人团队\n20:32 建立会议联系\n23:47 招聘与寻找客户\n25:56 swyx如何进入人工智能领域\n赞助和业务咨询：business@latent.space",
           "duration": null,
           "url": "https://www.youtube.com/watch?v=DWHyPWnzGAI",
           "artworkUrl": "https://i.ytimg.com/vi/DWHyPWnzGAI/hqdefault.jpg"
