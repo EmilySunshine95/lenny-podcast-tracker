@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-30T02:23:42.651Z",
+  "lastFetched": "2026-10-31T01:59:25.249Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -38,7 +38,7 @@
           "guest": "Josh Woodward",
           "date": "2026-10-11T12:31:59Z",
           "description": "Josh Woodward is the head of Google Labs, the Gemini app, and AI Studio. He has spent over 17 years at Google and oversees its longest-running and largest labs team, whose products include NotebookLM (now Gemini Notebook), Project Genie, and Flow. His job is to find, experiment with, and scale new AI products, and he has built one of the most distinctive product cultures in the industry for generating ideas, running experiments, and, even more importantly, knowing when to quit.\nIn our in-depth conversation, we discuss:\n1. Why every company now needs to think and operate like a labs team\n2. Where the best ideas really come from\n3. The “almost possible” framework\n4. How to recognize genuine product-market fit early\n5. When to kill an idea\n6. What skills are rising in value in the AI era\n7. Why roles are not actually blurring into one universal builder role\n8. How to set up your internal labs team",
-          "descriptionCN": "乔什·伍德沃德 (Josh Woodward) 是 Google 实验室、Gemini 应用程序和 AI Studio 的负责人。他在 Google 工作了 17 年多，负责管理其运行时间最长、规模最大的实验室团队，其产品包括 NotebookLM（现为 Gemini Notebook）、Project Genie 和 Flow。他的工作是发现、试验和扩展新的人工智能产品，他建立了业内最独特的产品文化之一，用于产生想法、进行实验，更重要的是，知道何时退出。\n在我们的深入对话中，我们讨论：\n1. 为什么现在每家公司都需要像实验���团队一样思考和运作\n2. 最好的想法真正来自哪里\n3.“几乎可能”的框架\n4. 如何及早识别真正的产品与市场契合度\n5. 何时扼杀一个想法\n6.人工智能时代哪些技能的价值正在上升\n7. 为什么角色实际上并没有模糊为一个通用构建者角色\n8. 如何组建内部实验室团队",
+          "descriptionCN": "乔什·伍德沃德 (Josh Woodward) 是 Google 实验室、Gemini 应用程序和 AI Studio 的负责人。他在 Google 工作了 17 年多，负责管理其运行时间最长、规模最大的实验室团队，其产品包括 NotebookLM（现为 Gemini Notebook）、Project Genie 和 Flow。他的工作是发现、试验和扩展新的人工智能产品，他建立了业内最独特的产品文化之一，用于产生想法、进行实验，更重要的是，知道何时退出。\n在我们的深入对话中，我们讨论：\n1. 为什么现在每家公司都需要像实验��团队一样思考和运作\n2. 最好的想法真正来自哪里\n3.“几乎可能”的框架\n4. 如何及早识别真正的产品与市场契合度\n5. 何时扼杀一个想法\n6.人工智能时代哪些技能的价值正在上升\n7. 为什么角色实际上并没有模糊为一个通用构建者角色\n8. 如何组建内部实验室团队",
           "duration": 62,
           "url": "https://podcasts.apple.com/us/podcast/why-every-company-now-needs-to-think-and-operate-like/id1627920305?i=1000795263758&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/8d/78/588d78a0-2062-15fe-7566-235323c0f718/mza_9185879795648835118.png/600x600bb.jpg"
@@ -384,64 +384,64 @@
       "color": "#dc2626",
       "episodes": [
         {
-          "title": "What Elon Musk would do if he lost everything",
+          "title": "Jeff Bezos’ rule for building anything great",
           "guest": null,
-          "date": "2026-10-22T21:31:01+00:00",
-          "description": "What Elon Musk would do if he lost everything",
-          "descriptionCN": "What Elon Musk would do if he lost everything",
+          "date": "2026-10-30T18:58:41+00:00",
+          "description": "Jeff Bezos’ rule for building anything great",
+          "descriptionCN": "杰夫·贝佐斯打造伟大事物的规则",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=_Lux62iTbFE",
-          "artworkUrl": "https://i.ytimg.com/vi/_Lux62iTbFE/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=AvUy_6sNvNU",
+          "artworkUrl": "https://i.ytimg.com/vi/AvUy_6sNvNU/hqdefault.jpg"
         },
         {
-          "title": "Why Zuckerberg bet $15B on Alexander Wang",
+          "title": "How a $10,000 start became a billion-dollar fortune",
           "guest": null,
-          "date": "2026-10-22T00:11:40+00:00",
-          "description": "Why Zuckerberg bet $15B on Alexander Wang",
-          "descriptionCN": "Why Zuckerberg bet $15B on Alexander Wang",
+          "date": "2026-10-29T01:24:02+00:00",
+          "description": "How a $10,000 start became a billion-dollar fortune",
+          "descriptionCN": "一万美元的起步如何成为十亿美元的财富",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=aX6-BC2rBHI",
-          "artworkUrl": "https://i.ytimg.com/vi/aX6-BC2rBHI/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=pdSE7ALhHR0",
+          "artworkUrl": "https://i.ytimg.com/vi/pdSE7ALhHR0/hqdefault.jpg"
         },
         {
-          "title": "How this tiny golf game makes $500K a year",
+          "title": "Ex-Amazon VP reveals what it's really like working with Jeff Bezos",
           "guest": null,
-          "date": "2026-10-20T22:39:53+00:00",
-          "description": "How this tiny golf game makes $500K a year",
-          "descriptionCN": "How this tiny golf game makes $500K a year",
+          "date": "2026-10-28T13:56:17+00:00",
+          "description": "*Sam's database on how long it takes to become a millionaire:*\nEpisode 877: Shaan Puri (  ) and Sam Parr (  ) talk to Ethan Evans about what it’s really like to work with Jeff Bezos.\nShow Notes:\n(0:00) Intro\n(3:15) Criticism without praise\n(5:15) The every-great-man flaw\n(7:05) Attack mode\n(11:45) “Sometimes all you need is a B”\n(19:35) Question mark emails\n(22:25) Strategically patient, but tactically impatient\n(24:10) Work hard, long, and smart\n(25:15) Where high-performers go to feel bad about themselves\n(28:05) Ethan evaluates Shaan\n(35:55) Project selection\n(39:50) Waiting for fat pitches\n(42:30) Jeff’s security detail\n(45:50) The story of Amazon Prime\n(47:55) Amazon's idea tool\n(50:55) Good design vs. bad design\n(54:15) The morality of Amazon\n(56:15) Who Jeff studied\n(31:35) Post-Amazon\n(1:04:10) Streaming career advice on Twitch",
+          "descriptionCN": "*山姆关于成为百万富翁需要多长时间的数据库：*\n第 877 集：Shaan Puri ( ) 和 Sam Parr ( ) 与 Ethan Evans 谈论与 Jeff Bezos 一起工作的真实感受。\n显示注意事项：\n(0:00) 简介\n(3:15) 没有赞扬的批评\n(5:15) 每个伟人的缺陷\n(7:05) 攻击模式\n(11:45) “有时你所需要的只是 B”\n(19:35) 问号���子邮件\n(22:25) 战略上有耐心，但战术上缺乏耐心\n(24:10) 努力、长期、聪明地工作\n(25:15) 高绩效者会在哪里自我感觉不好\n(28:05) Ethan 评价 Shaan\n(35:55) 项目选择\n(39:50) 等待大球场\n(42:30) 杰夫的安保人员\n(45:50) 亚马逊 Prime 的故事\n(47:55) 亚马逊的创意工具\n(50:55) 好的设计与坏的设计\n(54:15) 亚马逊的道德\n(56:15) 杰夫研究了谁\n(31:35) 后亚马逊\n(1:04:10) 在 Twitch 上串流职业建议",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=b89qg6pBp2E",
-          "artworkUrl": "https://i.ytimg.com/vi/b89qg6pBp2E/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=0_hpTKQqKOQ",
+          "artworkUrl": "https://i.ytimg.com/vi/0_hpTKQqKOQ/hqdefault.jpg"
         },
         {
-          "title": "We watched the Elizabeth Holmes doc (and honestly, WTF)",
+          "title": "The 5 moats that still matter in the AI era",
           "guest": null,
-          "date": "2026-10-20T15:18:43+00:00",
-          "description": "*Sam's database on how long it takes to become a millionaire:*\nEpisode 874: Shaan Puri (  ) and Sam Parr (  ) are breaking down the best documentary of the year.\nCheck Out Sam's Stuff:\n• Hampton (joinhampton.com): My community for founders. Average member does $25m/year. Many of the guests are members. Get after it...apply:\nCheck Out Shaan's Stuff:\n• Shaan's weekly email -\n• Visit  to hire worldwide talent like Shaan and get $500 off for being an MFM listener. Hire developers, assistants, marketing pros, sales teams and more for 80% less than US equivalents.\n• Mercury - Shaan uses Mercury across all of his companies. you can too:\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided by Choice Financial Group, Column, N.A., Members FDIC\n• I run all my newsletters on Beehiiv and you should too + we're giving away $10k to our favorite newsletter, check it out:\nbeehiiv.com/mfm-challenge\nMy First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano /",
-          "descriptionCN": "*Sam's database on how long it takes to become a millionaire:*\nEpisode 874: Shaan Puri (  ) and Sam Parr (  ) are breaking down the best documentary of the year.\nCheck Out Sam's Stuff:\n• Hampton (joinhampton.com): My community for founders. Average member does $25m/year. Many of the guests are members. Get after it...apply:\nCheck Out Shaan's Stuff:\n• Shaan's weekly email -\n• Visit  to hire worldwide talent like Shaan and get $500 off for being an MFM listener. Hire developers, assistants, marketing pros, sales teams and more for 80% less than US equivalents.\n• Mercury - Shaan uses Mercury across all of his companies. you can too:\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided by Choice Financial Group, Column, N.A., Members FDIC\n• I run all my newsletters on Beehiiv and you should too + we're giving away $10k to our favorite newsletter, check it out:\nbeehiiv.com/mfm-challenge\nMy First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano /",
+          "date": "2026-10-27T23:15:41+00:00",
+          "description": "The 5 moats that still matter in the AI era",
+          "descriptionCN": "人工智能时代仍然重要的 5 条护城河",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=VVw5m7IA0no",
-          "artworkUrl": "https://i.ytimg.com/vi/VVw5m7IA0no/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=Q8eScIdbpN4",
+          "artworkUrl": "https://i.ytimg.com/vi/Q8eScIdbpN4/hqdefault.jpg"
         },
         {
-          "title": "How he beat the S&P 500 for 11 years doing (almost) nothing",
+          "title": "Elon built the most ridiculous Tesla yet",
           "guest": null,
-          "date": "2026-10-19T13:30:31+00:00",
-          "description": "*Investing guide: 35+ money principles from investors/financial operators*\nEpisode 873: Shaan Puri (  ) and Sam Parr (  ) talk about an investor who makes 2.9 decisions a year, Zuck’s victory lap and what happened when Sam hired an executive coach.\nShow Notes:\n(0:00) Zero Action Investing\n(7:55) Premortems\n(10:05) Zuck's Victory Lap\n(16:50) The Superpower of 100x Leaders\n(20:45) Sam Hires an Executive Coach\n(21:35) Identify the Game You're Playing\n(30:15) Keep Your Sails Up\n(33:45) Sam Attacks His Panic Attacks\n(38:55) Role Playing Hard Situations\n(41:00) How to Prep for the Scariest Moments\nCheck Out Sam's Stuff:\n• Hampton (joinhampton.com): My community for founders. Average member does $25m/year. Many of the guests are members. Get after it...apply:\nCheck Out Shaan's Stuff:\n• Shaan's weekly email -\n• Visit  to hire worldwide talent like Shaan and get $500 off for being an MFM listener. Hire developers, assistants, marketing pros, sales teams and more for 80% less than US equivalents.\n• Mercury - Shaan uses Mercury across all of his companies. you can too:\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided by Choice Financial Group, Column, N.A., Members FDIC\n• I run all my newsletters on Beehiiv and you should too + we're giving away $10k to our favorite newsletter, check it out:\nbeehiiv.com/mfm-challenge\nMy First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano /",
-          "descriptionCN": "*Investing guide: 35+ money principles from investors/financial operators*\nEpisode 873: Shaan Puri (  ) and Sam Parr (  ) talk about an investor who makes 2.9 decisions a year, Zuck’s victory lap and what happened when Sam hired an executive coach.\nShow Notes:\n(0:00) Zero Action Investing\n(7:55) Premortems\n(10:05) Zuck's Victory Lap\n(16:50) The Superpower of 100x Leaders\n(20:45) Sam Hires an Executive Coach\n(21:35) Identify the Game You're Playing\n(30:15) Keep Your Sails Up\n(33:45) Sam Attacks His Panic Attacks\n(38:55) Role Playing Hard Situations\n(41:00) How to Prep for the Scariest Moments\nCheck Out Sam's Stuff:\n• Hampton (joinhampton.com): My community for founders. Average member does $25m/year. Many of the guests are members. Get after it...apply:\nCheck Out Shaan's Stuff:\n• Shaan's weekly email -\n• Visit  to hire worldwide talent like Shaan and get $500 off for being an MFM listener. Hire developers, assistants, marketing pros, sales teams and more for 80% less than US equivalents.\n• Mercury - Shaan uses Mercury across all of his companies. you can too:\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided by Choice Financial Group, Column, N.A., Members FDIC\n• I run all my newsletters on Beehiiv and you should too + we're giving away $10k to our favorite newsletter, check it out:\nbeehiiv.com/mfm-challenge\nMy First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano /",
+          "date": "2026-10-27T00:45:24+00:00",
+          "description": "Elon built the most ridiculous Tesla yet",
+          "descriptionCN": "埃隆建造了迄今为止最荒谬的特斯拉",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=c7HzTX9CZic",
-          "artworkUrl": "https://i.ytimg.com/vi/c7HzTX9CZic/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=FmCb3PDD7AY",
+          "artworkUrl": "https://i.ytimg.com/vi/FmCb3PDD7AY/hqdefault.jpg"
         },
         {
-          "title": "@CodieSanchezCT on the multimillion-dollar business of Halloween stores",
+          "title": "The Arbitrage Hunter: how to find non-obvious opportunities to make millions",
           "guest": null,
-          "date": "2026-10-19T13:27:45+00:00",
-          "description": "@CodieSanchezCT on the multimillion-dollar business of Halloween stores",
-          "descriptionCN": "@CodieSanchezCT on the multimillion-dollar business of Halloween stores",
+          "date": "2026-10-26T13:39:41+00:00",
+          "description": "*Database on how long it takes to become a millionaire:*\nEpisode 876: Shaan Puri (  ) sits down with Nick Kokonas (  ) to talk about finding arbitrages and how to win an many different games.\nShow Notes:\n(0:00) Intro\n(9:45) How I Became a Trader With $60K\n(18:15) Surviving Day 1 of Anything\n(20:35) The Comfort Trap\n(23:50) Finding Your Arb\n(32:00) No Boats. No Women. No Drugs.\n(34:55) Showing Up\n(43:15) Everything Is an Arbitrage\n(47:55) Greatness\n(55:55) Working Backwards\n(1:03:40) The Magic of Alinea\n(1:10:35) Controlling Attention\n(1:19:10) Remixing Old Mechanics",
+          "descriptionCN": "*关于成为百万富翁需要多长时间的数据库：*\n第 876 集：Shaan Puri ( ) 与 Nick Kokonas ( ) 坐下来讨论寻找套利以及如何赢得许多不同的游戏。\n显示注意事项：\n(0:00) 简介\n(9:45) 我如何成为拥有 6 万美元的交易者\n(18:15) 度过一切的第一天\n(20:35) 舒适陷阱\n(23:50) 寻找你的套利\n(32:00) 没有船。没有女人。没有药物。\n(34:55) 出现\n(43:15) 一切都是套利\n(47:55) 伟大\n(55:55) 逆向工作\n(1:03:40) Alinea 的魔力\n(1:10:35) 控制注意力\n(1:19:10) 重新混合旧机制",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=EWckNEYWshY",
-          "artworkUrl": "https://i.ytimg.com/vi/EWckNEYWshY/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=YdRLpWQARtA",
+          "artworkUrl": "https://i.ytimg.com/vi/YdRLpWQARtA/hqdefault.jpg"
         }
       ]
     },
