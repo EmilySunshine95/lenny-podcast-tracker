@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-06T03:07:13.790Z",
+  "lastFetched": "2026-11-07T02:31:36.604Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -18,7 +18,7 @@
           "guest": "Hector Serrano",
           "date": "2026-11-01T13:31:36Z",
           "description": "Hector Serrano runs one of the most innovative and successful paid growth programs in Silicon Valley. As Head of Content at Wispr Flow, a leading AI voice-to-text tool, he built a roster of 50 creators who drive 500 to 600 paid user-generated content (UGC) ads every month. The creators are paid a cut of ad spend, and the best of them earn over $13,000 a month. It’s a playbook the best DTC brands have used for years, now adapted for SaaS. Hector joined Wispr Flow at 19, before the product had PMF, and over the past year, Wispr Flow has grown revenue 30x and raised at a $2 billion valuation.\nWe discuss:\n1. Why paid UGC is one of the biggest untapped growth levers right now\n2. The step-by-step playbook for building a successful paid-UGC program\n3. Why the best marketers are “allergic to AI”\n4. What makes a great modern marketing hire\n5. Why YouTube is the most underrated growth lever in SaaS",
-          "descriptionCN": "赫克托·塞拉诺 (Hector Serrano) 运营着硅谷最具创新性和最成功的付费成长计划之一。作为领先的 AI 语音转文本工具 Wispr Flow 的内容主管，他建立了一个由 50 名创作者组成的名单，每月推出 500 至 600 个付费用户生成内容 (UGC) 广告。创作者会从广告支出中获得一定比例的报酬，其中最好的人每月收入超过 13,000 美元。这是最好的 DTC 品牌多年来使用的剧本，现在适用于 SaaS。 Hector 于 19 岁时加入 Wispr Flow，当时该产品还没有 PMF，在过去的一年里，Wispr Flow 的收入增长了 30 倍，估值达到 20 亿美元。\n我们讨论：\n1. 为什么付费 UGC 是目前尚未开发的最大增长杠杆之一\n2. 构建成功的付费 UGC 项目的分步指南\n3. 为什么最好的营销人员“对人工智能过敏”\n4. 是什么造就了优秀的现代营销人员\n5. 为什么 YouTube 是 SaaS 领域最被低估的增长杠杆",
+          "descriptionCN": "赫克托·塞拉诺 (Hector Serrano) 运营着硅谷最具创新性和最成功的付费成长计划之一。作为领先的 AI 语音转文本工具 Wispr Flow 的内容主管，他建立了一个由 50 名创作者组成的名单，每月推出 500 至 600 个付费用户生成内容 (UGC) 广告。创作者会从广告支出中抽取一部分报酬，其中最好的人每月收入超过 13,000 美元。这是最好的 DTC 品牌多年来使用的剧本，现在适用于 SaaS。 Hector 于 19 岁时加入 Wispr Flow，当时该产品还没有 PMF，在过去的一年里，Wispr Flow 的收入增长了 30 倍，估值达到 20 亿美元。\n我们讨论：\n1. 为什么付费 UGC 是目前尚未开发的最大增长杠杆之一\n2. 构建成功的付费 UGC 项目的分步指南\n3. 为什么最好的营销人员“对人工智能过敏”\n4. 是什么造就了优秀的现代营销人员\n5. 为什么 YouTube 是 SaaS 领域最被低估的增长杠杆",
           "duration": 88,
           "url": "https://podcasts.apple.com/us/podcast/how-a-19-year-old-intern-built-the-growth-engine/id1627920305?i=1000799224596&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/44/64/e0446438-6c35-8381-44a0-40da750981ed/mza_14622627019274784049.jpg/600x600bb.jpg"
@@ -58,7 +58,7 @@
           "guest": "Tibo Sottiaux",
           "date": "2026-10-04T12:32:47Z",
           "description": "Tibo Sottiaux leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.\nWe discuss:\n1. Dots, OpenAI’s new personal AI assistant\n2. Why most actions on the internet will soon be taken by agents\n3. Why loops, graphs, and fine-tuning agent workflows are a passing phase\n4. Which skills are trending up and down in the AI era\n5. How Tibo’s Dot warned him about a production outage five minutes before the launch\n6. OpenAI’s approach to AI safety",
-          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一��过渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
+          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一个���渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
           "duration": 37,
           "url": "https://podcasts.apple.com/us/podcast/openais-head-of-chatgpt-were-entering-a-new-era/id1627920305?i=1000793099277&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/ca/fd/e4cafda0-e7e8-ccd4-388d-93341a6bd344/mza_6770909817174607087.png/600x600bb.jpg"
@@ -68,7 +68,7 @@
           "guest": "Molly Graham",
           "date": "2026-09-27T12:32:18Z",
           "description": "Molly Graham is back for round two, and this one is even more powerful. Molly has spent more than 20 years helping organizations and the humans inside them navigate growth and change. She’s held leadership roles at Google, Facebook, Quip, and the Chan Zuckerberg Initiative and is the host of TED’s WorkLife podcast (which she took over from Adam Grant). She also runs Glue Club, a leadership community for senior operators, and writes a popular newsletter called Lessons.\nIn our in-depth conversation, we discuss:\n1. Why Molly’s famous “give away your Legos” career advice no longer holds true in an AI world\n2. The grief, loneliness, and burnout sweeping through the tech industry right now\n3. Why delegating to AI is fundamentally different from delegating to a human\n4. The fear narrative around AI job displacement, and why it’s overblown\n5. Which Legos you should never give to AI\n6. What the best managers are doing right now",
-          "descriptionCN": "莫莉·格雷厄姆在第二轮比赛中回归，这一轮更加强大。 Molly 花了 20 多年的时间帮助组织及其内部人员应对增长和变革。她曾在 Google、Facebook、Quip 和 Chan Zuckerberg Initiative 担任领导职务，并且是 TED WorkLife 播客的主持人（她从 Adam Grant 手中接过该播客）。她还经营 Glue Club（一个针对高级操作员的领导力社区），并撰写了一份名为“Lessons”的热门时事通讯。\n在我们的深入对话中，我们讨论：\n1. 为什么莫莉著名的“��弃你的乐高积木”职业建议在人工智能世界不再适用\n2. 目前，悲伤、孤独和倦怠席卷了科技行业\n3. 为什么委托给人工智能与委托给人类有本质上的不同\n4. 关于人工智能工作取代的恐惧叙述，以及为什么它被夸大了\n5. 哪些乐高积木你不应该送给人工智能\n6. 最好的管理者现在在做什么",
+          "descriptionCN": "莫莉·格雷厄姆在第二轮比赛中回归，这一轮更加强大。 Molly 花了 20 多年的时间帮助组织及其内部人员应对增长和变革。她曾在 Google、Facebook、Quip 和 Chan Zuckerberg Initiative 担任领导职务，并且是 TED WorkLife 播客的主持人（她从 Adam Grant 手中接过该播客）。她还经营 Glue Club（一个针对高级操作员的领导力社区），并撰写了一份名为“Lessons”的热门时事通讯。\n在我们的深入对话中，我们讨论：\n1. 为什么莫莉著名的“放���你的乐高积木”职业建议在人工智能世界不再适用\n2. 目前，悲伤、孤独和倦怠席卷了科技行业\n3. 为什么委托给人工智能与委托给人类有本质上的不同\n4. 关于人工智能工作取代的恐惧叙述，以及为什么它被夸大了\n5. 哪些乐高积木你不应该送给人工智能\n6. 最好的管理者现在在做什么",
           "duration": 94,
           "url": "https://podcasts.apple.com/us/podcast/the-grief-loneliness-and-burnout-sweeping-through/id1627920305?i=1000791870942&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/9f/97/1c9f971e-246f-1a9c-2818-b3fc62db380f/mza_4157106227263552035.jpg/600x600bb.jpg"
@@ -458,64 +458,64 @@
       "color": "#6366f1",
       "episodes": [
         {
-          "title": "Why Old Buildings Are More Beautiful Than New Ones - Robert Caro",
+          "title": "The Man Who Built New York Without Winning a Single Vote - Robert Caro",
           "guest": null,
-          "date": "2026-10-30T18:17:34+00:00",
+          "date": "2026-11-06T04:34:08+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=2bMhtD2MuwM",
-          "artworkUrl": "https://i.ytimg.com/vi/2bMhtD2MuwM/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=JyB3mExvn_w",
+          "artworkUrl": "https://i.ytimg.com/vi/JyB3mExvn_w/hqdefault.jpg"
         },
         {
-          "title": "What Robert Caro learned about power after studying it for 50 years",
+          "title": "Which AI is the best liar?",
           "guest": null,
-          "date": "2026-10-30T17:18:35+00:00",
-          "description": "𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Antithesis lets you run thorough simulation tests on every PR your coding agents ship. That’s because Antithesis is FAST. On a recent project, it packed fifteen hours of simulation into each fifteen-minute run: every change could be tested in thousands of hostile worlds before being merged. Every minute your software spends in Antithesis is one of the unluckiest hours it will ever experience. Learn more at\n* WorkOS’s Airlock is a judgment layer that sits between your agents and your most important tools. When an agent makes a request, Airlock evaluates it against your company’s policies and decides whether to allow it, block it, or escalate it to a human. If it allows it, Airlock takes action on behalf of the agent, which means your agents never see your API keys or other credentials. Airlock is in early access. If you’re interested, go to\n* Jane Street’s mystery ASIC puzzle is over, and they’ve published a blog post that reveals the chip’s purpose. You can read it here:  More importantly, there’s another challenge live now! For this one, you have to design a protocol-emulator ASIC that can be used to test chips outside of a live system. Jane Street will pay to fabricate their favorite submissions. The competition is open until January 18th. Get started at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – How Caro gets people to talk\n00:05:03 – Does America need a little more Moses today?\n00:12:42 – Moses the young idealist\n00:17:57 – Watching Moses lose power\n00:24:01 – Did Moses realize he was changing?\n00:27:53 – Building during the Great Depression\n00:32:51 – The threats and promises of Lyndon Johnson\n00:36:08 – Could Kennedy have passed Johnson’s laws?\n00:41:00 – Getting a book down to one sentence\n00:46:21 – All the material that never made it into the books\n00:52:59 – Loneliness",
-          "descriptionCN": "𝐄𝐏𝐈𝐒𝐎𝐃𝐄𝐋𝐈𝐍𝐊𝐒\n* 成绩单：\n* 苹果播客：\n* Spotify：\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Antithesis 让您可以对编码代理发布的每个 PR 运行彻底的模拟测试。那是因为对立面很快。在最近的一个项目中，它在每十五分钟的运行中包含了十五个小时的模拟：每个更改都可以在合并之前在数千个敌对世界中进行测试。你的软件在对立中度过的每一分钟都是它经历过的最不幸的时刻之一。了解更多信息，请访问\n* WorkOS 的 Airlock 是位于您的代理和最重要的工具之间的判断层。当代理提出请求时，Airlock 会根据公司的政策对其进行评估，并决定是否允许、阻止或将其升级给人工处理。如果允许，Airlock 会代表代理采取行动，这意味着您的代理永远不会看到您的 API 密钥或其他凭据。 Airlock 处于抢先体验阶段。如果您有兴趣，请访问\n* Jane Street 的神秘 ASIC 谜题已经结束，他们发表了一篇博客文章，揭示了该芯片的用途。您可以在这里阅读：更重要的是，现在还有另一个挑战！对于这一点，您必须设计一个协议仿真器 ASIC，可用于在实时系统之外测试芯片。简街将付费伪造他们最喜欢的提交内容。比赛开放至1月18日。开始于\n要赞助未来的剧集，请访问\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – 卡罗如何让人们说话\n00:05:03 – 今天美国还需要一点摩西吗？\n00:12:42 – 年轻的理想主义者摩西\n00:17:57 – 看着摩西失去权力\n00:24:01 – 摩西意识到他正在改变吗？\n00:27:53 – 大萧条时期的建筑\n00:32:51 – 林登·约翰逊的威胁和承诺\n00:36:08 – 肯尼迪能否通过约翰逊法案？\n00:41:00 – 将一本书精简为一句话\n00:46:21 – 所有从未出现在书中的材料\n00:52:59 – 孤独",
+          "date": "2026-11-05T21:00:50+00:00",
+          "description": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).\nThe results were fascinating. Models have gotten much better over the course of this year at creative on-the-spot scheming and bluffing, and also at reasoning as a team to break apart these underground conspiracies.\nI go through some of the most standout games these AIs played in this video. The new models are getting pretty good.  If my friends pulled off some of these moves while we were playing, I’d give them a fist bump.\nFwiw, OpenAI’s newer models are much better than Anthropic’s at this game.\nYou can see the full benchmark at the website, and I’ve also made it so that you and your friends can play again the AIs: clocktowerbench.com\nMusic by @tomfoxcatalog\nGithub:\nRead the post: dwarkesh.com/p/clocktower\nCheck out Tom Taylor et al.'s Blood on the Clocktower benchmark at",
+          "descriptionCN": "我花了 20,000 美元的 API 积分，让不同的 AI 模型在 Blood on the Clocktower（一款黑手党或狼人类型的社交欺骗游戏）中互相游戏。\n结果令人着迷。今年以来，模特们在创造性的现场策划和虚张声势以及作为团队进行推理以瓦解这些地下阴谋方面都取得了很大的进步。\n我在这段视频中回顾了这些人工智能玩过的一些最出色的游戏。新模型变得非常好。  如果我的朋友在我们玩的时候完成了其中一些动作，我就会给他们一个拳头。\nFwiw，OpenAI 的新模型在这个游戏中比 Anthropic 的模型好得多。\n你可以在网站上看到完整的基准测试，我也做了它，以便你和你的朋友可以再次玩人工智能：clocktowerbench.com\n音乐来自@tomfoxcatalog\nGitHub：\n阅读帖子：dwarkesh.com/p/clocktower\n查看 Tom Taylor 等人的 Blood on the Clocktower 基准测试：",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=f0J_EeW42Lo",
-          "artworkUrl": "https://i.ytimg.com/vi/f0J_EeW42Lo/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=1NQwfImTseU",
+          "artworkUrl": "https://i.ytimg.com/vi/1NQwfImTseU/hqdefault.jpg"
         },
         {
-          "title": "How did tiny Japan beat Russia? - Sarah Paine",
+          "title": "The man who handed out LBJ’s money - Robert Caro",
           "guest": null,
-          "date": "2026-10-29T23:41:37+00:00",
+          "date": "2026-11-04T23:17:12+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=O0JgGEAwAqA",
-          "artworkUrl": "https://i.ytimg.com/vi/O0JgGEAwAqA/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=CGPQ2-pJ6As",
+          "artworkUrl": "https://i.ytimg.com/vi/CGPQ2-pJ6As/hqdefault.jpg"
         },
         {
-          "title": "What Robert Caro’s books taught me about power",
+          "title": "How Robert Moses Destroyed His Enemies  - Robert Caro",
           "guest": null,
-          "date": "2026-10-29T16:51:24+00:00",
-          "description": "I recently got to interview Robert Caro, who is my favorite author of all time.\nThis gave me the excuse to reread his biographies of Lyndon Johnson and Robert Moses. I decided to compile their lessons about power into this video essay.\nThanks to Max Farrens, who paired with me in writing the script for this video essay, and to Aaron and Ishan, who produced this video essay.\nMusic by Tom Fox @tomfoxcatalog\nIf you just want to read the essay:",
-          "descriptionCN": "我最近采访了罗伯特·卡罗，他是我一直以来最喜欢的作家。\n这给了我重新阅读他的林登·约翰逊和罗伯特·摩西传记的借口。我决定将他们关于权力的课程汇编成这篇视频文章。\n感谢马克斯·法伦斯 (Max Farrens) 与我合作编写了这篇视频文章的剧本，感谢亚伦 (Aaron) 和伊尚 (Ishan) 制作了这篇视频文章。\n汤姆·福克斯@tomfoxcatalog 的音乐\n如果你只是想阅读这篇文章：",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=kX_WmQK_tt0",
-          "artworkUrl": "https://i.ytimg.com/vi/kX_WmQK_tt0/hqdefault.jpg"
-        },
-        {
-          "title": "Why COVID Was Impossible to Contain  - Kyle Harper",
-          "guest": null,
-          "date": "2026-10-28T22:35:04+00:00",
+          "date": "2026-11-03T20:25:36+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=Xtkj1FMqRj8",
-          "artworkUrl": "https://i.ytimg.com/vi/Xtkj1FMqRj8/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=paOOAJS5Omk",
+          "artworkUrl": "https://i.ytimg.com/vi/paOOAJS5Omk/hqdefault.jpg"
         },
         {
-          "title": "The Scientific Revolution Happened in a Filthy City - Kyle Harper",
+          "title": "Why Senators Couldn’t Say No to LBJ – Robert Caro",
           "guest": null,
-          "date": "2026-10-28T00:36:59+00:00",
+          "date": "2026-11-02T21:42:00+00:00",
           "description": "",
           "descriptionCN": "",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=uXRcpSXIunA",
-          "artworkUrl": "https://i.ytimg.com/vi/uXRcpSXIunA/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=7l6IEPzt68I",
+          "artworkUrl": "https://i.ytimg.com/vi/7l6IEPzt68I/hqdefault.jpg"
+        },
+        {
+          "title": "How Japan Accidentally Helped Kill the Tsar - Sarah Paine",
+          "guest": null,
+          "date": "2026-11-02T08:11:03+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=n8uMYGFhg3U",
+          "artworkUrl": "https://i.ytimg.com/vi/n8uMYGFhg3U/hqdefault.jpg"
         }
       ]
     },
