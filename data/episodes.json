@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-08T02:01:16.071Z",
+  "lastFetched": "2026-11-09T02:21:12.348Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -14,11 +14,21 @@
       "color": "#4f46e5",
       "episodes": [
         {
+          "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+          "guest": "Tulsee Doshi",
+          "date": "2026-11-08T13:31:32Z",
+          "description": "Tulsee Doshi is head of product for Google’s frontier AI models, including Gemini and other multimodal models, such as Nano Banana, Genie, Veo, and Lyria.\nWe discuss:\n1. Why model development is not just engineering, but also like Snape’s potions class\n2. Google’s full-stack frontier AI strategy\n3. What PMs do inside a frontier AI lab\n4. Tulsee’s 60-20-20 framework for balancing what works now and what’s almost working\n5. How to write your first eval\n6. The rising value of great PMs",
+          "descriptionCN": "Tulsee Doshi 是 Google 前沿 AI 模型的产品主管，包括 Gemini 和其他多模态模型，例如 Nano Banana、Genie、Veo 和 Lyria。\n我们讨论：\n1. 为什么模型开发不仅仅是工程，还像斯内普的魔药课\n2、谷歌全栈前沿AI战略\n3. PM 在前沿 AI 实验室内做什么\n4. Tulsee 的 60-20-20 框架，用于平衡现在有效和几乎有效的方法\n5. 如何编写你的第一个评估\n6. 优秀产品经理的价值不断上升",
+          "duration": 59,
+          "url": "https://podcasts.apple.com/us/podcast/why-pms-are-suddenly-valuable-again-tulsee-doshi-head/id1627920305?i=1000800565224&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/f7/af/8cf7af57-7ce7-6387-2b20-b1c949d9cb00/mza_2479782169701352488.jpg/600x600bb.jpg"
+        },
+        {
           "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
           "guest": "Hector Serrano",
           "date": "2026-11-01T13:31:36Z",
           "description": "Hector Serrano runs one of the most innovative and successful paid growth programs in Silicon Valley. As Head of Content at Wispr Flow, a leading AI voice-to-text tool, he built a roster of 50 creators who drive 500 to 600 paid user-generated content (UGC) ads every month. The creators are paid a cut of ad spend, and the best of them earn over $13,000 a month. It’s a playbook the best DTC brands have used for years, now adapted for SaaS. Hector joined Wispr Flow at 19, before the product had PMF, and over the past year, Wispr Flow has grown revenue 30x and raised at a $2 billion valuation.\nWe discuss:\n1. Why paid UGC is one of the biggest untapped growth levers right now\n2. The step-by-step playbook for building a successful paid-UGC program\n3. Why the best marketers are “allergic to AI”\n4. What makes a great modern marketing hire\n5. Why YouTube is the most underrated growth lever in SaaS",
-          "descriptionCN": "赫克托·塞拉诺 (Hector Serrano) 运营着硅谷最具创新性和最成功的付费成长计划之一。作为领先的 AI 语音转文本工具 Wispr Flow 的内容主管，他建立了一个由 50 名创作者组成的名单，每月推出 500 至 600 个付费用户生成内容 (UGC) 广告。创作者会从广告支出中获得一定比例的报酬，其中最好的人每月收入超过 13,000 美元。这是最好的 DTC 品牌多年来使用的剧本，现在适用于 SaaS。 Hector 于 19 岁时加入 Wispr Flow，当时该产品还没有 PMF，在过去的一年里，Wispr Flow 的收入增长了 30 倍，估值达到 20 亿美元。\n我们讨论：\n1. 为什么付费 UGC 是目前尚未开发的最大增长杠杆之一\n2. 构建成功的付费 UGC 项目的分步指南\n3. 为什么最好的营销人员“对人工智能过敏”\n4. 是什么造就了优秀的现代营销人员\n5. 为什么 YouTube 是 SaaS 领域最被低估的增长杠杆",
+          "descriptionCN": "赫克托·塞拉诺 (Hector Serrano) 运营着硅谷最具创新性和最成功的付费成长计划之一。作为领先的 AI 语音转文本工具 Wispr Flow 的内容主管，他建立了一个由 50 名创作者组成的名单，每月推出 500 至 600 个付费用户生成内容 (UGC) 广告。创作者会从广告支出中抽取一部分报酬，其中最好的人每月收入超过 13,000 美元。这是最好的 DTC 品牌多年来使用的剧本，现在适用于 SaaS。 Hector 于 19 岁时加入 Wispr Flow，当时该产品还没有 PMF，在过去的一年里，Wispr Flow 的收入增长了 30 倍，估值达到 20 亿美元。\n我们讨论：\n1. 为什么付费 UGC 是目前尚未开发的最大增长杠杆之一\n2. 构建成功的付费 UGC 项目的分步指南\n3. 为什么最好的营销人员“对人工智能过敏”\n4. 是什么造就了优秀的现代营销人员\n5. 为什么 YouTube 是 SaaS 领域最被低估的增长杠杆",
           "duration": 88,
           "url": "https://podcasts.apple.com/us/podcast/how-a-19-year-old-intern-built-the-growth-engine/id1627920305?i=1000799224596&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/44/64/e0446438-6c35-8381-44a0-40da750981ed/mza_14622627019274784049.jpg/600x600bb.jpg"
@@ -58,20 +68,10 @@
           "guest": "Tibo Sottiaux",
           "date": "2026-10-04T12:32:47Z",
           "description": "Tibo Sottiaux leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.\nWe discuss:\n1. Dots, OpenAI’s new personal AI assistant\n2. Why most actions on the internet will soon be taken by agents\n3. Why loops, graphs, and fine-tuning agent workflows are a passing phase\n4. Which skills are trending up and down in the AI era\n5. How Tibo’s Dot warned him about a production outage five minutes before the launch\n6. OpenAI’s approach to AI safety",
-          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一个���渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
+          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一个过渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
           "duration": 37,
           "url": "https://podcasts.apple.com/us/podcast/openais-head-of-chatgpt-were-entering-a-new-era/id1627920305?i=1000793099277&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/ca/fd/e4cafda0-e7e8-ccd4-388d-93341a6bd344/mza_6770909817174607087.png/600x600bb.jpg"
-        },
-        {
-          "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
-          "guest": "Molly Graham",
-          "date": "2026-09-27T12:32:18Z",
-          "description": "Molly Graham is back for round two, and this one is even more powerful. Molly has spent more than 20 years helping organizations and the humans inside them navigate growth and change. She’s held leadership roles at Google, Facebook, Quip, and the Chan Zuckerberg Initiative and is the host of TED’s WorkLife podcast (which she took over from Adam Grant). She also runs Glue Club, a leadership community for senior operators, and writes a popular newsletter called Lessons.\nIn our in-depth conversation, we discuss:\n1. Why Molly’s famous “give away your Legos” career advice no longer holds true in an AI world\n2. The grief, loneliness, and burnout sweeping through the tech industry right now\n3. Why delegating to AI is fundamentally different from delegating to a human\n4. The fear narrative around AI job displacement, and why it’s overblown\n5. Which Legos you should never give to AI\n6. What the best managers are doing right now",
-          "descriptionCN": "莫莉·格雷厄姆在第二轮比赛中回归，这一轮更加强大。 Molly 花了 20 多年的时间帮助组织及其内部人员应对增长和变革。她曾在 Google、Facebook、Quip 和 Chan Zuckerberg Initiative 担任领导职务，并且是 TED WorkLife 播客的主持人（她从 Adam Grant 手中接过该播客）。她还经营 Glue Club（一个针对高级操作员的领导力社区），并撰写了一份名为“Lessons”的热门时事通讯。\n在我们的深入对话中，我们讨论：\n1. 为什么莫莉著名的“放弃你的乐高积木”职业建议在人工智能世界不再适用\n2. 目前，悲伤、孤独和倦怠席卷了科技行业\n3. 为什么委托给人工智能与委托给人类有本质上的不同\n4. 关于人工智能工作取代的恐惧叙述，以及为什么它被夸大了\n5. 哪些乐高积木你不应该送给人工智能\n6. 最好的管理者现在在做什么",
-          "duration": 94,
-          "url": "https://podcasts.apple.com/us/podcast/the-grief-loneliness-and-burnout-sweeping-through/id1627920305?i=1000791870942&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/9f/97/1c9f971e-246f-1a9c-2818-b3fc62db380f/mza_4157106227263552035.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -680,64 +680,64 @@
       "color": "#16a34a",
       "episodes": [
         {
-          "title": "Why your real screen time is higher than you think",
+          "title": "How I made £3,000 a month as a medical student",
           "guest": null,
-          "date": "2026-10-22T10:00:01+00:00",
-          "description": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=u4V4G_hazbo",
-          "artworkUrl": "https://i.ytimg.com/vi/u4V4G_hazbo/hqdefault.jpg"
-        },
-        {
-          "title": "If you want to build a business, start a problems list",
-          "guest": null,
-          "date": "2026-10-21T10:00:06+00:00",
+          "date": "2026-11-08T10:00:14+00:00",
           "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报》畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=1Jwd2eVlVvo",
-          "artworkUrl": "https://i.ytimg.com/vi/1Jwd2eVlVvo/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=nQVMKFkAzkk",
+          "artworkUrl": "https://i.ytimg.com/vi/nQVMKFkAzkk/hqdefault.jpg"
         },
         {
-          "title": "My one piece of advice for your 20s",
+          "title": "The book series I can't stop recommending",
           "guest": null,
-          "date": "2026-10-20T10:00:10+00:00",
+          "date": "2026-11-07T10:00:07+00:00",
           "description": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报》畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=wrAqamg3CZY",
-          "artworkUrl": "https://i.ytimg.com/vi/wrAqamg3CZY/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=eUYtuFidDy8",
+          "artworkUrl": "https://i.ytimg.com/vi/eUYtuFidDy8/hqdefault.jpg"
         },
         {
-          "title": "How to shift from an employee to an entrepreneur mindset",
+          "title": "I Ranked Every Productivity Tool From Worst to Best",
           "guest": null,
-          "date": "2026-10-19T10:00:34+00:00",
+          "date": "2026-11-06T17:17:03+00:00",
+          "description": "Try Lovable, the software creation tool for building real websites and apps:\n📝 Get my list of journaling prompts here:\n🧠 Try Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I'm reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "尝试 Lovable，用于构建真实网站和应用程序的软件创建工具：\n📝 在这里获取我的日记提示列表：\n🧠 尝试 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n我的其他产品\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n我的书\n📕 我的《纽约时报》畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=uRCskQbL1KY",
+          "artworkUrl": "https://i.ytimg.com/vi/uRCskQbL1KY/hqdefault.jpg"
+        },
+        {
+          "title": "I got scammed out of £1,000",
+          "guest": null,
+          "date": "2026-11-06T10:00:29+00:00",
           "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报》畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=x9Q1_opRdQI",
-          "artworkUrl": "https://i.ytimg.com/vi/x9Q1_opRdQI/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=_IyxRHCen68",
+          "artworkUrl": "https://i.ytimg.com/vi/_IyxRHCen68/hqdefault.jpg"
         },
         {
-          "title": "Doesn't dating get in the way of productivity?",
+          "title": "Skip, read or study: business books for new entrepreneurs",
           "guest": null,
-          "date": "2026-10-18T10:00:24+00:00",
-          "description": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "date": "2026-11-05T10:00:01+00:00",
+          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报》畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=WAtzGzuazdg",
-          "artworkUrl": "https://i.ytimg.com/vi/WAtzGzuazdg/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=AMZ0uEmXXAk",
+          "artworkUrl": "https://i.ytimg.com/vi/AMZ0uEmXXAk/hqdefault.jpg"
         },
         {
-          "title": "How to expand your personal brand into new topics",
+          "title": "I was 12 years old when I started earning",
           "guest": null,
-          "date": "2026-10-17T10:00:30+00:00",
-          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n��  My website / blog:",
-          "descriptionCN": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n��  My website / blog:",
+          "date": "2026-11-04T10:00:05+00:00",
+          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "🚀 生活方式商业学院：我们的 MBA 替代方案，可帮助您打造 6 位数的在线业务 →\n🧠 Superfocus：我们为那些比时间更有野心的人提供的终极生产力系统 →\n我的其他产品\n🦄 我的生产力课程：LifeOS →\n🤑 拓展您的 YouTube 频道/通过其获利 →\n👻 Voicepal：AI 写作应用程序（iOS/Android）- 免费下载 →\n我的书\n📕 我的《纽约时报》畅销书《感觉良好的生产力》（2,000 多条 5 星评论）→\n与我联系\n💌 加入 LifeNotes，这是我每周发送的电子邮件，我会在其中分享我正在阅读和学习的内容：\n📸 Instagram：\n📱 抖音：\n👨‍💻 领英：\n🐥X/推特：\n🌍我的网站/博客：",
           "duration": null,
-          "url": "https://www.youtube.com/watch?v=PYS-Yul--Gg",
-          "artworkUrl": "https://i.ytimg.com/vi/PYS-Yul--Gg/hqdefault.jpg"
+          "url": "https://www.youtube.com/watch?v=B3AwuxBd--A",
+          "artworkUrl": "https://i.ytimg.com/vi/B3AwuxBd--A/hqdefault.jpg"
         }
       ]
     },
