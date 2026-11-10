@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-09T02:21:12.348Z",
+  "lastFetched": "2026-11-10T04:28:42.130Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -28,7 +28,7 @@
           "guest": "Hector Serrano",
           "date": "2026-11-01T13:31:36Z",
           "description": "Hector Serrano runs one of the most innovative and successful paid growth programs in Silicon Valley. As Head of Content at Wispr Flow, a leading AI voice-to-text tool, he built a roster of 50 creators who drive 500 to 600 paid user-generated content (UGC) ads every month. The creators are paid a cut of ad spend, and the best of them earn over $13,000 a month. It’s a playbook the best DTC brands have used for years, now adapted for SaaS. Hector joined Wispr Flow at 19, before the product had PMF, and over the past year, Wispr Flow has grown revenue 30x and raised at a $2 billion valuation.\nWe discuss:\n1. Why paid UGC is one of the biggest untapped growth levers right now\n2. The step-by-step playbook for building a successful paid-UGC program\n3. Why the best marketers are “allergic to AI”\n4. What makes a great modern marketing hire\n5. Why YouTube is the most underrated growth lever in SaaS",
-          "descriptionCN": "赫克托·塞拉诺 (Hector Serrano) 运营着硅谷最具创新性和最成功的付费成长计划之一。作为领先的 AI 语音转文本工具 Wispr Flow 的内容主管，他建立了一个由 50 名创作者组成的名单，每月推出 500 至 600 个付费用户生成内容 (UGC) 广告。创作者会从广告支出中抽取一部分报酬，其中最好的人每月收入超过 13,000 美元。这是最好的 DTC 品牌多年来使用的剧本，现在适用于 SaaS。 Hector 于 19 岁时加入 Wispr Flow，当时该产品还没有 PMF，在过去的一年里，Wispr Flow 的收入增长了 30 倍，估值达到 20 亿美元。\n我们讨论：\n1. 为什么付费 UGC 是目前尚未开发的最大增长杠杆之一\n2. 构建成功的付费 UGC 项目的分步指南\n3. 为什么最好的营销人员“对人工智能过敏”\n4. 是什么造就了优秀的现代营销人员\n5. 为什么 YouTube 是 SaaS 领域最被低估的增长杠杆",
+          "descriptionCN": "赫克托·塞拉诺 (Hector Serrano) 运营着硅谷最具创新性和最成功的付费成长计划之一。作为领先的 AI 语音转文本工具 Wispr Flow 的内容主管，他建立了一个由 50 名创作者组成的名单，每月推出 500 至 600 个付费用户生成内容 (UGC) 广告。创作者会从广告支出中获得一定比例的报酬，其中最好的人每月收入超过 13,000 美元。这是最好的 DTC 品牌多年来使用的剧本，现在适用于 SaaS。 Hector 于 19 岁时加入 Wispr Flow，当时该产品还没有 PMF，在过去的一年里，Wispr Flow 的收入增长了 30 倍，估值达到 20 亿美元。\n我们讨论：\n1. 为什么付费 UGC 是目前尚未开发的最大增长杠杆之一\n2. 构建成功的付费 UGC 项目的分步指南\n3. 为什么最好的营销人员“对人工智能过敏”\n4. 是什么造就了优秀的现代营销人员\n5. 为什么 YouTube 是 SaaS 领域最被低估的增长杠杆",
           "duration": 88,
           "url": "https://podcasts.apple.com/us/podcast/how-a-19-year-old-intern-built-the-growth-engine/id1627920305?i=1000799224596&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/44/64/e0446438-6c35-8381-44a0-40da750981ed/mza_14622627019274784049.jpg/600x600bb.jpg"
@@ -68,7 +68,7 @@
           "guest": "Tibo Sottiaux",
           "date": "2026-10-04T12:32:47Z",
           "description": "Tibo Sottiaux leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.\nWe discuss:\n1. Dots, OpenAI’s new personal AI assistant\n2. Why most actions on the internet will soon be taken by agents\n3. Why loops, graphs, and fine-tuning agent workflows are a passing phase\n4. Which skills are trending up and down in the AI era\n5. How Tibo’s Dot warned him about a production outage five minutes before the launch\n6. OpenAI’s approach to AI safety",
-          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一个过渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
+          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一个���渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
           "duration": 37,
           "url": "https://podcasts.apple.com/us/podcast/openais-head-of-chatgpt-were-entering-a-new-era/id1627920305?i=1000793099277&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/ca/fd/e4cafda0-e7e8-ccd4-388d-93341a6bd344/mza_6770909817174607087.png/600x600bb.jpg"
