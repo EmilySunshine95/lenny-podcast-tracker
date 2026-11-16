@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-15T02:21:30.849Z",
+  "lastFetched": "2026-11-16T02:32:28.278Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -13,6 +13,16 @@
       "youtube": "https://www.youtube.com/@LennysPodcast",
       "color": "#4f46e5",
       "episodes": [
+        {
+          "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+          "guest": "Mona Sarantakos",
+          "date": "2026-11-15T13:31:28Z",
+          "description": "Muse is the #1 app in the App Store and arguably the fastest-growing AI consumer product of all time. Mona Sarantakos has led product on it since day one. She’s VP of Product at Meta Superintelligence Labs and a 10-year Meta veteran with over 20 years of experience as a PM. This is her first podcast interview.\nWe discuss:\n1. How a weekend with OpenClaw on a Raspberry Pi turned into Muse\n2. Why Muse waited seven months to launch, despite getting started before most of its competitors\n3. How Nat Friedman, Alex Wang, and Mark Zuckerberg each left their imprint on the product\n4. How the team uses “agent swarms” to surface user insights at scale\n5. The use case nobody on the team predicted\n6. How Jolly, a placeholder avatar, became an icon\n7. The two levers that actually move activation for an AI agent\n8. The #1 thing Mona looks for in PMs today",
+          "descriptionCN": "Muse 是 App Store 中排名第一的应用程序，并且可以说是有史以来增长最快的人工智能消费产品。 Mona Sarantakos 从第一天起就一直领导该产品。她是 Meta Superintelligence Labs 的产品副总裁，也是一位拥有 10 年 Meta 经验的资深人士，拥有 20 多年的 PM 经验。这是她第一次接受播客采访。\n我们讨论：\n1. 在 Raspberry Pi 上使用 OpenClaw 度过的周末如何变成了 Muse\n2. 为什么 Muse 比大多数竞争对手都先开始，却等了七个月才推出\n3. Nat Friedman、Alex Wang 和 Mark Zuckerberg 如何在产品上留下自己的印记\n4. 团队如何使用“代理群”大规模地展现用户洞察\n5. 团队中无人预测的用例\n6. Jolly，一个占位符头像，如何成为一个偶像\n7. 真正激活人工智能代理的两个杠杆\n8. Mona 在今天的产品经理中寻找的第一要素",
+          "duration": 87,
+          "url": "https://podcasts.apple.com/us/podcast/metas-muse-how-we-launched-the-most-successful/id1627920305?i=1000802077970&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/63/89/6d638980-689d-5977-1895-e17ddc2ec029/mza_7633747758780827748.png/600x600bb.jpg"
+        },
         {
           "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
           "guest": "Tulsee Doshi",
@@ -62,16 +72,6 @@
           "duration": 62,
           "url": "https://podcasts.apple.com/us/podcast/why-every-company-now-needs-to-think-and-operate-like/id1627920305?i=1000795263758&uo=4",
           "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/8d/78/588d78a0-2062-15fe-7566-235323c0f718/mza_9185879795648835118.png/600x600bb.jpg"
-        },
-        {
-          "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-          "guest": "Tibo Sottiaux",
-          "date": "2026-10-04T12:32:47Z",
-          "description": "Tibo Sottiaux leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.\nWe discuss:\n1. Dots, OpenAI’s new personal AI assistant\n2. Why most actions on the internet will soon be taken by agents\n3. Why loops, graphs, and fine-tuning agent workflows are a passing phase\n4. Which skills are trending up and down in the AI era\n5. How Tibo’s Dot warned him about a production outage five minutes before the launch\n6. OpenAI’s approach to AI safety",
-          "descriptionCN": "Tibo Sottiaux 领导 OpenAI 的 ChatGPT 和 Codex。在他的领导下，OpenAI 推出了一些最重要的消费者产品：Codex、ChatGPT Work 以及最近推出的新 Dots 个人代理平台。在他的团队推出 20 多个新产品几个小时后，他在 DevDay 上与我一起讨论了事情的发展方向。\n我们讨论：\n1. OpenAI全新个人AI助手Dots\n2. 为什么互联网上的大多数操作很快就会由代理执行\n3. 为什么循环、图形和微调代理工作流程是一��过渡阶段\n4. AI时代哪些技能正在上升和下降\n5. Tibo 的 Dot 如何在发布前五分钟警告他生产中断\n6. OpenAI 的人工智能安全方法",
-          "duration": 37,
-          "url": "https://podcasts.apple.com/us/podcast/openais-head-of-chatgpt-were-entering-a-new-era/id1627920305?i=1000793099277&uo=4",
-          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/ca/fd/e4cafda0-e7e8-ccd4-388d-93341a6bd344/mza_6770909817174607087.png/600x600bb.jpg"
         }
       ]
     },
