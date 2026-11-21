@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-20T03:52:06.560Z",
+  "lastFetched": "2026-11-21T03:44:52.659Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -310,6 +310,16 @@
       "color": "#14b8a6",
       "episodes": [
         {
+          "title": "How to build a subscription people actually keep",
+          "guest": null,
+          "date": "2026-11-20T13:00:23+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=j98oLV1qAgQ",
+          "artworkUrl": "https://i.ytimg.com/vi/j98oLV1qAgQ/hqdefault.jpg"
+        },
+        {
           "title": "The offer stack of a LinkedIn Ghostwriter",
           "guest": null,
           "date": "2026-11-19T13:00:33+00:00",
@@ -358,16 +368,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=Pg9N3MlNKEQ",
           "artworkUrl": "https://i.ytimg.com/vi/Pg9N3MlNKEQ/hqdefault.jpg"
-        },
-        {
-          "title": "His EXACT System For Writing GREAT YouTube Scripts With AI",
-          "guest": null,
-          "date": "2026-10-12T15:05:56+00:00",
-          "description": "Try AutoCut from 1of10 for free:\nGet the free YouTube Script Partner skill + George's Claude project files:\nJoin the PlayWriteAI waitlist:\nJoin our membership for creators:\nMeet George Blackman, a YouTube scriptwriter who got his start writing full-time for Ali Abdaal and has since written scripts for creators from 30,000 to over 10 million subscribers.\nThis is George's second time on the show. Three years ago, we talked about scriptwriting fundamentals. Since then, George has started writing his own videos with AI, and he's spent most of this year building PlayWriteAI, an AI scriptwriting app with more than 700 people on the waitlist. Building it taught him something most creators haven't noticed yet: AI will tell you, very confidently, that it did ten things it never actually did.\nThis episode is his full process, from voice memo to a script that's ready to record.\nIn this episode, we talk about:\n• The framework behind every educational hook George writes: target, transformation, stakes\n• Why the setups and payoffs inside each segment matter more than the hook\n• The ending George puts on every single video, and a twist I want to try on mine\n• Where a human still has to make the call, and why AI will keep \"improving\" your script forever if you let it\nBy the end of this episode, you will have a repeatable system for writing scripts with AI, and a clearer sense of which parts of the work you should keep for yourself.\n***\nTIMESTAMPS\n(00:00) Intro to George Blackman\n(02:32) George's process today\n(05:10) Easy mode vs. advanced mode\n(09:53) The 3 blocks of a YouTube script\n(11:04) Target, transformation, stakes\n(18:06) Why setups matter most\n(19:52) Inside George's scriptwriting app\n(22:34) Rethinking the payoff\n(28:16) How many segments a video needs\n(33:00) How George ends every video\n(35:14) Ending on a sales video\n(38:34) Where humans still matter\n(43:50) How George really feels about AI\n***\nMENTIONED IN THIS EPISODE\nThe Claude project setup video George walks through:\nFree YouTube Script Template:\nFree Audience Avatar Template:\nThe YouTube Scriptwriting Playbook:\nYouTube Writer's Room:\nWispr Flow:\nMy first conversation with George:\n***\nCONNECT WITH GUEST\n🌐 Website:\n📬 Newsletter:\n🐦 X:\n💼 LinkedIn:\n📹 YouTube: @GeorgeBlackmanYT\n***\nCONNECT WITH ME\n🐦 X: https:/x.com/jayclouse\n📸 Instagram:\n🎵 TikTok:\n💼 LinkedIn:",
-          "descriptionCN": "Try AutoCut from 1of10 for free:\nGet the free YouTube Script Partner skill + George's Claude project files:\nJoin the PlayWriteAI waitlist:\nJoin our membership for creators:\nMeet George Blackman, a YouTube scriptwriter who got his start writing full-time for Ali Abdaal and has since written scripts for creators from 30,000 to over 10 million subscribers.\nThis is George's second time on the show. Three years ago, we talked about scriptwriting fundamentals. Since then, George has started writing his own videos with AI, and he's spent most of this year building PlayWriteAI, an AI scriptwriting app with more than 700 people on the waitlist. Building it taught him something most creators haven't noticed yet: AI will tell you, very confidently, that it did ten things it never actually did.\nThis episode is his full process, from voice memo to a script that's ready to record.\nIn this episode, we talk about:\n• The framework behind every educational hook George writes: target, transformation, stakes\n• Why the setups and payoffs inside each segment matter more than the hook\n• The ending George puts on every single video, and a twist I want to try on mine\n• Where a human still has to make the call, and why AI will keep \"improving\" your script forever if you let it\nBy the end of this episode, you will have a repeatable system for writing scripts with AI, and a clearer sense of which parts of the work you should keep for yourself.\n***\nTIMESTAMPS\n(00:00) Intro to George Blackman\n(02:32) George's process today\n(05:10) Easy mode vs. advanced mode\n(09:53) The 3 blocks of a YouTube script\n(11:04) Target, transformation, stakes\n(18:06) Why setups matter most\n(19:52) Inside George's scriptwriting app\n(22:34) Rethinking the payoff\n(28:16) How many segments a video needs\n(33:00) How George ends every video\n(35:14) Ending on a sales video\n(38:34) Where humans still matter\n(43:50) How George really feels about AI\n***\nMENTIONED IN THIS EPISODE\nThe Claude project setup video George walks through:\nFree YouTube Script Template:\nFree Audience Avatar Template:\nThe YouTube Scriptwriting Playbook:\nYouTube Writer's Room:\nWispr Flow:\nMy first conversation with George:\n***\nCONNECT WITH GUEST\n🌐 Website:\n📬 Newsletter:\n🐦 X:\n💼 LinkedIn:\n📹 YouTube: @GeorgeBlackmanYT\n***\nCONNECT WITH ME\n🐦 X: https:/x.com/jayclouse\n📸 Instagram:\n🎵 TikTok:\n💼 LinkedIn:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=So77eF3rCao",
-          "artworkUrl": "https://i.ytimg.com/vi/So77eF3rCao/hqdefault.jpg"
         }
       ]
     },
@@ -383,6 +383,36 @@
       "youtube": "https://www.youtube.com/@MyFirstMillionPod",
       "color": "#dc2626",
       "episodes": [
+        {
+          "title": "The $15M founder who went to work at McDonald’s",
+          "guest": null,
+          "date": "2026-11-20T21:00:26+00:00",
+          "description": "The $15M founder who went to work at McDonald’s",
+          "descriptionCN": "The $15M founder who went to work at McDonald’s",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=p3JLhym3iE0",
+          "artworkUrl": "https://i.ytimg.com/vi/p3JLhym3iE0/hqdefault.jpg"
+        },
+        {
+          "title": "Bill Perkins wants to crush your ego.",
+          "guest": null,
+          "date": "2026-11-20T16:57:46+00:00",
+          "description": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "descriptionCN": "No more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=0i5cK09j3Fo",
+          "artworkUrl": "https://i.ytimg.com/vi/0i5cK09j3Fo/hqdefault.jpg"
+        },
+        {
+          "title": "Learn 90% of charisma in under 60 minutes",
+          "guest": null,
+          "date": "2026-11-20T14:09:26+00:00",
+          "description": "*Vanessa's Playbook to Use Charisma as Your Unfair Advantage:*\nEpisode 884: Sam Parr (  ) gets coached by Vanessa Van Edwards on how to be more charismatic.\nShow Notes:\n(0:00) Sam performs a magic trick\n(1:00) The most charismatic people are learned\n(2:45) Competence w/o warmth = suspicion\n(4:30) A war against authenticity\n(5:55) What is being likeable?\n(6:15) Oxytocin\n(9:00) First impressions matter more than you think\n(10:00) Dopamine\n(11:40) Case study: Howard Stern\n(13:30) Biggest conversation mistakes\n(15:55) Entertainers vs. appreciators\n(18:10) What do I say next?\n(20:45) Jake's dog\n(23:30) Be chalant\n(24:50) Physical appearance bias\n(27:30) Trigger words\n(30:30) Contagious competence\n(31:20) Biggest leader mistakes\n(41:55) Small talk 101\n(45:30) How to hire better\n(49:20) Who to study\n(51:00) How to flirt\n(52:30) Verbal, vocal, and physical mirroring\n(54:15) The business of being Vanessa Van Edwards",
+          "descriptionCN": "*Vanessa's Playbook to Use Charisma as Your Unfair Advantage:*\nEpisode 884: Sam Parr (  ) gets coached by Vanessa Van Edwards on how to be more charismatic.\nShow Notes:\n(0:00) Sam performs a magic trick\n(1:00) The most charismatic people are learned\n(2:45) Competence w/o warmth = suspicion\n(4:30) A war against authenticity\n(5:55) What is being likeable?\n(6:15) Oxytocin\n(9:00) First impressions matter more than you think\n(10:00) Dopamine\n(11:40) Case study: Howard Stern\n(13:30) Biggest conversation mistakes\n(15:55) Entertainers vs. appreciators\n(18:10) What do I say next?\n(20:45) Jake's dog\n(23:30) Be chalant\n(24:50) Physical appearance bias\n(27:30) Trigger words\n(30:30) Contagious competence\n(31:20) Biggest leader mistakes\n(41:55) Small talk 101\n(45:30) How to hire better\n(49:20) Who to study\n(51:00) How to flirt\n(52:30) Verbal, vocal, and physical mirroring\n(54:15) The business of being Vanessa Van Edwards",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=HWBcvNp2wT8",
+          "artworkUrl": "https://i.ytimg.com/vi/HWBcvNp2wT8/hqdefault.jpg"
+        },
         {
           "title": "How Sega gave Nvidia six months to survive",
           "guest": null,
@@ -412,36 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=ESa_M2VvzR4",
           "artworkUrl": "https://i.ytimg.com/vi/ESa_M2VvzR4/hqdefault.jpg"
-        },
-        {
-          "title": "Is SaaS out?",
-          "guest": null,
-          "date": "2026-11-16T16:41:40+00:00",
-          "description": "Pieter Levels no longer believes in SaaS. Here are the six moats he says actually matter in the AI era.\nNo more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
-          "descriptionCN": "Pieter Levels no longer believes in SaaS. Here are the six moats he says actually matter in the AI era.\nNo more small boy spreadsheets, build your business on the free HubSpot CRM:\nFor more quality videos subscribe here →\n🔔 Turn on notifications to stay updated with new uploads",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=fmQGPt2WZlA",
-          "artworkUrl": "https://i.ytimg.com/vi/fmQGPt2WZlA/hqdefault.jpg"
-        },
-        {
-          "title": "Gimme 92 minutes and I’ll make you disgustingly fast in business",
-          "guest": null,
-          "date": "2026-11-16T14:22:24+00:00",
-          "description": "*How to move faster than everyone (interactive guide):*\nEpisode 882: Shaan Puri (  ) sits down with his friend James Currier to learn what James teaches his Standord students about startups.\nShow Notes:\n(0:00) The speed advantage: How to beat anyone\n(2:45) Mike Cassidy: $500M in 500 days\n(5:15) How to break your speed bar\n(6:20) A 16-year-old sails solo across the Atlantic\n(7:00) Launching 24 products in 3 years\n(8:45) Set deadlines, not goals\n(11:45) The “Fuck It” moment\n(14:30) Why speed is quality\n(16:45) The job title is the tell\n(20:15) 3 ways to increase your speed\n(23:30) Patrick Collison's list of things built fast\n(25:45) Google invented nothing: Why copying wins\n(33:00) Entrepreneurship is a gladiator sport\n(36:00) Emotional fluidity: The secret to moving faster\n(37:15) Tony Robbins' 90 seconds of suffering\n(40:00) Founder psychology is the greatest point of leverage\n(43:45) Find the leak in your game\n(47:45) How James raised $150M by changing his pitch\n(51:00) Magic words: Sell the idea before building the product\n(57:45) Savage founders vs. wantrepreneurs\n(1:04:45) Where AI is going next\n(1:09:00) AI as a new form of life\n(1:13:15) Psychedelics, MDMA, and oxytocin\n(1:19:00) Why status drives human behavior\n(1:22:45) The 5 invisible lenses that explain the world\nCheck Out Sam's Stuff:\n• Hampton (joinhampton.com): My community for founders. Average member does $25m/year. Many of the guests are members. Get after it...apply:\nCheck Out Shaan's Stuff:\n• Shaan's weekly email -\n• Visit  to hire worldwide talent like Shaan and get $500 off for being an MFM listener. Hire developers, assistants, marketing pros, sales teams and more for 80% less than US equivalents.\n• Mercury - Shaan uses Mercury across all of his companies. you can too:\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided by Choice Financial Group, Column, N.A., Members FDIC\n• I run all my newsletters on Beehiiv and you should too + we're giving away $10k to our favorite newsletter, check it out:\nbeehiiv.com/mfm-challenge\nMy First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano /",
-          "descriptionCN": "*How to move faster than everyone (interactive guide):*\nEpisode 882: Shaan Puri (  ) sits down with his friend James Currier to learn what James teaches his Standord students about startups.\nShow Notes:\n(0:00) The speed advantage: How to beat anyone\n(2:45) Mike Cassidy: $500M in 500 days\n(5:15) How to break your speed bar\n(6:20) A 16-year-old sails solo across the Atlantic\n(7:00) Launching 24 products in 3 years\n(8:45) Set deadlines, not goals\n(11:45) The “Fuck It” moment\n(14:30) Why speed is quality\n(16:45) The job title is the tell\n(20:15) 3 ways to increase your speed\n(23:30) Patrick Collison's list of things built fast\n(25:45) Google invented nothing: Why copying wins\n(33:00) Entrepreneurship is a gladiator sport\n(36:00) Emotional fluidity: The secret to moving faster\n(37:15) Tony Robbins' 90 seconds of suffering\n(40:00) Founder psychology is the greatest point of leverage\n(43:45) Find the leak in your game\n(47:45) How James raised $150M by changing his pitch\n(51:00) Magic words: Sell the idea before building the product\n(57:45) Savage founders vs. wantrepreneurs\n(1:04:45) Where AI is going next\n(1:09:00) AI as a new form of life\n(1:13:15) Psychedelics, MDMA, and oxytocin\n(1:19:00) Why status drives human behavior\n(1:22:45) The 5 invisible lenses that explain the world\nCheck Out Sam's Stuff:\n• Hampton (joinhampton.com): My community for founders. Average member does $25m/year. Many of the guests are members. Get after it...apply:\nCheck Out Shaan's Stuff:\n• Shaan's weekly email -\n• Visit  to hire worldwide talent like Shaan and get $500 off for being an MFM listener. Hire developers, assistants, marketing pros, sales teams and more for 80% less than US equivalents.\n• Mercury - Shaan uses Mercury across all of his companies. you can too:\nMercury is a fintech company, not an FDIC-insured bank. Banking services provided by Choice Financial Group, Column, N.A., Members FDIC\n• I run all my newsletters on Beehiiv and you should too + we're giving away $10k to our favorite newsletter, check it out:\nbeehiiv.com/mfm-challenge\nMy First Million is a HubSpot Original Podcast // Brought to you by HubSpot Media // Production by Arie Desormeaux // Editing by Ezra Bakker Trupiano /",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=AGwNx57ABfM",
-          "artworkUrl": "https://i.ytimg.com/vi/AGwNx57ABfM/hqdefault.jpg"
-        },
-        {
-          "title": "What 50 Cent taught Robert Greene about charisma",
-          "guest": null,
-          "date": "2026-11-14T23:43:43+00:00",
-          "description": "What 50 Cent taught Robert Greene about charisma",
-          "descriptionCN": "What 50 Cent taught Robert Greene about charisma",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=DxlNk2a9pxU",
-          "artworkUrl": "https://i.ytimg.com/vi/DxlNk2a9pxU/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,16 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "AI Labs Should Stop Advancing Until They Fix Security - Paul Christiano",
+          "guest": null,
+          "date": "2026-11-21T01:17:53+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=Ru0l6G5oq7U",
+          "artworkUrl": "https://i.ytimg.com/vi/Ru0l6G5oq7U/hqdefault.jpg"
+        },
         {
           "title": "How Hackers Got Into OpenAI’s Code and Anthropic’s Slack - Paul Christiano",
           "guest": null,
@@ -506,16 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=SeGUXN8XIu8",
           "artworkUrl": "https://i.ytimg.com/vi/SeGUXN8XIu8/hqdefault.jpg"
-        },
-        {
-          "title": "I’ve changed my mind about continual learning",
-          "guest": null,
-          "date": "2026-11-13T22:39:45+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=CoSptp9tYpY",
-          "artworkUrl": "https://i.ytimg.com/vi/CoSptp9tYpY/hqdefault.jpg"
         }
       ]
     },
@@ -680,6 +680,16 @@
       "color": "#16a34a",
       "episodes": [
         {
+          "title": "This One AI Prompt Will Organise Your Entire Life",
+          "guest": null,
+          "date": "2026-11-20T14:09:27+00:00",
+          "description": "Try Waking Up free for 14 days 👉\n🚀 Free live masterclass: how to launch your online business by Christmas and get your first high-paying client by January. Save your free spot 👉\n🧭 The Life Organiser: the free AI prompt from this video →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "descriptionCN": "Try Waking Up free for 14 days 👉\n🚀 Free live masterclass: how to launch your online business by Christmas and get your first high-paying client by January. Save your free spot 👉\n🧭 The Life Organiser: the free AI prompt from this video →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=Y0-xv7bNVvU",
+          "artworkUrl": "https://i.ytimg.com/vi/Y0-xv7bNVvU/hqdefault.jpg"
+        },
+        {
           "title": "If You Have a Job, Start Selling Your Skills ASAP",
           "guest": null,
           "date": "2026-11-17T16:05:45+00:00",
@@ -728,16 +738,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=iACc_7N7QnU",
           "artworkUrl": "https://i.ytimg.com/vi/iACc_7N7QnU/hqdefault.jpg"
-        },
-        {
-          "title": "Top 5 business books for beginners",
-          "guest": null,
-          "date": "2026-11-09T10:00:02+00:00",
-          "description": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "descriptionCN": "🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business →\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS →\n🤑 Grow / Monetise your YouTube Channel →\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free →\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) →\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I’m reading & learning:\n📸  Instagram:\n📱 TikTok:\n👨‍💻 Linkedin:\n🐥 X/Twitter:\n🌍  My website / blog:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=ubDs4poi62Y",
-          "artworkUrl": "https://i.ytimg.com/vi/ubDs4poi62Y/hqdefault.jpg"
         }
       ]
     },
@@ -753,6 +753,16 @@
       "youtube": "https://www.youtube.com/@GregIsenberg",
       "color": "#ea580c",
       "episodes": [
+        {
+          "title": "Gemini 4 Neon: the most underrated model of the year",
+          "guest": null,
+          "date": "2026-11-20T23:45:43+00:00",
+          "description": "Gemini 4 Neon is LIVE, brining frontier-level intelligence with fast end-to-end task completion, try it for yourself:\nIn this solo episode, I break down Gemini 4 Neon, Google's new model, after testing it inside Antigravity. I start with builds from the community: motion design for a Pelican product, a robot dog on uneven limestone, and two pinball games with multiball physics,. Then I cover where to run Neon, five ways to get the most out of it, and five ways to make money or save time with it. I close with four honest caveats about brevity, writing habits, confusing naming, and Antigravity itself.\nTimestamps\n00:00 – Intro\n01:24 – Great Builds and Demos\n06:26 – Where to run Neon\n07:59 – Get the Most Out of Neon\n09:55 – Ways to Make Money With Neon\n13:13 – Honest Caveats\n15:16 – Closing Thoughts\nKey Points\n• Neon handles physics, motion graphics, and 3D at a level that opens up games, hardware prototypes, and vibe manufacturing.\n• The same model jumped from 12.8% to 39% on coding inside Antigravity, so I do my big builds there.\n• High thinking is my sweet spot: 32% cheaper than Carbon, while extra high burns 70% more for under two points.\n• /swarm spins up an AI team of researchers, designers, and engineers that can finish a big build overnight.\n• Playable lead magnets and custom demos for prospects are two of the fastest ways I see to earn with Neon.\n• Neon writes well once I ask for longer answers and tell it to drop em dashes and contrast clichés.\nNumbered Section Summaries\n1. Community Builds That Show the Range\nChetasula shared Neon's motion design for a Pelican product, and as someone who builds apps and hunts for mascots and motion design, I find it stunning. Another builder's piece got me thinking about hardware companies and prototypes, which ties back to my Argon episode on vibe manufacturing. Neon feels strong at this kind of hardware work.\n2. Physics That Holds Up\nOne builder pushed Neon to add uneven limestone terrain to stress test robot dog biomechanics, and it added per-paw slope adaptation, five-point obstacle scanning, and spine torsion. It reminds me of the Boston Dynamics dogs, and I can picture whole games and worlds built this way. Next to GPT 6.2 Astra on the pelican-riding-a-bike test, Neon's physics feel like a different world.\n3. Games and Apps From a Prompt\nOne builder made two pinball games with Blender and WebGPU, with generated play field art, PBR and stained glass maps, multiball physics, and procedural audio. They remind me of the Windows XP pinball game, and they're live with people playing them.\n4. Five Ways to Get the Most Out of Neon\nI set thinking to high, and I build inside Antigravity instead of the bare wrapper, which explains why people on X split so hard on this model. I use the orchestrator for daily work and /swarm for big builds, assigning a researcher, a front-end designer, a front-end engineer, and a back-end engineer before I go to sleep. I always give it a verification loop (open the browser, click buttons, fix bugs), and I put context first and demand facts, which triggers automatic caching and stops drift.\n5. Lead Magnets and Trojan Horse Demos\nNeon builds playable lead magnets, 3D configurators, and mini games that capture emails and get shared on X and Instagram, work agencies charge $10,000 to $100,000 for. For a Trojan horse demo, I paste in a business URL, like a Chick-fil-A in Toronto, let Neon scrape it, build that store a calculator or tool, and send it over. If I were 20 and chasing cash flow, I'd redesign stale websites and offer them for $50 or $100 a month.\n6. Finance, Back Office, and Overnight Products\nNeon is great with data: messy invoices go in, and a working financial model and audit come out. I ran my own company's numbers through it, and it feels like having a CFO-like partner. It also handles lead routing, CRM ops, and reconciliation for less than the competition, and with swarms, agent teams research, build, and QA micro products and directories while I ship.\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:",
+          "descriptionCN": "Gemini 4 Neon is LIVE, brining frontier-level intelligence with fast end-to-end task completion, try it for yourself:\nIn this solo episode, I break down Gemini 4 Neon, Google's new model, after testing it inside Antigravity. I start with builds from the community: motion design for a Pelican product, a robot dog on uneven limestone, and two pinball games with multiball physics,. Then I cover where to run Neon, five ways to get the most out of it, and five ways to make money or save time with it. I close with four honest caveats about brevity, writing habits, confusing naming, and Antigravity itself.\nTimestamps\n00:00 – Intro\n01:24 – Great Builds and Demos\n06:26 – Where to run Neon\n07:59 – Get the Most Out of Neon\n09:55 – Ways to Make Money With Neon\n13:13 – Honest Caveats\n15:16 – Closing Thoughts\nKey Points\n• Neon handles physics, motion graphics, and 3D at a level that opens up games, hardware prototypes, and vibe manufacturing.\n• The same model jumped from 12.8% to 39% on coding inside Antigravity, so I do my big builds there.\n• High thinking is my sweet spot: 32% cheaper than Carbon, while extra high burns 70% more for under two points.\n• /swarm spins up an AI team of researchers, designers, and engineers that can finish a big build overnight.\n• Playable lead magnets and custom demos for prospects are two of the fastest ways I see to earn with Neon.\n• Neon writes well once I ask for longer answers and tell it to drop em dashes and contrast clichés.\nNumbered Section Summaries\n1. Community Builds That Show the Range\nChetasula shared Neon's motion design for a Pelican product, and as someone who builds apps and hunts for mascots and motion design, I find it stunning. Another builder's piece got me thinking about hardware companies and prototypes, which ties back to my Argon episode on vibe manufacturing. Neon feels strong at this kind of hardware work.\n2. Physics That Holds Up\nOne builder pushed Neon to add uneven limestone terrain to stress test robot dog biomechanics, and it added per-paw slope adaptation, five-point obstacle scanning, and spine torsion. It reminds me of the Boston Dynamics dogs, and I can picture whole games and worlds built this way. Next to GPT 6.2 Astra on the pelican-riding-a-bike test, Neon's physics feel like a different world.\n3. Games and Apps From a Prompt\nOne builder made two pinball games with Blender and WebGPU, with generated play field art, PBR and stained glass maps, multiball physics, and procedural audio. They remind me of the Windows XP pinball game, and they're live with people playing them.\n4. Five Ways to Get the Most Out of Neon\nI set thinking to high, and I build inside Antigravity instead of the bare wrapper, which explains why people on X split so hard on this model. I use the orchestrator for daily work and /swarm for big builds, assigning a researcher, a front-end designer, a front-end engineer, and a back-end engineer before I go to sleep. I always give it a verification loop (open the browser, click buttons, fix bugs), and I put context first and demand facts, which triggers automatic caching and stops drift.\n5. Lead Magnets and Trojan Horse Demos\nNeon builds playable lead magnets, 3D configurators, and mini games that capture emails and get shared on X and Instagram, work agencies charge $10,000 to $100,000 for. For a Trojan horse demo, I paste in a business URL, like a Chick-fil-A in Toronto, let Neon scrape it, build that store a calculator or tool, and send it over. If I were 20 and chasing cash flow, I'd redesign stale websites and offer them for $50 or $100 a month.\n6. Finance, Back Office, and Overnight Products\nNeon is great with data: messy invoices go in, and a working financial model and audit come out. I ran my own company's numbers through it, and it feels like having a CFO-like partner. It also handles lead routing, CRM ops, and reconciliation for less than the competition, and with swarms, agent teams research, build, and QA micro products and directories while I ship.\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=tCY7zMknCJQ",
+          "artworkUrl": "https://i.ytimg.com/vi/tCY7zMknCJQ/hqdefault.jpg"
+        },
         {
           "title": "Build a 1 Person Media Machine With Grok Bot",
           "guest": null,
@@ -802,16 +812,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=G3i2k6DdI0o",
           "artworkUrl": "https://i.ytimg.com/vi/G3i2k6DdI0o/hqdefault.jpg"
-        },
-        {
-          "title": "AI Agents are too good at marketing now",
-          "guest": null,
-          "date": "2026-11-09T18:15:17+00:00",
-          "description": "I sit down with Cody Schneider, to break down how to become a top 0.1% marketer with GrokBot, Claude Code, and the tools around them. Cody shows the environment an agent needs to do marketing work: data in a warehouse, write access to ad platforms, and API tools for images, video, and leads. We build static ads live for Idea Browser, Late Checkout, Cursor, and more, then make a UGC avatar video ad with motion graphics for about $5. I add two pieces of my own: a swipe warehouse of creative references and a creative director agent that scores every ad. If you build products and hear crickets, this episode gives you workflows you can set up today.\nTimestamps\n00:00 – Intro\n04:29 – Agents are now Marketers\n09:56 – Data Pipelines & Warehouses\n13:56 – Getting your agent access to data\n16:15 – The tools for your agent\n18:08 – Agents become.1% marketers\n20:43 – Swipe Warehouse and Context\n22:35 – Creating Static Ads\n29:08 – Static Ads Results\n30:03 – Creating UGC Avatar Ads\n36:28 – Running the Workflow\n37:58 – UGC Ad Results\n39:51 – Human Creators Through Tribe and Sideshift\n41:42 – Reviewing the Static Ads\n43:29 – The role of Creative Director\n50:49 – Closing Thoughts\nLinks Mentioned:\nCody's Marketing Skills:\nGuide for setting up Facebook Developer Token:\nKey Points\n• Agents do marketing's middle work once they have data, platform access, and tools.\n• A data pipeline into a warehouse gives agents full-funnel data and keeps them off rate-limited APIs.\n• Agents write to Facebook and Google Ads through their APIs and read data only from the warehouse.\n• One skill turns a brand URL into five researched, on-brand static ads.\n• A UGC avatar ad with motion graphics costs about $5, compared with $300 to $500 from humans.\n• Creative velocity wins, since Facebook's algorithm matches good creative to the right buyer.\nNumbered Section Summaries\n1. Agents are now Marketers\nCody says a static ad used to need a graphic designer and a copywriter, and a UGC video needed a creator, a video editor, and a motion graphics designer. Now GrokBot, Claude Code, or Dots handles that work with code and tokens, and Mirage Tesseract one-shot edits a 90-minute podcast, cutting silence and retakes and tracking the active speaker. I see the job of anyone building a business in 2027 as building the system around these agents, and Cody compares that role to a conductor, or a StarCraft player coordinating swarms.\n2. Giving Agents the Data\nCody warns that agents querying ad APIs directly flood their context, hallucinate, or build their own local database full of duplicates. He uses Airbyte as a data pipeline from Facebook Ads, Google Analytics, HubSpot, and the payment processor into a ClickHouse data warehouse, a Graft partner. With everything in one place, the agent queries as often as it likes and ties an ad all the way to revenue and customer lifetime value.\n3. Tools for Agents\nThe third piece is tools: Kai AI for images and video, FAL for transcription, OpenRouter for LLMs, and Git Leads or Apollo for email and person data. With these, Cody's Google Ads agent checks in real time whether each search term carries buyer intent for its landing page, auditing 5,000 terms in 20 seconds. Graft bundles the data, access, and tools, with a free start and multiplayer access for teams, and the open source route works too.\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:\nFIND CODY ON SOCIAL:\nCody’s startup:\nX/Twitter:\nYoutube:",
-          "descriptionCN": "I sit down with Cody Schneider, to break down how to become a top 0.1% marketer with GrokBot, Claude Code, and the tools around them. Cody shows the environment an agent needs to do marketing work: data in a warehouse, write access to ad platforms, and API tools for images, video, and leads. We build static ads live for Idea Browser, Late Checkout, Cursor, and more, then make a UGC avatar video ad with motion graphics for about $5. I add two pieces of my own: a swipe warehouse of creative references and a creative director agent that scores every ad. If you build products and hear crickets, this episode gives you workflows you can set up today.\nTimestamps\n00:00 – Intro\n04:29 – Agents are now Marketers\n09:56 – Data Pipelines & Warehouses\n13:56 – Getting your agent access to data\n16:15 – The tools for your agent\n18:08 – Agents become.1% marketers\n20:43 – Swipe Warehouse and Context\n22:35 – Creating Static Ads\n29:08 – Static Ads Results\n30:03 – Creating UGC Avatar Ads\n36:28 – Running the Workflow\n37:58 – UGC Ad Results\n39:51 – Human Creators Through Tribe and Sideshift\n41:42 – Reviewing the Static Ads\n43:29 – The role of Creative Director\n50:49 – Closing Thoughts\nLinks Mentioned:\nCody's Marketing Skills:\nGuide for setting up Facebook Developer Token:\nKey Points\n• Agents do marketing's middle work once they have data, platform access, and tools.\n• A data pipeline into a warehouse gives agents full-funnel data and keeps them off rate-limited APIs.\n• Agents write to Facebook and Google Ads through their APIs and read data only from the warehouse.\n• One skill turns a brand URL into five researched, on-brand static ads.\n• A UGC avatar ad with motion graphics costs about $5, compared with $300 to $500 from humans.\n• Creative velocity wins, since Facebook's algorithm matches good creative to the right buyer.\nNumbered Section Summaries\n1. Agents are now Marketers\nCody says a static ad used to need a graphic designer and a copywriter, and a UGC video needed a creator, a video editor, and a motion graphics designer. Now GrokBot, Claude Code, or Dots handles that work with code and tokens, and Mirage Tesseract one-shot edits a 90-minute podcast, cutting silence and retakes and tracking the active speaker. I see the job of anyone building a business in 2027 as building the system around these agents, and Cody compares that role to a conductor, or a StarCraft player coordinating swarms.\n2. Giving Agents the Data\nCody warns that agents querying ad APIs directly flood their context, hallucinate, or build their own local database full of duplicates. He uses Airbyte as a data pipeline from Facebook Ads, Google Analytics, HubSpot, and the payment processor into a ClickHouse data warehouse, a Graft partner. With everything in one place, the agent queries as often as it likes and ties an ad all the way to revenue and customer lifetime value.\n3. Tools for Agents\nThe third piece is tools: Kai AI for images and video, FAL for transcription, OpenRouter for LLMs, and Git Leads or Apollo for email and person data. With these, Cody's Google Ads agent checks in real time whether each search term carries buyer intent for its landing page, auditing 5,000 terms in 20 seconds. Graft bundles the data, access, and tools, with a free start and multiplayer access for teams, and the open source route works too.\nThe #1 tool to find startup ideas/trends -\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products\nFIND ME ON SOCIAL\nX/Twitter:\nInstagram:\nLinkedIn:\nFIND CODY ON SOCIAL:\nCody’s startup:\nX/Twitter:\nYoutube:",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=uJuxenfe-NU",
-          "artworkUrl": "https://i.ytimg.com/vi/uJuxenfe-NU/hqdefault.jpg"
         }
       ]
     }
