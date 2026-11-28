@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-27T04:46:06.521Z",
+  "lastFetched": "2026-11-28T04:30:10.493Z",
   "podcasts": [
     {
       "id": "lenny",
@@ -162,6 +162,16 @@
       "color": "#0ea5e9",
       "episodes": [
         {
+          "title": "AI is Too Big to Fail",
+          "guest": null,
+          "date": "2026-11-27T18:18:21+00:00",
+          "description": "AI has become so central to national security and the economy that Washington may not be able to let the industry fail, even as Democrats push for a no bailout pledge. NLW breaks down the Schiff resolution, the Jensen Huang saga, and why any rescue of AI companies would look nothing like the 2008 bank bailouts. Also covered are the debt-funded data center build-out, concentrated AI revenue, and the moratoriums spreading across the country.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "descriptionCN": "AI has become so central to national security and the economy that Washington may not be able to let the industry fail, even as Democrats push for a no bailout pledge. NLW breaks down the Schiff resolution, the Jensen Huang saga, and why any rescue of AI companies would look nothing like the 2008 bank bailouts. Also covered are the debt-funded data center build-out, concentrated AI revenue, and the moratoriums spreading across the country.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=jEVuZeU9yoA",
+          "artworkUrl": "https://i.ytimg.com/vi/jEVuZeU9yoA/hqdefault.jpg"
+        },
+        {
           "title": "When AI Labs Rival Nations",
           "guest": null,
           "date": "2026-11-26T13:40:00+00:00",
@@ -210,16 +220,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=3TH7QVL59V4",
           "artworkUrl": "https://i.ytimg.com/vi/3TH7QVL59V4/hqdefault.jpg"
-        },
-        {
-          "title": "The 10 Biggest Days in AI History",
-          "guest": null,
-          "date": "2026-11-20T01:59:59+00:00",
-          "description": "Anthropic’s first day of trading makes a fitting moment to look back at the biggest days in AI history. NLW counts down ten dates, from the founding of OpenAI and the launch of ChatGPT to the DeepSeek sell-off, the agentic era, and the Anthropic IPO. Honorable mentions include Stable Diffusion, the first reasoning models, Project Stargate, and Jensen Huang’s resignation.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "descriptionCN": "Anthropic’s first day of trading makes a fitting moment to look back at the biggest days in AI history. NLW counts down ten dates, from the founding of OpenAI and the launch of ChatGPT to the DeepSeek sell-off, the agentic era, and the Anthropic IPO. Honorable mentions include Stable Diffusion, the first reasoning models, Project Stargate, and Jensen Huang’s resignation.\nThe AI Daily Brief helps you understand the most important news and discussions in AI.\nSubscribe to the podcast version of The AI Daily Brief wherever you listen:\nGet it ad free at\nLearn more about the show",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=xskAzAc_0ws",
-          "artworkUrl": "https://i.ytimg.com/vi/xskAzAc_0ws/hqdefault.jpg"
         }
       ]
     },
@@ -235,6 +235,16 @@
       "youtube": "https://www.youtube.com/@LatentSpacePod",
       "color": "#0891b2",
       "episodes": [
+        {
+          "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+          "guest": null,
+          "date": "2026-11-28T03:18:18+00:00",
+          "description": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger engagements, and when it makes sense to build a data operation in-house.\nWe also get into what the labs are buying. A good training task should sit just ahead of what a model can do today. Gabe explains how senior engineers design the task, choose the starting data, and build a verifier that can score the result.\n• How G2i went from $15M to a projected ~$100M without VC\n• From 6,000-engineer training-data projects to staff-level specialists\n• “If you make them too hard, they become evals”\n• Why a frontier lab can spend a few million dollars just to pilot a data vendor\n• What frontier labs mean when they ask for taste\n• Why picking a data vendor is like picking a barber\n• Why frontier labs sometimes buy the same datasets as their rivals\n• Why idle GPUs push labs to buy training data off the shelf\n• How average handling time (AHT) prices tasks that take a day or two weeks\n• Could a dying startup sell its data?\n• The next training-data markets in CAD, mechanical engineering, and chip design\nThanks to G2i for co-organizing AI Engineer CODE 2026 and sponsoring this episode. Join us April 26–27 at AI Engineer Miami 2027:\nShow notes\n• Listen to the episode:\n• G2i builds AI training data and reinforcement learning environments:\n• ORC, G2i’s multi-agent coding platform:\n• Recorded at AI Engineer CODE in San Francisco:\n• G2i SkillsBench task shown at 23:50:\n• ORC announcement footage:\n• AI Engineer Miami 2026 footage, Alvin Pane:\nChapters\n0:00 How hard should training tasks be?\n0:15 What G2i sells to frontier labs\n2:42 From human labels to expert engineering\n5:19 From recruiting engineers to building training data\n6:46 Tasks, seed data, and verifiers\n8:04 How G2i screens engineers for agentic work\n12:24 How frontier labs buy training data\n16:24 How big is the market?\n18:45 Shared data, exclusivity, and in-house teams\n22:16 How labs budget and price training data\n24:54 The market for raw company data\n27:44 Where demand goes next\n30:30 G2i and ORC",
+          "descriptionCN": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger engagements, and when it makes sense to build a data operation in-house.\nWe also get into what the labs are buying. A good training task should sit just ahead of what a model can do today. Gabe explains how senior engineers design the task, choose the starting data, and build a verifier that can score the result.\n• How G2i went from $15M to a projected ~$100M without VC\n• From 6,000-engineer training-data projects to staff-level specialists\n• “If you make them too hard, they become evals”\n• Why a frontier lab can spend a few million dollars just to pilot a data vendor\n• What frontier labs mean when they ask for taste\n• Why picking a data vendor is like picking a barber\n• Why frontier labs sometimes buy the same datasets as their rivals\n• Why idle GPUs push labs to buy training data off the shelf\n• How average handling time (AHT) prices tasks that take a day or two weeks\n• Could a dying startup sell its data?\n• The next training-data markets in CAD, mechanical engineering, and chip design\nThanks to G2i for co-organizing AI Engineer CODE 2026 and sponsoring this episode. Join us April 26–27 at AI Engineer Miami 2027:\nShow notes\n• Listen to the episode:\n• G2i builds AI training data and reinforcement learning environments:\n• ORC, G2i’s multi-agent coding platform:\n• Recorded at AI Engineer CODE in San Francisco:\n• G2i SkillsBench task shown at 23:50:\n• ORC announcement footage:\n• AI Engineer Miami 2026 footage, Alvin Pane:\nChapters\n0:00 How hard should training tasks be?\n0:15 What G2i sells to frontier labs\n2:42 From human labels to expert engineering\n5:19 From recruiting engineers to building training data\n6:46 Tasks, seed data, and verifiers\n8:04 How G2i screens engineers for agentic work\n12:24 How frontier labs buy training data\n16:24 How big is the market?\n18:45 Shared data, exclusivity, and in-house teams\n22:16 How labs budget and price training data\n24:54 The market for raw company data\n27:44 Where demand goes next\n30:30 G2i and ORC",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=lCtMq8jegvo",
+          "artworkUrl": "https://i.ytimg.com/vi/lCtMq8jegvo/hqdefault.jpg"
+        },
         {
           "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
           "guest": null,
@@ -284,16 +294,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=8cGfJOU3AlQ",
           "artworkUrl": "https://i.ytimg.com/vi/8cGfJOU3AlQ/hqdefault.jpg"
-        },
-        {
-          "title": "Designing for Agents — Zeno Rocha, Resend",
-          "guest": null,
-          "date": "2026-11-10T19:57:24+00:00",
-          "description": "A coding agent opens a pull request and picks an email provider for you. How did it choose? Resend co-founder and CEO Zeno Rocha explores answer engine optimization (AEO) through a concrete example: which email provider does Claude Code recommend, and how does that change across model versions? Then comes the agent experience itself. Once the agent picks Resend, can it find the price, set up the account and send its first email?\nWe also follow an email after the API call succeeds. Zeno explains what happens when Gmail throttles a burst, why a tracking pixel can give you the wrong idea about who opened a message, and how one abusive sender can put other customers’ mail at risk. Then we get into the product decisions: giving an agent 80+ named MCP tools, letting it read pricing in Markdown, and letting it register for a service on its own.\nExplore the references\n• Zeno’s analysis of what Claude Code recommends:\n• Resend’s $3M email safety pledge:\n• React Email, the open-source email components:\n• The proposed agent registration standard shown on screen:\nChapters\n00:00 Cold open\n00:59 From Dracula to email\n05:02 When agents pick the API\n06:54 Getting into the inbox\n13:28 What tracking measures\n17:05 Paying for trust\n19:43 The DNS hurdle\n23:54 React Email’s wedge\n27:00 Measuring adoption\n31:57 Owning the mail stack\n37:54 Designing the MCP\n46:28 CLI, SDKs and craft\n52:40 Mail for agents\n58:27 Writing for machines\n1:05:59 Winning recommendations\n1:12:13 Enterprise and pricing\n1:16:50 Building with a family\n1:23:25 Naming a category",
-          "descriptionCN": "A coding agent opens a pull request and picks an email provider for you. How did it choose? Resend co-founder and CEO Zeno Rocha explores answer engine optimization (AEO) through a concrete example: which email provider does Claude Code recommend, and how does that change across model versions? Then comes the agent experience itself. Once the agent picks Resend, can it find the price, set up the account and send its first email?\nWe also follow an email after the API call succeeds. Zeno explains what happens when Gmail throttles a burst, why a tracking pixel can give you the wrong idea about who opened a message, and how one abusive sender can put other customers’ mail at risk. Then we get into the product decisions: giving an agent 80+ named MCP tools, letting it read pricing in Markdown, and letting it register for a service on its own.\nExplore the references\n• Zeno’s analysis of what Claude Code recommends:\n• Resend’s $3M email safety pledge:\n• React Email, the open-source email components:\n• The proposed agent registration standard shown on screen:\nChapters\n00:00 Cold open\n00:59 From Dracula to email\n05:02 When agents pick the API\n06:54 Getting into the inbox\n13:28 What tracking measures\n17:05 Paying for trust\n19:43 The DNS hurdle\n23:54 React Email’s wedge\n27:00 Measuring adoption\n31:57 Owning the mail stack\n37:54 Designing the MCP\n46:28 CLI, SDKs and craft\n52:40 Mail for agents\n58:27 Writing for machines\n1:05:59 Winning recommendations\n1:12:13 Enterprise and pricing\n1:16:50 Building with a family\n1:23:25 Naming a category",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=bdIoODXsu8k",
-          "artworkUrl": "https://i.ytimg.com/vi/bdIoODXsu8k/hqdefault.jpg"
         }
       ]
     },
@@ -384,6 +384,26 @@
       "color": "#dc2626",
       "episodes": [
         {
+          "title": "The dark side of AI nobody talks about",
+          "guest": null,
+          "date": "2026-11-27T23:18:35+00:00",
+          "description": "The dark side of AI nobody talks about",
+          "descriptionCN": "The dark side of AI nobody talks about",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=8WP_oW4IrWU",
+          "artworkUrl": "https://i.ytimg.com/vi/8WP_oW4IrWU/hqdefault.jpg"
+        },
+        {
+          "title": "The dating profile mistake that kills attraction",
+          "guest": null,
+          "date": "2026-11-27T13:38:01+00:00",
+          "description": "The dating profile mistake that kills attraction",
+          "descriptionCN": "The dating profile mistake that kills attraction",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=9R9sveQyORg",
+          "artworkUrl": "https://i.ytimg.com/vi/9R9sveQyORg/hqdefault.jpg"
+        },
+        {
           "title": "How Elon Musk caught a company leaker",
           "guest": null,
           "date": "2026-11-26T18:58:42+00:00",
@@ -422,26 +442,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=IO7aBlyyVjg",
           "artworkUrl": "https://i.ytimg.com/vi/IO7aBlyyVjg/hqdefault.jpg"
-        },
-        {
-          "title": "The $40K/month business built for influencers",
-          "guest": null,
-          "date": "2026-11-23T15:28:44+00:00",
-          "description": "The $40K/month business built for influencers",
-          "descriptionCN": "The $40K/month business built for influencers",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=lnyMGkTyfZ8",
-          "artworkUrl": "https://i.ytimg.com/vi/lnyMGkTyfZ8/hqdefault.jpg"
-        },
-        {
-          "title": "ChatGPT is a goldmine. Here’s where the gold is",
-          "guest": null,
-          "date": "2026-11-23T14:00:38+00:00",
-          "description": "*50+ GPT app ideas:*\nEpisode 885: Shaan Puri (  ) and Sam Parr (  ) talk about businesses you can start with ChatGPT.\nShow Notes:\n0:00 - Points GPT\n2:20 - TaxGPT\n2:45 - PhotonGPT\n3:35 - FightitGPT\n9:25 - Idiot of the Week\n15:10 - /fast\n33:10 - How YC Picks Winners (More Than Anyone Else)\n43:55 - Savage Mode\n44:45 - The WFIO Moment\n45:25 - The Sales Pitch of New York Schools",
-          "descriptionCN": "*50+ GPT app ideas:*\nEpisode 885: Shaan Puri (  ) and Sam Parr (  ) talk about businesses you can start with ChatGPT.\nShow Notes:\n0:00 - Points GPT\n2:20 - TaxGPT\n2:45 - PhotonGPT\n3:35 - FightitGPT\n9:25 - Idiot of the Week\n15:10 - /fast\n33:10 - How YC Picks Winners (More Than Anyone Else)\n43:55 - Savage Mode\n44:45 - The WFIO Moment\n45:25 - The Sales Pitch of New York Schools",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=H15B1j0SAmI",
-          "artworkUrl": "https://i.ytimg.com/vi/H15B1j0SAmI/hqdefault.jpg"
         }
       ]
     },
@@ -457,6 +457,26 @@
       "youtube": "https://www.youtube.com/@DwarkeshPatel",
       "color": "#6366f1",
       "episodes": [
+        {
+          "title": "AI Just Did a Decade of Math in a Month - Paul Christiano",
+          "guest": null,
+          "date": "2026-11-27T22:53:12+00:00",
+          "description": "",
+          "descriptionCN": "",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=7YLqyt5lCXg",
+          "artworkUrl": "https://i.ytimg.com/vi/7YLqyt5lCXg/hqdefault.jpg"
+        },
+        {
+          "title": "An honest conversation about what's happening in AI",
+          "guest": null,
+          "date": "2026-11-27T18:33:23+00:00",
+          "description": "New podcast episode between Ege Erdil and Daniel Kokotajlo. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected.\nTheir main point of disagreement is how likely it is that we get some intelligence explosion that gives us AIs more competent than any human expert before 2029. Ege puts this possibility at around 20%, whereas Daniel thinks it's higher than 50%.\nThey agree that there is not a huge difference in probability, and that, in either case, the situation is crazy enough that our civilization really needs to grapple with how the world might be transformed, and we need a plan that actually makes sense.\nIn particular, we should stop antagonizing China if we think some kind of global treaty will be needed to make superintelligence go well.\nThere was another important crux about how well we should expect future AIs (that swamp humans in population size and cognitive power) to treat us, and how relevant it is that current AIs, by and large, seem to be pretty nice.\nWe close off with predictions for 2027. Daniel, of course, expects superintelligence next year. Ege’s median for full automation is 2040, but by next year he expects AIs that can beat any video game on Steam, and which can control robots to get simple physical tasks (like folding laundry) done at roughly human speed.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* WorkOS is building features to ensure that agents can use your product safely. For example, their Agent Auth feature dynamically permissions agent-users by considering the permissions of the associated human-user, as well as any general agent permission limits you've already set. This is just one of WorkOS's recent agent-focused features, all of which they've built atop infrastructure that's already trusted by thousands of companies, including OpenAI and Anthropic. Learn more at\n* Jane Street and NVIDIA are co-hosting an event at NeurIPS on the evening of December 9th. There will be food, drinks, music, games and a live demo from NVIDIA walking through how to build a full quantitative trading system with their Nemotron family of open-source models. And, in true Jane Street fashion, there'll be a puzzle: anyone who solves it will have a chance to win an NVIDIA-sponsored prize. Spots are limited, so if you'd like to attend, register your interest by December 4th at\n* Antithesis helps you discover the unintended consequences of a change before they reach production. Antithesis runs your code, including any proposed changes, inside a simulated computer where it wreaks havoc on your full system, stress-testing it with the sort of bad luck that typically only surfaces in production. That way, if something is going to break, it breaks in a simulation, not in the real world. Learn more at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n0:00:00 – Will we have superintelligence by 2029?\n0:04:31 – Why Ege thinks it’s too early to pause\n0:13:46 – The adversarial stance on China is dangerous\n0:19:30 – There is no plan, because people are in denial\n0:29:37 – Misalignment itself will slow down RSI\n0:40:52 – Will superintelligence be like descendants or invaders?\n0:48:47 – Will AIs care about humans by default?\n0:52:39 – Will AIs become less nice as they get more powerful?\n1:01:08 – People are in denial about how good AI already is\n1:09:01 – Predictions for 2027\n1:23:38 – Is AI research actually verifiable?",
+          "descriptionCN": "New podcast episode between Ege Erdil and Daniel Kokotajlo. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected.\nTheir main point of disagreement is how likely it is that we get some intelligence explosion that gives us AIs more competent than any human expert before 2029. Ege puts this possibility at around 20%, whereas Daniel thinks it's higher than 50%.\nThey agree that there is not a huge difference in probability, and that, in either case, the situation is crazy enough that our civilization really needs to grapple with how the world might be transformed, and we need a plan that actually makes sense.\nIn particular, we should stop antagonizing China if we think some kind of global treaty will be needed to make superintelligence go well.\nThere was another important crux about how well we should expect future AIs (that swamp humans in population size and cognitive power) to treat us, and how relevant it is that current AIs, by and large, seem to be pretty nice.\nWe close off with predictions for 2027. Daniel, of course, expects superintelligence next year. Ege’s median for full automation is 2040, but by next year he expects AIs that can beat any video game on Steam, and which can control robots to get simple physical tasks (like folding laundry) done at roughly human speed.\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript:\n* Apple Podcasts:\n* Spotify:\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* WorkOS is building features to ensure that agents can use your product safely. For example, their Agent Auth feature dynamically permissions agent-users by considering the permissions of the associated human-user, as well as any general agent permission limits you've already set. This is just one of WorkOS's recent agent-focused features, all of which they've built atop infrastructure that's already trusted by thousands of companies, including OpenAI and Anthropic. Learn more at\n* Jane Street and NVIDIA are co-hosting an event at NeurIPS on the evening of December 9th. There will be food, drinks, music, games and a live demo from NVIDIA walking through how to build a full quantitative trading system with their Nemotron family of open-source models. And, in true Jane Street fashion, there'll be a puzzle: anyone who solves it will have a chance to win an NVIDIA-sponsored prize. Spots are limited, so if you'd like to attend, register your interest by December 4th at\n* Antithesis helps you discover the unintended consequences of a change before they reach production. Antithesis runs your code, including any proposed changes, inside a simulated computer where it wreaks havoc on your full system, stress-testing it with the sort of bad luck that typically only surfaces in production. That way, if something is going to break, it breaks in a simulation, not in the real world. Learn more at\nTo sponsor a future episode, visit\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n0:00:00 – Will we have superintelligence by 2029?\n0:04:31 – Why Ege thinks it’s too early to pause\n0:13:46 – The adversarial stance on China is dangerous\n0:19:30 – There is no plan, because people are in denial\n0:29:37 – Misalignment itself will slow down RSI\n0:40:52 – Will superintelligence be like descendants or invaders?\n0:48:47 – Will AIs care about humans by default?\n0:52:39 – Will AIs become less nice as they get more powerful?\n1:01:08 – People are in denial about how good AI already is\n1:09:01 – Predictions for 2027\n1:23:38 – Is AI research actually verifiable?",
+          "duration": null,
+          "url": "https://www.youtube.com/watch?v=TbKkN1cesTo",
+          "artworkUrl": "https://i.ytimg.com/vi/TbKkN1cesTo/hqdefault.jpg"
+        },
         {
           "title": "Could AI solve the Riemann hypothesis this way? - Grant Sanderson",
           "guest": null,
@@ -496,26 +516,6 @@
           "duration": null,
           "url": "https://www.youtube.com/watch?v=Em6tbhj9o6A",
           "artworkUrl": "https://i.ytimg.com/vi/Em6tbhj9o6A/hqdefault.jpg"
-        },
-        {
-          "title": "When 6 Years of AI Progress Happens in 6 Months  - Paul Christiano",
-          "guest": null,
-          "date": "2026-11-24T21:06:48+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=K42jlW-THdo",
-          "artworkUrl": "https://i.ytimg.com/vi/K42jlW-THdo/hqdefault.jpg"
-        },
-        {
-          "title": "What if GPT-10 did the Hugging Face hack? - Paul Christiano",
-          "guest": null,
-          "date": "2026-11-23T19:37:54+00:00",
-          "description": "",
-          "descriptionCN": "",
-          "duration": null,
-          "url": "https://www.youtube.com/watch?v=QAE9nRTHtas",
-          "artworkUrl": "https://i.ytimg.com/vi/QAE9nRTHtas/hqdefault.jpg"
         }
       ]
     },
